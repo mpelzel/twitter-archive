@@ -1,6 +1,1242 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Thu Oct 20 20:08:00 +0000 2016",
+		"id": 789196488840577000,
+		"id_str": "789196488840577024",
+		"text": "RT @lisaspiro: Job opportunity @RiceUniversity: Digital Education Project Manager  https://t.co/wqd5cAlLjh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lisaspiro",
+					"name": "Lisa Spiro",
+					"id": 14570718,
+					"id_str": "14570718",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "RiceUniversity",
+					"name": "Rice University",
+					"id": 19720630,
+					"id_str": "19720630",
+					"indices": [
+						31,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wqd5cAlLjh",
+					"expanded_url": "https://jobs.rice.edu/postings/8881",
+					"display_url": "jobs.rice.edu/postings/8881",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Morris Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | racquetball | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 708,
+			"listed_count": 18,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2378,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1629,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 20 17:40:16 +0000 2016",
+			"id": 789159310240526300,
+			"id_str": "789159310240526337",
+			"text": "Job opportunity @RiceUniversity: Digital Education Project Manager  https://t.co/wqd5cAlLjh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RiceUniversity",
+						"name": "Rice University",
+						"id": 19720630,
+						"id_str": "19720630",
+						"indices": [
+							16,
+							31
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/wqd5cAlLjh",
+						"expanded_url": "https://jobs.rice.edu/postings/8881",
+						"display_url": "jobs.rice.edu/postings/8881",
+						"indices": [
+							68,
+							91
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14570718,
+				"id_str": "14570718",
+				"name": "Lisa Spiro",
+				"screen_name": "lisaspiro",
+				"location": "Houston, Texas",
+				"description": "Author of Digital Scholarship in the Humanities blog, founding editor of DiRT wiki, researcher on tech & higher ed",
+				"url": "http://t.co/SynpyJ7MUh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/SynpyJ7MUh",
+								"expanded_url": "http://digitalscholarship.wordpress.com",
+								"display_url": "digitalscholarship.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3730,
+				"friends_count": 943,
+				"listed_count": 286,
+				"created_at": "Mon Apr 28 15:35:28 +0000 2008",
+				"favourites_count": 231,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1550,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/54477104/LisaPhoto_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/54477104/LisaPhoto_normal.jpeg",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 20 19:45:28 +0000 2016",
+		"id": 789190820507246600,
+		"id_str": "789190820507246592",
+		"text": "Had to switch from half-marathon to 5K b/c injuries, but...still psyched for WurstFest run this Sat in Muenster, TX… https://t.co/5oiIMBOjSB",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5oiIMBOjSB",
+					"expanded_url": "https://twitter.com/i/web/status/789190820507246592",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Morris Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | racquetball | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 708,
+			"listed_count": 18,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2378,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1629,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 20 17:35:49 +0000 2016",
+		"id": 789158193310031900,
+		"id_str": "789158193310031873",
+		"text": "RT @DigiFront: Dr. Stommel's talk and workshop at @UNT_Libraries are canceled and will be rescheduled. Stay tuned for details. https://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DigiFront",
+					"name": "Digital Frontiers",
+					"id": 467714091,
+					"id_str": "467714091",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "UNT_Libraries",
+					"name": "UNT Libraries",
+					"id": 2414973943,
+					"id_str": "2414973943",
+					"indices": [
+						50,
+						64
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Morris Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | racquetball | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 708,
+			"listed_count": 18,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2378,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1629,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 20 17:29:01 +0000 2016",
+			"id": 789156482805706800,
+			"id_str": "789156482805706752",
+			"text": "Dr. Stommel's talk and workshop at @UNT_Libraries are canceled and will be rescheduled. Stay tuned for details. https://t.co/cLoLqPkG4i",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UNT_Libraries",
+						"name": "UNT Libraries",
+						"id": 2414973943,
+						"id_str": "2414973943",
+						"indices": [
+							35,
+							49
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/cLoLqPkG4i",
+						"expanded_url": "https://www.library.unt.edu/events/public-services/critical-digital-pedagogy-jesse-stommel",
+						"display_url": "library.unt.edu/events/public-…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 467714091,
+				"id_str": "467714091",
+				"name": "Digital Frontiers",
+				"screen_name": "DigiFront",
+				"location": "University of North Texas",
+				"description": "A conference bringing together the makers & users of digital resources for the humanities | #DF17UNT 9/21-23/17 | CFP 1/17 | a project of the @UNT_Libraries",
+				"url": "http://t.co/nYya4eFUyh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/nYya4eFUyh",
+								"expanded_url": "http://digital-frontiers.org/",
+								"display_url": "digital-frontiers.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 384,
+				"friends_count": 300,
+				"listed_count": 28,
+				"created_at": "Wed Jan 18 19:29:07 +0000 2012",
+				"favourites_count": 472,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 744,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/623604701703962624/powB3RfW_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/623604701703962624/powB3RfW_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/467714091/1474829436",
+				"profile_link_color": "139992",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 20 16:21:17 +0000 2016",
+		"id": 789139433987592200,
+		"id_str": "789139433987592192",
+		"text": "How about some crossword puzzles...or math/logic puzzles??? https://t.co/PaLrrpYUyk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PaLrrpYUyk",
+					"expanded_url": "https://twitter.com/ac_lib/status/789138962732290048",
+					"display_url": "twitter.com/ac_lib/status/…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Morris Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | racquetball | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 708,
+			"listed_count": 18,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2378,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1629,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 789138962732290000,
+		"quoted_status_id_str": "789138962732290048",
+		"quoted_status": {
+			"created_at": "Thu Oct 20 16:19:24 +0000 2016",
+			"id": 789138962732290000,
+			"id_str": "789138962732290048",
+			"text": "Like puzzles? Take a break from your studies in the library &amp; contribute to our community puzzle like Khanh &amp; many… https://t.co/JkrG0wsCOE",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JkrG0wsCOE",
+						"expanded_url": "https://twitter.com/i/web/status/789138962732290048",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							124,
+							147
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 775403287214383100,
+				"id_str": "775403287214383104",
+				"name": "Abell Library",
+				"screen_name": "ac_lib",
+				"location": "Sherman, TX",
+				"description": "Abell Library is the one-stop information shop for @AustinCollege! Tweet at us to request research assistance, library instruction, & more! #AC_library",
+				"url": "https://t.co/cqUhoE1J5E",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cqUhoE1J5E",
+								"expanded_url": "http://aclibrary.austincollege.edu",
+								"display_url": "aclibrary.austincollege.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18,
+				"friends_count": 31,
+				"listed_count": 1,
+				"created_at": "Mon Sep 12 18:38:44 +0000 2016",
+				"favourites_count": 4,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/776211447562940416/zcAPVY2H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/776211447562940416/zcAPVY2H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/775403287214383104/1476374529",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07d9cc6d0d484001",
+				"url": "https://api.twitter.com/1.1/geo/id/07d9cc6d0d484001.json",
+				"place_type": "poi",
+				"name": "Abell Library at Austin College",
+				"full_name": "Abell Library at Austin College",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-96.59797847260052,
+								33.648073473250996
+							],
+							[
+								-96.59797847260052,
+								33.648073473250996
+							],
+							[
+								-96.59797847260052,
+								33.648073473250996
+							],
+							[
+								-96.59797847260052,
+								33.648073473250996
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 20 14:18:49 +0000 2016",
+		"id": 789108613432221700,
+		"id_str": "789108613432221696",
+		"text": "Check out the new Spanish House blog/website @AustinCollege... ¡qué quilombo! https://t.co/hq1Ph8AN1m https://t.co/MS7Q4k1uW2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AustinCollege",
+					"name": "Austin College",
+					"id": 15565128,
+					"id_str": "15565128",
+					"indices": [
+						45,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hq1Ph8AN1m",
+					"expanded_url": "http://bit.ly/2eoZngM",
+					"display_url": "bit.ly/2eoZngM",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 789108582402826200,
+					"id_str": "789108582402826240",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/CvN6EydVIAAvLAY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvN6EydVIAAvLAY.jpg",
+					"url": "https://t.co/MS7Q4k1uW2",
+					"display_url": "pic.twitter.com/MS7Q4k1uW2",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/789108613432221696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 556,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 185,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 326,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 789108582402826200,
+					"id_str": "789108582402826240",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/CvN6EydVIAAvLAY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvN6EydVIAAvLAY.jpg",
+					"url": "https://t.co/MS7Q4k1uW2",
+					"display_url": "pic.twitter.com/MS7Q4k1uW2",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/789108613432221696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 556,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 185,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 326,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Morris Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | racquetball | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 708,
+			"listed_count": 18,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2378,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1629,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr"
+	},
+	{
+		"created_at": "Thu Oct 20 00:26:10 +0000 2016",
+		"id": 788899070722973700,
+		"id_str": "788899070722973696",
+		"text": "Looking forward to trying out Peasy as a web-based remix platform... #digped https://t.co/SKCKknpmSm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digped",
+					"indices": [
+						69,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SKCKknpmSm",
+					"expanded_url": "https://twitter.com/krisshaffer/status/788424655736479744",
+					"display_url": "twitter.com/krisshaffer/st…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Morris Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | racquetball | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 708,
+			"listed_count": 18,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2378,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1629,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 788424655736479700,
+		"quoted_status_id_str": "788424655736479744",
+		"quoted_status": {
+			"created_at": "Tue Oct 18 17:01:00 +0000 2016",
+			"id": 788424655736479700,
+			"id_str": "788424655736479744",
+			"text": "\"Even with the rights to remix, it’s not always easy to remix.\" https://t.co/VR2ELUv21Z @umwdtlt #DoOO #OER #opensource #openaccess",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DoOO",
+						"indices": [
+							97,
+							102
+						]
+					},
+					{
+						"text": "OER",
+						"indices": [
+							103,
+							107
+						]
+					},
+					{
+						"text": "opensource",
+						"indices": [
+							108,
+							119
+						]
+					},
+					{
+						"text": "openaccess",
+						"indices": [
+							120,
+							131
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "umwdtlt",
+						"name": "UMW DTLT",
+						"id": 4218519915,
+						"id_str": "4218519915",
+						"indices": [
+							88,
+							96
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/VR2ELUv21Z",
+						"expanded_url": "http://umwdtlt.com/peasy-is-now-in-public-beta/",
+						"display_url": "umwdtlt.com/peasy-is-now-i…",
+						"indices": [
+							64,
+							87
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 136476512,
+				"id_str": "136476512",
+				"name": "Kris Shaffer",
+				"screen_name": "krisshaffer",
+				"location": "Fredericksburg, Virginia",
+				"description": "Python, JavaScript, R, Music, Data Science, Indie Ed Tech, Critical Pedagogy. University of Mary Washington. @umwdtlt @hybridped",
+				"url": "https://t.co/VVI2mPWMTi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VVI2mPWMTi",
+								"expanded_url": "http://pushpullfork.com",
+								"display_url": "pushpullfork.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1635,
+				"friends_count": 921,
+				"listed_count": 169,
+				"created_at": "Sat Apr 24 02:01:09 +0000 2010",
+				"favourites_count": 26615,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 47820,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/569322102482677760/mbN816lJ.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/569322102482677760/mbN816lJ.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/749369586450071552/8UlZXZYD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/749369586450071552/8UlZXZYD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/136476512/1458402961",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 19 01:50:39 +0000 2016",
 		"id": 788557946003140600,
 		"id_str": "788557946003140608",
