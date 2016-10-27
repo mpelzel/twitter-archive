@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Wed Oct 26 18:07:56 +0000 2016",
+		"id": 791340602105274400,
+		"id_str": "791340602105274368",
+		"text": "\"Perspectives on Play in 2016\" Cool! @bboessen https://t.co/7iF23lysi4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bboessen",
+					"name": "Brett Boessen",
+					"id": 6935872,
+					"id_str": "6935872",
+					"indices": [
+						37,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7iF23lysi4",
+					"expanded_url": "https://twitter.com/NYTimesWordplay/status/791324284195135488",
+					"display_url": "twitter.com/NYTimesWordpla…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Morris Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | racquetball | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 309,
+			"friends_count": 711,
+			"listed_count": 19,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2393,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1651,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 791324284195135500,
+		"quoted_status_id_str": "791324284195135488",
+		"quoted_status": {
+			"created_at": "Wed Oct 26 17:03:06 +0000 2016",
+			"id": 791324284195135500,
+			"id_str": "791324284195135488",
+			"text": "Great piece by @raymondpsimon in Dec. Games incl our friends @howardb42, @stellaphone, @melvillmatic &amp; @evanbirnholz https://t.co/HM7d4m5UFM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "raymondpsimon",
+						"name": "R Simon",
+						"id": 777530836925222900,
+						"id_str": "777530836925222913",
+						"indices": [
+							15,
+							29
+						]
+					},
+					{
+						"screen_name": "howardb42",
+						"name": "howardb",
+						"id": 31571291,
+						"id_str": "31571291",
+						"indices": [
+							61,
+							71
+						]
+					},
+					{
+						"screen_name": "stellaphone",
+						"name": "Stella Zawistowski",
+						"id": 102113798,
+						"id_str": "102113798",
+						"indices": [
+							73,
+							85
+						]
+					},
+					{
+						"screen_name": "melvillmatic",
+						"name": "k austin collins",
+						"id": 353054875,
+						"id_str": "353054875",
+						"indices": [
+							87,
+							100
+						]
+					},
+					{
+						"screen_name": "evanbirnholz",
+						"name": "Evan Birnholz",
+						"id": 2657407832,
+						"id_str": "2657407832",
+						"indices": [
+							107,
+							120
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/HM7d4m5UFM",
+						"expanded_url": "http://bit.ly/2dX46qJ",
+						"display_url": "bit.ly/2dX46qJ",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 273668513,
+				"id_str": "273668513",
+				"name": "NYTimesWordplay",
+				"screen_name": "NYTimesWordplay",
+				"location": "",
+				"description": "The crossword discussion column of the @nytimes. Helping people become better puzzle solvers.",
+				"url": "https://t.co/gWbBxy4v8I",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gWbBxy4v8I",
+								"expanded_url": "http://www.nytimes.com/column/wordplay",
+								"display_url": "nytimes.com/column/wordplay",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11295,
+				"friends_count": 517,
+				"listed_count": 126,
+				"created_at": "Mon Mar 28 23:09:12 +0000 2011",
+				"favourites_count": 2816,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4909,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/692760355/8e37c78384ff903e6151c7e85a374453.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/692760355/8e37c78384ff903e6151c7e85a374453.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2760320425/3a02804219b7d9dd26c1c04d71c38d0c_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2760320425/3a02804219b7d9dd26c1c04d71c38d0c_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/273668513/1470945978",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 26 17:56:39 +0000 2016",
+		"id": 791337761290620900,
+		"id_str": "791337761290620928",
+		"text": "@MarissaDubs Yes, we could use your vote here...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarissaDubs",
+					"name": "Marissa Wilkinson",
+					"id": 348969934,
+					"id_str": "348969934",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 791335373054050300,
+		"in_reply_to_status_id_str": "791335373054050304",
+		"in_reply_to_user_id": 348969934,
+		"in_reply_to_user_id_str": "348969934",
+		"in_reply_to_screen_name": "MarissaDubs",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Morris Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | racquetball | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 309,
+			"friends_count": 711,
+			"listed_count": 19,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2393,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1651,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 25 23:10:25 +0000 2016",
 		"id": 791054337598300200,
 		"id_str": "791054337598300160",
