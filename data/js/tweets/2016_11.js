@@ -1,6 +1,1212 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Fri Nov 11 21:31:26 +0000 2016",
+		"id": 797190018255228900,
+		"id_str": "797190018255228928",
+		"text": "RT @chiderasiegbu: Black students throughout @Penn's campus, like myself, have been added to this hateful GroupMe. I am petrified and all I…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chiderasiegbu",
+					"name": "Chidera",
+					"id": 774673116,
+					"id_str": "774673116",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "Penn",
+					"name": "Penn",
+					"id": 24894213,
+					"id_str": "24894213",
+					"indices": [
+						45,
+						50
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 333,
+			"friends_count": 734,
+			"listed_count": 21,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2468,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1790,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 11 19:30:15 +0000 2016",
+			"id": 797159523911868400,
+			"id_str": "797159523911868417",
+			"text": "Black students throughout @Penn's campus, like myself, have been added to this hateful GroupMe. I am petrified and… https://t.co/02u5mKhxrb",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Penn",
+						"name": "Penn",
+						"id": 24894213,
+						"id_str": "24894213",
+						"indices": [
+							26,
+							31
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/02u5mKhxrb",
+						"expanded_url": "https://twitter.com/i/web/status/797159523911868417",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 774673116,
+				"id_str": "774673116",
+				"name": "Chidera",
+				"screen_name": "chiderasiegbu",
+				"location": "",
+				"description": "University of Pennsylvania '20 ✨ #BLM",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 456,
+				"friends_count": 309,
+				"listed_count": 3,
+				"created_at": "Wed Aug 22 23:06:48 +0000 2012",
+				"favourites_count": 8551,
+				"utc_offset": -14400,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6259,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000160903543/FAgRGPXI.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000160903543/FAgRGPXI.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793833685258821632/cWMCnqyg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793833685258821632/cWMCnqyg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/774673116/1478612362",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4483,
+			"favorite_count": 2605,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4483,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 11 21:29:12 +0000 2016",
+		"id": 797189457866870800,
+		"id_str": "797189457866870785",
+		"text": "RT @cwellmon: Not buying \"Chill, Trump hasn't done anything yet.\" He has. Words matter. As student of German history, I believe that. Call…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cwellmon",
+					"name": "chad wellmon",
+					"id": 49507898,
+					"id_str": "49507898",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 333,
+			"friends_count": 734,
+			"listed_count": 21,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2468,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1790,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 11 21:26:02 +0000 2016",
+			"id": 797188659053215700,
+			"id_str": "797188659053215748",
+			"text": "Not buying \"Chill, Trump hasn't done anything yet.\" He has. Words matter. As student of German history, I believe t… https://t.co/Cg363Z6Nb1",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Cg363Z6Nb1",
+						"expanded_url": "https://twitter.com/i/web/status/797188659053215748",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 49507898,
+				"id_str": "49507898",
+				"name": "chad wellmon",
+				"screen_name": "cwellmon",
+				"location": "",
+				"description": "teaches and writes on German literature and philosophy and the history of technology and education at the University of Virginia",
+				"url": "http://t.co/wIdIGWcUBF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/wIdIGWcUBF",
+								"expanded_url": "http://chadwellmon.com",
+								"display_url": "chadwellmon.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 523,
+				"friends_count": 218,
+				"listed_count": 26,
+				"created_at": "Mon Jun 22 02:27:26 +0000 2009",
+				"favourites_count": 485,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2514,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/663889082972434432/XcRr-muI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/663889082972434432/XcRr-muI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/49507898/1447119604",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 11 21:07:53 +0000 2016",
+		"id": 797184094262194200,
+		"id_str": "797184094262194177",
+		"text": "And not data analytics... https://t.co/OCgrHX01e2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OCgrHX01e2",
+					"expanded_url": "https://twitter.com/waltmossberg/status/797167691039735808",
+					"display_url": "twitter.com/waltmossberg/s…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 333,
+			"friends_count": 734,
+			"listed_count": 21,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2468,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1790,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 797167691039735800,
+		"quoted_status_id_str": "797167691039735808",
+		"quoted_status": {
+			"created_at": "Fri Nov 11 20:02:42 +0000 2016",
+			"id": 797167691039735800,
+			"id_str": "797167691039735808",
+			"text": "Really fine analysis: “Storytelling Won The Election” by @_jesse_andrews_ https://t.co/OrOigBSKF7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "_jesse_andrews_",
+						"name": "jesse andrews",
+						"id": 15650039,
+						"id_str": "15650039",
+						"indices": [
+							57,
+							73
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/OrOigBSKF7",
+						"expanded_url": "https://theawl.com/storytelling-won-the-election-eff663ca19c2#.iwlszpp2g",
+						"display_url": "theawl.com/storytelling-w…",
+						"indices": [
+							74,
+							97
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5746452,
+				"id_str": "5746452",
+				"name": "Walt Mossberg",
+				"screen_name": "waltmossberg",
+				"location": "Washington, DC",
+				"description": "Executive Editor and columnist, The Verge | Editor at Large and columnist for Recode | Co-host of the Ctrl-Walt-Delete podcast | Co-producer, Code Conferences.",
+				"url": "https://t.co/AH9VhHKkew",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AH9VhHKkew",
+								"expanded_url": "http://www.theverge.com/label/walt-mossberg-verge",
+								"display_url": "theverge.com/label/walt-mos…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 851483,
+				"friends_count": 799,
+				"listed_count": 18892,
+				"created_at": "Thu May 03 17:30:11 +0000 2007",
+				"favourites_count": 6597,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13774,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3480526/alrace2_bg.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3480526/alrace2_bg.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/463735129698205696/lgV8ScFe_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/463735129698205696/lgV8ScFe_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5746452/1362583071",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 11 17:52:42 +0000 2016",
+		"id": 797134972532428800,
+		"id_str": "797134972532428800",
+		"text": "!! https://t.co/1pfXEyMjw2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1pfXEyMjw2",
+					"expanded_url": "https://twitter.com/TheFix/status/797130847547756544",
+					"display_url": "twitter.com/TheFix/status/…",
+					"indices": [
+						3,
+						26
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 333,
+			"friends_count": 734,
+			"listed_count": 21,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2468,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1790,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 797130847547756500,
+		"quoted_status_id_str": "797130847547756544",
+		"quoted_status": {
+			"created_at": "Fri Nov 11 17:36:18 +0000 2016",
+			"id": 797130847547756500,
+			"id_str": "797130847547756544",
+			"text": "'Prediction professor' who called Trump's big win also made another forecast: Trump will be impeached https://t.co/FhIJjJM1XX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FhIJjJM1XX",
+						"expanded_url": "http://wpo.st/B3jD2",
+						"display_url": "wpo.st/B3jD2",
+						"indices": [
+							102,
+							125
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14412533,
+				"id_str": "14412533",
+				"name": "Chris Cillizza",
+				"screen_name": "TheFix",
+				"location": "Washington, D.C.",
+				"description": "One of the dumber and least respected of the political pundits. -- Donald Trump",
+				"url": "https://t.co/BmDoqmnjst",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BmDoqmnjst",
+								"expanded_url": "https://www.washingtonpost.com/news/the-fix/",
+								"display_url": "washingtonpost.com/news/the-fix/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 375395,
+				"friends_count": 2538,
+				"listed_count": 8800,
+				"created_at": "Wed Apr 16 20:34:24 +0000 2008",
+				"favourites_count": 137,
+				"utc_offset": -39600,
+				"time_zone": "International Date Line West",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 94957,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/330573316/BLACK.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/330573316/BLACK.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/773232960166367232/NIAiYAg7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/773232960166367232/NIAiYAg7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14412533/1467141774",
+				"profile_link_color": "A81B1B",
+				"profile_sidebar_border_color": "5E8B9C",
+				"profile_sidebar_fill_color": "8EA5BF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 131,
+			"favorite_count": 183,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Fri Nov 11 04:07:49 +0000 2016",
+		"id": 796927383706239000,
+		"id_str": "796927383706238976",
+		"text": "A quick diversion: this week's @thenation #cryptic crossword by @JoshuaKosman and @hpicciotto… https://t.co/HTJYfXvIXk",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cryptic",
+					"indices": [
+						42,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thenation",
+					"name": "The Nation",
+					"id": 1947301,
+					"id_str": "1947301",
+					"indices": [
+						31,
+						41
+					]
+				},
+				{
+					"screen_name": "JoshuaKosman",
+					"name": "Joshua Kosman",
+					"id": 2147884818,
+					"id_str": "2147884818",
+					"indices": [
+						64,
+						77
+					]
+				},
+				{
+					"screen_name": "hpicciotto",
+					"name": "Henri Picciotto",
+					"id": 3178391529,
+					"id_str": "3178391529",
+					"indices": [
+						82,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HTJYfXvIXk",
+					"expanded_url": "https://twitter.com/i/web/status/796927383706238976",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 333,
+			"friends_count": 734,
+			"listed_count": 21,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2468,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1790,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 11 00:43:55 +0000 2016",
+		"id": 796876072751075300,
+		"id_str": "796876072751075328",
+		"text": "Do what @tressiemcphd tells you... https://t.co/tE1Kl9rT8h",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tressiemcphd",
+					"name": "Tressie Mc",
+					"id": 148593548,
+					"id_str": "148593548",
+					"indices": [
+						8,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tE1Kl9rT8h",
+					"expanded_url": "https://twitter.com/tressiemcphd/status/796854092064759808",
+					"display_url": "twitter.com/tressiemcphd/s…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 333,
+			"friends_count": 734,
+			"listed_count": 21,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2468,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1790,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 796854092064759800,
+		"quoted_status_id_str": "796854092064759808",
+		"quoted_status": {
+			"created_at": "Thu Nov 10 23:16:35 +0000 2016",
+			"id": 796854092064759800,
+			"id_str": "796854092064759808",
+			"text": "If you don't read all of this thread I will retweet every tweet to make you do it. Dooooo it #highered https://t.co/MHdm9crKn0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "highered",
+						"indices": [
+							93,
+							102
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MHdm9crKn0",
+						"expanded_url": "https://twitter.com/FuckTheory/status/796702038176464896",
+						"display_url": "twitter.com/FuckTheory/sta…",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 148593548,
+				"id_str": "148593548",
+				"name": "Tressie Mc",
+				"screen_name": "tressiemcphd",
+				"location": "RVA ",
+				"description": "sociologist. professor. author. #LowerEd #DigitalSociology @berkmancenter @vcu I don't check DMs but I have this: https://t.co/Mmp8sXkzFO",
+				"url": "https://t.co/EHdiWOoZXn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EHdiWOoZXn",
+								"expanded_url": "http://tressiemc.com/about/",
+								"display_url": "tressiemc.com/about/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Mmp8sXkzFO",
+								"expanded_url": "https://tinyletter.com/TressieMcPhd",
+								"display_url": "tinyletter.com/TressieMcPhd",
+								"indices": [
+									114,
+									137
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 26428,
+				"friends_count": 2576,
+				"listed_count": 1081,
+				"created_at": "Thu May 27 03:06:44 +0000 2010",
+				"favourites_count": 26428,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 177571,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF3300",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/121915417/tressietwitterbackground4.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/121915417/tressietwitterbackground4.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/608377192331005952/-4qqbOp2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/608377192331005952/-4qqbOp2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/148593548/1470711791",
+				"profile_link_color": "AB241D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F7900A",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 796702038176464900,
+			"quoted_status_id_str": "796702038176464896",
+			"retweet_count": 270,
+			"favorite_count": 322,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 10 22:47:41 +0000 2016",
 		"id": 796846820047589400,
 		"id_str": "796846820047589376",
