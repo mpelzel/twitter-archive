@@ -1,6 +1,751 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sun Nov 20 18:17:17 +0000 2016",
+		"id": 800402650122559500,
+		"id_str": "800402650122559488",
+		"text": "RT @azon1ps: Interesting read by Umberto Eco... https://t.co/SrMcH5obx6 https://t.co/ulRmCdRJPP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "azon1ps",
+					"name": "Spinoza",
+					"id": 3253121454,
+					"id_str": "3253121454",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SrMcH5obx6",
+					"expanded_url": "http://www.nybooks.com/articles/1995/06/22/ur-fascism/",
+					"display_url": "nybooks.com/articles/1995/…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 800399252975472600,
+					"id_str": "800399252975472640",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/CxuW4UAXUAAgmAs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxuW4UAXUAAgmAs.jpg",
+					"url": "https://t.co/ulRmCdRJPP",
+					"display_url": "pic.twitter.com/ulRmCdRJPP",
+					"expanded_url": "https://twitter.com/azon1ps/status/800399529933684736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 649,
+							"h": 412,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 649,
+							"h": 412,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 649,
+							"h": 412,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 800399529933684700,
+					"source_status_id_str": "800399529933684736",
+					"source_user_id": 3253121454,
+					"source_user_id_str": "3253121454"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 800399252975472600,
+					"id_str": "800399252975472640",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/CxuW4UAXUAAgmAs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxuW4UAXUAAgmAs.jpg",
+					"url": "https://t.co/ulRmCdRJPP",
+					"display_url": "pic.twitter.com/ulRmCdRJPP",
+					"expanded_url": "https://twitter.com/azon1ps/status/800399529933684736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 649,
+							"h": 412,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 649,
+							"h": 412,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 649,
+							"h": 412,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 800399529933684700,
+					"source_status_id_str": "800399529933684736",
+					"source_user_id": 3253121454,
+					"source_user_id_str": "3253121454"
+				},
+				{
+					"id": 800399429605949400,
+					"id_str": "800399429605949440",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/CxuXCmAWgAACgti.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxuXCmAWgAACgti.jpg",
+					"url": "https://t.co/ulRmCdRJPP",
+					"display_url": "pic.twitter.com/ulRmCdRJPP",
+					"expanded_url": "https://twitter.com/azon1ps/status/800399529933684736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 641,
+							"h": 324,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 641,
+							"h": 324,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 641,
+							"h": 324,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 800399529933684700,
+					"source_status_id_str": "800399529933684736",
+					"source_user_id": 3253121454,
+					"source_user_id_str": "3253121454"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 332,
+			"friends_count": 740,
+			"listed_count": 21,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2518,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1854,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 20 18:04:53 +0000 2016",
+			"id": 800399529933684700,
+			"id_str": "800399529933684736",
+			"text": "Interesting read by Umberto Eco... https://t.co/SrMcH5obx6 https://t.co/ulRmCdRJPP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SrMcH5obx6",
+						"expanded_url": "http://www.nybooks.com/articles/1995/06/22/ur-fascism/",
+						"display_url": "nybooks.com/articles/1995/…",
+						"indices": [
+							35,
+							58
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 800399252975472600,
+						"id_str": "800399252975472640",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/CxuW4UAXUAAgmAs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxuW4UAXUAAgmAs.jpg",
+						"url": "https://t.co/ulRmCdRJPP",
+						"display_url": "pic.twitter.com/ulRmCdRJPP",
+						"expanded_url": "https://twitter.com/azon1ps/status/800399529933684736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 649,
+								"h": 412,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 649,
+								"h": 412,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 649,
+								"h": 412,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 800399252975472600,
+						"id_str": "800399252975472640",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/CxuW4UAXUAAgmAs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxuW4UAXUAAgmAs.jpg",
+						"url": "https://t.co/ulRmCdRJPP",
+						"display_url": "pic.twitter.com/ulRmCdRJPP",
+						"expanded_url": "https://twitter.com/azon1ps/status/800399529933684736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 649,
+								"h": 412,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 649,
+								"h": 412,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 649,
+								"h": 412,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 800399429605949400,
+						"id_str": "800399429605949440",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/CxuXCmAWgAACgti.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxuXCmAWgAACgti.jpg",
+						"url": "https://t.co/ulRmCdRJPP",
+						"display_url": "pic.twitter.com/ulRmCdRJPP",
+						"expanded_url": "https://twitter.com/azon1ps/status/800399529933684736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 641,
+								"h": 324,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 641,
+								"h": 324,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 641,
+								"h": 324,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3253121454,
+				"id_str": "3253121454",
+				"name": "Spinoza",
+				"screen_name": "azon1ps",
+				"location": "Chicago, IL",
+				"description": "Politics, humor, tech, dogs.\n2016: We should have flying cars, instead we may have internment camps.\n\nComputer, end program.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 534,
+				"friends_count": 628,
+				"listed_count": 13,
+				"created_at": "Tue Jun 23 01:34:55 +0000 2015",
+				"favourites_count": 4093,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3766,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/787845747580411904/DmV8JsRp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/787845747580411904/DmV8JsRp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3253121454/1476671645",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 20 17:57:01 +0000 2016",
+		"id": 800397549010030600,
+		"id_str": "800397549010030592",
+		"text": "\"He didn’t get to live a full life, but he lived.” https://t.co/Vhj7HdQJuc",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vhj7HdQJuc",
+					"expanded_url": "https://twitter.com/walkertxkristen/status/800396445090254849",
+					"display_url": "twitter.com/walkertxkriste…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 332,
+			"friends_count": 740,
+			"listed_count": 21,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2518,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1854,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 800396445090254800,
+		"quoted_status_id_str": "800396445090254849",
+		"quoted_status": {
+			"created_at": "Sun Nov 20 17:52:37 +0000 2016",
+			"id": 800396445090254800,
+			"id_str": "800396445090254849",
+			"text": "Gold Star family of slain Stockton soldier booed on flight https://t.co/KIKWSpnSP6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KIKWSpnSP6",
+						"expanded_url": "http://recordnet.com/news/20161118/gold-star-family-of-slain-stockton-soldier-booed-on-flight",
+						"display_url": "recordnet.com/news/20161118/…",
+						"indices": [
+							59,
+							82
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 125335737,
+				"id_str": "125335737",
+				"name": "Kristen Hatten",
+				"screen_name": "walkertxkristen",
+				"location": "Texas, USA",
+				"description": "Writer, etc. | Against the assault of laughter, nothing can stand. - Mark Twain",
+				"url": "https://t.co/vxTkSPezgN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vxTkSPezgN",
+								"expanded_url": "http://www.facebook.com/newwavefeminists",
+								"display_url": "facebook.com/newwavefeminis…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1899,
+				"friends_count": 2092,
+				"listed_count": 58,
+				"created_at": "Mon Mar 22 13:45:58 +0000 2010",
+				"favourites_count": 339,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2100,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/800163119083483136/WbXfZBVm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/800163119083483136/WbXfZBVm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/125335737/1479608649",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 20 03:30:39 +0000 2016",
+		"id": 800179524851867600,
+		"id_str": "800179524851867649",
+		"text": "@GardnerCampbell Most welcome! (though honestly, the debt is mine) It's all bags of gold :)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GardnerCampbell",
+					"name": "Gardner Campbell",
+					"id": 782931,
+					"id_str": "782931",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 800156675587985400,
+		"in_reply_to_status_id_str": "800156675587985408",
+		"in_reply_to_user_id": 782931,
+		"in_reply_to_user_id_str": "782931",
+		"in_reply_to_screen_name": "GardnerCampbell",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 332,
+			"friends_count": 740,
+			"listed_count": 21,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2518,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1854,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 19 20:19:16 +0000 2016",
 		"id": 800070959889809400,
 		"id_str": "800070959889809409",
