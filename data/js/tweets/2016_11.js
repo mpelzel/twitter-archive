@@ -1,6 +1,446 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Mon Nov 28 21:35:18 +0000 2016",
+		"id": 803351586911191000,
+		"id_str": "803351586911191040",
+		"text": "This info could come in handy... https://t.co/bu4LUY8tOC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bu4LUY8tOC",
+					"expanded_url": "https://twitter.com/DFWAirport/status/803347849513725952",
+					"display_url": "twitter.com/DFWAirport/sta…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 328,
+			"friends_count": 742,
+			"listed_count": 21,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2534,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1878,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 803347849513726000,
+		"quoted_status_id_str": "803347849513725952",
+		"quoted_status": {
+			"created_at": "Mon Nov 28 21:20:27 +0000 2016",
+			"id": 803347849513726000,
+			"id_str": "803347849513725952",
+			"text": "@raulpacheco @kesearles Below is a list of our power charging station locations: \n\nA10, C6, C20, C27, C35, D21, D23, D30, D40, E10, E37",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "raulpacheco",
+						"name": "Dr Raul Pacheco-Vega",
+						"id": 15432179,
+						"id_str": "15432179",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "kesearles",
+						"name": "Kathleen Searles",
+						"id": 250841535,
+						"id_str": "250841535",
+						"indices": [
+							13,
+							23
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": 803345011215507500,
+			"in_reply_to_status_id_str": "803345011215507456",
+			"in_reply_to_user_id": 15432179,
+			"in_reply_to_user_id_str": "15432179",
+			"in_reply_to_screen_name": "raulpacheco",
+			"user": {
+				"id": 34605824,
+				"id_str": "34605824",
+				"name": "DFW Airport",
+				"screen_name": "DFWAirport",
+				"location": "DFW Airport, TX",
+				"description": "Located between the cities of Dallas and Fort Worth, DFW International Airport is the world's third busiest airport.",
+				"url": "https://t.co/ea8UuXjElH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ea8UuXjElH",
+								"expanded_url": "http://dfwairport.com",
+								"display_url": "dfwairport.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38994,
+				"friends_count": 1082,
+				"listed_count": 1088,
+				"created_at": "Thu Apr 23 13:05:31 +0000 2009",
+				"favourites_count": 3080,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 37846,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6E6E6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/753734967/eba7887e3d699f1d60a1868b8e09257c.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/753734967/eba7887e3d699f1d60a1868b8e09257c.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/802767761164275712/0BQXhx5t_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/802767761164275712/0BQXhx5t_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34605824/1480229611",
+				"profile_link_color": "FF5000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 28 16:26:07 +0000 2016",
+		"id": 803273777933062100,
+		"id_str": "803273777933062144",
+		"text": "All the best, archis! @MadsRose https://t.co/VfDvMZzi5Y",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MadsRose",
+					"name": "Madeleine Pelzel",
+					"id": 532725843,
+					"id_str": "532725843",
+					"indices": [
+						22,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VfDvMZzi5Y",
+					"expanded_url": "https://twitter.com/RiceArch/status/803269738239430660",
+					"display_url": "twitter.com/RiceArch/statu…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 328,
+			"friends_count": 742,
+			"listed_count": 21,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2534,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1878,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 803269738239430700,
+		"quoted_status_id_str": "803269738239430660",
+		"quoted_status": {
+			"created_at": "Mon Nov 28 16:10:04 +0000 2016",
+			"id": 803269738239430700,
+			"id_str": "803269738239430660",
+			"text": "Happy end of Fall 2016, Archis! Pencil's Down is today 11/28 at 5pm and Jury Week begins tomorrow!! #charrette #archifinals #youcandoit",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "charrette",
+						"indices": [
+							100,
+							110
+						]
+					},
+					{
+						"text": "archifinals",
+						"indices": [
+							111,
+							123
+						]
+					},
+					{
+						"text": "youcandoit",
+						"indices": [
+							124,
+							135
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 211565700,
+				"id_str": "211565700",
+				"name": "Rice Architecture",
+				"screen_name": "RiceArch",
+				"location": "Anderson Hall, Rice University",
+				"description": "Innovative designers, knowledge builders, lovers of life",
+				"url": "http://t.co/AQzcztVPSn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/AQzcztVPSn",
+								"expanded_url": "http://arch.rice.edu",
+								"display_url": "arch.rice.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1011,
+				"friends_count": 142,
+				"listed_count": 50,
+				"created_at": "Wed Nov 03 16:32:45 +0000 2010",
+				"favourites_count": 270,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 942,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C9C9C9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/168038301/5.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/168038301/5.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1594678657/RSA_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1594678657/RSA_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/211565700/1477662992",
+				"profile_link_color": "E20175",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "858585",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Nov 27 00:35:16 +0000 2016",
 		"id": 802672100590964700,
 		"id_str": "802672100590964737",
