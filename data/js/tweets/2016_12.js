@@ -1,6 +1,611 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sun Dec 11 19:21:40 +0000 2016",
+		"id": 808028999616254000,
+		"id_str": "808028999616253952",
+		"text": "RT @RudawEnglish: #Egypt: Aftermath of bomb blast at Cairo’s main coptic Christian cathedral. https://t.co/7hzR2YMB10",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Egypt",
+					"indices": [
+						18,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RudawEnglish",
+					"name": "Rudaw English",
+					"id": 1014922465,
+					"id_str": "1014922465",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 807880685608468500,
+					"id_str": "807880685608468481",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/807880685608468481/pu/img/fJVuzvdtnd22iLbR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/807880685608468481/pu/img/fJVuzvdtnd22iLbR.jpg",
+					"url": "https://t.co/7hzR2YMB10",
+					"display_url": "pic.twitter.com/7hzR2YMB10",
+					"expanded_url": "https://twitter.com/RudawEnglish/status/807881171732414464/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 807881171732414500,
+					"source_status_id_str": "807881171732414464",
+					"source_user_id": 1014922465,
+					"source_user_id_str": "1014922465"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 807880685608468500,
+					"id_str": "807880685608468481",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/807880685608468481/pu/img/fJVuzvdtnd22iLbR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/807880685608468481/pu/img/fJVuzvdtnd22iLbR.jpg",
+					"url": "https://t.co/7hzR2YMB10",
+					"display_url": "pic.twitter.com/7hzR2YMB10",
+					"expanded_url": "https://twitter.com/RudawEnglish/status/807881171732414464/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 807881171732414500,
+					"source_status_id_str": "807881171732414464",
+					"source_user_id": 1014922465,
+					"source_user_id_str": "1014922465",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/ext_tw_video/807880685608468481/pu/pl/XKWol-X2BYfPSV8p.mpd"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/807880685608468481/pu/vid/720x720/3AskicgTJeh9dPLc.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/807880685608468481/pu/vid/240x240/nqVwwOrp4P6jzq4E.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/807880685608468481/pu/vid/480x480/n3gthy6Cx7VRZb0W.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/807880685608468481/pu/pl/XKWol-X2BYfPSV8p.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1014922465,
+							"id_str": "1014922465",
+							"name": "Rudaw English",
+							"screen_name": "RudawEnglish",
+							"location": "Erbil, Kurdistan, Iraq",
+							"description": "The leading news source in ME",
+							"url": "https://t.co/wgCXIv2DsB",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/wgCXIv2DsB",
+											"expanded_url": "http://www.rudaw.net/English",
+											"display_url": "rudaw.net/English",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 221586,
+							"friends_count": 29,
+							"listed_count": 1439,
+							"created_at": "Sun Dec 16 10:29:26 +0000 2012",
+							"favourites_count": 238,
+							"utc_offset": 10800,
+							"time_zone": "Baghdad",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 31147,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437919562365804544/91VgesoL.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437919562365804544/91VgesoL.jpeg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/741563541405224960/lRgUAT2d_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/741563541405224960/lRgUAT2d_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1014922465/1478153494",
+							"profile_link_color": "009999",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "EFEFEF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 330,
+			"friends_count": 746,
+			"listed_count": 23,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2545,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1928,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 11 09:34:15 +0000 2016",
+			"id": 807881171732414500,
+			"id_str": "807881171732414464",
+			"text": "#Egypt: Aftermath of bomb blast at Cairo’s main coptic Christian cathedral. https://t.co/7hzR2YMB10",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Egypt",
+						"indices": [
+							0,
+							6
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 807880685608468500,
+						"id_str": "807880685608468481",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/807880685608468481/pu/img/fJVuzvdtnd22iLbR.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/807880685608468481/pu/img/fJVuzvdtnd22iLbR.jpg",
+						"url": "https://t.co/7hzR2YMB10",
+						"display_url": "pic.twitter.com/7hzR2YMB10",
+						"expanded_url": "https://twitter.com/RudawEnglish/status/807881171732414464/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 807880685608468500,
+						"id_str": "807880685608468481",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/807880685608468481/pu/img/fJVuzvdtnd22iLbR.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/807880685608468481/pu/img/fJVuzvdtnd22iLbR.jpg",
+						"url": "https://t.co/7hzR2YMB10",
+						"display_url": "pic.twitter.com/7hzR2YMB10",
+						"expanded_url": "https://twitter.com/RudawEnglish/status/807881171732414464/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 45000,
+							"variants": [
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/807880685608468481/pu/pl/XKWol-X2BYfPSV8p.mpd"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/807880685608468481/pu/vid/720x720/3AskicgTJeh9dPLc.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/807880685608468481/pu/vid/240x240/nqVwwOrp4P6jzq4E.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/807880685608468481/pu/vid/480x480/n3gthy6Cx7VRZb0W.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/807880685608468481/pu/pl/XKWol-X2BYfPSV8p.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1014922465,
+				"id_str": "1014922465",
+				"name": "Rudaw English",
+				"screen_name": "RudawEnglish",
+				"location": "Erbil, Kurdistan, Iraq",
+				"description": "The leading news source in ME",
+				"url": "https://t.co/wgCXIv2DsB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wgCXIv2DsB",
+								"expanded_url": "http://www.rudaw.net/English",
+								"display_url": "rudaw.net/English",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 221586,
+				"friends_count": 29,
+				"listed_count": 1439,
+				"created_at": "Sun Dec 16 10:29:26 +0000 2012",
+				"favourites_count": 238,
+				"utc_offset": 10800,
+				"time_zone": "Baghdad",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 31147,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437919562365804544/91VgesoL.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437919562365804544/91VgesoL.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/741563541405224960/lRgUAT2d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/741563541405224960/lRgUAT2d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1014922465/1478153494",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 938,
+			"favorite_count": 333,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 938,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Dec 11 17:41:32 +0000 2016",
+		"id": 808003797696081900,
+		"id_str": "808003797696081922",
+		"text": "@elizabolt Congrats! Yes, it is a thing...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elizabolt",
+					"name": "elizabeth oltman",
+					"id": 21655506,
+					"id_str": "21655506",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 807998879878750200,
+		"in_reply_to_status_id_str": "807998879878750208",
+		"in_reply_to_user_id": 21655506,
+		"in_reply_to_user_id_str": "21655506",
+		"in_reply_to_screen_name": "elizabolt",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 330,
+			"friends_count": 746,
+			"listed_count": 23,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2545,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1928,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 09 00:30:29 +0000 2016",
 		"id": 807019553515589600,
 		"id_str": "807019553515589632",
