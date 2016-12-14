@@ -1,6 +1,575 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Tue Dec 13 16:38:25 +0000 2016",
+		"id": 808712692504600600,
+		"id_str": "808712692504600576",
+		"text": "RT @AnamcharaFaith: Have you heard ‘Strange_Messengers’ by anamcharafaithcommunity on #SoundCloud? #np https://t.co/4DlueWbF3j",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SoundCloud",
+					"indices": [
+						86,
+						97
+					]
+				},
+				{
+					"text": "np",
+					"indices": [
+						99,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnamcharaFaith",
+					"name": "Fr. Michael Mernagh",
+					"id": 2893451843,
+					"id_str": "2893451843",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4DlueWbF3j",
+					"expanded_url": "https://soundcloud.com/anamcharafaithcommunity/strange_messengers?utm_source=soundcloud&utm_campaign=share&utm_medium=twitter",
+					"display_url": "soundcloud.com/anamcharafaith…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 332,
+			"friends_count": 747,
+			"listed_count": 23,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2542,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1931,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 13 16:35:23 +0000 2016",
+			"id": 808711928952619000,
+			"id_str": "808711928952619008",
+			"text": "Have you heard ‘Strange_Messengers’ by anamcharafaithcommunity on #SoundCloud? #np https://t.co/4DlueWbF3j",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SoundCloud",
+						"indices": [
+							66,
+							77
+						]
+					},
+					{
+						"text": "np",
+						"indices": [
+							79,
+							82
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4DlueWbF3j",
+						"expanded_url": "https://soundcloud.com/anamcharafaithcommunity/strange_messengers?utm_source=soundcloud&utm_campaign=share&utm_medium=twitter",
+						"display_url": "soundcloud.com/anamcharafaith…",
+						"indices": [
+							83,
+							106
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2893451843,
+				"id_str": "2893451843",
+				"name": "Fr. Michael Mernagh",
+				"screen_name": "AnamcharaFaith",
+				"location": "142 Crescent Ave Lou KY 40206",
+				"description": "",
+				"url": "http://t.co/PUuaa9rDXD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/PUuaa9rDXD",
+								"expanded_url": "http://www.soul-friends.com",
+								"display_url": "soul-friends.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9,
+				"friends_count": 5,
+				"listed_count": 0,
+				"created_at": "Wed Nov 26 15:48:58 +0000 2014",
+				"favourites_count": 9,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 255,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/537686040136253440/PhxuB9kR_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/537686040136253440/PhxuB9kR_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2893451843/1426702998",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 13 01:31:55 +0000 2016",
+		"id": 808484565228601300,
+		"id_str": "808484565228601352",
+		"text": "RT @ltaub: dreams do come true... https://t.co/5uDLbRflfZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ltaub",
+					"name": "ltaub",
+					"id": 17844743,
+					"id_str": "17844743",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5uDLbRflfZ",
+					"expanded_url": "https://twitter.com/DomainsConf/status/808375620929515521",
+					"display_url": "twitter.com/DomainsConf/st…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 332,
+			"friends_count": 747,
+			"listed_count": 23,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2542,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1931,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 13 01:27:57 +0000 2016",
+			"id": 808483565910552600,
+			"id_str": "808483565910552576",
+			"text": "dreams do come true... https://t.co/5uDLbRflfZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5uDLbRflfZ",
+						"expanded_url": "https://twitter.com/DomainsConf/status/808375620929515521",
+						"display_url": "twitter.com/DomainsConf/st…",
+						"indices": [
+							23,
+							46
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17844743,
+				"id_str": "17844743",
+				"name": "ltaub",
+				"screen_name": "ltaub",
+				"location": "Allentown PA",
+				"description": "Assoc. Dean for Digital Learning @Muhlenberg. Professor of Media & Communication @bergmc2. Director Documentary Storymaking Minor @LVAIC @UniteHYPE @YMediaR",
+				"url": "https://t.co/yPNseCQ8VG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yPNseCQ8VG",
+								"expanded_url": "http://lorataub.com",
+								"display_url": "lorataub.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 507,
+				"friends_count": 484,
+				"listed_count": 58,
+				"created_at": "Wed Dec 03 18:58:08 +0000 2008",
+				"favourites_count": 6321,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4006,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C7C295",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/612764091/xe814d1507771b6126c71f291e3ed793.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/612764091/xe814d1507771b6126c71f291e3ed793.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/765931205262991360/WY09alJK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/765931205262991360/WY09alJK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17844743/1442858885",
+				"profile_link_color": "C4B314",
+				"profile_sidebar_border_color": "4A3D34",
+				"profile_sidebar_fill_color": "F7367D",
+				"profile_text_color": "F26E35",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 808375620929515500,
+			"quoted_status_id_str": "808375620929515521",
+			"quoted_status": {
+				"created_at": "Mon Dec 12 18:19:01 +0000 2016",
+				"id": 808375620929515500,
+				"id_str": "808375620929515521",
+				"text": "You are invited to #Domains17: Indie EdTech &amp; Other Curiosities. https://t.co/xobHXMoSaD",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "Domains17",
+							"indices": [
+								19,
+								29
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/xobHXMoSaD",
+							"expanded_url": "http://domains.reclaimhosting.com/welcome-letter/",
+							"display_url": "domains.reclaimhosting.com/welcome-letter/",
+							"indices": [
+								69,
+								92
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 808349016157257700,
+					"id_str": "808349016157257728",
+					"name": "Domains",
+					"screen_name": "DomainsConf",
+					"location": "Oklahoma City, OK",
+					"description": "Domains 2017: Indie EdTech and Other Curiosities • June 5-6, 2017 #Domains17",
+					"url": "https://t.co/TMqRnqo2Ki",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/TMqRnqo2Ki",
+									"expanded_url": "http://domains.reclaimhosting.com",
+									"display_url": "domains.reclaimhosting.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 16,
+					"friends_count": 17,
+					"listed_count": 0,
+					"created_at": "Mon Dec 12 16:33:18 +0000 2016",
+					"favourites_count": 4,
+					"utc_offset": -28800,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 7,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/808365180560162816/9LdRtQaI_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/808365180560162816/9LdRtQaI_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/808349016157257728/1481562225",
+					"profile_link_color": "870C0C",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 6,
+				"favorite_count": 3,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 808375620929515500,
+		"quoted_status_id_str": "808375620929515521",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Dec 13 00:03:59 +0000 2016",
 		"id": 808462433929089000,
 		"id_str": "808462433929089024",
