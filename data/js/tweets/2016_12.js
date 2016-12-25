@@ -1,6 +1,1036 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sat Dec 24 23:24:34 +0000 2016",
+		"id": 812801170099970000,
+		"id_str": "812801170099970048",
+		"text": "RT @Pontifex: Like the shepherds of Bethlehem, may we too, with eyes full of amazement and wonder, gaze upon the Child Jesus, the Son of Go…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Pontifex",
+					"name": "Pope Francis",
+					"id": 500704345,
+					"id_str": "500704345",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 330,
+			"friends_count": 748,
+			"listed_count": 24,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2543,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 24 22:45:01 +0000 2016",
+			"id": 812791215494152200,
+			"id_str": "812791215494152192",
+			"text": "Like the shepherds of Bethlehem, may we too, with eyes full of amazement and wonder, gaze upon the Child Jesus, the Son of God.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 500704345,
+				"id_str": "500704345",
+				"name": "Pope Francis",
+				"screen_name": "Pontifex",
+				"location": "Vatican City",
+				"description": "Welcome to the official Twitter page of His Holiness Pope Francis",
+				"url": "http://t.co/MlfhXffVrl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/MlfhXffVrl",
+								"expanded_url": "http://www.news.va",
+								"display_url": "news.va",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10136843,
+				"friends_count": 8,
+				"listed_count": 25148,
+				"created_at": "Thu Feb 23 11:38:07 +0000 2012",
+				"favourites_count": 0,
+				"utc_offset": 3600,
+				"time_zone": "Rome",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1053,
+				"lang": "it",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/857999332/52f4b5a0278e5a44ed595ef3a031a709.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/857999332/52f4b5a0278e5a44ed595ef3a031a709.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/507818066814590976/KNG-IkT9_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/507818066814590976/KNG-IkT9_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/500704345/1409908226",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3864,
+			"favorite_count": 8103,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3864,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Dec 24 20:33:01 +0000 2016",
+		"id": 812757998267469800,
+		"id_str": "812757998267469824",
+		"text": "RT @NathanHamm: Mary consoles Eve.\n\nMerry Christmas Eve! https://t.co/fhO8ICPKOd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NathanHamm",
+					"name": "Nathan Hamm",
+					"id": 2175244392,
+					"id_str": "2175244392",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 812658454917591000,
+					"id_str": "812658454917591040",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/C0ckjyEUsAAOLE8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C0ckjyEUsAAOLE8.jpg",
+					"url": "https://t.co/fhO8ICPKOd",
+					"display_url": "pic.twitter.com/fhO8ICPKOd",
+					"expanded_url": "https://twitter.com/NathanHamm/status/812658464174538752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 674,
+							"h": 950,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 674,
+							"h": 950,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 812658464174538800,
+					"source_status_id_str": "812658464174538752",
+					"source_user_id": 2175244392,
+					"source_user_id_str": "2175244392"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 812658454917591000,
+					"id_str": "812658454917591040",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/C0ckjyEUsAAOLE8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C0ckjyEUsAAOLE8.jpg",
+					"url": "https://t.co/fhO8ICPKOd",
+					"display_url": "pic.twitter.com/fhO8ICPKOd",
+					"expanded_url": "https://twitter.com/NathanHamm/status/812658464174538752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 674,
+							"h": 950,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 674,
+							"h": 950,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 812658464174538800,
+					"source_status_id_str": "812658464174538752",
+					"source_user_id": 2175244392,
+					"source_user_id_str": "2175244392"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 330,
+			"friends_count": 748,
+			"listed_count": 24,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2543,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 24 13:57:30 +0000 2016",
+			"id": 812658464174538800,
+			"id_str": "812658464174538752",
+			"text": "Mary consoles Eve.\n\nMerry Christmas Eve! https://t.co/fhO8ICPKOd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 812658454917591000,
+						"id_str": "812658454917591040",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/C0ckjyEUsAAOLE8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0ckjyEUsAAOLE8.jpg",
+						"url": "https://t.co/fhO8ICPKOd",
+						"display_url": "pic.twitter.com/fhO8ICPKOd",
+						"expanded_url": "https://twitter.com/NathanHamm/status/812658464174538752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 674,
+								"h": 950,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 482,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 674,
+								"h": 950,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 812658454917591000,
+						"id_str": "812658454917591040",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/C0ckjyEUsAAOLE8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0ckjyEUsAAOLE8.jpg",
+						"url": "https://t.co/fhO8ICPKOd",
+						"display_url": "pic.twitter.com/fhO8ICPKOd",
+						"expanded_url": "https://twitter.com/NathanHamm/status/812658464174538752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 674,
+								"h": 950,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 482,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 674,
+								"h": 950,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2175244392,
+				"id_str": "2175244392",
+				"name": "Nathan Hamm",
+				"screen_name": "NathanHamm",
+				"location": "Jacksonville, FL",
+				"description": "Storyteller. Creative. FB & Twitter theologian. Pastor of StoryHouse (@StoryHouse_JAX), a church for the rest of us. Help me create @ https://t.co/snanSMFxHG",
+				"url": "https://t.co/Ebg9yrozQ9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ebg9yrozQ9",
+								"expanded_url": "https://www.facebook.com/nathan.w.hamm",
+								"display_url": "facebook.com/nathan.w.hamm",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/snanSMFxHG",
+								"expanded_url": "http://www.patreon.com/NathanHamm",
+								"display_url": "patreon.com/NathanHamm",
+								"indices": [
+									134,
+									157
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 17992,
+				"friends_count": 2707,
+				"listed_count": 227,
+				"created_at": "Tue Nov 05 03:17:45 +0000 2013",
+				"favourites_count": 6953,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1047,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000705577191/e16564ba039c3653c602dfd36f3ccfec_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000705577191/e16564ba039c3653c602dfd36f3ccfec_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2175244392/1468464670",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 121,
+			"favorite_count": 282,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Dec 24 17:33:45 +0000 2016",
+		"id": 812712882806853600,
+		"id_str": "812712882806853633",
+		"text": "Christmas message from the Maronite archbishop of Damascus https://t.co/1h5ldyBSmu https://t.co/kP0l1RKTKW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1h5ldyBSmu",
+					"expanded_url": "http://bit.ly/2ip66eR",
+					"display_url": "bit.ly/2ip66eR",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 812712870236409900,
+					"id_str": "812712870236409856",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/C0dWDK7UUAAgRWc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C0dWDK7UUAAgRWc.jpg",
+					"url": "https://t.co/kP0l1RKTKW",
+					"display_url": "pic.twitter.com/kP0l1RKTKW",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/812712882806853633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 367,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1618,
+							"h": 874,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 648,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 812712870236409900,
+					"id_str": "812712870236409856",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/C0dWDK7UUAAgRWc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C0dWDK7UUAAgRWc.jpg",
+					"url": "https://t.co/kP0l1RKTKW",
+					"display_url": "pic.twitter.com/kP0l1RKTKW",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/812712882806853633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 367,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1618,
+							"h": 874,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 648,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 330,
+			"friends_count": 748,
+			"listed_count": 24,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2543,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Dec 24 16:30:49 +0000 2016",
+		"id": 812697043537903600,
+		"id_str": "812697043537903616",
+		"text": "Might be worth a read, @MadsRose https://t.co/IsF7e8OskQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MadsRose",
+					"name": "Madeleine Pelzel",
+					"id": 532725843,
+					"id_str": "532725843",
+					"indices": [
+						23,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IsF7e8OskQ",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/811965276015226885",
+					"display_url": "twitter.com/MorrisPelzel/s…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 330,
+			"friends_count": 748,
+			"listed_count": 24,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2543,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 811965276015226900,
+		"quoted_status_id_str": "811965276015226885",
+		"quoted_status": {
+			"created_at": "Thu Dec 22 16:03:02 +0000 2016",
+			"id": 811965276015226900,
+			"id_str": "811965276015226885",
+			"text": "\"Why Time Management is Ruining Our Lives\" https://t.co/zZEzfuneVk https://t.co/TbIdKYe3u0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zZEzfuneVk",
+						"expanded_url": "http://bit.ly/2h5PCmS",
+						"display_url": "bit.ly/2h5PCmS",
+						"indices": [
+							43,
+							66
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 811965261351747600,
+						"id_str": "811965261351747584",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/C0SuGmzUAAAynNp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0SuGmzUAAAynNp.jpg",
+						"url": "https://t.co/TbIdKYe3u0",
+						"display_url": "pic.twitter.com/TbIdKYe3u0",
+						"expanded_url": "https://twitter.com/MorrisPelzel/status/811965276015226885/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 413,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 234,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 550,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 811965261351747600,
+						"id_str": "811965261351747584",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/C0SuGmzUAAAynNp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0SuGmzUAAAynNp.jpg",
+						"url": "https://t.co/TbIdKYe3u0",
+						"display_url": "pic.twitter.com/TbIdKYe3u0",
+						"expanded_url": "https://twitter.com/MorrisPelzel/status/811965276015226885/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 413,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 234,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 550,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 33972737,
+				"id_str": "33972737",
+				"name": "Mo Pelzel",
+				"screen_name": "MorrisPelzel",
+				"location": "Sherman, Texas",
+				"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+				"url": "http://t.co/C9ahmwKFFM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/C9ahmwKFFM",
+								"expanded_url": "http://acdigitalpedagogy.org",
+								"display_url": "acdigitalpedagogy.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 330,
+				"friends_count": 748,
+				"listed_count": 24,
+				"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+				"favourites_count": 2543,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1961,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 23 23:36:30 +0000 2016",
 		"id": 812441786190807000,
 		"id_str": "812441786190807040",
