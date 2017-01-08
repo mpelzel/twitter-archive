@@ -1,6 +1,589 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Sat Jan 07 19:28:13 +0000 2017",
+		"id": 817815118037848000,
+		"id_str": "817815118037848064",
+		"text": "RT @ollie: chess move of the year: https://t.co/NnoU50TzNX https://t.co/TOjwWhGLKa",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ollie",
+					"name": "Oliver Roeder",
+					"id": 8593862,
+					"id_str": "8593862",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NnoU50TzNX",
+					"expanded_url": "http://en.chessbase.com/post/best-of-2016-best-move-3",
+					"display_url": "en.chessbase.com/post/best-of-2…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 817814430004039700,
+					"id_str": "817814430004039680",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/C1l15CCUUAAwu7l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1l15CCUUAAwu7l.jpg",
+					"url": "https://t.co/TOjwWhGLKa",
+					"display_url": "pic.twitter.com/TOjwWhGLKa",
+					"expanded_url": "https://twitter.com/ollie/status/817814459829911554/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1102,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1102,
+							"h": 510,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 817814459829911600,
+					"source_status_id_str": "817814459829911554",
+					"source_user_id": 8593862,
+					"source_user_id_str": "8593862"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 817814430004039700,
+					"id_str": "817814430004039680",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/C1l15CCUUAAwu7l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1l15CCUUAAwu7l.jpg",
+					"url": "https://t.co/TOjwWhGLKa",
+					"display_url": "pic.twitter.com/TOjwWhGLKa",
+					"expanded_url": "https://twitter.com/ollie/status/817814459829911554/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1102,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1102,
+							"h": 510,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 817814459829911600,
+					"source_status_id_str": "817814459829911554",
+					"source_user_id": 8593862,
+					"source_user_id_str": "8593862"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 340,
+			"friends_count": 755,
+			"listed_count": 25,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2566,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1983,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 07 19:25:36 +0000 2017",
+			"id": 817814459829911600,
+			"id_str": "817814459829911554",
+			"text": "chess move of the year: https://t.co/NnoU50TzNX https://t.co/TOjwWhGLKa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NnoU50TzNX",
+						"expanded_url": "http://en.chessbase.com/post/best-of-2016-best-move-3",
+						"display_url": "en.chessbase.com/post/best-of-2…",
+						"indices": [
+							24,
+							47
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 817814430004039700,
+						"id_str": "817814430004039680",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/C1l15CCUUAAwu7l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1l15CCUUAAwu7l.jpg",
+						"url": "https://t.co/TOjwWhGLKa",
+						"display_url": "pic.twitter.com/TOjwWhGLKa",
+						"expanded_url": "https://twitter.com/ollie/status/817814459829911554/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1102,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1102,
+								"h": 510,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 315,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 817814430004039700,
+						"id_str": "817814430004039680",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/C1l15CCUUAAwu7l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1l15CCUUAAwu7l.jpg",
+						"url": "https://t.co/TOjwWhGLKa",
+						"display_url": "pic.twitter.com/TOjwWhGLKa",
+						"expanded_url": "https://twitter.com/ollie/status/817814459829911554/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1102,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1102,
+								"h": 510,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 315,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8593862,
+				"id_str": "8593862",
+				"name": "Oliver Roeder",
+				"screen_name": "ollie",
+				"location": "ditmas park",
+				"description": "senior writer, @fivethirtyeight. email: oliver.roeder@espn.com",
+				"url": "https://t.co/az1LO2ABED",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/az1LO2ABED",
+								"expanded_url": "http://oroeder.github.io/",
+								"display_url": "oroeder.github.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14056,
+				"friends_count": 606,
+				"listed_count": 268,
+				"created_at": "Sat Sep 01 18:31:27 +0000 2007",
+				"favourites_count": 428,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6508,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D3D3D3",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/825731855/b8c623e7c71427889dea73e43539a9a1.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/825731855/b8c623e7c71427889dea73e43539a9a1.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/813752669810597888/G_5mpAai_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/813752669810597888/G_5mpAai_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8593862/1483052705",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFBCDE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 07 17:58:27 +0000 2017",
+		"id": 817792529294880800,
+		"id_str": "817792529294880769",
+		"text": "RT @americandialect: Dumpster Fire (🗑🔥 ) is the American Dialect Society's 2016 Word of the Year. #woty16",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "woty16",
+					"indices": [
+						98,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "americandialect",
+					"name": "Am. Dialect Society",
+					"id": 227748811,
+					"id_str": "227748811",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 340,
+			"friends_count": 755,
+			"listed_count": 25,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2566,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1983,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 07 00:28:34 +0000 2017",
+			"id": 817528316886478800,
+			"id_str": "817528316886478848",
+			"text": "Dumpster Fire (🗑🔥 ) is the American Dialect Society's 2016 Word of the Year. #woty16",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "woty16",
+						"indices": [
+							77,
+							84
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 227748811,
+				"id_str": "227748811",
+				"name": "Am. Dialect Society",
+				"screen_name": "americandialect",
+				"location": "",
+				"description": "The American Dialect Society is dedicated to the study of English in North America. We are academics, amateurs, linguists, lexicographers, teachers, and more.",
+				"url": "http://t.co/qXLBV5qmmg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/qXLBV5qmmg",
+								"expanded_url": "http://americandialect.org",
+								"display_url": "americandialect.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8698,
+				"friends_count": 311,
+				"listed_count": 397,
+				"created_at": "Fri Dec 17 18:07:25 +0000 2010",
+				"favourites_count": 118,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2574,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1192841119/ADS_FINAL-logo-abbrev-only_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192841119/ADS_FINAL-logo-abbrev-only_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 356,
+			"favorite_count": 259,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 356,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jan 06 20:41:59 +0000 2017",
 		"id": 817471296606965800,
 		"id_str": "817471296606965761",
