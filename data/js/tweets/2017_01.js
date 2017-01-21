@@ -1,6 +1,1211 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Fri Jan 20 21:03:34 +0000 2017",
+		"id": 822550159464812500,
+		"id_str": "822550159464812544",
+		"text": "When @GeorgeWill says it's \"the most dreadful inaugural address in history,\" you know it's bad https://t.co/eraPJWiXB5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeorgeWill",
+					"name": "George F. Will",
+					"id": 2255182597,
+					"id_str": "2255182597",
+					"indices": [
+						5,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eraPJWiXB5",
+					"expanded_url": "http://wapo.st/2jI5GjU",
+					"display_url": "wapo.st/2jI5GjU",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352,
+			"friends_count": 769,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2574,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2072,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 20 20:57:14 +0000 2017",
+		"id": 822548563427229700,
+		"id_str": "822548563427229696",
+		"text": "RT @dr_jdean: This is enough to shake me from my denial/despair. Please share. https://t.co/bL9ZkFxUzP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dr_jdean",
+					"name": "(((Dr. Dean)))",
+					"id": 739521654,
+					"id_str": "739521654",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bL9ZkFxUzP",
+					"expanded_url": "https://twitter.com/readywriting/status/822546626719940609",
+					"display_url": "twitter.com/readywriting/s…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352,
+			"friends_count": 769,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2574,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2072,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 20 20:55:08 +0000 2017",
+			"id": 822548034437451800,
+			"id_str": "822548034437451776",
+			"text": "This is enough to shake me from my denial/despair. Please share. https://t.co/bL9ZkFxUzP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bL9ZkFxUzP",
+						"expanded_url": "https://twitter.com/readywriting/status/822546626719940609",
+						"display_url": "twitter.com/readywriting/s…",
+						"indices": [
+							65,
+							88
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739521654,
+				"id_str": "739521654",
+				"name": "(((Dr. Dean)))",
+				"screen_name": "dr_jdean",
+				"location": "Austin, TX",
+				"description": "Director of Education @hypothes_is, former @Genius, English Teacher-Scholar, Rogue Academic, Close Reader, Digital Human",
+				"url": "https://t.co/tweGhOAEru",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tweGhOAEru",
+								"expanded_url": "http://www.hypothes.is",
+								"display_url": "hypothes.is",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1276,
+				"friends_count": 842,
+				"listed_count": 88,
+				"created_at": "Mon Aug 06 00:33:32 +0000 2012",
+				"favourites_count": 5300,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2942,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/507165482231668737/atIqabeW.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/507165482231668737/atIqabeW.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/583318772360048640/EpGyBjUy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/583318772360048640/EpGyBjUy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739521654/1427909095",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 822546626719940600,
+			"quoted_status_id_str": "822546626719940609",
+			"quoted_status": {
+				"created_at": "Fri Jan 20 20:49:32 +0000 2017",
+				"id": 822546626719940600,
+				"id_str": "822546626719940609",
+				"text": "People are using @hypothes_is to annotate/fact-check the new Gov issues pages. https://t.co/9ocYGcz1aW (click through, you’ll see)",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "hypothes_is",
+							"name": "Hypothes.is",
+							"id": 325100970,
+							"id_str": "325100970",
+							"indices": [
+								17,
+								29
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/9ocYGcz1aW",
+							"expanded_url": "https://via.hypothes.is/https://www.whitehouse.gov/law-enforcement-community",
+							"display_url": "via.hypothes.is/https://www.wh…",
+							"indices": [
+								79,
+								102
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 124920374,
+					"id_str": "124920374",
+					"name": "Lee Skallerup",
+					"screen_name": "readywriting",
+					"location": "",
+					"description": "Instructional Technology Specialist, @umwdtlt, U Mary Washington. Lover of Literature. Canadian living in Virginia. Also a swim coach. I'm a lot to handle.",
+					"url": "https://t.co/Jcf2vgL00u",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/Jcf2vgL00u",
+									"expanded_url": "http://readywriting.org",
+									"display_url": "readywriting.org",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 8875,
+					"friends_count": 8347,
+					"listed_count": 746,
+					"created_at": "Sun Mar 21 02:00:28 +0000 2010",
+					"favourites_count": 5953,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 140637,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C6E2EE",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/815339864069640194/agqp9TZh_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/815339864069640194/agqp9TZh_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/124920374/1471532804",
+					"profile_link_color": "1F98C7",
+					"profile_sidebar_border_color": "C6E2EE",
+					"profile_sidebar_fill_color": "DAECF4",
+					"profile_text_color": "663B12",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 22,
+				"favorite_count": 14,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 7,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 822546626719940600,
+		"quoted_status_id_str": "822546626719940609",
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 20 20:39:04 +0000 2017",
+		"id": 822543992894189600,
+		"id_str": "822543992894189568",
+		"text": "RT @asduner: omg Obama’s presidential library’s website is using @knightlab’s TimelineJS https://t.co/2LqpN5L0w7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "asduner",
+					"name": "Alex Duner",
+					"id": 281348032,
+					"id_str": "281348032",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "knightlab",
+					"name": "NU Knight Lab",
+					"id": 246532340,
+					"id_str": "246532340",
+					"indices": [
+						65,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2LqpN5L0w7",
+					"expanded_url": "https://twitter.com/JFKLibrary/status/822510388386242560",
+					"display_url": "twitter.com/JFKLibrary/sta…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352,
+			"friends_count": 769,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2574,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2072,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 20 20:27:45 +0000 2017",
+			"id": 822541145985216500,
+			"id_str": "822541145985216514",
+			"text": "omg Obama’s presidential library’s website is using @knightlab’s TimelineJS https://t.co/2LqpN5L0w7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "knightlab",
+						"name": "NU Knight Lab",
+						"id": 246532340,
+						"id_str": "246532340",
+						"indices": [
+							52,
+							62
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/2LqpN5L0w7",
+						"expanded_url": "https://twitter.com/JFKLibrary/status/822510388386242560",
+						"display_url": "twitter.com/JFKLibrary/sta…",
+						"indices": [
+							76,
+							99
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 281348032,
+				"id_str": "281348032",
+				"name": "Alex Duner",
+				"screen_name": "asduner",
+				"location": "Washington, D.C.",
+				"description": "Journalist and developer at @Axios. Graduating at some point. Previously at @knightlab, @nytimes, @buzzfeed, @TexasTribune.",
+				"url": "https://t.co/4zVDIFsbGf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4zVDIFsbGf",
+								"expanded_url": "http://duner.me",
+								"display_url": "duner.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2270,
+				"friends_count": 2273,
+				"listed_count": 141,
+				"created_at": "Wed Apr 13 03:37:50 +0000 2011",
+				"favourites_count": 86944,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 25969,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FA743E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/795647754290823168/VACD-fYL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/795647754290823168/VACD-fYL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/281348032/1445312631",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 822510388386242600,
+			"quoted_status_id_str": "822510388386242560",
+			"quoted_status": {
+				"created_at": "Fri Jan 20 18:25:32 +0000 2017",
+				"id": 822510388386242600,
+				"id_str": "822510388386242560",
+				"text": "Welcome to the Presidential Library club, https://t.co/Hb825u6cjv! Explore photos, videos, access social media and… https://t.co/Evb0JYOzfp",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/Hb825u6cjv",
+							"expanded_url": "http://obamalibrary.gov",
+							"display_url": "obamalibrary.gov",
+							"indices": [
+								42,
+								65
+							]
+						},
+						{
+							"url": "https://t.co/Evb0JYOzfp",
+							"expanded_url": "https://twitter.com/i/web/status/822510388386242560",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 32520240,
+					"id_str": "32520240",
+					"name": "JFK Library",
+					"screen_name": "JFKLibrary",
+					"location": "Columbia Point, Boston MA",
+					"description": "Dedicated to the memory of our nation's 35th president. Follow JFK's words in today's world @JFKsaid. #JFKsaid",
+					"url": "http://t.co/PrTFpAHZIK",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/PrTFpAHZIK",
+									"expanded_url": "http://www.jfklibrary.org",
+									"display_url": "jfklibrary.org",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 45607,
+					"friends_count": 1144,
+					"listed_count": 1139,
+					"created_at": "Fri Apr 17 18:52:06 +0000 2009",
+					"favourites_count": 1812,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 8998,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "9AE4E8",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/546933389/sunrise_pavilion.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/546933389/sunrise_pavilion.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/540166984554409984/Y4R5mbDE_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/540166984554409984/Y4R5mbDE_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/32520240/1483478893",
+					"profile_link_color": "141617",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDFFCC",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 49,
+				"favorite_count": 90,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 13,
+			"favorite_count": 68,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 822510388386242600,
+		"quoted_status_id_str": "822510388386242560",
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 20 20:25:28 +0000 2017",
+		"id": 822540567607410700,
+		"id_str": "822540567607410688",
+		"text": "RT @williamrblack: Counter-inauguration teach-in at @RiceUniversity #RiceResponds https://t.co/c96mol841O",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RiceResponds",
+					"indices": [
+						68,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "williamrblack",
+					"name": "William R. Black",
+					"id": 519946191,
+					"id_str": "519946191",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "RiceUniversity",
+					"name": "Rice University",
+					"id": 19720630,
+					"id_str": "19720630",
+					"indices": [
+						52,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/c96mol841O",
+					"expanded_url": "https://twitter.com/aballes2/status/822468398957334528",
+					"display_url": "twitter.com/aballes2/statu…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352,
+			"friends_count": 769,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2574,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2072,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 20 20:08:38 +0000 2017",
+			"id": 822536332560007200,
+			"id_str": "822536332560007169",
+			"text": "Counter-inauguration teach-in at @RiceUniversity #RiceResponds https://t.co/c96mol841O",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RiceResponds",
+						"indices": [
+							49,
+							62
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RiceUniversity",
+						"name": "Rice University",
+						"id": 19720630,
+						"id_str": "19720630",
+						"indices": [
+							33,
+							48
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/c96mol841O",
+						"expanded_url": "https://twitter.com/aballes2/status/822468398957334528",
+						"display_url": "twitter.com/aballes2/statu…",
+						"indices": [
+							63,
+							86
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 519946191,
+				"id_str": "519946191",
+				"name": "William R. Black",
+				"screen_name": "williamrblack",
+				"location": "Memphis",
+				"description": "Historian of 19th-century US religion and culture. PhD candidate at Rice University. Have written about watermelons, now writing about Cumberland Presbyterians.",
+				"url": "https://t.co/RjCCYJTCTQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RjCCYJTCTQ",
+								"expanded_url": "http://www.history.rice.edu/grads/william-black",
+								"display_url": "history.rice.edu/grads/william-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 706,
+				"friends_count": 255,
+				"listed_count": 17,
+				"created_at": "Sat Mar 10 00:20:22 +0000 2012",
+				"favourites_count": 3496,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1757,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/794742001316937728/iuhqKNms_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/794742001316937728/iuhqKNms_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 822468398957334500,
+			"quoted_status_id_str": "822468398957334528",
+			"quoted_status": {
+				"created_at": "Fri Jan 20 15:38:41 +0000 2017",
+				"id": 822468398957334500,
+				"id_str": "822468398957334528",
+				"text": "#RiceResponds https://t.co/8zDqCWL2w5",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "RiceResponds",
+							"indices": [
+								0,
+								13
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 822468392904839200,
+							"id_str": "822468392904839169",
+							"indices": [
+								14,
+								37
+							],
+							"media_url": "http://pbs.twimg.com/media/C2n-pU4UUAENalW.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C2n-pU4UUAENalW.jpg",
+							"url": "https://t.co/8zDqCWL2w5",
+							"display_url": "pic.twitter.com/8zDqCWL2w5",
+							"expanded_url": "https://twitter.com/aballes2/status/822468398957334528/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 510,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 900,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 2048,
+									"h": 1536,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 822468392904839200,
+							"id_str": "822468392904839169",
+							"indices": [
+								14,
+								37
+							],
+							"media_url": "http://pbs.twimg.com/media/C2n-pU4UUAENalW.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C2n-pU4UUAENalW.jpg",
+							"url": "https://t.co/8zDqCWL2w5",
+							"display_url": "pic.twitter.com/8zDqCWL2w5",
+							"expanded_url": "https://twitter.com/aballes2/status/822468398957334528/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 510,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 900,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 2048,
+									"h": 1536,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 579408837,
+					"id_str": "579408837",
+					"name": "Andrea Ballestero",
+					"screen_name": "aballes2",
+					"location": "",
+					"description": "Anthropologist @ Rice University, interested in law, numbers, ethics and water in Latin America",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 732,
+					"friends_count": 978,
+					"listed_count": 32,
+					"created_at": "Sun May 13 22:13:00 +0000 2012",
+					"favourites_count": 476,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 434,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/577896384105308160/MB_gftIw_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/577896384105308160/MB_gftIw_normal.jpeg",
+					"profile_link_color": "89C9FA",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 4,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "und"
+			},
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 822468398957334500,
+		"quoted_status_id_str": "822468398957334528",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jan 19 23:59:08 +0000 2017",
 		"id": 822231953818681300,
 		"id_str": "822231953818681344",
