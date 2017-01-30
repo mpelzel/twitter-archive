@@ -1,6 +1,1358 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Sun Jan 29 21:28:44 +0000 2017",
+		"id": 825817983901659100,
+		"id_str": "825817983901659136",
+		"text": "RT @Mike_Rawlings: Moments ago, @JudgeClayJ and I greeted travelers who were detained at @DFWAirport since yesterday. We are very sorry. ht…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mike_Rawlings",
+					"name": "Mayor Mike Rawlings",
+					"id": 252409940,
+					"id_str": "252409940",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "JudgeClayJ",
+					"name": "Judge Clay Jenkins",
+					"id": 532562634,
+					"id_str": "532562634",
+					"indices": [
+						32,
+						43
+					]
+				},
+				{
+					"screen_name": "DFWAirport",
+					"name": "DFW Airport",
+					"id": 34605824,
+					"id_str": "34605824",
+					"indices": [
+						89,
+						100
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 355,
+			"friends_count": 779,
+			"listed_count": 25,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2590,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2127,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 29 20:43:01 +0000 2017",
+			"id": 825806476631498800,
+			"id_str": "825806476631498753",
+			"text": "Moments ago, @JudgeClayJ and I greeted travelers who were detained at @DFWAirport since yesterday. We are very sorr… https://t.co/jjihTen2M6",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JudgeClayJ",
+						"name": "Judge Clay Jenkins",
+						"id": 532562634,
+						"id_str": "532562634",
+						"indices": [
+							13,
+							24
+						]
+					},
+					{
+						"screen_name": "DFWAirport",
+						"name": "DFW Airport",
+						"id": 34605824,
+						"id_str": "34605824",
+						"indices": [
+							70,
+							81
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/jjihTen2M6",
+						"expanded_url": "https://twitter.com/i/web/status/825806476631498753",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 252409940,
+				"id_str": "252409940",
+				"name": "Mayor Mike Rawlings",
+				"screen_name": "Mike_Rawlings",
+				"location": "Dallas, TX",
+				"description": "Mike Rawlings was first elected Mayor of Dallas in June 2011 and re-elected in 2015. Account managed by staff. Tweets from mayor signed -MR.",
+				"url": "https://t.co/FsSaGdCyyQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FsSaGdCyyQ",
+								"expanded_url": "http://dallascityhall.com/government/citymayor",
+								"display_url": "dallascityhall.com/government/cit…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24295,
+				"friends_count": 986,
+				"listed_count": 455,
+				"created_at": "Tue Feb 15 03:57:42 +0000 2011",
+				"favourites_count": 1770,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3126,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0C66C7",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/214268473/rawlingstwitter.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/214268473/rawlingstwitter.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/700384380703772672/gILuOAak_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/700384380703772672/gILuOAak_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/252409940/1483741661",
+				"profile_link_color": "020712",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1110,
+			"favorite_count": 1960,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1110,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 29 20:10:48 +0000 2017",
+		"id": 825798370866376700,
+		"id_str": "825798370866376704",
+		"text": "RT @waltmossberg: Demonstration today at DFW airport in Dallas, TX. Just one of many signs. https://t.co/GXQCS16tZO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "waltmossberg",
+					"name": "Walt Mossberg",
+					"id": 5746452,
+					"id_str": "5746452",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 825797933580812300,
+					"id_str": "825797933580812289",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/C3XS2GdWAAEihom.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3XS2GdWAAEihom.jpg",
+					"url": "https://t.co/GXQCS16tZO",
+					"display_url": "pic.twitter.com/GXQCS16tZO",
+					"expanded_url": "https://twitter.com/waltmossberg/status/825797935963242498/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 825797935963242500,
+					"source_status_id_str": "825797935963242498",
+					"source_user_id": 5746452,
+					"source_user_id_str": "5746452"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 825797933580812300,
+					"id_str": "825797933580812289",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/C3XS2GdWAAEihom.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3XS2GdWAAEihom.jpg",
+					"url": "https://t.co/GXQCS16tZO",
+					"display_url": "pic.twitter.com/GXQCS16tZO",
+					"expanded_url": "https://twitter.com/waltmossberg/status/825797935963242498/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 825797935963242500,
+					"source_status_id_str": "825797935963242498",
+					"source_user_id": 5746452,
+					"source_user_id_str": "5746452"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 355,
+			"friends_count": 779,
+			"listed_count": 25,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2590,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2127,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 29 20:09:05 +0000 2017",
+			"id": 825797935963242500,
+			"id_str": "825797935963242498",
+			"text": "Demonstration today at DFW airport in Dallas, TX. Just one of many signs. https://t.co/GXQCS16tZO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 825797933580812300,
+						"id_str": "825797933580812289",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/C3XS2GdWAAEihom.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3XS2GdWAAEihom.jpg",
+						"url": "https://t.co/GXQCS16tZO",
+						"display_url": "pic.twitter.com/GXQCS16tZO",
+						"expanded_url": "https://twitter.com/waltmossberg/status/825797935963242498/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 825797933580812300,
+						"id_str": "825797933580812289",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/C3XS2GdWAAEihom.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3XS2GdWAAEihom.jpg",
+						"url": "https://t.co/GXQCS16tZO",
+						"display_url": "pic.twitter.com/GXQCS16tZO",
+						"expanded_url": "https://twitter.com/waltmossberg/status/825797935963242498/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5746452,
+				"id_str": "5746452",
+				"name": "Walt Mossberg",
+				"screen_name": "waltmossberg",
+				"location": "Washington, DC",
+				"description": "Executive Editor and columnist, The Verge | Editor at Large and columnist for Recode | Co-host of the Ctrl-Walt-Delete podcast | Co-producer, Code Conferences.",
+				"url": "https://t.co/AH9VhHKkew",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AH9VhHKkew",
+								"expanded_url": "http://www.theverge.com/label/walt-mossberg-verge",
+								"display_url": "theverge.com/label/walt-mos…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 861139,
+				"friends_count": 817,
+				"listed_count": 18941,
+				"created_at": "Thu May 03 17:30:11 +0000 2007",
+				"favourites_count": 7834,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 14280,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3480526/alrace2_bg.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3480526/alrace2_bg.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/463735129698205696/lgV8ScFe_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/463735129698205696/lgV8ScFe_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5746452/1362583071",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 61,
+			"favorite_count": 126,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 29 19:20:28 +0000 2017",
+		"id": 825785701019029500,
+		"id_str": "825785701019029505",
+		"text": "RT @onewheeljoe: Marking up the text of the Muslim ban using @hypothes_is. https://t.co/eXWqaWnsO1 https://t.co/JKs87D3aaE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "onewheeljoe",
+					"name": "Joe Dillon",
+					"id": 115957502,
+					"id_str": "115957502",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "hypothes_is",
+					"name": "Hypothes.is",
+					"id": 325100970,
+					"id_str": "325100970",
+					"indices": [
+						61,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eXWqaWnsO1",
+					"expanded_url": "https://hyp.is/X1SxqOYoEeaPWsOyQd9X-w/www.cnn.com/2017/01/28/politics/text-of-trump-executive-order-nation-ban-refugees/index.html",
+					"display_url": "hyp.is/X1SxqOYoEeaPWs…",
+					"indices": [
+						75,
+						98
+					]
+				},
+				{
+					"url": "https://t.co/JKs87D3aaE",
+					"expanded_url": "https://twitter.com/ElyseEA/status/825645856112181248",
+					"display_url": "twitter.com/ElyseEA/status…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 355,
+			"friends_count": 779,
+			"listed_count": 25,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2590,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2127,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 29 13:52:53 +0000 2017",
+			"id": 825703264830292000,
+			"id_str": "825703264830291968",
+			"text": "Marking up the text of the Muslim ban using @hypothes_is. https://t.co/eXWqaWnsO1 https://t.co/JKs87D3aaE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "hypothes_is",
+						"name": "Hypothes.is",
+						"id": 325100970,
+						"id_str": "325100970",
+						"indices": [
+							44,
+							56
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/eXWqaWnsO1",
+						"expanded_url": "https://hyp.is/X1SxqOYoEeaPWsOyQd9X-w/www.cnn.com/2017/01/28/politics/text-of-trump-executive-order-nation-ban-refugees/index.html",
+						"display_url": "hyp.is/X1SxqOYoEeaPWs…",
+						"indices": [
+							58,
+							81
+						]
+					},
+					{
+						"url": "https://t.co/JKs87D3aaE",
+						"expanded_url": "https://twitter.com/ElyseEA/status/825645856112181248",
+						"display_url": "twitter.com/ElyseEA/status…",
+						"indices": [
+							82,
+							105
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 115957502,
+				"id_str": "115957502",
+				"name": "Joe Dillon",
+				"screen_name": "onewheeljoe",
+				"location": "Denver",
+				"description": "Learning about literacies, old and new. Believes in safe-fail experiments in ed. Wants to talk #techquity.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1114,
+				"friends_count": 1715,
+				"listed_count": 130,
+				"created_at": "Sat Feb 20 15:58:06 +0000 2010",
+				"favourites_count": 3314,
+				"utc_offset": -25200,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5416,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0F0A02",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/598990542/x6b5e0cc5ea4f5195fffb5424ab31254.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/598990542/x6b5e0cc5ea4f5195fffb5424ab31254.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/758875173768486913/2GICsiHB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/758875173768486913/2GICsiHB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/115957502/1484575023",
+				"profile_link_color": "473623",
+				"profile_sidebar_border_color": "BCB302",
+				"profile_sidebar_fill_color": "171106",
+				"profile_text_color": "8A7302",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 825645856112181200,
+			"quoted_status_id_str": "825645856112181248",
+			"quoted_status": {
+				"created_at": "Sun Jan 29 10:04:46 +0000 2017",
+				"id": 825645856112181200,
+				"id_str": "825645856112181248",
+				"text": "Here is the text itself in case you want to read it together #Mondaymorning https://t.co/jl4ly8FcwN",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "Mondaymorning",
+							"indices": [
+								61,
+								75
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/jl4ly8FcwN",
+							"expanded_url": "https://twitter.com/cnn/status/825643397432168448",
+							"display_url": "twitter.com/cnn/status/825…",
+							"indices": [
+								76,
+								99
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 15888732,
+					"id_str": "15888732",
+					"name": "Elyse Eidman-Aadahl",
+					"screen_name": "ElyseEA",
+					"location": "Berkeley, CA",
+					"description": "Hanging out at National Writing Project (http://t.co/d9Ex508vI6)— foremost network of educators devoted to the power of writing: teachers, writers, advocates.",
+					"url": "https://t.co/DGWGxNLMK4",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/DGWGxNLMK4",
+									"expanded_url": "https://sites.google.com/site/elyseeabio/",
+									"display_url": "sites.google.com/site/elyseeabi…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "http://t.co/d9Ex508vI6",
+									"expanded_url": "http://nwp.org",
+									"display_url": "nwp.org",
+									"indices": [
+										41,
+										63
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 2395,
+					"friends_count": 1151,
+					"listed_count": 105,
+					"created_at": "Mon Aug 18 04:48:38 +0000 2008",
+					"favourites_count": 700,
+					"utc_offset": -28800,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 7548,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "352726",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/378800000520152513/2a5d98a075d0d510995de7199d98710a_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000520152513/2a5d98a075d0d510995de7199d98710a_normal.png",
+					"profile_link_color": "D02B55",
+					"profile_sidebar_border_color": "829D5E",
+					"profile_sidebar_fill_color": "99CC33",
+					"profile_text_color": "3E4415",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 825643397432168400,
+				"quoted_status_id_str": "825643397432168448",
+				"retweet_count": 2,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 5,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 825645856112181200,
+		"quoted_status_id_str": "825645856112181248",
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 29 19:04:11 +0000 2017",
+		"id": 825781604391989200,
+		"id_str": "825781604391989249",
+		"text": "I'm with Mo: \"Daddy may not be able to come home\" https://t.co/ICWpsNReyK #NoBanNoWall https://t.co/KrjY3RVKxG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NoBanNoWall",
+					"indices": [
+						74,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ICWpsNReyK",
+					"expanded_url": "http://wapo.st/2kgLZQm",
+					"display_url": "wapo.st/2kgLZQm",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 825781251676139500,
+					"id_str": "825781251676139520",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/C3XDrFhVcAAuaJX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3XDrFhVcAAuaJX.jpg",
+					"url": "https://t.co/KrjY3RVKxG",
+					"display_url": "pic.twitter.com/KrjY3RVKxG",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/825781604391989249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 809,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1344,
+							"h": 906,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 825781251676139500,
+					"id_str": "825781251676139520",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/C3XDrFhVcAAuaJX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3XDrFhVcAAuaJX.jpg",
+					"url": "https://t.co/KrjY3RVKxG",
+					"display_url": "pic.twitter.com/KrjY3RVKxG",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/825781604391989249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 809,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1344,
+							"h": 906,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 355,
+			"friends_count": 779,
+			"listed_count": 25,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2590,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2127,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 29 05:01:05 +0000 2017",
+		"id": 825569430914613200,
+		"id_str": "825569430914613248",
+		"text": "RT @Tawnell: Dallas Mayor Rawlings says to those detained at DFW airport: \"On behalf of the citizens of Dallas, we're sorry. We're not that…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tawnell",
+					"name": "Tawnell Hobbs",
+					"id": 227088715,
+					"id_str": "227088715",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 355,
+			"friends_count": 779,
+			"listed_count": 25,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2590,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2127,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 29 01:48:00 +0000 2017",
+			"id": 825520840741625900,
+			"id_str": "825520840741625856",
+			"text": "Dallas Mayor Rawlings says to those detained at DFW airport: \"On behalf of the citizens of Dallas, we're sorry. We're not that way.\" @WSJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WSJ",
+						"name": "Wall Street Journal",
+						"id": 3108351,
+						"id_str": "3108351",
+						"indices": [
+							133,
+							137
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 227088715,
+				"id_str": "227088715",
+				"name": "Tawnell Hobbs",
+				"screen_name": "Tawnell",
+				"location": "Dallas, Texas",
+				"description": "Tawnell Hobbs is the national K-12 education reporter for The Wall Street Journal. tawnell.hobbs@wsj.com (RTs & links not endorsements)",
+				"url": "https://t.co/GhhR6PtDPM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GhhR6PtDPM",
+								"expanded_url": "http://wsj.com",
+								"display_url": "wsj.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2789,
+				"friends_count": 1235,
+				"listed_count": 148,
+				"created_at": "Wed Dec 15 21:50:58 +0000 2010",
+				"favourites_count": 363,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11499,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/822220638685306880/Oa7xM5ZE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/822220638685306880/Oa7xM5ZE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/227088715/1468874050",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 154,
+			"favorite_count": 225,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 154,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jan 28 17:30:56 +0000 2017",
 		"id": 825395749810794500,
 		"id_str": "825395749810794497",
