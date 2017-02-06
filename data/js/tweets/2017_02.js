@@ -1,6 +1,614 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sun Feb 05 20:14:52 +0000 2017",
+		"id": 828336109612572700,
+		"id_str": "828336109612572673",
+		"text": "RT @RiceMagazine: Of course, Rice Owls are our favorite #superbOwl, @audubonsociety. https://t.co/m7L3KmgQyV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "superbOwl",
+					"indices": [
+						56,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RiceMagazine",
+					"name": "Rice Magazine",
+					"id": 818277450,
+					"id_str": "818277450",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "audubonsociety",
+					"name": "Audubon Society",
+					"id": 19711765,
+					"id_str": "19711765",
+					"indices": [
+						68,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m7L3KmgQyV",
+					"expanded_url": "https://twitter.com/audubonsociety/status/828319843195699201",
+					"display_url": "twitter.com/audubonsociety…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 356,
+			"friends_count": 788,
+			"listed_count": 25,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2617,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 05 20:05:07 +0000 2017",
+			"id": 828333653704978400,
+			"id_str": "828333653704978432",
+			"text": "Of course, Rice Owls are our favorite #superbOwl, @audubonsociety. https://t.co/m7L3KmgQyV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "superbOwl",
+						"indices": [
+							38,
+							48
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "audubonsociety",
+						"name": "Audubon Society",
+						"id": 19711765,
+						"id_str": "19711765",
+						"indices": [
+							50,
+							65
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/m7L3KmgQyV",
+						"expanded_url": "https://twitter.com/audubonsociety/status/828319843195699201",
+						"display_url": "twitter.com/audubonsociety…",
+						"indices": [
+							67,
+							90
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 818277450,
+				"id_str": "818277450",
+				"name": "Rice Magazine",
+				"screen_name": "RiceMagazine",
+				"location": "Houston, Texas",
+				"description": "Capturing Rice University in word and image since 1945. Freelancers welcome.",
+				"url": "https://t.co/Tk1rJ765yq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Tk1rJ765yq",
+								"expanded_url": "http://magazine.rice.edu",
+								"display_url": "magazine.rice.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 867,
+				"friends_count": 903,
+				"listed_count": 30,
+				"created_at": "Tue Sep 11 22:04:33 +0000 2012",
+				"favourites_count": 926,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1386,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/824298326866571264/pzMFTnDP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/824298326866571264/pzMFTnDP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/818277450/1472748378",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 828319843195699200,
+			"quoted_status_id_str": "828319843195699201",
+			"quoted_status": {
+				"created_at": "Sun Feb 05 19:10:14 +0000 2017",
+				"id": 828319843195699200,
+				"id_str": "828319843195699201",
+				"text": "We think all owls are superb but do you have a favorite #SuperbOwl? https://t.co/ndZw2kJ0mt",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "SuperbOwl",
+							"indices": [
+								56,
+								66
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 828319838212911100,
+							"id_str": "828319838212911104",
+							"indices": [
+								68,
+								91
+							],
+							"media_url": "http://pbs.twimg.com/media/C37IgRUW8AAo-Uu.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C37IgRUW8AAo-Uu.jpg",
+							"url": "https://t.co/ndZw2kJ0mt",
+							"display_url": "pic.twitter.com/ndZw2kJ0mt",
+							"expanded_url": "https://twitter.com/audubonsociety/status/828319843195699201/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 363,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 641,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1500,
+									"h": 801,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 828319838212911100,
+							"id_str": "828319838212911104",
+							"indices": [
+								68,
+								91
+							],
+							"media_url": "http://pbs.twimg.com/media/C37IgRUW8AAo-Uu.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C37IgRUW8AAo-Uu.jpg",
+							"url": "https://t.co/ndZw2kJ0mt",
+							"display_url": "pic.twitter.com/ndZw2kJ0mt",
+							"expanded_url": "https://twitter.com/audubonsociety/status/828319843195699201/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 363,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 641,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1500,
+									"h": 801,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 19711765,
+					"id_str": "19711765",
+					"name": "Audubon Society",
+					"screen_name": "audubonsociety",
+					"location": "U.S.",
+					"description": "The original tweeters. \nAudubon protects birds and the places they need, today and tomorrow.",
+					"url": "http://t.co/7QASQ1QJEg",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/7QASQ1QJEg",
+									"expanded_url": "http://www.audubon.org",
+									"display_url": "audubon.org",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 117408,
+					"friends_count": 18303,
+					"listed_count": 3043,
+					"created_at": "Thu Jan 29 14:02:16 +0000 2009",
+					"favourites_count": 1517,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 21189,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "00867B",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/684129773736595456/IxqHQDrO.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/684129773736595456/IxqHQDrO.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/685157347854036992/vDU6HZQR_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/685157347854036992/vDU6HZQR_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/19711765/1452271915",
+					"profile_link_color": "009086",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "F6F6F6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 139,
+				"favorite_count": 273,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 828319843195699200,
+		"quoted_status_id_str": "828319843195699201",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 05 17:33:37 +0000 2017",
+		"id": 828295529507455000,
+		"id_str": "828295529507454976",
+		"text": "Happy Superb Owl Sunday to all the super owls of #RiceUniversity :) https://t.co/egO3SaukdU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RiceUniversity",
+					"indices": [
+						49,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 828295497983029200,
+					"id_str": "828295497983029249",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/C36yXe5VcAEFb2r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C36yXe5VcAEFb2r.jpg",
+					"url": "https://t.co/egO3SaukdU",
+					"display_url": "pic.twitter.com/egO3SaukdU",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/828295529507454976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1109,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 887,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 828295497983029200,
+					"id_str": "828295497983029249",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/C36yXe5VcAEFb2r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C36yXe5VcAEFb2r.jpg",
+					"url": "https://t.co/egO3SaukdU",
+					"display_url": "pic.twitter.com/egO3SaukdU",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/828295529507454976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1109,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 887,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "http://t.co/C9ahmwKFFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C9ahmwKFFM",
+							"expanded_url": "http://acdigitalpedagogy.org",
+							"display_url": "acdigitalpedagogy.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 356,
+			"friends_count": 788,
+			"listed_count": 25,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2617,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 03 18:42:02 +0000 2017",
 		"id": 827587970664382500,
 		"id_str": "827587970664382464",
