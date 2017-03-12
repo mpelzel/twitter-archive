@@ -1,6 +1,398 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sat Mar 11 04:00:04 +0000 2017",
+		"id": 840411977965019100,
+		"id_str": "840411977965019136",
+		"text": "RT @brainpicker: “The truth is, most of us discover where we are headed when we arrive.”Calvin &amp;Hobbes creator Bill Watterson on life https…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brainpicker",
+					"name": "Maria Popova",
+					"id": 9207632,
+					"id_str": "9207632",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 397,
+			"friends_count": 840,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2779,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2563,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 10 00:02:02 +0000 2017",
+			"id": 839989687901179900,
+			"id_str": "839989687901179905",
+			"text": "“The truth is, most of us discover where we are headed when we arrive.”Calvin &amp;Hobbes creator Bill Watterson on life https://t.co/PQWUHdW5za",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PQWUHdW5za",
+						"expanded_url": "https://www.brainpickings.org/2013/05/20/bill-watterson-1990-kenyon-speech/",
+						"display_url": "brainpickings.org/2013/05/20/bil…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9207632,
+				"id_str": "9207632",
+				"name": "Maria Popova",
+				"screen_name": "brainpicker",
+				"location": "Brooklyn, NY",
+				"description": "Reader, writer.",
+				"url": "http://t.co/j1Rss5YgMu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/j1Rss5YgMu",
+								"expanded_url": "http://brainpickings.org",
+								"display_url": "brainpickings.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 727165,
+				"friends_count": 297,
+				"listed_count": 25857,
+				"created_at": "Tue Oct 02 14:18:16 +0000 2007",
+				"favourites_count": 947,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 114465,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFDB00",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/497431340292128768/pY1bFk_F.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/497431340292128768/pY1bFk_F.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/577255253852065794/qGnSwsBR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/577255253852065794/qGnSwsBR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9207632/1430428764",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EBEAE5",
+				"profile_text_color": "3F3F3F",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 243,
+			"favorite_count": 534,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 243,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Mar 11 03:10:35 +0000 2017",
+		"id": 840399525294534700,
+		"id_str": "840399525294534658",
+		"text": "Design Competition — or Ideological Crisis? The Border Wall https://t.co/Gtb3KzPtCf @MadsRose https://t.co/eIaD0rEpzz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MadsRose",
+					"name": "Madeleine Pelzel",
+					"id": 532725843,
+					"id_str": "532725843",
+					"indices": [
+						84,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Gtb3KzPtCf",
+					"expanded_url": "https://nyti.ms/2mawGa2",
+					"display_url": "nyti.ms/2mawGa2",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 840399400413290500,
+					"id_str": "840399400413290497",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/C6myzVMV4AEM0Ry.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6myzVMV4AEM0Ry.jpg",
+					"url": "https://t.co/eIaD0rEpzz",
+					"display_url": "pic.twitter.com/eIaD0rEpzz",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/840399525294534658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 555,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1514,
+							"h": 1236,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 840399400413290500,
+					"id_str": "840399400413290497",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/C6myzVMV4AEM0Ry.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6myzVMV4AEM0Ry.jpg",
+					"url": "https://t.co/eIaD0rEpzz",
+					"display_url": "pic.twitter.com/eIaD0rEpzz",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/840399525294534658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 555,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1514,
+							"h": 1236,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 397,
+			"friends_count": 840,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2779,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2563,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Mar 10 21:12:17 +0000 2017",
 		"id": 840309355035660300,
 		"id_str": "840309355035660296",
