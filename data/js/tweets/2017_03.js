@@ -1,6 +1,1068 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sun Mar 12 22:14:40 +0000 2017",
+		"id": 841049832282292200,
+		"id_str": "841049832282292224",
+		"text": "RT @MJGerson: The moral rot of Trump Republicanism. https://t.co/5fQHTbL7vr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MJGerson",
+					"name": "Michael Gerson",
+					"id": 21394764,
+					"id_str": "21394764",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5fQHTbL7vr",
+					"expanded_url": "https://twitter.com/stevekingia/status/840980755236999169",
+					"display_url": "twitter.com/stevekingia/st…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395,
+			"friends_count": 841,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2784,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2566,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 12 21:11:29 +0000 2017",
+			"id": 841033932560846800,
+			"id_str": "841033932560846849",
+			"text": "The moral rot of Trump Republicanism. https://t.co/5fQHTbL7vr",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5fQHTbL7vr",
+						"expanded_url": "https://twitter.com/stevekingia/status/840980755236999169",
+						"display_url": "twitter.com/stevekingia/st…",
+						"indices": [
+							38,
+							61
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21394764,
+				"id_str": "21394764",
+				"name": "Michael Gerson",
+				"screen_name": "MJGerson",
+				"location": "Washington, DC",
+				"description": "Syndicated columnist, in Washington Post on Tuesdays and Fridays. Focus on politics, culture, global health, religion, foreign policy.",
+				"url": "https://t.co/YGDLMNx9hi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YGDLMNx9hi",
+								"expanded_url": "http://www.washingtonpost.com/wp-dyn/content/linkset/2007/09/26/LI2007092601982.html",
+								"display_url": "washingtonpost.com/wp-dyn/content…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29569,
+				"friends_count": 267,
+				"listed_count": 1018,
+				"created_at": "Fri Feb 20 13:07:34 +0000 2009",
+				"favourites_count": 35,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5139,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823128923630276608/YdtBwQnb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823128923630276608/YdtBwQnb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21394764/1485084170",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 840980755236999200,
+			"quoted_status_id_str": "840980755236999169",
+			"quoted_status": {
+				"created_at": "Sun Mar 12 17:40:11 +0000 2017",
+				"id": 840980755236999200,
+				"id_str": "840980755236999169",
+				"text": "Wilders understands that culture and demographics are our destiny. We can't restore our civilization with somebody… https://t.co/suNFm5lxHd",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/suNFm5lxHd",
+							"expanded_url": "https://twitter.com/i/web/status/840980755236999169",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 48117116,
+					"id_str": "48117116",
+					"name": "Steve King",
+					"screen_name": "SteveKingIA",
+					"location": "Washington, DC",
+					"description": "Representing the 4th District of Iowa #IA04",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 41673,
+					"friends_count": 120,
+					"listed_count": 1846,
+					"created_at": "Wed Jun 17 21:09:41 +0000 2009",
+					"favourites_count": 31,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 1743,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "061025",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/754533290/a5a14aee15b600f41c00351b636fa575.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/754533290/a5a14aee15b600f41c00351b636fa575.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/562285752105443328/YNSd5Sq5_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/562285752105443328/YNSd5Sq5_normal.jpeg",
+					"profile_link_color": "061025",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "D1AF59",
+					"profile_text_color": "061025",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "3cd4c18d3615bbc9",
+					"url": "https://api.twitter.com/1.1/geo/id/3cd4c18d3615bbc9.json",
+					"place_type": "admin",
+					"name": "Iowa",
+					"full_name": "Iowa, USA",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-96.6396669,
+									40.375437
+								],
+								[
+									-90.140061,
+									40.375437
+								],
+								[
+									-90.140061,
+									43.50102
+								],
+								[
+									-96.6396669,
+									43.50102
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 840724494113206300,
+				"quoted_status_id_str": "840724494113206272",
+				"retweet_count": 3406,
+				"favorite_count": 5174,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 79,
+			"favorite_count": 179,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 840980755236999200,
+		"quoted_status_id_str": "840980755236999169",
+		"retweet_count": 79,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 12 18:13:17 +0000 2017",
+		"id": 840989085497991200,
+		"id_str": "840989085497991172",
+		"text": "RT @JohnJHarwood: Ryan on health care under GOP bill: \"you get it if you want it. that's freedom\" https://t.co/34L6XlQanu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JohnJHarwood",
+					"name": "John Harwood",
+					"id": 259395895,
+					"id_str": "259395895",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/34L6XlQanu",
+					"expanded_url": "https://twitter.com/braddjaffy/status/840943495816839168",
+					"display_url": "twitter.com/braddjaffy/sta…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395,
+			"friends_count": 841,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2784,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2566,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 12 15:56:51 +0000 2017",
+			"id": 840954749151301600,
+			"id_str": "840954749151301634",
+			"text": "Ryan on health care under GOP bill: \"you get it if you want it. that's freedom\" https://t.co/34L6XlQanu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/34L6XlQanu",
+						"expanded_url": "https://twitter.com/braddjaffy/status/840943495816839168",
+						"display_url": "twitter.com/braddjaffy/sta…",
+						"indices": [
+							80,
+							103
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 259395895,
+				"id_str": "259395895",
+				"name": "John Harwood",
+				"screen_name": "JohnJHarwood",
+				"location": "Washington, DC",
+				"description": "a Dad who covers Washington, the economy and national politics for CNBC and the New York Times. Find my Speakeasy interviews at http://t.co/1W6sZsKzib",
+				"url": "http://t.co/Y2lKsflFRI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Y2lKsflFRI",
+								"expanded_url": "http://www.cnbc.com",
+								"display_url": "cnbc.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/1W6sZsKzib",
+								"expanded_url": "http://cnbc.com/Speakeasy",
+								"display_url": "cnbc.com/Speakeasy",
+								"indices": [
+									128,
+									150
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 119256,
+				"friends_count": 1110,
+				"listed_count": 3523,
+				"created_at": "Tue Mar 01 20:49:40 +0000 2011",
+				"favourites_count": 159,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 65307,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/214364094/CNBC_Twitter_new.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/214364094/CNBC_Twitter_new.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1264935685/jh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264935685/jh_normal.jpg",
+				"profile_link_color": "3473A3",
+				"profile_sidebar_border_color": "CFCFCF",
+				"profile_sidebar_fill_color": "E3E3E3",
+				"profile_text_color": "5E5E5E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 840943495816839200,
+			"quoted_status_id_str": "840943495816839168",
+			"quoted_status": {
+				"created_at": "Sun Mar 12 15:12:08 +0000 2017",
+				"id": 840943495816839200,
+				"id_str": "840943495816839168",
+				"text": "Q: How many will lose coverage under GOP health plan?\n\nPaul Ryan: “I can't answer that question. It's up to people.”\nhttps://t.co/hqgWoSfDIE",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 840942557840433200,
+							"id_str": "840942557840433153",
+							"indices": [
+								117,
+								140
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/840942557840433153/pu/img/Pv4fjGrF-qtnsB3p.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/840942557840433153/pu/img/Pv4fjGrF-qtnsB3p.jpg",
+							"url": "https://t.co/hqgWoSfDIE",
+							"display_url": "pic.twitter.com/hqgWoSfDIE",
+							"expanded_url": "https://twitter.com/FaceTheNation/status/840942595173961732/video/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 600,
+									"h": 338,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 191,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 640,
+									"h": 360,
+									"resize": "fit"
+								}
+							},
+							"source_status_id": 840942595173961700,
+							"source_status_id_str": "840942595173961732",
+							"source_user_id": 205392468,
+							"source_user_id_str": "205392468"
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 840942557840433200,
+							"id_str": "840942557840433153",
+							"indices": [
+								117,
+								140
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/840942557840433153/pu/img/Pv4fjGrF-qtnsB3p.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/840942557840433153/pu/img/Pv4fjGrF-qtnsB3p.jpg",
+							"url": "https://t.co/hqgWoSfDIE",
+							"display_url": "pic.twitter.com/hqgWoSfDIE",
+							"expanded_url": "https://twitter.com/FaceTheNation/status/840942595173961732/video/1",
+							"type": "video",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 600,
+									"h": 338,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 191,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 640,
+									"h": 360,
+									"resize": "fit"
+								}
+							},
+							"source_status_id": 840942595173961700,
+							"source_status_id_str": "840942595173961732",
+							"source_user_id": 205392468,
+							"source_user_id_str": "205392468",
+							"video_info": {
+								"aspect_ratio": [
+									16,
+									9
+								],
+								"duration_millis": 77110,
+								"variants": [
+									{
+										"bitrate": 320000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/840942557840433153/pu/vid/320x180/e-k52_NVYZ_lrR18.mp4"
+									},
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/ext_tw_video/840942557840433153/pu/pl/XHVCnPeyhLIPVmDO.m3u8"
+									},
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/840942557840433153/pu/vid/640x360/7XNvxFKr18HFdMrA.mp4"
+									}
+								]
+							},
+							"additional_media_info": {
+								"monetizable": false,
+								"source_user": {
+									"id": 205392468,
+									"id_str": "205392468",
+									"name": "Face The Nation",
+									"screen_name": "FaceTheNation",
+									"location": "Washington, DC",
+									"description": "CBS News Face the Nation is one of the longest-running news programs in the history of television.",
+									"url": "http://t.co/mEuxzh5BbK",
+									"entities": {
+										"url": {
+											"urls": [
+												{
+													"url": "http://t.co/mEuxzh5BbK",
+													"expanded_url": "http://facethenation.com",
+													"display_url": "facethenation.com",
+													"indices": [
+														0,
+														22
+													]
+												}
+											]
+										},
+										"description": {
+											"urls": []
+										}
+									},
+									"protected": false,
+									"followers_count": 420014,
+									"friends_count": 446,
+									"listed_count": 1839,
+									"created_at": "Wed Oct 20 19:37:47 +0000 2010",
+									"favourites_count": 234,
+									"utc_offset": -14400,
+									"time_zone": "Eastern Time (US & Canada)",
+									"geo_enabled": true,
+									"verified": true,
+									"statuses_count": 17952,
+									"lang": "en",
+									"contributors_enabled": false,
+									"is_translator": false,
+									"is_translation_enabled": false,
+									"profile_background_color": "810A06",
+									"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/662667508/qjaxwmjgjyuilfsvnl2j.jpeg",
+									"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/662667508/qjaxwmjgjyuilfsvnl2j.jpeg",
+									"profile_background_tile": false,
+									"profile_image_url": "http://pbs.twimg.com/profile_images/429344693113999362/hZdiIVQu_normal.jpeg",
+									"profile_image_url_https": "https://pbs.twimg.com/profile_images/429344693113999362/hZdiIVQu_normal.jpeg",
+									"profile_banner_url": "https://pbs.twimg.com/profile_banners/205392468/1447583897",
+									"profile_link_color": "B12124",
+									"profile_sidebar_border_color": "FFFFFF",
+									"profile_sidebar_fill_color": "F6F6F6",
+									"profile_text_color": "333333",
+									"profile_use_background_image": true,
+									"has_extended_profile": true,
+									"default_profile": false,
+									"default_profile_image": false,
+									"following": false,
+									"follow_request_sent": false,
+									"notifications": false,
+									"translator_type": "none"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": 840934081886113800,
+				"in_reply_to_status_id_str": "840934081886113792",
+				"in_reply_to_user_id": 299802277,
+				"in_reply_to_user_id_str": "299802277",
+				"in_reply_to_screen_name": "BraddJaffy",
+				"user": {
+					"id": 299802277,
+					"id_str": "299802277",
+					"name": "Bradd Jaffy",
+					"screen_name": "BraddJaffy",
+					"location": "New York",
+					"description": "NBC News • Senior news editor and writer, NBC Nightly News. The more em dashes — the merrier.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 121144,
+					"friends_count": 1271,
+					"listed_count": 2663,
+					"created_at": "Mon May 16 18:07:07 +0000 2011",
+					"favourites_count": 5302,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 20824,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/742877908860035072/zo99SwhU_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/742877908860035072/zo99SwhU_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/299802277/1453305171",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1575,
+				"favorite_count": 1523,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 241,
+			"favorite_count": 208,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 840943495816839200,
+		"quoted_status_id_str": "840943495816839168",
+		"retweet_count": 241,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 12 16:51:02 +0000 2017",
+		"id": 840968384745480200,
+		"id_str": "840968384745480193",
+		"text": "RT @tribelaw: Caught redhanded!⚡️ “Texas lawmakers illegally drew three voting districts on racial lines”\n\nhttps://t.co/GnzFv7X64I",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tribelaw",
+					"name": "Laurence Tribe",
+					"id": 4091551984,
+					"id_str": "4091551984",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GnzFv7X64I",
+					"expanded_url": "https://twitter.com/i/moments/840708441224163328",
+					"display_url": "twitter.com/i/moments/8407…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395,
+			"friends_count": 841,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2784,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2566,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 12 01:39:09 +0000 2017",
+			"id": 840738903493627900,
+			"id_str": "840738903493627904",
+			"text": "Caught redhanded!⚡️ “Texas lawmakers illegally drew three voting districts on racial lines”\n\nhttps://t.co/GnzFv7X64I",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GnzFv7X64I",
+						"expanded_url": "https://twitter.com/i/moments/840708441224163328",
+						"display_url": "twitter.com/i/moments/8407…",
+						"indices": [
+							93,
+							116
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4091551984,
+				"id_str": "4091551984",
+				"name": "Laurence Tribe",
+				"screen_name": "tribelaw",
+				"location": "",
+				"description": "Descartes' last words: I think not.",
+				"url": "https://t.co/5kDQlyJvbV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5kDQlyJvbV",
+								"expanded_url": "http://hls.harvard.edu/faculty/directory/10899/Tribe",
+								"display_url": "hls.harvard.edu/faculty/direct…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 82146,
+				"friends_count": 729,
+				"listed_count": 1043,
+				"created_at": "Sun Nov 01 17:43:49 +0000 2015",
+				"favourites_count": 843,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7717,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/661228828941946880/5kuuC-pL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/661228828941946880/5kuuC-pL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4091551984/1481052945",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "13f1b1eadfb47f9b",
+				"url": "https://api.twitter.com/1.1/geo/id/13f1b1eadfb47f9b.json",
+				"place_type": "city",
+				"name": "Brookline",
+				"full_name": "Brookline, MA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-71.178586,
+								42.29466
+							],
+							[
+								-71.105725,
+								42.29466
+							],
+							[
+								-71.105725,
+								42.351818
+							],
+							[
+								-71.178586,
+								42.351818
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 357,
+			"favorite_count": 512,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 357,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Mar 11 04:00:04 +0000 2017",
 		"id": 840411977965019100,
 		"id_str": "840411977965019136",
