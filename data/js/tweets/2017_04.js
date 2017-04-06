@@ -1,6 +1,1409 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Wed Apr 05 21:12:49 +0000 2017",
+		"id": 849731574220410900,
+		"id_str": "849731574220410881",
+		"text": "RT @lnaturale: At the end of the day, you're another day older\nAnd you can spell 'Earthling' with a capital 'E'\nUnless you use WNW\nhttps://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lnaturale",
+					"name": "Lauren Naturale",
+					"id": 15024635,
+					"id_str": "15024635",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426,
+			"friends_count": 780,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2887,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 05 21:00:03 +0000 2017",
+			"id": 849728362016682000,
+			"id_str": "849728362016681984",
+			"text": "At the end of the day, you're another day older\nAnd you can spell 'Earthling' with a capital 'E'\nUnless you use WNW\nhttps://t.co/HBBCy8vQA2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HBBCy8vQA2",
+						"expanded_url": "https://www.washingtonpost.com/news/speaking-of-science/wp/2017/04/05/you-can-now-spell-earthling-with-a-capital-e-and-heres-why/",
+						"display_url": "washingtonpost.com/news/speaking-…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15024635,
+				"id_str": "15024635",
+				"name": "Lauren Naturale",
+				"screen_name": "lnaturale",
+				"location": "laurennaturale at gmail",
+				"description": "Social media @MerriamWebster; all words here are my own. Writing in @TheToast, @BitchMedia, @CicadaMagazine, @InterstitialArt, @Haikasoru, @BNSciFi.",
+				"url": "https://t.co/tag0WfKOLO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tag0WfKOLO",
+								"expanded_url": "http://laurennaturale.com",
+								"display_url": "laurennaturale.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2532,
+				"friends_count": 775,
+				"listed_count": 57,
+				"created_at": "Thu Jun 05 23:04:42 +0000 2008",
+				"favourites_count": 8175,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6886,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CCFFCC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000163217831/SPVobpoh.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000163217831/SPVobpoh.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/810874532328275968/rtL0h2Sv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/810874532328275968/rtL0h2Sv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15024635/1464215741",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 05 17:04:43 +0000 2017",
+		"id": 849669137274204200,
+		"id_str": "849669137274204161",
+		"text": "Looking forward to listening to the podcast and reading \"Hallelujah Anyway: Rediscovering Mercy,\" by @ANNELAMOTT https://t.co/RJg1YqVKQI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ANNELAMOTT",
+					"name": "ANNE LAMOTT",
+					"id": 389974502,
+					"id_str": "389974502",
+					"indices": [
+						101,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RJg1YqVKQI",
+					"expanded_url": "https://twitter.com/kerathink/status/849323224131399681",
+					"display_url": "twitter.com/kerathink/stat…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426,
+			"friends_count": 780,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2887,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 849323224131399700,
+		"quoted_status_id_str": "849323224131399681",
+		"quoted_status": {
+			"created_at": "Tue Apr 04 18:10:10 +0000 2017",
+			"id": 849323224131399700,
+			"id_str": "849323224131399681",
+			"text": ".@ANNELAMOTT  is the author of \"Hallelujah Anyway: Rediscovering Mercy.\" https://t.co/ZgLaXwcbnY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ANNELAMOTT",
+						"name": "ANNE LAMOTT",
+						"id": 389974502,
+						"id_str": "389974502",
+						"indices": [
+							1,
+							12
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ZgLaXwcbnY",
+						"expanded_url": "http://ow.ly/MnOM30ayrVL",
+						"display_url": "ow.ly/MnOM30ayrVL",
+						"indices": [
+							73,
+							96
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18693680,
+				"id_str": "18693680",
+				"name": "Think on KERA",
+				"screen_name": "kerathink",
+				"location": "Dallas, TX",
+				"description": "Award-winning call-in show exploring current affairs, arts, science, and more. Airs Mon – Thurs from noon – 2p CT & Fri from 1-2p CT on @keratx @keranews.",
+				"url": "https://t.co/ovvMWjDLZS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ovvMWjDLZS",
+								"expanded_url": "http://kera.org/think",
+								"display_url": "kera.org/think",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1487,
+				"friends_count": 311,
+				"listed_count": 38,
+				"created_at": "Tue Jan 06 20:32:10 +0000 2009",
+				"favourites_count": 1224,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2442,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/816388584437477376/7FM9fkt2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/816388584437477376/7FM9fkt2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18693680/1483477620",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 05 15:20:09 +0000 2017",
+		"id": 849642824572305400,
+		"id_str": "849642824572305408",
+		"text": "RT @DH_UNT: #UNT #DayofDH kicks off with #GIS #SpatialHumanites https://t.co/2AkLXZzd0R",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UNT",
+					"indices": [
+						12,
+						16
+					]
+				},
+				{
+					"text": "DayofDH",
+					"indices": [
+						17,
+						25
+					]
+				},
+				{
+					"text": "GIS",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "SpatialHumanites",
+					"indices": [
+						46,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DH_UNT",
+					"name": "DH @ UNT",
+					"id": 823962349874872300,
+					"id_str": "823962349874872326",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2AkLXZzd0R",
+					"expanded_url": "https://twitter.com/hauntologist/status/849641280753680384",
+					"display_url": "twitter.com/hauntologist/s…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426,
+			"friends_count": 780,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2887,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 05 15:18:18 +0000 2017",
+			"id": 849642359067422700,
+			"id_str": "849642359067422720",
+			"text": "#UNT #DayofDH kicks off with #GIS #SpatialHumanites https://t.co/2AkLXZzd0R",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UNT",
+						"indices": [
+							0,
+							4
+						]
+					},
+					{
+						"text": "DayofDH",
+						"indices": [
+							5,
+							13
+						]
+					},
+					{
+						"text": "GIS",
+						"indices": [
+							29,
+							33
+						]
+					},
+					{
+						"text": "SpatialHumanites",
+						"indices": [
+							34,
+							51
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2AkLXZzd0R",
+						"expanded_url": "https://twitter.com/hauntologist/status/849641280753680384",
+						"display_url": "twitter.com/hauntologist/s…",
+						"indices": [
+							52,
+							75
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 823962349874872300,
+				"id_str": "823962349874872326",
+				"name": "DH @ UNT",
+				"screen_name": "DH_UNT",
+				"location": "Denton, TX",
+				"description": "Digital Humanities news and events at the University of North Texas",
+				"url": "https://t.co/G5O3RXYcrr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/G5O3RXYcrr",
+								"expanded_url": "https://blogs.library.unt.edu/digital-humanities/",
+								"display_url": "blogs.library.unt.edu/digital-humani…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 90,
+				"friends_count": 206,
+				"listed_count": 2,
+				"created_at": "Tue Jan 24 18:35:07 +0000 2017",
+				"favourites_count": 98,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 158,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823965373007425536/tKhu0QJO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823965373007425536/tKhu0QJO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/823962349874872326/1485284537",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 849641280753680400,
+			"quoted_status_id_str": "849641280753680384",
+			"quoted_status": {
+				"created_at": "Wed Apr 05 15:14:01 +0000 2017",
+				"id": 849641280753680400,
+				"id_str": "849641280753680384",
+				"text": "@unt_libraries #GIS librarian introducing mapping technology for humanities research #DayodDH @… https://t.co/EUTMVvAz2K",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "GIS",
+							"indices": [
+								15,
+								19
+							]
+						},
+						{
+							"text": "DayodDH",
+							"indices": [
+								85,
+								93
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "UNT_Libraries",
+							"name": "UNT Libraries",
+							"id": 2414973943,
+							"id_str": "2414973943",
+							"indices": [
+								0,
+								14
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/EUTMVvAz2K",
+							"expanded_url": "https://www.instagram.com/p/BSgh-6vhjbg/",
+							"display_url": "instagram.com/p/BSgh-6vhjbg/",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": 2414973943,
+				"in_reply_to_user_id_str": "2414973943",
+				"in_reply_to_screen_name": "UNT_Libraries",
+				"user": {
+					"id": 28152475,
+					"id_str": "28152475",
+					"name": "Spence(r) Keralis",
+					"screen_name": "hauntologist",
+					"location": "Denton, TX",
+					"description": "New media, old media, queer culture, early America. Also bunnies and cupcakes. Opinions are my own (duh). I run @DigiFront & @DH_UNT Pronouns: he/him",
+					"url": "http://t.co/UPy32NDDyd",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/UPy32NDDyd",
+									"expanded_url": "http://www.researchanddestroy.net",
+									"display_url": "researchanddestroy.net",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1349,
+					"friends_count": 2400,
+					"listed_count": 92,
+					"created_at": "Wed Apr 01 17:43:55 +0000 2009",
+					"favourites_count": 4047,
+					"utc_offset": -18000,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 11039,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "382B2A",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/98575419/G_C_cover3-14-10.JPG",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/98575419/G_C_cover3-14-10.JPG",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/663858283497676800/9euCn0fH_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/663858283497676800/9euCn0fH_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/28152475/1448386387",
+					"profile_link_color": "9E1F1D",
+					"profile_sidebar_border_color": "829D5E",
+					"profile_sidebar_fill_color": "E6AF22",
+					"profile_text_color": "3E4415",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": {
+					"type": "Point",
+					"coordinates": [
+						33.20992743,
+						-97.1488999
+					]
+				},
+				"coordinates": {
+					"type": "Point",
+					"coordinates": [
+						-97.1488999,
+						33.20992743
+					]
+				},
+				"place": {
+					"id": "f77b0bf942a40070",
+					"url": "https://api.twitter.com/1.1/geo/id/f77b0bf942a40070.json",
+					"place_type": "city",
+					"name": "Denton",
+					"full_name": "Denton, TX",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-97.187543,
+									33.1289384
+								],
+								[
+									-97.041998,
+									33.1289384
+								],
+								[
+									-97.041998,
+									33.276053
+								],
+								[
+									-97.187543,
+									33.276053
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 849641280753680400,
+		"quoted_status_id_str": "849641280753680384",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 05 15:06:52 +0000 2017",
+		"id": 849639482076930000,
+		"id_str": "849639482076930052",
+		"text": "Some good stuff coming out of @DH_UNT @bboessen https://t.co/tq1NodiQGq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DH_UNT",
+					"name": "DH @ UNT",
+					"id": 823962349874872300,
+					"id_str": "823962349874872326",
+					"indices": [
+						30,
+						37
+					]
+				},
+				{
+					"screen_name": "bboessen",
+					"name": "Brett Boessen",
+					"id": 6935872,
+					"id_str": "6935872",
+					"indices": [
+						38,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tq1NodiQGq",
+					"expanded_url": "https://twitter.com/DH_UNT/status/849639083014070272",
+					"display_url": "twitter.com/DH_UNT/status/…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426,
+			"friends_count": 780,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2887,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 849639083014070300,
+		"quoted_status_id_str": "849639083014070272",
+		"quoted_status": {
+			"created_at": "Wed Apr 05 15:05:17 +0000 2017",
+			"id": 849639083014070300,
+			"id_str": "849639083014070272",
+			"text": "Want to get into video games, but don't know where to start? Here's a guide  to get you going! https://t.co/cQ5Pu78Fdh #DayofDH #UNT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DayofDH",
+						"indices": [
+							119,
+							127
+						]
+					},
+					{
+						"text": "UNT",
+						"indices": [
+							128,
+							132
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cQ5Pu78Fdh",
+						"expanded_url": "http://ow.ly/NBI930ayZFj",
+						"display_url": "ow.ly/NBI930ayZFj",
+						"indices": [
+							95,
+							118
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 823962349874872300,
+				"id_str": "823962349874872326",
+				"name": "DH @ UNT",
+				"screen_name": "DH_UNT",
+				"location": "Denton, TX",
+				"description": "Digital Humanities news and events at the University of North Texas",
+				"url": "https://t.co/G5O3RXYcrr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/G5O3RXYcrr",
+								"expanded_url": "https://blogs.library.unt.edu/digital-humanities/",
+								"display_url": "blogs.library.unt.edu/digital-humani…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 90,
+				"friends_count": 206,
+				"listed_count": 2,
+				"created_at": "Tue Jan 24 18:35:07 +0000 2017",
+				"favourites_count": 98,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 158,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823965373007425536/tKhu0QJO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823965373007425536/tKhu0QJO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/823962349874872326/1485284537",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 05 14:50:50 +0000 2017",
+		"id": 849635447127105500,
+		"id_str": "849635447127105536",
+		"text": "New at #ACDigPed17: \"Transforming the Chinese Language Curriculum,\" by Jennifer Johnson-Cooper… https://t.co/aeByYktSRQ",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ACDigPed17",
+					"indices": [
+						7,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aeByYktSRQ",
+					"expanded_url": "https://twitter.com/i/web/status/849635447127105536",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426,
+			"friends_count": 780,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2887,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 05 02:30:04 +0000 2017",
+		"id": 849449026969894900,
+		"id_str": "849449026969894912",
+		"text": "\"Trump is literally being trolled by the dictionary.\" https://t.co/GlAi5lzZDt https://t.co/ELSDbyykf4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GlAi5lzZDt",
+					"expanded_url": "http://wapo.st/2oAIwif",
+					"display_url": "wapo.st/2oAIwif",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 849448953280155600,
+					"id_str": "849448953280155650",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/C8nZUosXUAIAUk8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8nZUosXUAIAUk8.jpg",
+					"url": "https://t.co/ELSDbyykf4",
+					"display_url": "pic.twitter.com/ELSDbyykf4",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/849449026969894912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1348,
+							"h": 1046,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 931,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 528,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 849448953280155600,
+					"id_str": "849448953280155650",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/C8nZUosXUAIAUk8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8nZUosXUAIAUk8.jpg",
+					"url": "https://t.co/ELSDbyykf4",
+					"display_url": "pic.twitter.com/ELSDbyykf4",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/849449026969894912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1348,
+							"h": 1046,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 931,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 528,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426,
+			"friends_count": 780,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2887,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Apr 04 23:21:34 +0000 2017",
 		"id": 849401590591180800,
 		"id_str": "849401590591180801",
