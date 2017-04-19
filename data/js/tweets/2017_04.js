@@ -1,6 +1,716 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Tue Apr 18 20:22:08 +0000 2017",
+		"id": 854429861124997100,
+		"id_str": "854429861124997120",
+		"text": "RT @CatholicNewsSvc: Not just another ‘trade meeting,’ convocation seeks to unify U.S. church https://t.co/mlAZdufz7D https://t.co/PPeRCEeL…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CatholicNewsSvc",
+					"name": "Catholic News Svc",
+					"id": 17136419,
+					"id_str": "17136419",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mlAZdufz7D",
+					"expanded_url": "http://cnstopstories.com/2017/04/18/not-just-another-trade-meeting-convocation-seeks-to-unify-u-s-church",
+					"display_url": "cnstopstories.com/2017/04/18/not…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 418,
+			"friends_count": 797,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2931,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3085,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 18 19:23:44 +0000 2017",
+			"id": 854415167014273000,
+			"id_str": "854415167014273024",
+			"text": "Not just another ‘trade meeting,’ convocation seeks to unify U.S. church https://t.co/mlAZdufz7D https://t.co/PPeRCEeLJR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mlAZdufz7D",
+						"expanded_url": "http://cnstopstories.com/2017/04/18/not-just-another-trade-meeting-convocation-seeks-to-unify-u-s-church",
+						"display_url": "cnstopstories.com/2017/04/18/not…",
+						"indices": [
+							73,
+							96
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 854415164799541200,
+						"id_str": "854415164799541248",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/C9t-EMSVYAAcqG3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9t-EMSVYAAcqG3.jpg",
+						"url": "https://t.co/PPeRCEeLJR",
+						"display_url": "pic.twitter.com/PPeRCEeLJR",
+						"expanded_url": "https://twitter.com/CatholicNewsSvc/status/854415167014273024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 470,
+								"h": 248,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 470,
+								"h": 248,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 470,
+								"h": 248,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 854415164799541200,
+						"id_str": "854415164799541248",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/C9t-EMSVYAAcqG3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9t-EMSVYAAcqG3.jpg",
+						"url": "https://t.co/PPeRCEeLJR",
+						"display_url": "pic.twitter.com/PPeRCEeLJR",
+						"expanded_url": "https://twitter.com/CatholicNewsSvc/status/854415167014273024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 470,
+								"h": 248,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 470,
+								"h": 248,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 470,
+								"h": 248,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17136419,
+				"id_str": "17136419",
+				"name": "Catholic News Svc",
+				"screen_name": "CatholicNewsSvc",
+				"location": "Washington, DC",
+				"description": "Catholic News Service is a leader in religious news.\r\n\r\nOur mission is to report fully, fairly and freely on the involvement of the church in the world today.",
+				"url": "http://t.co/RBab6bftEi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/RBab6bftEi",
+								"expanded_url": "http://www.catholicnews.com",
+								"display_url": "catholicnews.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 144155,
+				"friends_count": 688,
+				"listed_count": 2804,
+				"created_at": "Mon Nov 03 18:38:01 +0000 2008",
+				"favourites_count": 132,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 68343,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "003399",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/293831095/bg.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/293831095/bg.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/458694809314541568/jPMrNEsB_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/458694809314541568/jPMrNEsB_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17136419/1398196813",
+				"profile_link_color": "003399",
+				"profile_sidebar_border_color": "050505",
+				"profile_sidebar_fill_color": "999999",
+				"profile_text_color": "0F0E0F",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 18 20:16:37 +0000 2017",
+		"id": 854428473854758900,
+		"id_str": "854428473854758912",
+		"text": "RT @MerriamWebster: The #WordOfTheDay is grimalkin. https://t.co/dyI4nxZn48 https://t.co/Sr5hhPhkDD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WordOfTheDay",
+					"indices": [
+						24,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MerriamWebster",
+					"name": "Merriam-Webster",
+					"id": 97040343,
+					"id_str": "97040343",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dyI4nxZn48",
+					"expanded_url": "https://www.merriam-webster.com/word-of-the-day/grimalkin-2017-04-18",
+					"display_url": "merriam-webster.com/word-of-the-da…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 854423962058711000,
+					"id_str": "854423962058711043",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C9uGEQoXYAM4EJY.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C9uGEQoXYAM4EJY.jpg",
+					"url": "https://t.co/Sr5hhPhkDD",
+					"display_url": "pic.twitter.com/Sr5hhPhkDD",
+					"expanded_url": "https://twitter.com/MerriamWebster/status/854423995130798081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 227,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 320,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 854423995130798100,
+					"source_status_id_str": "854423995130798081",
+					"source_user_id": 97040343,
+					"source_user_id_str": "97040343"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 854423962058711000,
+					"id_str": "854423962058711043",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C9uGEQoXYAM4EJY.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C9uGEQoXYAM4EJY.jpg",
+					"url": "https://t.co/Sr5hhPhkDD",
+					"display_url": "pic.twitter.com/Sr5hhPhkDD",
+					"expanded_url": "https://twitter.com/MerriamWebster/status/854423995130798081/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 227,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 320,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 854423995130798100,
+					"source_status_id_str": "854423995130798081",
+					"source_user_id": 97040343,
+					"source_user_id_str": "97040343",
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							2
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C9uGEQoXYAM4EJY.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 418,
+			"friends_count": 797,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2931,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3085,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 18 19:58:49 +0000 2017",
+			"id": 854423995130798100,
+			"id_str": "854423995130798081",
+			"text": "The #WordOfTheDay is grimalkin. https://t.co/dyI4nxZn48 https://t.co/Sr5hhPhkDD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WordOfTheDay",
+						"indices": [
+							4,
+							17
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dyI4nxZn48",
+						"expanded_url": "https://www.merriam-webster.com/word-of-the-day/grimalkin-2017-04-18",
+						"display_url": "merriam-webster.com/word-of-the-da…",
+						"indices": [
+							32,
+							55
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 854423962058711000,
+						"id_str": "854423962058711043",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C9uGEQoXYAM4EJY.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C9uGEQoXYAM4EJY.jpg",
+						"url": "https://t.co/Sr5hhPhkDD",
+						"display_url": "pic.twitter.com/Sr5hhPhkDD",
+						"expanded_url": "https://twitter.com/MerriamWebster/status/854423995130798081/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 320,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 227,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 320,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 854423962058711000,
+						"id_str": "854423962058711043",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C9uGEQoXYAM4EJY.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C9uGEQoXYAM4EJY.jpg",
+						"url": "https://t.co/Sr5hhPhkDD",
+						"display_url": "pic.twitter.com/Sr5hhPhkDD",
+						"expanded_url": "https://twitter.com/MerriamWebster/status/854423995130798081/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 320,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 227,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 320,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								3,
+								2
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/C9uGEQoXYAM4EJY.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 97040343,
+				"id_str": "97040343",
+				"name": "Merriam-Webster",
+				"screen_name": "MerriamWebster",
+				"location": "Springfield, MA",
+				"description": "Word of the Day, facts and observations on language, lookup trends, and wordplay from the editors at Merriam-Webster Dictionary.",
+				"url": "https://t.co/vQxcT3e4Iq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vQxcT3e4Iq",
+								"expanded_url": "http://Merriam-Webster.com",
+								"display_url": "Merriam-Webster.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 432324,
+				"friends_count": 675,
+				"listed_count": 4265,
+				"created_at": "Tue Dec 15 19:07:56 +0000 2009",
+				"favourites_count": 5777,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15019,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "355185",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/677210982616195072/DWj4oUuT_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/677210982616195072/DWj4oUuT_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/97040343/1488398255",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 414,
+			"favorite_count": 777,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 414,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 17 17:18:19 +0000 2017",
 		"id": 854021216293855200,
 		"id_str": "854021216293855232",
