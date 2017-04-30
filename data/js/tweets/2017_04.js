@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sat Apr 29 17:31:50 +0000 2017",
+		"id": 858373270005051400,
+		"id_str": "858373270005051392",
+		"text": "RT @NewYorker: Germany increasingly appears to be the strongest remaining bastion of liberal democracy: https://t.co/6N88fRXO0V https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewYorker",
+					"name": "The New Yorker",
+					"id": 14677919,
+					"id_str": "14677919",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6N88fRXO0V",
+					"expanded_url": "http://nyer.cm/aY7XPTX",
+					"display_url": "nyer.cm/aY7XPTX",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 420,
+			"friends_count": 804,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2941,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3113,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 29 17:30:34 +0000 2017",
+			"id": 858372955180499000,
+			"id_str": "858372955180498945",
+			"text": "Germany increasingly appears to be the strongest remaining bastion of liberal democracy: https://t.co/6N88fRXO0V https://t.co/8gWjU33ZXT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6N88fRXO0V",
+						"expanded_url": "http://nyer.cm/aY7XPTX",
+						"display_url": "nyer.cm/aY7XPTX",
+						"indices": [
+							89,
+							112
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 858372952651333600,
+						"id_str": "858372952651333633",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/C-mNpw-WAAE_C0l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-mNpw-WAAE_C0l.jpg",
+						"url": "https://t.co/8gWjU33ZXT",
+						"display_url": "pic.twitter.com/8gWjU33ZXT",
+						"expanded_url": "https://twitter.com/NewYorker/status/858372955180498945/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 462,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 815,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 815,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 858372952651333600,
+						"id_str": "858372952651333633",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/C-mNpw-WAAE_C0l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-mNpw-WAAE_C0l.jpg",
+						"url": "https://t.co/8gWjU33ZXT",
+						"display_url": "pic.twitter.com/8gWjU33ZXT",
+						"expanded_url": "https://twitter.com/NewYorker/status/858372955180498945/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 462,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 815,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 815,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14677919,
+				"id_str": "14677919",
+				"name": "The New Yorker",
+				"screen_name": "NewYorker",
+				"location": "New York, NY",
+				"description": "The New Yorker is a weekly magazine with a mix of reporting on politics and culture, humor and cartoons, fiction and poetry, and reviews and criticism.",
+				"url": "http://t.co/RJjEvb2dV6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/RJjEvb2dV6",
+								"expanded_url": "http://www.newyorker.com",
+								"display_url": "newyorker.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7648806,
+				"friends_count": 394,
+				"listed_count": 61668,
+				"created_at": "Tue May 06 19:36:33 +0000 2008",
+				"favourites_count": 1360,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 54564,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/55790865/Twitter_BG_Final_final.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/55790865/Twitter_BG_Final_final.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/421413599441981441/GMZ5UIRl_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/421413599441981441/GMZ5UIRl_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14677919/1478111474",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 173,
+			"favorite_count": 373,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 173,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Apr 28 23:56:20 +0000 2017",
 		"id": 858107646645342200,
 		"id_str": "858107646645342210",
