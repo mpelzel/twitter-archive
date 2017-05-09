@@ -1,6 +1,1616 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Mon May 08 14:17:03 +0000 2017",
+		"id": 861585745525579800,
+		"id_str": "861585745525579777",
+		"text": "RT @roccopalmo: Defying bishops' plea for veto, Catholic Texas Gov. signs anti-sanctuary bill in Facebook livecast: https://t.co/OnZcm5IDQN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "roccopalmo",
+					"name": "Rocco Palmo",
+					"id": 173373241,
+					"id_str": "173373241",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OnZcm5IDQN",
+					"expanded_url": "http://bit.ly/2qT18IC",
+					"display_url": "bit.ly/2qT18IC",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 419,
+			"friends_count": 808,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2949,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3141,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 08 14:14:03 +0000 2017",
+			"id": 861584987132481500,
+			"id_str": "861584987132481536",
+			"text": "Defying bishops' plea for veto, Catholic Texas Gov. signs anti-sanctuary bill in Facebook livecast: https://t.co/OnZcm5IDQN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OnZcm5IDQN",
+						"expanded_url": "http://bit.ly/2qT18IC",
+						"display_url": "bit.ly/2qT18IC",
+						"indices": [
+							100,
+							123
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 173373241,
+				"id_str": "173373241",
+				"name": "Rocco Palmo",
+				"screen_name": "roccopalmo",
+				"location": "Philadelphia, PA",
+				"description": "",
+				"url": "http://t.co/p7WjiayfHs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/p7WjiayfHs",
+								"expanded_url": "http://whispersintheloggia.blogspot.com",
+								"display_url": "whispersintheloggia.blogspot.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24370,
+				"friends_count": 840,
+				"listed_count": 652,
+				"created_at": "Sun Aug 01 06:20:54 +0000 2010",
+				"favourites_count": 3,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20130,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/152154924/DSCF2540.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/152154924/DSCF2540.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1092843050/cardinal_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092843050/cardinal_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon May 08 13:41:49 +0000 2017",
+		"id": 861576877634453500,
+		"id_str": "861576877634453506",
+		"text": ".@bboessen @bolillotejano https://t.co/8m4IHYGy4n",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bboessen",
+					"name": "Brett Boessen",
+					"id": 6935872,
+					"id_str": "6935872",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"screen_name": "bolillotejano",
+					"name": "Patrick Duffey",
+					"id": 232429753,
+					"id_str": "232429753",
+					"indices": [
+						11,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8m4IHYGy4n",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/861576433692495872",
+					"display_url": "twitter.com/MorrisPelzel/s…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 419,
+			"friends_count": 808,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2949,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3141,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 861576433692495900,
+		"quoted_status_id_str": "861576433692495872",
+		"quoted_status": {
+			"created_at": "Mon May 08 13:40:03 +0000 2017",
+			"id": 861576433692495900,
+			"id_str": "861576433692495872",
+			"text": "\"Building Support for Online Learning at Small Residential Institutions\"  might be worth considering @AustinCollege https://t.co/1j4rq5uRuE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AustinCollege",
+						"name": "Austin College",
+						"id": 15565128,
+						"id_str": "15565128",
+						"indices": [
+							101,
+							115
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1j4rq5uRuE",
+						"expanded_url": "http://bit.ly/2pWvKL3",
+						"display_url": "bit.ly/2pWvKL3",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 33972737,
+				"id_str": "33972737",
+				"name": "Mo Pelzel",
+				"screen_name": "MorrisPelzel",
+				"location": "Sherman, Texas",
+				"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+				"url": "https://t.co/HifqlQpaOV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HifqlQpaOV",
+								"expanded_url": "http://morrispelzel.com",
+								"display_url": "morrispelzel.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 419,
+				"friends_count": 808,
+				"listed_count": 26,
+				"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+				"favourites_count": 2949,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3141,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Mon May 08 13:40:03 +0000 2017",
+		"id": 861576433692495900,
+		"id_str": "861576433692495872",
+		"text": "\"Building Support for Online Learning at Small Residential Institutions\"  might be worth considering @AustinCollege https://t.co/1j4rq5uRuE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AustinCollege",
+					"name": "Austin College",
+					"id": 15565128,
+					"id_str": "15565128",
+					"indices": [
+						101,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1j4rq5uRuE",
+					"expanded_url": "http://bit.ly/2pWvKL3",
+					"display_url": "bit.ly/2pWvKL3",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 419,
+			"friends_count": 808,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2949,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3141,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon May 08 03:10:07 +0000 2017",
+		"id": 861417903756914700,
+		"id_str": "861417903756914688",
+		"text": "Totally incompatible with your #Catholic faith, @GregAbbott_TX https://t.co/R1EGisGpqD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Catholic",
+					"indices": [
+						31,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GregAbbott_TX",
+					"name": "Greg Abbott",
+					"id": 90651198,
+					"id_str": "90651198",
+					"indices": [
+						48,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/R1EGisGpqD",
+					"expanded_url": "https://twitter.com/GregAbbott_TX/status/861372226259607553",
+					"display_url": "twitter.com/GregAbbott_TX/…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 419,
+			"friends_count": 808,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2949,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3141,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 861372226259607600,
+		"quoted_status_id_str": "861372226259607553",
+		"quoted_status": {
+			"created_at": "Mon May 08 00:08:36 +0000 2017",
+			"id": 861372226259607600,
+			"id_str": "861372226259607553",
+			"text": "Tonight I signed the law that bans sanctuary cities in Texas. Stiff penalties for violators. #txlege #tcot https://t.co/MeVSCpg2oR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "txlege",
+						"indices": [
+							93,
+							100
+						]
+					},
+					{
+						"text": "tcot",
+						"indices": [
+							101,
+							106
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 861372224573493200,
+						"id_str": "861372224573493251",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/C_Q1eXkXUAMhddi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_Q1eXkXUAMhddi.jpg",
+						"url": "https://t.co/MeVSCpg2oR",
+						"display_url": "pic.twitter.com/MeVSCpg2oR",
+						"expanded_url": "https://twitter.com/GregAbbott_TX/status/861372226259607553/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 350,
+								"h": 622,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 350,
+								"h": 622,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 350,
+								"h": 622,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 861372224573493200,
+						"id_str": "861372224573493251",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/C_Q1eXkXUAMhddi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_Q1eXkXUAMhddi.jpg",
+						"url": "https://t.co/MeVSCpg2oR",
+						"display_url": "pic.twitter.com/MeVSCpg2oR",
+						"expanded_url": "https://twitter.com/GregAbbott_TX/status/861372226259607553/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 350,
+								"h": 622,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 350,
+								"h": 622,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 350,
+								"h": 622,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 90651198,
+				"id_str": "90651198",
+				"name": "Greg Abbott",
+				"screen_name": "GregAbbott_TX",
+				"location": "Austin, TX",
+				"description": "Texas Governor Greg Abbott's Personal Twitter Feed",
+				"url": "https://t.co/LBN45b8eTW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LBN45b8eTW",
+								"expanded_url": "http://www.GregAbbott.com",
+								"display_url": "GregAbbott.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 158617,
+				"friends_count": 2968,
+				"listed_count": 2273,
+				"created_at": "Tue Nov 17 15:27:41 +0000 2009",
+				"favourites_count": 77,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 8237,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "192857",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000023756467/773b7e13b8050ae380c22811857100a3.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000023756467/773b7e13b8050ae380c22811857100a3.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/744436907036139521/onguTE-A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/744436907036139521/onguTE-A_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/90651198/1463517044",
+				"profile_link_color": "DB0707",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7607,
+			"favorite_count": 18507,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon May 08 03:01:32 +0000 2017",
+		"id": 861415744717946900,
+		"id_str": "861415744717946880",
+		"text": "Abbott spokesman said he signed bill on a Facebook livestream because that’s “where most people are getting their n… https://t.co/lBOK50FCZl",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lBOK50FCZl",
+					"expanded_url": "https://twitter.com/i/web/status/861415744717946880",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 419,
+			"friends_count": 808,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2949,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3141,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 861414027947380700,
+		"quoted_status_id_str": "861414027947380736",
+		"quoted_status": {
+			"created_at": "Mon May 08 02:54:43 +0000 2017",
+			"id": 861414027947380700,
+			"id_str": "861414027947380736",
+			"text": "\"Texas governor signs ban on so-called 'sanctuary cities'\"\n\nShame.\n\nhttps://t.co/IfG7LLxjEj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IfG7LLxjEj",
+						"expanded_url": "http://wapo.st/2pW6oel?tid=ss_tw",
+						"display_url": "wapo.st/2pW6oel?tid=ss…",
+						"indices": [
+							68,
+							91
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 33972737,
+				"id_str": "33972737",
+				"name": "Mo Pelzel",
+				"screen_name": "MorrisPelzel",
+				"location": "Sherman, Texas",
+				"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+				"url": "https://t.co/HifqlQpaOV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HifqlQpaOV",
+								"expanded_url": "http://morrispelzel.com",
+								"display_url": "morrispelzel.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 419,
+				"friends_count": 808,
+				"listed_count": 26,
+				"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+				"favourites_count": 2949,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3141,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon May 08 02:56:00 +0000 2017",
+		"id": 861414350883606500,
+		"id_str": "861414350883606534",
+		"text": "\"Every major police chief in Texas opposed the measure that allows police to inquire about the immigration status o… https://t.co/9RnsENTRA0",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9RnsENTRA0",
+					"expanded_url": "https://twitter.com/i/web/status/861414350883606534",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 419,
+			"friends_count": 808,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2949,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3141,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 861414027947380700,
+		"quoted_status_id_str": "861414027947380736",
+		"quoted_status": {
+			"created_at": "Mon May 08 02:54:43 +0000 2017",
+			"id": 861414027947380700,
+			"id_str": "861414027947380736",
+			"text": "\"Texas governor signs ban on so-called 'sanctuary cities'\"\n\nShame.\n\nhttps://t.co/IfG7LLxjEj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IfG7LLxjEj",
+						"expanded_url": "http://wapo.st/2pW6oel?tid=ss_tw",
+						"display_url": "wapo.st/2pW6oel?tid=ss…",
+						"indices": [
+							68,
+							91
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 33972737,
+				"id_str": "33972737",
+				"name": "Mo Pelzel",
+				"screen_name": "MorrisPelzel",
+				"location": "Sherman, Texas",
+				"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+				"url": "https://t.co/HifqlQpaOV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HifqlQpaOV",
+								"expanded_url": "http://morrispelzel.com",
+								"display_url": "morrispelzel.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 419,
+				"friends_count": 808,
+				"listed_count": 26,
+				"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+				"favourites_count": 2949,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3141,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon May 08 02:54:43 +0000 2017",
+		"id": 861414027947380700,
+		"id_str": "861414027947380736",
+		"text": "\"Texas governor signs ban on so-called 'sanctuary cities'\"\n\nShame.\n\nhttps://t.co/IfG7LLxjEj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IfG7LLxjEj",
+					"expanded_url": "http://wapo.st/2pW6oel?tid=ss_tw",
+					"display_url": "wapo.st/2pW6oel?tid=ss…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 419,
+			"friends_count": 808,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2949,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3141,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon May 08 01:46:53 +0000 2017",
+		"id": 861396960376475600,
+		"id_str": "861396960376475650",
+		"text": ".@johnockels @PamelaPelzel https://t.co/YCGwyILYS1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "johnockels",
+					"name": "John Ockels",
+					"id": 44995414,
+					"id_str": "44995414",
+					"indices": [
+						1,
+						12
+					]
+				},
+				{
+					"screen_name": "PamelaPelzel",
+					"name": "Pamela Martin Pelzel",
+					"id": 3497187793,
+					"id_str": "3497187793",
+					"indices": [
+						13,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YCGwyILYS1",
+					"expanded_url": "https://twitter.com/lhfang/status/861338387428646916",
+					"display_url": "twitter.com/lhfang/status/…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 419,
+			"friends_count": 808,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2949,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3141,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 861338387428646900,
+		"quoted_status_id_str": "861338387428646916",
+		"quoted_status": {
+			"created_at": "Sun May 07 21:54:09 +0000 2017",
+			"id": 861338387428646900,
+			"id_str": "861338387428646916",
+			"text": "Private prison corporation wrote Texas bill extending how long immigrant children can be detained https://t.co/yOgKS5gxSO by @ddayen",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ddayen",
+						"name": "David Dayen",
+						"id": 7864222,
+						"id_str": "7864222",
+						"indices": [
+							125,
+							132
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/yOgKS5gxSO",
+						"expanded_url": "https://interc.pt/2p2Ipbj",
+						"display_url": "interc.pt/2p2Ipbj",
+						"indices": [
+							98,
+							121
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7900962,
+				"id_str": "7900962",
+				"name": "Lee Fang",
+				"screen_name": "lhfang",
+				"location": "San Francisco ",
+				"description": "Investigative Journalist. @theintercept email lee.fang@theintercept.com",
+				"url": "https://t.co/SU9d5v8GBP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SU9d5v8GBP",
+								"expanded_url": "https://firstlook.org/theintercept/staff/leefang/",
+								"display_url": "firstlook.org/theintercept/s…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 80638,
+				"friends_count": 1964,
+				"listed_count": 1931,
+				"created_at": "Thu Aug 02 06:21:38 +0000 2007",
+				"favourites_count": 12679,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9418,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/720293216281448448/mS4qmg7q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/720293216281448448/mS4qmg7q_normal.jpg",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 414,
+			"favorite_count": 228,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sun May 07 23:36:24 +0000 2017",
 		"id": 861364122495144000,
 		"id_str": "861364122495143937",
