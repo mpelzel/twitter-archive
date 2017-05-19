@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Thu May 18 01:04:16 +0000 2017",
+		"id": 865010111474839600,
+		"id_str": "865010111474839552",
+		"text": "\"I solve puzzles daily, religiously\" https://t.co/iFqZi08s9x",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iFqZi08s9x",
+					"expanded_url": "https://twitter.com/NYTimesWordplay/status/864930066182090753",
+					"display_url": "twitter.com/NYTimesWordpla…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 423,
+			"friends_count": 744,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 2982,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 864930066182090800,
+		"quoted_status_id_str": "864930066182090753",
+		"quoted_status": {
+			"created_at": "Wed May 17 19:46:12 +0000 2017",
+			"id": 864930066182090800,
+			"id_str": "864930066182090753",
+			"text": "More about Sam Ezersky of @UVA, who is giving up a lucrative career as an engineer to come work for us. Sorry, Mom. https://t.co/3Pk0qVOyyg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UVA",
+						"name": "UVA",
+						"id": 1910771,
+						"id_str": "1910771",
+						"indices": [
+							26,
+							30
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/3Pk0qVOyyg",
+						"expanded_url": "http://bit.ly/2rggDNM",
+						"display_url": "bit.ly/2rggDNM",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 273668513,
+				"id_str": "273668513",
+				"name": "NYTimesWordplay",
+				"screen_name": "NYTimesWordplay",
+				"location": "",
+				"description": "We're here to help you solve. The crossword discussion column of the @nytimes. Pls tweet technical issues to @NYT_Crossword. @debamlen claims not to work here.",
+				"url": "https://t.co/gWbBxy4v8I",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gWbBxy4v8I",
+								"expanded_url": "http://www.nytimes.com/column/wordplay",
+								"display_url": "nytimes.com/column/wordplay",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11985,
+				"friends_count": 686,
+				"listed_count": 138,
+				"created_at": "Mon Mar 28 23:09:12 +0000 2011",
+				"favourites_count": 5062,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5922,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/692760355/8e37c78384ff903e6151c7e85a374453.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/692760355/8e37c78384ff903e6151c7e85a374453.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2760320425/3a02804219b7d9dd26c1c04d71c38d0c_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2760320425/3a02804219b7d9dd26c1c04d71c38d0c_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/273668513/1470945978",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 17 20:45:52 +0000 2017",
 		"id": 864945084827095000,
 		"id_str": "864945084827095040",
