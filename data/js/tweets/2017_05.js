@@ -1,6 +1,628 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sun May 28 17:59:24 +0000 2017",
+		"id": 868889457898008600,
+		"id_str": "868889457898008580",
+		"text": "RT @JohnHultquist: The soldiers we lost this week in the US were 2LT Richard Collins III and SFC Ricky Best. https://t.co/r2RVEVfVkC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JohnHultquist",
+					"name": "John Hultquist",
+					"id": 298149289,
+					"id_str": "298149289",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 868649835783532500,
+					"id_str": "868649835783532544",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DA4QbGAUMAAzka6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DA4QbGAUMAAzka6.jpg",
+					"url": "https://t.co/r2RVEVfVkC",
+					"display_url": "pic.twitter.com/r2RVEVfVkC",
+					"expanded_url": "https://twitter.com/JohnHultquist/status/868649851059392513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 445,
+							"h": 445,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 445,
+							"h": 445,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 445,
+							"h": 445,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 868649851059392500,
+					"source_status_id_str": "868649851059392513",
+					"source_user_id": 298149289,
+					"source_user_id_str": "298149289"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 868649835783532500,
+					"id_str": "868649835783532544",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DA4QbGAUMAAzka6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DA4QbGAUMAAzka6.jpg",
+					"url": "https://t.co/r2RVEVfVkC",
+					"display_url": "pic.twitter.com/r2RVEVfVkC",
+					"expanded_url": "https://twitter.com/JohnHultquist/status/868649851059392513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 445,
+							"h": 445,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 445,
+							"h": 445,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 445,
+							"h": 445,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 868649851059392500,
+					"source_status_id_str": "868649851059392513",
+					"source_user_id": 298149289,
+					"source_user_id_str": "298149289"
+				},
+				{
+					"id": 868649835779326000,
+					"id_str": "868649835779325954",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DA4QbF_UAAIY2L4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DA4QbF_UAAIY2L4.jpg",
+					"url": "https://t.co/r2RVEVfVkC",
+					"display_url": "pic.twitter.com/r2RVEVfVkC",
+					"expanded_url": "https://twitter.com/JohnHultquist/status/868649851059392513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 868649851059392500,
+					"source_status_id_str": "868649851059392513",
+					"source_user_id": 298149289,
+					"source_user_id_str": "298149289"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424,
+			"friends_count": 755,
+			"listed_count": 24,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3033,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3243,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 28 02:07:17 +0000 2017",
+			"id": 868649851059392500,
+			"id_str": "868649851059392513",
+			"text": "The soldiers we lost this week in the US were 2LT Richard Collins III and SFC Ricky Best. https://t.co/r2RVEVfVkC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 868649835783532500,
+						"id_str": "868649835783532544",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DA4QbGAUMAAzka6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DA4QbGAUMAAzka6.jpg",
+						"url": "https://t.co/r2RVEVfVkC",
+						"display_url": "pic.twitter.com/r2RVEVfVkC",
+						"expanded_url": "https://twitter.com/JohnHultquist/status/868649851059392513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 445,
+								"h": 445,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 445,
+								"h": 445,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 445,
+								"h": 445,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 868649835783532500,
+						"id_str": "868649835783532544",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DA4QbGAUMAAzka6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DA4QbGAUMAAzka6.jpg",
+						"url": "https://t.co/r2RVEVfVkC",
+						"display_url": "pic.twitter.com/r2RVEVfVkC",
+						"expanded_url": "https://twitter.com/JohnHultquist/status/868649851059392513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 445,
+								"h": 445,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 445,
+								"h": 445,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 445,
+								"h": 445,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 868649835779326000,
+						"id_str": "868649835779325954",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DA4QbF_UAAIY2L4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DA4QbF_UAAIY2L4.jpg",
+						"url": "https://t.co/r2RVEVfVkC",
+						"display_url": "pic.twitter.com/r2RVEVfVkC",
+						"expanded_url": "https://twitter.com/JohnHultquist/status/868649851059392513/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 868623962779131900,
+			"in_reply_to_status_id_str": "868623962779131904",
+			"in_reply_to_user_id": 298149289,
+			"in_reply_to_user_id_str": "298149289",
+			"in_reply_to_screen_name": "JohnHultquist",
+			"user": {
+				"id": 298149289,
+				"id_str": "298149289",
+				"name": "John Hultquist",
+				"screen_name": "JohnHultquist",
+				"location": "",
+				"description": "A decade tracking global cyber espionage operators for the government and commercial sector at USG, iSIGHT, and FEYE. Army vet. Opinions my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1079,
+				"friends_count": 224,
+				"listed_count": 39,
+				"created_at": "Fri May 13 20:07:59 +0000 2011",
+				"favourites_count": 1145,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1619,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/858315251581726720/aqzOZbIV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/858315251581726720/aqzOZbIV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/298149289/1469935205",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 630,
+			"favorite_count": 828,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 630,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun May 28 16:12:03 +0000 2017",
+		"id": 868862440653676500,
+		"id_str": "868862440653676544",
+		"text": "RT @YanniKouts: Merkel: We can't rely on the US anymore. I have experienced this in the last days. We Europeans should take destiny in our…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YanniKouts",
+					"name": "Yannis Koutsomitis",
+					"id": 77528520,
+					"id_str": "77528520",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424,
+			"friends_count": 755,
+			"listed_count": 24,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3033,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3243,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 28 12:59:59 +0000 2017",
+			"id": 868814107486679000,
+			"id_str": "868814107486679041",
+			"text": "Merkel: We can't rely on the US anymore. I have experienced this in the last days. We Europeans should take destiny in our own hands. ~@BILD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BILD",
+						"name": "BILD",
+						"id": 9204502,
+						"id_str": "9204502",
+						"indices": [
+							135,
+							140
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 77528520,
+				"id_str": "77528520",
+				"name": "Yannis Koutsomitis",
+				"screen_name": "YanniKouts",
+				"location": "Athens · Berlin · Brussels",
+				"description": "World politics & Economy. Progressivist. European affairs analyst. Columnist at Eleftheria tou Typou weekly, @France24_en contributor.",
+				"url": "http://t.co/BemojEzp7C",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/BemojEzp7C",
+								"expanded_url": "http://bit.ly/YanniKouts",
+								"display_url": "bit.ly/YanniKouts",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 61729,
+				"friends_count": 24159,
+				"listed_count": 2120,
+				"created_at": "Sat Sep 26 17:37:32 +0000 2009",
+				"favourites_count": 688,
+				"utc_offset": 10800,
+				"time_zone": "Athens",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 89466,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/125401408/Berlin1989.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/125401408/Berlin1989.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/845901590448029696/_-UP1KPH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/845901590448029696/_-UP1KPH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/77528520/1398673725",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9391,
+			"favorite_count": 11699,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9391,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat May 27 02:25:11 +0000 2017",
 		"id": 868291968182431700,
 		"id_str": "868291968182431744",
