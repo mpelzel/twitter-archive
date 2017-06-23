@@ -1,6 +1,4616 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Thu Jun 22 23:15:57 +0000 2017",
+		"id": 878028816873959400,
+		"id_str": "878028816873959424",
+		"text": "RT @aravosis: This is the seminal image of our battle. She’s being arrested for protesting ACA repeal outside McConnell’s office. https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aravosis",
+					"name": "John Aravosis",
+					"id": 14146966,
+					"id_str": "14146966",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 801,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3140,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 22 16:26:18 +0000 2017",
+			"id": 877925724031770600,
+			"id_str": "877925724031770624",
+			"text": "This is the seminal image of our battle. She’s being arrested for protesting ACA repeal outside McConnell’s office.… https://t.co/auQXUCuENJ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/auQXUCuENJ",
+						"expanded_url": "https://twitter.com/i/web/status/877925724031770624",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14146966,
+				"id_str": "14146966",
+				"name": "John Aravosis",
+				"screen_name": "aravosis",
+				"location": "Washington, DC",
+				"description": "Digital strategist & Editor @AMERICAblog. LGBT advocate. Past: UN, Economist, Senate. Called “wacko” by Rush. Resistance swag: https://t.co/4BZaXhoy8x",
+				"url": "https://t.co/MMHhA54Sfs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MMHhA54Sfs",
+								"expanded_url": "http://AMERICAblog.com",
+								"display_url": "AMERICAblog.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/4BZaXhoy8x",
+								"expanded_url": "http://ResistTrumpInStyle.com",
+								"display_url": "ResistTrumpInStyle.com",
+								"indices": [
+									127,
+									150
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 65538,
+				"friends_count": 1296,
+				"listed_count": 1728,
+				"created_at": "Fri Mar 14 14:28:09 +0000 2008",
+				"favourites_count": 8124,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 101033,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000097191021/64050b8370e5a4c18fd8387f55534f2e.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000097191021/64050b8370e5a4c18fd8387f55534f2e.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/720627004261986306/2AikUElD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/720627004261986306/2AikUElD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14146966/1485627182",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 877914158787842000,
+			"quoted_status_id_str": "877914158787842048",
+			"quoted_status": {
+				"created_at": "Thu Jun 22 15:40:20 +0000 2017",
+				"id": 877914158787842000,
+				"id_str": "877914158787842048",
+				"text": "Tense situation outside McConnell's Russell office as protesters gather. Capitol Police blocking off hallway https://t.co/48H3KUipfK",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 877914068660760600,
+							"id_str": "877914068660760576",
+							"indices": [
+								109,
+								132
+							],
+							"media_url": "http://pbs.twimg.com/media/DC76Ma3XsAANaSk.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DC76Ma3XsAANaSk.jpg",
+							"url": "https://t.co/48H3KUipfK",
+							"display_url": "pic.twitter.com/48H3KUipfK",
+							"expanded_url": "https://twitter.com/desiderioDC/status/877914158787842048/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 900,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1536,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 510,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 877914068660760600,
+							"id_str": "877914068660760576",
+							"indices": [
+								109,
+								132
+							],
+							"media_url": "http://pbs.twimg.com/media/DC76Ma3XsAANaSk.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DC76Ma3XsAANaSk.jpg",
+							"url": "https://t.co/48H3KUipfK",
+							"display_url": "pic.twitter.com/48H3KUipfK",
+							"expanded_url": "https://twitter.com/desiderioDC/status/877914158787842048/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 900,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1536,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 510,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 877914068656566300,
+							"id_str": "877914068656566272",
+							"indices": [
+								109,
+								132
+							],
+							"media_url": "http://pbs.twimg.com/media/DC76Ma2XsAApCZM.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DC76Ma2XsAApCZM.jpg",
+							"url": "https://t.co/48H3KUipfK",
+							"display_url": "pic.twitter.com/48H3KUipfK",
+							"expanded_url": "https://twitter.com/desiderioDC/status/877914158787842048/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 510,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 2048,
+									"h": 1536,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 900,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 877914068656562200,
+							"id_str": "877914068656562177",
+							"indices": [
+								109,
+								132
+							],
+							"media_url": "http://pbs.twimg.com/media/DC76Ma2XoAE9vzP.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DC76Ma2XoAE9vzP.jpg",
+							"url": "https://t.co/48H3KUipfK",
+							"display_url": "pic.twitter.com/48H3KUipfK",
+							"expanded_url": "https://twitter.com/desiderioDC/status/877914158787842048/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 510,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 900,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 2048,
+									"h": 1536,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 427630477,
+					"id_str": "427630477",
+					"name": "Andrew Desiderio",
+					"screen_name": "desiderioDC",
+					"location": "Washington, D.C.",
+					"description": "Reporter for @thedailybeast covering Congress & national security | GW alum | Andrew.Desiderio@thedailybeast.com | Encrypted: Andrew.Desiderio@protonmail.com",
+					"url": "https://t.co/jBRCMdz8R9",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/jBRCMdz8R9",
+									"expanded_url": "http://www.thedailybeast.com/author/andrew-desiderio",
+									"display_url": "thedailybeast.com/author/andrew-…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 5176,
+					"friends_count": 980,
+					"listed_count": 151,
+					"created_at": "Sat Dec 03 19:33:33 +0000 2011",
+					"favourites_count": 18811,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 32869,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000009779380/28867c3154bdab267d55f1a8bc64b57f.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000009779380/28867c3154bdab267d55f1a8bc64b57f.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/868203461942358017/GKhAeX9e_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/868203461942358017/GKhAeX9e_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/427630477/1404689824",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "01fbe706f872cb32",
+					"url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+					"place_type": "city",
+					"name": "Washington",
+					"full_name": "Washington, DC",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-77.119401,
+									38.801826
+								],
+								[
+									-76.909396,
+									38.801826
+								],
+								[
+									-76.909396,
+									38.9953797
+								],
+								[
+									-77.119401,
+									38.9953797
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1497,
+				"favorite_count": 1507,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 7608,
+			"favorite_count": 5616,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 877914158787842000,
+		"quoted_status_id_str": "877914158787842048",
+		"retweet_count": 7608,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 23:05:58 +0000 2017",
+		"id": 878026304834162700,
+		"id_str": "878026304834162688",
+		"text": "RT @DCAdapt: Dawn Russell being loaded onto police bus for processing with her fist raised in POWER! #ADAPTandRESIST #SaveMedicaid #FreeOur…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ADAPTandRESIST",
+					"indices": [
+						101,
+						116
+					]
+				},
+				{
+					"text": "SaveMedicaid",
+					"indices": [
+						117,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DCAdapt",
+					"name": "DC Metro ADAPT",
+					"id": 836267670035132400,
+					"id_str": "836267670035132416",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 801,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3140,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 22 17:23:29 +0000 2017",
+			"id": 877940114428747800,
+			"id_str": "877940114428747776",
+			"text": "Dawn Russell being loaded onto police bus for processing with her fist raised in POWER! #ADAPTandRESIST… https://t.co/SZG7PystIB",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ADAPTandRESIST",
+						"indices": [
+							88,
+							103
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SZG7PystIB",
+						"expanded_url": "https://twitter.com/i/web/status/877940114428747776",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 836267670035132400,
+				"id_str": "836267670035132416",
+				"name": "DC Metro ADAPT",
+				"screen_name": "DCAdapt",
+				"location": "Washington, DC",
+				"description": "We are D.C. Metro ADAPT, a grassroots organization focused on disability rights #freeourpeople https://t.co/YaBy7k9JdT",
+				"url": "https://t.co/umldOKE7km",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/umldOKE7km",
+								"expanded_url": "http://dcadapt.org",
+								"display_url": "dcadapt.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/YaBy7k9JdT",
+								"expanded_url": "http://Facebook.com/dcmetroadapt",
+								"display_url": "Facebook.com/dcmetroadapt",
+								"indices": [
+									95,
+									118
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 561,
+				"friends_count": 132,
+				"listed_count": 2,
+				"created_at": "Mon Feb 27 17:32:04 +0000 2017",
+				"favourites_count": 74,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 288,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836324157814112256/58ux_mY2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836324157814112256/58ux_mY2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/836267670035132416/1490478015",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2229,
+			"favorite_count": 3754,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2229,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 18:57:34 +0000 2017",
+		"id": 877963793048903700,
+		"id_str": "877963793048903682",
+		"text": ".@johnockels @PamelaPelzel @bolillotejano https://t.co/DsSfQ1fYrt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "johnockels",
+					"name": "John Ockels",
+					"id": 44995414,
+					"id_str": "44995414",
+					"indices": [
+						1,
+						12
+					]
+				},
+				{
+					"screen_name": "PamelaPelzel",
+					"name": "Pamela Martin Pelzel",
+					"id": 3497187793,
+					"id_str": "3497187793",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "bolillotejano",
+					"name": "Patrick Duffey",
+					"id": 232429753,
+					"id_str": "232429753",
+					"indices": [
+						27,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DsSfQ1fYrt",
+					"expanded_url": "https://twitter.com/G_Rawlings/status/877963511376359424",
+					"display_url": "twitter.com/G_Rawlings/sta…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 801,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3140,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 877963511376359400,
+		"quoted_status_id_str": "877963511376359424",
+		"quoted_status": {
+			"created_at": "Thu Jun 22 18:56:27 +0000 2017",
+			"id": 877963511376359400,
+			"id_str": "877963511376359424",
+			"text": "https://t.co/6N6Wnt7ZFm \n\nThis is a @cristoreyjesuit family in Houston. \"Diosito, please, don't let Trump win. He will destroy my family.\"",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cristoreyjesuit",
+						"name": "Cristo Rey Jesuit",
+						"id": 23622896,
+						"id_str": "23622896",
+						"indices": [
+							36,
+							52
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/6N6Wnt7ZFm",
+						"expanded_url": "http://www.houstonchronicle.com/news/houston-texas/houston/amp/The-rules-have-changed-Houston-family-surprised-11192377.php",
+						"display_url": "houstonchronicle.com/news/houston-t…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3066116824,
+				"id_str": "3066116824",
+				"name": "Gunnar Rawlings",
+				"screen_name": "G_Rawlings",
+				"location": "Dallas",
+				"description": "Educator of sorts",
+				"url": "http://t.co/bAbTCyDgIi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/bAbTCyDgIi",
+								"expanded_url": "http://www.cristoreydallas.org",
+								"display_url": "cristoreydallas.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 734,
+				"friends_count": 790,
+				"listed_count": 13,
+				"created_at": "Mon Mar 02 20:03:13 +0000 2015",
+				"favourites_count": 307,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2182,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/572512106348412928/1m--PFWM_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/572512106348412928/1m--PFWM_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3066116824/1425332601",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Thu Jun 22 16:13:07 +0000 2017",
+		"id": 877922407046099000,
+		"id_str": "877922407046098944",
+		"text": ".@MadsRose https://t.co/zecGF5jqbO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MadsRose",
+					"name": "Madeleine Pelzel",
+					"id": 532725843,
+					"id_str": "532725843",
+					"indices": [
+						1,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zecGF5jqbO",
+					"expanded_url": "https://twitter.com/MenilCollection/status/877914750159654912",
+					"display_url": "twitter.com/MenilCollectio…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 801,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3140,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 877914750159654900,
+		"quoted_status_id_str": "877914750159654912",
+		"quoted_status": {
+			"created_at": "Thu Jun 22 15:42:41 +0000 2017",
+			"id": 877914750159654900,
+			"id_str": "877914750159654912",
+			"text": "Why Your Next Art Pilgrimage Should Be to Houston https://t.co/3tXXedsmIV via @CNTraveler",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CNTraveler",
+						"name": "Condé Nast Traveler",
+						"id": 17219108,
+						"id_str": "17219108",
+						"indices": [
+							78,
+							89
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/3tXXedsmIV",
+						"expanded_url": "http://www.cntraveler.com/story/why-your-next-art-pilgrimage-should-be-to-houston-menil-collection-rothko",
+						"display_url": "cntraveler.com/story/why-your…",
+						"indices": [
+							50,
+							73
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 90943080,
+				"id_str": "90943080",
+				"name": "The Menil Collection",
+				"screen_name": "MenilCollection",
+				"location": "Houston, TX ",
+				"description": "The Menil is a cultural oasis unlike anything else in America, an internationally renowned museum residing in a quiet neighborhood enclave.",
+				"url": "http://t.co/DfkeWulmVi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/DfkeWulmVi",
+								"expanded_url": "http://www.menil.org",
+								"display_url": "menil.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19084,
+				"friends_count": 435,
+				"listed_count": 610,
+				"created_at": "Wed Nov 18 19:46:42 +0000 2009",
+				"favourites_count": 1016,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2466,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000008557789/92b72094a76881926f6be77d8d88abb6.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000008557789/92b72094a76881926f6be77d8d88abb6.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/429355740982030336/4r5IcT-a_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/429355740982030336/4r5IcT-a_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/90943080/1398712495",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Thu Jun 22 02:45:40 +0000 2017",
+		"id": 877719207110221800,
+		"id_str": "877719207110221824",
+		"text": "@ericlikness My phone screen is cracked as we speak...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ericlikness",
+					"name": "Eric Likness",
+					"id": 817484062495559700,
+					"id_str": "817484062495559685",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 877718917824659500,
+		"in_reply_to_status_id_str": "877718917824659456",
+		"in_reply_to_user_id": 817484062495559700,
+		"in_reply_to_user_id_str": "817484062495559685",
+		"in_reply_to_screen_name": "ericlikness",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 801,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3140,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 02:34:32 +0000 2017",
+		"id": 877716402626539500,
+		"id_str": "877716402626539520",
+		"text": "@ericlikness I'm tempted to start doing this right now!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ericlikness",
+					"name": "Eric Likness",
+					"id": 817484062495559700,
+					"id_str": "817484062495559685",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 877715965554905100,
+		"in_reply_to_status_id_str": "877715965554905088",
+		"in_reply_to_user_id": 817484062495559700,
+		"in_reply_to_user_id_str": "817484062495559685",
+		"in_reply_to_screen_name": "ericlikness",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 801,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3140,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 02:25:49 +0000 2017",
+		"id": 877714211375202300,
+		"id_str": "877714211375202304",
+		"text": "RT @TXEDMod: Join us next Wednesday, June 28, at 8:30 PM CST as we talked about Becoming a Campus Leader! #TxEd https://t.co/W0osdDgzZp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TxEd",
+					"indices": [
+						106,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TXEDMod",
+					"name": "TXED Mod",
+					"id": 2337268669,
+					"id_str": "2337268669",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 877713859632431100,
+					"id_str": "877713859632431104",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DC5EGuHUAAAJ0au.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DC5EGuHUAAAJ0au.jpg",
+					"url": "https://t.co/W0osdDgzZp",
+					"display_url": "pic.twitter.com/W0osdDgzZp",
+					"expanded_url": "https://twitter.com/TXEDMod/status/877714165837832197/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 877714165837832200,
+					"source_status_id_str": "877714165837832197",
+					"source_user_id": 2337268669,
+					"source_user_id_str": "2337268669"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 877713859632431100,
+					"id_str": "877713859632431104",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DC5EGuHUAAAJ0au.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DC5EGuHUAAAJ0au.jpg",
+					"url": "https://t.co/W0osdDgzZp",
+					"display_url": "pic.twitter.com/W0osdDgzZp",
+					"expanded_url": "https://twitter.com/TXEDMod/status/877714165837832197/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 877714165837832200,
+					"source_status_id_str": "877714165837832197",
+					"source_user_id": 2337268669,
+					"source_user_id_str": "2337268669"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 801,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3140,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 22 02:25:38 +0000 2017",
+			"id": 877714165837832200,
+			"id_str": "877714165837832197",
+			"text": "Join us next Wednesday, June 28, at 8:30 PM CST as we talked about Becoming a Campus Leader! #TxEd https://t.co/W0osdDgzZp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TxEd",
+						"indices": [
+							93,
+							98
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 877713859632431100,
+						"id_str": "877713859632431104",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/DC5EGuHUAAAJ0au.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DC5EGuHUAAAJ0au.jpg",
+						"url": "https://t.co/W0osdDgzZp",
+						"display_url": "pic.twitter.com/W0osdDgzZp",
+						"expanded_url": "https://twitter.com/TXEDMod/status/877714165837832197/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 877713859632431100,
+						"id_str": "877713859632431104",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/DC5EGuHUAAAJ0au.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DC5EGuHUAAAJ0au.jpg",
+						"url": "https://t.co/W0osdDgzZp",
+						"display_url": "pic.twitter.com/W0osdDgzZp",
+						"expanded_url": "https://twitter.com/TXEDMod/status/877714165837832197/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2337268669,
+				"id_str": "2337268669",
+				"name": "TXED Mod",
+				"screen_name": "TXEDMod",
+				"location": "Texas",
+				"description": "Moderator Account for #TXED chats. Weekly on Wednesdays at 8:30 CST",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 869,
+				"friends_count": 10,
+				"listed_count": 19,
+				"created_at": "Mon Feb 10 21:08:33 +0000 2014",
+				"favourites_count": 46,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2256,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/432984900723941376/qQlkMBuQ.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/432984900723941376/qQlkMBuQ.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/432984792909361153/A9TbK-xp_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/432984792909361153/A9TbK-xp_normal.jpeg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 02:25:38 +0000 2017",
+		"id": 877714165384826900,
+		"id_str": "877714165384826886",
+		"text": "@mariashine Thank you!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mariashine",
+					"name": "Maria Shine Stewart",
+					"id": 45999856,
+					"id_str": "45999856",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 877713969674420200,
+		"in_reply_to_status_id_str": "877713969674420224",
+		"in_reply_to_user_id": 45999856,
+		"in_reply_to_user_id_str": "45999856",
+		"in_reply_to_screen_name": "mariashine",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 801,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3140,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 02:20:40 +0000 2017",
+		"id": 877712914337206300,
+		"id_str": "877712914337206275",
+		"text": "@mariashine Yes, I am going through a tough exit right now... still searching for a new position. Encouraged by your essay :)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mariashine",
+					"name": "Maria Shine Stewart",
+					"id": 45999856,
+					"id_str": "45999856",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 877712644551069700,
+		"in_reply_to_status_id_str": "877712644551069696",
+		"in_reply_to_user_id": 45999856,
+		"in_reply_to_user_id_str": "45999856",
+		"in_reply_to_screen_name": "mariashine",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 801,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3140,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 02:17:10 +0000 2017",
+		"id": 877712031738089500,
+		"id_str": "877712031738089472",
+		"text": "@TXEDMod @pwagnerlcisd @KelleyJAndrews @PrincipalVest @meredithakers @Tommyspall Thanks...enjoyed discovering this chat :) #TXed",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TXed",
+					"indices": [
+						123,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TXEDMod",
+					"name": "TXED Mod",
+					"id": 2337268669,
+					"id_str": "2337268669",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "pwagnerlcisd",
+					"name": "Paul Wagner",
+					"id": 73004468,
+					"id_str": "73004468",
+					"indices": [
+						9,
+						22
+					]
+				},
+				{
+					"screen_name": "KelleyJAndrews",
+					"name": "Kelley Andrews",
+					"id": 38521012,
+					"id_str": "38521012",
+					"indices": [
+						23,
+						38
+					]
+				},
+				{
+					"screen_name": "PrincipalVest",
+					"name": "Jennifer Vest",
+					"id": 154227374,
+					"id_str": "154227374",
+					"indices": [
+						39,
+						53
+					]
+				},
+				{
+					"screen_name": "meredithakers",
+					"name": "Meredith Akers",
+					"id": 1895019558,
+					"id_str": "1895019558",
+					"indices": [
+						54,
+						68
+					]
+				},
+				{
+					"screen_name": "Tommyspall",
+					"name": "Tom Spall",
+					"id": 721117716,
+					"id_str": "721117716",
+					"indices": [
+						69,
+						80
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 877711489880252400,
+		"in_reply_to_status_id_str": "877711489880252416",
+		"in_reply_to_user_id": 2337268669,
+		"in_reply_to_user_id_str": "2337268669",
+		"in_reply_to_screen_name": "TXEDMod",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 801,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3140,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 02:16:04 +0000 2017",
+		"id": 877711756981813200,
+		"id_str": "877711756981813248",
+		"text": "A6: Talk a walk with a trusted friend/colleague ... talk it out ... see  it as opportunity for discovery and insight #TXed",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TXed",
+					"indices": [
+						117,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 801,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3140,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 02:13:48 +0000 2017",
+		"id": 877711186187386900,
+		"id_str": "877711186187386880",
+		"text": "RT @joshua_r_eyler: We've all been there.  It's not just you.  Let's look at it together from a number of different angles &amp; plan for the n…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joshua_r_eyler",
+					"name": "Joshua Eyler",
+					"id": 304582737,
+					"id_str": "304582737",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 801,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3140,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 22 02:12:33 +0000 2017",
+			"id": 877710871429996500,
+			"id_str": "877710871429996544",
+			"text": "We've all been there.  It's not just you.  Let's look at it together from a number of different angles &amp; plan for t… https://t.co/oPo6AtZNYd",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/oPo6AtZNYd",
+						"expanded_url": "https://twitter.com/i/web/status/877710871429996544",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 304582737,
+				"id_str": "304582737",
+				"name": "Joshua Eyler",
+				"screen_name": "joshua_r_eyler",
+				"location": "Houston, TX",
+				"description": "Director of @RiceCTE & Adj. Assoc. Professor of Humanities at Rice University. Eclectic Research Interests: #HigherEd, Medieval Lit, Disability Studies.",
+				"url": "https://t.co/CiJhfEuslX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CiJhfEuslX",
+								"expanded_url": "http://josheyler.wordpress.com/",
+								"display_url": "josheyler.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3607,
+				"friends_count": 788,
+				"listed_count": 204,
+				"created_at": "Tue May 24 19:18:19 +0000 2011",
+				"favourites_count": 12536,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18708,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/577560724009963520/3uMT6yxv_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/577560724009963520/3uMT6yxv_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/304582737/1433172276",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 877709978810896400,
+			"quoted_status_id_str": "877709978810896384",
+			"quoted_status": {
+				"created_at": "Thu Jun 22 02:09:00 +0000 2017",
+				"id": 877709978810896400,
+				"id_str": "877709978810896384",
+				"text": "Q6-What is one advice you would give an educator who has just recently faced some type of failure? #TXed https://t.co/03Nbc156vQ",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "TXed",
+							"indices": [
+								99,
+								104
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 877601973163376600,
+							"id_str": "877601973163376640",
+							"indices": [
+								105,
+								128
+							],
+							"media_url": "http://pbs.twimg.com/media/DC3eWEiVwAAPBH0.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DC3eWEiVwAAPBH0.jpg",
+							"url": "https://t.co/03Nbc156vQ",
+							"display_url": "pic.twitter.com/03Nbc156vQ",
+							"expanded_url": "https://twitter.com/TXEDMod/status/877709978810896384/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1200,
+									"h": 800,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 453,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 2048,
+									"h": 1365,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 877601973163376600,
+							"id_str": "877601973163376640",
+							"indices": [
+								105,
+								128
+							],
+							"media_url": "http://pbs.twimg.com/media/DC3eWEiVwAAPBH0.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DC3eWEiVwAAPBH0.jpg",
+							"url": "https://t.co/03Nbc156vQ",
+							"display_url": "pic.twitter.com/03Nbc156vQ",
+							"expanded_url": "https://twitter.com/TXEDMod/status/877709978810896384/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1200,
+									"h": 800,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 453,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 2048,
+									"h": 1365,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2337268669,
+					"id_str": "2337268669",
+					"name": "TXED Mod",
+					"screen_name": "TXEDMod",
+					"location": "Texas",
+					"description": "Moderator Account for #TXED chats. Weekly on Wednesdays at 8:30 CST",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 869,
+					"friends_count": 10,
+					"listed_count": 19,
+					"created_at": "Mon Feb 10 21:08:33 +0000 2014",
+					"favourites_count": 46,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 2256,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/432984900723941376/qQlkMBuQ.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/432984900723941376/qQlkMBuQ.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/432984792909361153/A9TbK-xp_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/432984792909361153/A9TbK-xp_normal.jpeg",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 3,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 4,
+			"favorite_count": 11,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 877709978810896400,
+		"quoted_status_id_str": "877709978810896384",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 02:08:55 +0000 2017",
+		"id": 877709956362850300,
+		"id_str": "877709956362850304",
+		"text": "A5: Ask them to reflect on how they learned to speak, walk, ride a bike, etc....then can they bring that same approach to learning now #TXed",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TXed",
+					"indices": [
+						135,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 801,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3140,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 02:03:45 +0000 2017",
+		"id": 877708656875380700,
+		"id_str": "877708656875380736",
+		"text": "@TechieTeachOtt Me too...often catches students by surprise, creates space for them to take the lead in discovery #txed",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "txed",
+					"indices": [
+						114,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TechieTeachOtt",
+					"name": "Tiffany Ott",
+					"id": 4920911601,
+					"id_str": "4920911601",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 877708454772822000,
+		"in_reply_to_status_id_str": "877708454772822018",
+		"in_reply_to_user_id": 4920911601,
+		"in_reply_to_user_id_str": "4920911601",
+		"in_reply_to_screen_name": "TechieTeachOtt",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 801,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3140,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 02:01:31 +0000 2017",
+		"id": 877708092946894800,
+		"id_str": "877708092946894848",
+		"text": "A4: Be willing to say \"I don't know,\" or \"I'm not sure,\" and then invite students to help discover and figure things out #txed",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "txed",
+					"indices": [
+						121,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 801,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3140,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 01:56:45 +0000 2017",
+		"id": 877706893421977600,
+		"id_str": "877706893421977600",
+		"text": "@joshua_r_eyler Networking for the win :) #txed",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "txed",
+					"indices": [
+						42,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joshua_r_eyler",
+					"name": "Joshua Eyler",
+					"id": 304582737,
+					"id_str": "304582737",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 877706658859802600,
+		"in_reply_to_status_id_str": "877706658859802624",
+		"in_reply_to_user_id": 304582737,
+		"in_reply_to_user_id_str": "304582737",
+		"in_reply_to_screen_name": "joshua_r_eyler",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 801,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3140,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 01:55:06 +0000 2017",
+		"id": 877706481201627100,
+		"id_str": "877706481201627136",
+		"text": "Love that I just discovered #TXed chat thanks to @joshua_r_eyler",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TXed",
+					"indices": [
+						28,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joshua_r_eyler",
+					"name": "Joshua Eyler",
+					"id": 304582737,
+					"id_str": "304582737",
+					"indices": [
+						49,
+						64
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 801,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3140,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 01:52:27 +0000 2017",
+		"id": 877705813607018500,
+		"id_str": "877705813607018496",
+		"text": "RT @joshua_r_eyler: Exactly! Opportunities for low-stakes failure need to be built into our courses and curricula. #txed https://t.co/2WoHV…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "txed",
+					"indices": [
+						115,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joshua_r_eyler",
+					"name": "Joshua Eyler",
+					"id": 304582737,
+					"id_str": "304582737",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 801,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3140,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 22 01:46:39 +0000 2017",
+			"id": 877704354018410500,
+			"id_str": "877704354018410496",
+			"text": "Exactly! Opportunities for low-stakes failure need to be built into our courses and curricula. #txed https://t.co/2WoHVi0bDf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "txed",
+						"indices": [
+							95,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2WoHVi0bDf",
+						"expanded_url": "https://twitter.com/terrieichholz/status/877703951679762432",
+						"display_url": "twitter.com/terrieichholz/…",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 304582737,
+				"id_str": "304582737",
+				"name": "Joshua Eyler",
+				"screen_name": "joshua_r_eyler",
+				"location": "Houston, TX",
+				"description": "Director of @RiceCTE & Adj. Assoc. Professor of Humanities at Rice University. Eclectic Research Interests: #HigherEd, Medieval Lit, Disability Studies.",
+				"url": "https://t.co/CiJhfEuslX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CiJhfEuslX",
+								"expanded_url": "http://josheyler.wordpress.com/",
+								"display_url": "josheyler.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3607,
+				"friends_count": 788,
+				"listed_count": 204,
+				"created_at": "Tue May 24 19:18:19 +0000 2011",
+				"favourites_count": 12536,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18708,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/577560724009963520/3uMT6yxv_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/577560724009963520/3uMT6yxv_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/304582737/1433172276",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 877703951679762400,
+			"quoted_status_id_str": "877703951679762432",
+			"quoted_status": {
+				"created_at": "Thu Jun 22 01:45:03 +0000 2017",
+				"id": 877703951679762400,
+				"id_str": "877703951679762432",
+				"text": "I think educators talk about this a lot, but how often do we give our Ss time to improve instead of moving on to next thing? #TXed",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "TXed",
+							"indices": [
+								125,
+								130
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"https://www.participate.com\" rel=\"nofollow\">Participate App</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 468417055,
+					"id_str": "468417055",
+					"name": "Terri Eichholz",
+					"screen_name": "terrieichholz",
+					"location": "South Central TX",
+					"description": "Teacher of K-5 Gifted Students, dedicated to engaging and inspiring all learners",
+					"url": "http://t.co/C9tv4gKRAu",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/C9tv4gKRAu",
+									"expanded_url": "http://engagetheirminds.com",
+									"display_url": "engagetheirminds.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 6523,
+					"friends_count": 957,
+					"listed_count": 604,
+					"created_at": "Thu Jan 19 14:30:06 +0000 2012",
+					"favourites_count": 17465,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 20328,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "ACDED6",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/693995061097340928/yO-DH68t.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/693995061097340928/yO-DH68t.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/693995705052983296/jb9jtGAY_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/693995705052983296/jb9jtGAY_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/468417055/1454384525",
+					"profile_link_color": "038543",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 8,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 877703951679762400,
+		"quoted_status_id_str": "877703951679762432",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 01:51:34 +0000 2017",
+		"id": 877705590843129900,
+		"id_str": "877705590843129856",
+		"text": "A3: Talk it out with colleagues and peers...don't let feelings of failure fester inside #TXed",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TXed",
+					"indices": [
+						88,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 801,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3140,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 01:50:48 +0000 2017",
+		"id": 877705397208883200,
+		"id_str": "877705397208883200",
+		"text": "RT @joshua_r_eyler: My philosophy is \"Always listen to Mo.\" :) #txed https://t.co/dtrDRrD37F",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "txed",
+					"indices": [
+						63,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joshua_r_eyler",
+					"name": "Joshua Eyler",
+					"id": 304582737,
+					"id_str": "304582737",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dtrDRrD37F",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/877704710735712256",
+					"display_url": "twitter.com/MorrisPelzel/s…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 801,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3140,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 22 01:49:11 +0000 2017",
+			"id": 877704993138135000,
+			"id_str": "877704993138135040",
+			"text": "My philosophy is \"Always listen to Mo.\" :) #txed https://t.co/dtrDRrD37F",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "txed",
+						"indices": [
+							43,
+							48
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dtrDRrD37F",
+						"expanded_url": "https://twitter.com/MorrisPelzel/status/877704710735712256",
+						"display_url": "twitter.com/MorrisPelzel/s…",
+						"indices": [
+							49,
+							72
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 304582737,
+				"id_str": "304582737",
+				"name": "Joshua Eyler",
+				"screen_name": "joshua_r_eyler",
+				"location": "Houston, TX",
+				"description": "Director of @RiceCTE & Adj. Assoc. Professor of Humanities at Rice University. Eclectic Research Interests: #HigherEd, Medieval Lit, Disability Studies.",
+				"url": "https://t.co/CiJhfEuslX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CiJhfEuslX",
+								"expanded_url": "http://josheyler.wordpress.com/",
+								"display_url": "josheyler.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3607,
+				"friends_count": 788,
+				"listed_count": 204,
+				"created_at": "Tue May 24 19:18:19 +0000 2011",
+				"favourites_count": 12536,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18708,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/577560724009963520/3uMT6yxv_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/577560724009963520/3uMT6yxv_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/304582737/1433172276",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 877704710735712300,
+			"quoted_status_id_str": "877704710735712256",
+			"quoted_status": {
+				"created_at": "Thu Jun 22 01:48:04 +0000 2017",
+				"id": 877704710735712300,
+				"id_str": "877704710735712256",
+				"text": "Failing forward as prototyping...go in expecting a process of iterative learning #txed https://t.co/rOsem8jwZP",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "txed",
+							"indices": [
+								81,
+								86
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/rOsem8jwZP",
+							"expanded_url": "https://twitter.com/TXEDMod/status/877702932388470784",
+							"display_url": "twitter.com/TXEDMod/status…",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 33972737,
+					"id_str": "33972737",
+					"name": "Mo Pelzel",
+					"screen_name": "MorrisPelzel",
+					"location": "Sherman, Texas",
+					"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+					"url": "https://t.co/HifqlQpaOV",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/HifqlQpaOV",
+									"expanded_url": "http://morrispelzel.com",
+									"display_url": "morrispelzel.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 458,
+					"friends_count": 801,
+					"listed_count": 31,
+					"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+					"favourites_count": 3140,
+					"utc_offset": -18000,
+					"time_zone": "America/Chicago",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 3468,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+					"profile_link_color": "ABB8C2",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 877702932388470800,
+				"quoted_status_id_str": "877702932388470784",
+				"retweet_count": 0,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 877704710735712300,
+		"quoted_status_id_str": "877704710735712256",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 01:50:17 +0000 2017",
+		"id": 877705269781741600,
+		"id_str": "877705269781741568",
+		"text": "@joshua_r_eyler Haha! You the man, Josh! #TXed",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TXed",
+					"indices": [
+						41,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joshua_r_eyler",
+					"name": "Joshua Eyler",
+					"id": 304582737,
+					"id_str": "304582737",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 877704993138135000,
+		"in_reply_to_status_id_str": "877704993138135040",
+		"in_reply_to_user_id": 304582737,
+		"in_reply_to_user_id_str": "304582737",
+		"in_reply_to_screen_name": "joshua_r_eyler",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 801,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3140,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 01:48:04 +0000 2017",
+		"id": 877704710735712300,
+		"id_str": "877704710735712256",
+		"text": "Failing forward as prototyping...go in expecting a process of iterative learning #txed https://t.co/rOsem8jwZP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "txed",
+					"indices": [
+						81,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rOsem8jwZP",
+					"expanded_url": "https://twitter.com/TXEDMod/status/877702932388470784",
+					"display_url": "twitter.com/TXEDMod/status…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 801,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3140,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 877702932388470800,
+		"quoted_status_id_str": "877702932388470784",
+		"quoted_status": {
+			"created_at": "Thu Jun 22 01:41:00 +0000 2017",
+			"id": 877702932388470800,
+			"id_str": "877702932388470784",
+			"text": "Q2-The term \"Failing Forward\" has been often used in education. What does that mean to you? #TXed https://t.co/q0UX11bOwa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TXed",
+						"indices": [
+							92,
+							97
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 877600661080162300,
+						"id_str": "877600661080162304",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DC3dJspUwAA7D5L.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DC3dJspUwAA7D5L.jpg",
+						"url": "https://t.co/q0UX11bOwa",
+						"display_url": "pic.twitter.com/q0UX11bOwa",
+						"expanded_url": "https://twitter.com/TXEDMod/status/877702932388470784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 877600661080162300,
+						"id_str": "877600661080162304",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DC3dJspUwAA7D5L.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DC3dJspUwAA7D5L.jpg",
+						"url": "https://t.co/q0UX11bOwa",
+						"display_url": "pic.twitter.com/q0UX11bOwa",
+						"expanded_url": "https://twitter.com/TXEDMod/status/877702932388470784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2337268669,
+				"id_str": "2337268669",
+				"name": "TXED Mod",
+				"screen_name": "TXEDMod",
+				"location": "Texas",
+				"description": "Moderator Account for #TXED chats. Weekly on Wednesdays at 8:30 CST",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 869,
+				"friends_count": 10,
+				"listed_count": 19,
+				"created_at": "Mon Feb 10 21:08:33 +0000 2014",
+				"favourites_count": 46,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2256,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/432984900723941376/qQlkMBuQ.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/432984900723941376/qQlkMBuQ.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/432984792909361153/A9TbK-xp_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/432984792909361153/A9TbK-xp_normal.jpeg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 01:46:36 +0000 2017",
+		"id": 877704340336672800,
+		"id_str": "877704340336672768",
+		"text": "Hi folks...I'm Mo Pelzel, Digital Pedagogy Designer @AustinCollege #TXed",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TXed",
+					"indices": [
+						67,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AustinCollege",
+					"name": "Austin College",
+					"id": 15565128,
+					"id_str": "15565128",
+					"indices": [
+						52,
+						66
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 801,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3140,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Thu Jun 22 01:04:09 +0000 2017",
+		"id": 877693656043540500,
+		"id_str": "877693656043540480",
+		"text": "\"We are always more than our jobs, more even than our vocation or calling\" @mariashine https://t.co/N1FPjAZRAe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mariashine",
+					"name": "Maria Shine Stewart",
+					"id": 45999856,
+					"id_str": "45999856",
+					"indices": [
+						75,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/N1FPjAZRAe",
+					"expanded_url": "https://twitter.com/insidehighered/status/877649587845988354",
+					"display_url": "twitter.com/insidehighered…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 801,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3140,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 877649587845988400,
+		"quoted_status_id_str": "877649587845988354",
+		"quoted_status": {
+			"created_at": "Wed Jun 21 22:09:02 +0000 2017",
+			"id": 877649587845988400,
+			"id_str": "877649587845988354",
+			"text": "Advice for dealing with job changes &amp; losses (essay) https://t.co/VdZdiyp91P #careeradvice #highered #gradchat",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "careeradvice",
+						"indices": [
+							81,
+							94
+						]
+					},
+					{
+						"text": "highered",
+						"indices": [
+							95,
+							104
+						]
+					},
+					{
+						"text": "gradchat",
+						"indices": [
+							105,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VdZdiyp91P",
+						"expanded_url": "http://ihenow.com/2sARmvZ",
+						"display_url": "ihenow.com/2sARmvZ",
+						"indices": [
+							57,
+							80
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16045268,
+				"id_str": "16045268",
+				"name": "Inside Higher Ed",
+				"screen_name": "insidehighered",
+				"location": "Washington, D.C.",
+				"description": "Higher education news, jobs and more. Daily, online, free. DM us w/your news & tips. #highered\nWe're on Facebook: https://t.co/tGvhzndrnb",
+				"url": "http://t.co/kyrVF1rnte",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/kyrVF1rnte",
+								"expanded_url": "http://www.insidehighered.com",
+								"display_url": "insidehighered.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/tGvhzndrnb",
+								"expanded_url": "http://ihenow.com/facebook",
+								"display_url": "ihenow.com/facebook",
+								"indices": [
+									114,
+									137
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 194157,
+				"friends_count": 2884,
+				"listed_count": 5848,
+				"created_at": "Fri Aug 29 18:10:03 +0000 2008",
+				"favourites_count": 1312,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 22480,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/695280471572357123/Wc-6PxUA_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/695280471572357123/Wc-6PxUA_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16045268/1493126807",
+				"profile_link_color": "EF7522",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jun 21 20:34:18 +0000 2017",
 		"id": 877625748961583100,
 		"id_str": "877625748961583106",
