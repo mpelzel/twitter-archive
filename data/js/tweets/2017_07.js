@@ -1,6 +1,743 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sun Jul 02 17:52:26 +0000 2017",
+		"id": 881571279291252700,
+		"id_str": "881571279291252736",
+		"text": "RT @G_Rawlings: .@twoodwa1 taught Shakespeare's Julius Caesar this fall to 130 sophomores--before the election. Populism knows no end and h…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "G_Rawlings",
+					"name": "Gunnar Rawlings",
+					"id": 3066116824,
+					"id_str": "3066116824",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "twoodwa1",
+					"name": "Tim Woodward",
+					"id": 24767321,
+					"id_str": "24767321",
+					"indices": [
+						17,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 471,
+			"friends_count": 811,
+			"listed_count": 28,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3161,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3543,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 02 17:45:27 +0000 2017",
+			"id": 881569523853340700,
+			"id_str": "881569523853340672",
+			"text": ".@twoodwa1 taught Shakespeare's Julius Caesar this fall to 130 sophomores--before the election. Populism knows no e… https://t.co/M0YjoSMxFW",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "twoodwa1",
+						"name": "Tim Woodward",
+						"id": 24767321,
+						"id_str": "24767321",
+						"indices": [
+							1,
+							10
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/M0YjoSMxFW",
+						"expanded_url": "https://twitter.com/i/web/status/881569523853340672",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3066116824,
+				"id_str": "3066116824",
+				"name": "Gunnar Rawlings",
+				"screen_name": "G_Rawlings",
+				"location": "Dallas",
+				"description": "Educator of sorts",
+				"url": "http://t.co/bAbTCyDgIi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/bAbTCyDgIi",
+								"expanded_url": "http://www.cristoreydallas.org",
+								"display_url": "cristoreydallas.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 732,
+				"friends_count": 795,
+				"listed_count": 13,
+				"created_at": "Mon Mar 02 20:03:13 +0000 2015",
+				"favourites_count": 320,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2197,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/572512106348412928/1m--PFWM_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/572512106348412928/1m--PFWM_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3066116824/1425332601",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "463f5d9615d7d1be",
+				"url": "https://api.twitter.com/1.1/geo/id/463f5d9615d7d1be.json",
+				"place_type": "admin",
+				"name": "Maine",
+				"full_name": "Maine, USA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-71.084335,
+								42.917127
+							],
+							[
+								-66.885075,
+								42.917127
+							],
+							[
+								-66.885075,
+								47.459687
+							],
+							[
+								-71.084335,
+								47.459687
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 881506367860813800,
+			"quoted_status_id_str": "881506367860813824",
+			"quoted_status": {
+				"created_at": "Sun Jul 02 13:34:30 +0000 2017",
+				"id": 881506367860813800,
+				"id_str": "881506367860813824",
+				"text": "The speed with which we're recapitulating the decline and fall of Rome is impressive. What took Rome centuries we'r… https://t.co/t8gmOTRTUq",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/t8gmOTRTUq",
+							"expanded_url": "https://twitter.com/i/web/status/881506367860813824",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2800581040,
+					"id_str": "2800581040",
+					"name": "Bill Kristol",
+					"screen_name": "BillKristol",
+					"location": "",
+					"description": "Editor at large @WeeklyStandard",
+					"url": "http://t.co/FKMfTLHfll",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/FKMfTLHfll",
+									"expanded_url": "http://weeklystandard.com",
+									"display_url": "weeklystandard.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 183065,
+					"friends_count": 2321,
+					"listed_count": 3276,
+					"created_at": "Thu Oct 02 18:47:57 +0000 2014",
+					"favourites_count": 0,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 14212,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/521747547648311296/Z-2ftHoZ_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/521747547648311296/Z-2ftHoZ_normal.png",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 881503147168071700,
+				"quoted_status_id_str": "881503147168071680",
+				"retweet_count": 8825,
+				"favorite_count": 19770,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 881506367860813800,
+		"quoted_status_id_str": "881506367860813824",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 02 16:38:01 +0000 2017",
+		"id": 881552550754996200,
+		"id_str": "881552550754996225",
+		"text": "RT @allysonrobinson: \"When fascism comes to America, it will be wrapped in the flag and carrying a cross.\" \n—Sinclair Lewis https://t.co/lm…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "allysonrobinson",
+					"name": "Allyson Robinson",
+					"id": 14074673,
+					"id_str": "14074673",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 471,
+			"friends_count": 811,
+			"listed_count": 28,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3161,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3543,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 02 12:03:13 +0000 2017",
+			"id": 881483396853227500,
+			"id_str": "881483396853227522",
+			"text": "\"When fascism comes to America, it will be wrapped in the flag and carrying a cross.\" \n—Sinclair Lewis https://t.co/lmQ4MqAeEH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lmQ4MqAeEH",
+						"expanded_url": "https://twitter.com/jeffmason1/status/881311736883806209",
+						"display_url": "twitter.com/jeffmason1/sta…",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14074673,
+				"id_str": "14074673",
+				"name": "Allyson Robinson",
+				"screen_name": "allysonrobinson",
+				"location": "Washington, DC",
+				"description": "Sr. Consultant @CookRoss. Into unscrewing the inscrutable, effing the ineffable. ENFJ, Enneagram 7, chaotic good. Louder than God's revolver and twice as shiny.",
+				"url": "https://t.co/ex7mkMUO21",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ex7mkMUO21",
+								"expanded_url": "http://allysonrobinson.com",
+								"display_url": "allysonrobinson.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6600,
+				"friends_count": 827,
+				"listed_count": 274,
+				"created_at": "Mon Mar 03 21:40:21 +0000 2008",
+				"favourites_count": 13666,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15722,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "03010A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836977240508346368/OJBWX89C_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836977240508346368/OJBWX89C_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14074673/1494685590",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 881311736883806200,
+			"quoted_status_id_str": "881311736883806209",
+			"quoted_status": {
+				"created_at": "Sun Jul 02 00:41:06 +0000 2017",
+				"id": 881311736883806200,
+				"id_str": "881311736883806209",
+				"text": "First Baptist Dallas Choir with other church choirs sings a song with the words \"Make America Great Again\" https://t.co/5uO0C65sgG",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 881311734308458500,
+							"id_str": "881311734308458496",
+							"indices": [
+								107,
+								130
+							],
+							"media_url": "http://pbs.twimg.com/media/DDsMWlvW0AAETmf.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DDsMWlvW0AAETmf.jpg",
+							"url": "https://t.co/5uO0C65sgG",
+							"display_url": "pic.twitter.com/5uO0C65sgG",
+							"expanded_url": "https://twitter.com/jeffmason1/status/881311736883806209/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 1024,
+									"h": 768,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 510,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1024,
+									"h": 768,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 881311734308458500,
+							"id_str": "881311734308458496",
+							"indices": [
+								107,
+								130
+							],
+							"media_url": "http://pbs.twimg.com/media/DDsMWlvW0AAETmf.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DDsMWlvW0AAETmf.jpg",
+							"url": "https://t.co/5uO0C65sgG",
+							"display_url": "pic.twitter.com/5uO0C65sgG",
+							"expanded_url": "https://twitter.com/jeffmason1/status/881311736883806209/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 1024,
+									"h": 768,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 510,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1024,
+									"h": 768,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 120180668,
+					"id_str": "120180668",
+					"name": "Jeff Mason",
+					"screen_name": "jeffmason1",
+					"location": "Washington DC",
+					"description": "White House Correspondent for Reuters; President, White House Correspondents' Association; Colorado native, Northwestern University grad, Fulbright alum.",
+					"url": "https://t.co/HXgG6pmLcU",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/HXgG6pmLcU",
+									"expanded_url": "http://blogs.reuters.com/jeff-mason/",
+									"display_url": "blogs.reuters.com/jeff-mason/",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 24304,
+					"friends_count": 1323,
+					"listed_count": 901,
+					"created_at": "Fri Mar 05 18:17:15 +0000 2010",
+					"favourites_count": 536,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 3860,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/791329119/Mason_Jeff_Reuters_Photo_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/791329119/Mason_Jeff_Reuters_Photo_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/120180668/1499028084",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 75,
+				"favorite_count": 76,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 673,
+			"favorite_count": 939,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 881311736883806200,
+		"quoted_status_id_str": "881311736883806209",
+		"retweet_count": 673,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jul 01 16:26:35 +0000 2017",
 		"id": 881187287610126300,
 		"id_str": "881187287610126336",
