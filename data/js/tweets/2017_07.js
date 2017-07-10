@@ -1,6 +1,571 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sun Jul 09 15:04:19 +0000 2017",
+		"id": 884065685193838600,
+		"id_str": "884065685193838592",
+		"text": "RT @ava: Blistering. And accurate. This is how they see us. https://t.co/yzYlUIDOUo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ava",
+					"name": "Ava DuVernay",
+					"id": 14982804,
+					"id_str": "14982804",
+					"indices": [
+						3,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 883874833494294500,
+					"id_str": "883874833494294528",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DEQpAYjVoAQCzqF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEQpAYjVoAQCzqF.jpg",
+					"url": "https://t.co/yzYlUIDOUo",
+					"display_url": "pic.twitter.com/yzYlUIDOUo",
+					"expanded_url": "https://twitter.com/abcnews/status/883877120082038784/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 883877120082038800,
+					"source_status_id_str": "883877120082038784",
+					"source_user_id": 2768501,
+					"source_user_id_str": "2768501"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 883874833494294500,
+					"id_str": "883874833494294528",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DEQpAYjVoAQCzqF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEQpAYjVoAQCzqF.jpg",
+					"url": "https://t.co/yzYlUIDOUo",
+					"display_url": "pic.twitter.com/yzYlUIDOUo",
+					"expanded_url": "https://twitter.com/abcnews/status/883877120082038784/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 883877120082038800,
+					"source_status_id_str": "883877120082038784",
+					"source_user_id": 2768501,
+					"source_user_id_str": "2768501",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 138920,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/883874833494294528/pl/t7zRUKuBSGsohhVQ.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/883874833494294528/vid/480x480/UwZ4lgs2LYNnhJxW.mp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/883874833494294528/vid/720x720/zSjLkqI8JFi5F3X0.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/883874833494294528/vid/240x240/_OZtUqugXKZivHrz.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Trump 'has no desire and no capacity to lead the world'",
+						"description": "Donald Trump managed to isolate his nation, to confuse and alienate his allies and to diminish America says ABC political editor Chris Uhlmann when speaking with Insiders host Barrie Cassidy.",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://www.abc.net.au/news/2017-07-09/did-trumps-g20-performance-indicate-us-decline-as-world-power/8691538"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 2768501,
+							"id_str": "2768501",
+							"name": "ABC News",
+							"screen_name": "abcnews",
+							"location": "Australia",
+							"description": "Latest news updates from the Australian Broadcasting Corp. This is an official @abcaustralia account.",
+							"url": "http://t.co/knlFvfwxkf",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/knlFvfwxkf",
+											"expanded_url": "http://www.abc.net.au/news",
+											"display_url": "abc.net.au/news",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1356563,
+							"friends_count": 1226,
+							"listed_count": 10876,
+							"created_at": "Thu Mar 29 02:15:36 +0000 2007",
+							"favourites_count": 2890,
+							"utc_offset": 36000,
+							"time_zone": "Sydney",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 270000,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/384697135/News_Twitter-background.jpg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/384697135/News_Twitter-background.jpg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/851166911245107200/4xsqBmY5_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/851166911245107200/4xsqBmY5_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2768501/1491773924",
+							"profile_link_color": "0000FF",
+							"profile_sidebar_border_color": "CCCCCC",
+							"profile_sidebar_fill_color": "C8C8C8",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | Catholic theologian @Creighton (online) | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 815,
+			"listed_count": 28,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3185,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3589,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 09 03:37:45 +0000 2017",
+			"id": 883892905647104000,
+			"id_str": "883892905647104002",
+			"text": "Blistering. And accurate. This is how they see us. https://t.co/yzYlUIDOUo",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 883874833494294500,
+						"id_str": "883874833494294528",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DEQpAYjVoAQCzqF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEQpAYjVoAQCzqF.jpg",
+						"url": "https://t.co/yzYlUIDOUo",
+						"display_url": "pic.twitter.com/yzYlUIDOUo",
+						"expanded_url": "https://twitter.com/abcnews/status/883877120082038784/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 883877120082038800,
+						"source_status_id_str": "883877120082038784",
+						"source_user_id": 2768501,
+						"source_user_id_str": "2768501"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 883874833494294500,
+						"id_str": "883874833494294528",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DEQpAYjVoAQCzqF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEQpAYjVoAQCzqF.jpg",
+						"url": "https://t.co/yzYlUIDOUo",
+						"display_url": "pic.twitter.com/yzYlUIDOUo",
+						"expanded_url": "https://twitter.com/abcnews/status/883877120082038784/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 883877120082038800,
+						"source_status_id_str": "883877120082038784",
+						"source_user_id": 2768501,
+						"source_user_id_str": "2768501",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 138920,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/883874833494294528/pl/t7zRUKuBSGsohhVQ.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/883874833494294528/vid/480x480/UwZ4lgs2LYNnhJxW.mp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/883874833494294528/vid/720x720/zSjLkqI8JFi5F3X0.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/883874833494294528/vid/240x240/_OZtUqugXKZivHrz.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Trump 'has no desire and no capacity to lead the world'",
+							"description": "Donald Trump managed to isolate his nation, to confuse and alienate his allies and to diminish America says ABC political editor Chris Uhlmann when speaking with Insiders host Barrie Cassidy.",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "http://www.abc.net.au/news/2017-07-09/did-trumps-g20-performance-indicate-us-decline-as-world-power/8691538"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 2768501,
+								"id_str": "2768501",
+								"name": "ABC News",
+								"screen_name": "abcnews",
+								"location": "Australia",
+								"description": "Latest news updates from the Australian Broadcasting Corp. This is an official @abcaustralia account.",
+								"url": "http://t.co/knlFvfwxkf",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "http://t.co/knlFvfwxkf",
+												"expanded_url": "http://www.abc.net.au/news",
+												"display_url": "abc.net.au/news",
+												"indices": [
+													0,
+													22
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1356563,
+								"friends_count": 1226,
+								"listed_count": 10876,
+								"created_at": "Thu Mar 29 02:15:36 +0000 2007",
+								"favourites_count": 2890,
+								"utc_offset": 36000,
+								"time_zone": "Sydney",
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 270000,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/384697135/News_Twitter-background.jpg",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/384697135/News_Twitter-background.jpg",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/851166911245107200/4xsqBmY5_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/851166911245107200/4xsqBmY5_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/2768501/1491773924",
+								"profile_link_color": "0000FF",
+								"profile_sidebar_border_color": "CCCCCC",
+								"profile_sidebar_fill_color": "C8C8C8",
+								"profile_text_color": "000000",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14982804,
+				"id_str": "14982804",
+				"name": "Ava DuVernay",
+				"screen_name": "ava",
+				"location": "Los Angeles",
+				"description": "Mother of 9: Wrinkle in Time, 13TH, Queen Sugar, Selma, Venus Vs, Middle of Nowhere, I Will Follow, My Mic Sounds Nice, This is The Life",
+				"url": "https://t.co/UOD1aQV0xC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UOD1aQV0xC",
+								"expanded_url": "http://www.arraynow.com",
+								"display_url": "arraynow.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 898438,
+				"friends_count": 10387,
+				"listed_count": 3444,
+				"created_at": "Mon Jun 02 17:53:54 +0000 2008",
+				"favourites_count": 101014,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 29829,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/260104735/iwftwitter.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/260104735/iwftwitter.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/883024702825914368/maHIyD2m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/883024702825914368/maHIyD2m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14982804/1498769465",
+				"profile_link_color": "333133",
+				"profile_sidebar_border_color": "696969",
+				"profile_sidebar_fill_color": "948B94",
+				"profile_text_color": "380538",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32613,
+			"favorite_count": 48269,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 32613,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jul 08 18:19:40 +0000 2017",
 		"id": 883752460669657100,
 		"id_str": "883752460669657089",
