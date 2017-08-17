@@ -1,6 +1,1433 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 16 20:10:23 +0000 2017",
+		"id": 897913450575351800,
+		"id_str": "897913450575351808",
+		"text": "RT @sivavaid: Tyler put his life on the line to defend @uva students. He's suffered a stroke from a torch injury to his neck.  https://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sivavaid",
+					"name": "SivaVaidhyanathan🗽",
+					"id": 20406724,
+					"id_str": "20406724",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "UVA",
+					"name": "UVA",
+					"id": 1910771,
+					"id_str": "1910771",
+					"indices": [
+						55,
+						59
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 484,
+			"friends_count": 863,
+			"listed_count": 29,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3344,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3881,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 16 17:35:48 +0000 2017",
+			"id": 897874549047521300,
+			"id_str": "897874549047521280",
+			"text": "Tyler put his life on the line to defend @uva students. He's suffered a stroke from a torch injury to his neck.  https://t.co/KNGU21trcB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UVA",
+						"name": "UVA",
+						"id": 1910771,
+						"id_str": "1910771",
+						"indices": [
+							41,
+							45
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/KNGU21trcB",
+						"expanded_url": "http://www.chronicle.com/article/UVa-Employee-Who-Clashed-With/240942",
+						"display_url": "chronicle.com/article/UVa-Em…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20406724,
+				"id_str": "20406724",
+				"name": "SivaVaidhyanathan🗽",
+				"screen_name": "sivavaid",
+				"location": "Virginia, USA",
+				"description": "Writing a book about Facebook. Wrote The Googlization of Everything. Director of Center for Media and Citizenship (@mediaandcitizen) which publishes @VQR.",
+				"url": "https://t.co/pGExYzU3js",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pGExYzU3js",
+								"expanded_url": "https://en.wikipedia.org/wiki/Siva_Vaidhyanathan",
+								"display_url": "en.wikipedia.org/wiki/Siva_Vaid…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16159,
+				"friends_count": 4302,
+				"listed_count": 1034,
+				"created_at": "Mon Feb 09 01:29:24 +0000 2009",
+				"favourites_count": 50704,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 103921,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/807522515/043301b9fc302cc787a56403f907e2a9.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/807522515/043301b9fc302cc787a56403f907e2a9.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/897241838591123457/IVXErIZg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/897241838591123457/IVXErIZg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20406724/1496263309",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 163,
+			"favorite_count": 108,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 163,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 16 14:11:49 +0000 2017",
+		"id": 897823214520422400,
+		"id_str": "897823214520422401",
+		"text": "RT @scalzi: Next 24 hours, every RT this gets, I put $1 in a pot for @simonwiesenthal, @NAACP, @TransEquality and @splcenter, up to $10k. Y…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scalzi",
+					"name": "John Scalzi",
+					"id": 14202817,
+					"id_str": "14202817",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "simonwiesenthal",
+					"name": "SimonWiesenthalCntr",
+					"id": 54301390,
+					"id_str": "54301390",
+					"indices": [
+						69,
+						85
+					]
+				},
+				{
+					"screen_name": "NAACP",
+					"name": "NAACP",
+					"id": 44988185,
+					"id_str": "44988185",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"screen_name": "TransEquality",
+					"name": "Trans Equality",
+					"id": 37005435,
+					"id_str": "37005435",
+					"indices": [
+						95,
+						109
+					]
+				},
+				{
+					"screen_name": "splcenter",
+					"name": "SPLC",
+					"id": 65698096,
+					"id_str": "65698096",
+					"indices": [
+						114,
+						124
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 484,
+			"friends_count": 863,
+			"listed_count": 29,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3344,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3881,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 16 13:55:33 +0000 2017",
+			"id": 897819118979731500,
+			"id_str": "897819118979731456",
+			"text": "Next 24 hours, every RT this gets, I put $1 in a pot for @simonwiesenthal, @NAACP, @TransEquality and @splcenter, up to $10k. You know why.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "simonwiesenthal",
+						"name": "SimonWiesenthalCntr",
+						"id": 54301390,
+						"id_str": "54301390",
+						"indices": [
+							57,
+							73
+						]
+					},
+					{
+						"screen_name": "NAACP",
+						"name": "NAACP",
+						"id": 44988185,
+						"id_str": "44988185",
+						"indices": [
+							75,
+							81
+						]
+					},
+					{
+						"screen_name": "TransEquality",
+						"name": "Trans Equality",
+						"id": 37005435,
+						"id_str": "37005435",
+						"indices": [
+							83,
+							97
+						]
+					},
+					{
+						"screen_name": "splcenter",
+						"name": "SPLC",
+						"id": 65698096,
+						"id_str": "65698096",
+						"indices": [
+							102,
+							112
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14202817,
+				"id_str": "14202817",
+				"name": "John Scalzi",
+				"screen_name": "scalzi",
+				"location": "Bradford, Ohio, USA",
+				"description": "I enjoy pie.",
+				"url": "http://t.co/27Copmnrzm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/27Copmnrzm",
+								"expanded_url": "http://whatever.scalzi.com",
+								"display_url": "whatever.scalzi.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 126182,
+				"friends_count": 440,
+				"listed_count": 5326,
+				"created_at": "Sun Mar 23 17:23:32 +0000 2008",
+				"favourites_count": 9,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 121885,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "4A262E",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/162221327/4839372524_36eacda9d7_o.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/162221327/4839372524_36eacda9d7_o.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3475245194/59992708a306aaa836bf1699f8b47d5d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3475245194/59992708a306aaa836bf1699f8b47d5d_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14202817/1431485723",
+				"profile_link_color": "15421F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "B3865B",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21733,
+			"favorite_count": 6321,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 21733,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 16 14:04:46 +0000 2017",
+		"id": 897821440531148800,
+		"id_str": "897821440531148800",
+		"text": "RT @jayrosen_nyu: The AP says it does not use the term \"alt right\" and explains why. https://t.co/aWIgnZSSCb https://t.co/zY2EcayhKm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jayrosen_nyu",
+					"name": "Jay Rosen",
+					"id": 14834340,
+					"id_str": "14834340",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aWIgnZSSCb",
+					"expanded_url": "https://blog.ap.org/behind-the-news/how-to-describe-extremists-who-rallied-in-charlottesville",
+					"display_url": "blog.ap.org/behind-the-new…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 897820889072447500,
+					"id_str": "897820889072447490",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DHWzV30WsAIitKq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHWzV30WsAIitKq.jpg",
+					"url": "https://t.co/zY2EcayhKm",
+					"display_url": "pic.twitter.com/zY2EcayhKm",
+					"expanded_url": "https://twitter.com/jayrosen_nyu/status/897821016503832577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 245,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 950,
+							"h": 342,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 950,
+							"h": 342,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 897821016503832600,
+					"source_status_id_str": "897821016503832577",
+					"source_user_id": 14834340,
+					"source_user_id_str": "14834340"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 897820889072447500,
+					"id_str": "897820889072447490",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DHWzV30WsAIitKq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHWzV30WsAIitKq.jpg",
+					"url": "https://t.co/zY2EcayhKm",
+					"display_url": "pic.twitter.com/zY2EcayhKm",
+					"expanded_url": "https://twitter.com/jayrosen_nyu/status/897821016503832577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 245,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 950,
+							"h": 342,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 950,
+							"h": 342,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 897821016503832600,
+					"source_status_id_str": "897821016503832577",
+					"source_user_id": 14834340,
+					"source_user_id_str": "14834340"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 484,
+			"friends_count": 863,
+			"listed_count": 29,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3344,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3881,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 16 14:03:05 +0000 2017",
+			"id": 897821016503832600,
+			"id_str": "897821016503832577",
+			"text": "The AP says it does not use the term \"alt right\" and explains why. https://t.co/aWIgnZSSCb https://t.co/zY2EcayhKm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aWIgnZSSCb",
+						"expanded_url": "https://blog.ap.org/behind-the-news/how-to-describe-extremists-who-rallied-in-charlottesville",
+						"display_url": "blog.ap.org/behind-the-new…",
+						"indices": [
+							67,
+							90
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 897820889072447500,
+						"id_str": "897820889072447490",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DHWzV30WsAIitKq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHWzV30WsAIitKq.jpg",
+						"url": "https://t.co/zY2EcayhKm",
+						"display_url": "pic.twitter.com/zY2EcayhKm",
+						"expanded_url": "https://twitter.com/jayrosen_nyu/status/897821016503832577/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 245,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 950,
+								"h": 342,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 950,
+								"h": 342,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 897820889072447500,
+						"id_str": "897820889072447490",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DHWzV30WsAIitKq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHWzV30WsAIitKq.jpg",
+						"url": "https://t.co/zY2EcayhKm",
+						"display_url": "pic.twitter.com/zY2EcayhKm",
+						"expanded_url": "https://twitter.com/jayrosen_nyu/status/897821016503832577/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 245,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 950,
+								"h": 342,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 950,
+								"h": 342,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14834340,
+				"id_str": "14834340",
+				"name": "Jay Rosen",
+				"screen_name": "jayrosen_nyu",
+				"location": "New York City jr3@nyu.edu",
+				"description": "I teach journalism and direct the Studio 20 program at NYU, critique the press, try to grasp digital logic. 'Ambassador' for @decorrespondent's expansion to US.",
+				"url": "https://t.co/DB3C2ThOLr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DB3C2ThOLr",
+								"expanded_url": "http://pressthink.org/2016/12/winter-coming-prospects-american-press-trump/",
+								"display_url": "pressthink.org/2016/12/winter…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 215457,
+				"friends_count": 1135,
+				"listed_count": 12193,
+				"created_at": "Mon May 19 16:09:01 +0000 2008",
+				"favourites_count": 41,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 59113,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "718ECD",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2871132/nycnight3.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2871132/nycnight3.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/846771016147898372/4njbzXG5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/846771016147898372/4njbzXG5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14834340/1485669845",
+				"profile_link_color": "1749B3",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 431,
+			"favorite_count": 722,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 431,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 16 13:09:17 +0000 2017",
+		"id": 897807475621204000,
+		"id_str": "897807475621203969",
+		"text": "RT @OxfordWords: A noun and a verb sit at a bar.\nVerb: ‘Hey, wanna go back to my place and conjugate?’\nNoun: ‘I decline.’ \n#NationalTellAJo…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OxfordWords",
+					"name": "Oxford Dictionaries",
+					"id": 249150179,
+					"id_str": "249150179",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 484,
+			"friends_count": 863,
+			"listed_count": 29,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3344,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3881,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 16 10:46:36 +0000 2017",
+			"id": 897771567962366000,
+			"id_str": "897771567962365952",
+			"text": "A noun and a verb sit at a bar.\nVerb: ‘Hey, wanna go back to my place and conjugate?’\nNoun: ‘I decline.’ \n#NationalTellAJokeDay",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NationalTellAJokeDay",
+						"indices": [
+							106,
+							127
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 249150179,
+				"id_str": "249150179",
+				"name": "Oxford Dictionaries",
+				"screen_name": "OxfordWords",
+				"location": "Oxford, UK",
+				"description": "Oxford University Press, publisher of Oxford Dictionaries, brings you news and insights from today’s world of words.",
+				"url": "http://t.co/bBlaWJR6DP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/bBlaWJR6DP",
+								"expanded_url": "http://www.oxforddictionaries.com",
+								"display_url": "oxforddictionaries.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 260995,
+				"friends_count": 1587,
+				"listed_count": 3778,
+				"created_at": "Tue Feb 08 13:39:50 +0000 2011",
+				"favourites_count": 1223,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17351,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169189884/S2pcRCBs.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169189884/S2pcRCBs.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876827075235246081/IcJNclPZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876827075235246081/IcJNclPZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/249150179/1398850612",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 285,
+			"favorite_count": 509,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 285,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 16 13:03:28 +0000 2017",
+		"id": 897806010634686500,
+		"id_str": "897806010634686464",
+		"text": "RT @sarahmccammon: Meanwhile, #HeatherHeyer's father: “I just think about what the Lord said on the cross, ‘Forgive them, they don’t know w…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HeatherHeyer",
+					"indices": [
+						30,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sarahmccammon",
+					"name": "Sarah McCammon NPR",
+					"id": 21104257,
+					"id_str": "21104257",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 484,
+			"friends_count": 863,
+			"listed_count": 29,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3344,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3881,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 16 06:53:42 +0000 2017",
+			"id": 897712957299335200,
+			"id_str": "897712957299335169",
+			"text": "Meanwhile, #HeatherHeyer's father: “I just think about what the Lord said on the cross, ‘Forgive them, they don’t k… https://t.co/XEabCxtBon",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HeatherHeyer",
+						"indices": [
+							11,
+							24
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XEabCxtBon",
+						"expanded_url": "https://twitter.com/i/web/status/897712957299335169",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21104257,
+				"id_str": "21104257",
+				"name": "Sarah McCammon NPR",
+				"screen_name": "sarahmccammon",
+				"location": "MCI-ORD-LNK-DSM-SAV-DCA-ORF",
+				"description": "Mid-Atlantic/Southeast Reporter. 2016 campaign reporter + @NPRPolitics Podcast alum. KC native. Fascinations: flyover country, the South, politics, religion.",
+				"url": "https://t.co/wdjAGezavN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wdjAGezavN",
+								"expanded_url": "http://www.npr.org/people/448294256/sarah-mccammon",
+								"display_url": "npr.org/people/4482942…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34179,
+				"friends_count": 4493,
+				"listed_count": 1108,
+				"created_at": "Tue Feb 17 16:43:50 +0000 2009",
+				"favourites_count": 17725,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 21187,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/888214302645252096/RwPhm4XU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/888214302645252096/RwPhm4XU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21104257/1496967700",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01fbe706f872cb32",
+				"url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+				"place_type": "city",
+				"name": "Washington",
+				"full_name": "Washington, DC",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-77.119401,
+								38.801826
+							],
+							[
+								-76.909396,
+								38.801826
+							],
+							[
+								-76.909396,
+								38.9953797
+							],
+							[
+								-77.119401,
+								38.9953797
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 897603369115799600,
+			"quoted_status_id_str": "897603369115799552",
+			"quoted_status": {
+				"created_at": "Tue Aug 15 23:38:14 +0000 2017",
+				"id": 897603369115799600,
+				"id_str": "897603369115799552",
+				"text": "A KKK leader in North Carolina on Charlottesville: “I’m glad that girl died.” https://t.co/6cR9B5NgSt",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/6cR9B5NgSt",
+							"expanded_url": "http://www.charlotteobserver.com/news/local/article167303682.html",
+							"display_url": "charlotteobserver.com/news/local/art…",
+							"indices": [
+								78,
+								101
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 27055034,
+					"id_str": "27055034",
+					"name": "Sabrina Siddiqui",
+					"screen_name": "SabrinaSiddiqui",
+					"location": "Washington, D.C.",
+					"description": "Political reporter @guardian. Formerly @huffpostpol. @MedillSchool alum. Contributing host @bpshow. Instagram: sabrinasiddiqui sabrina.siddiqui@theguardian.com",
+					"url": "https://t.co/SLG73GWIwI",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/SLG73GWIwI",
+									"expanded_url": "http://www.theguardian.com/profile/sabrina-siddiqui",
+									"display_url": "theguardian.com/profile/sabrin…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 54232,
+					"friends_count": 1126,
+					"listed_count": 1844,
+					"created_at": "Fri Mar 27 17:45:08 +0000 2009",
+					"favourites_count": 3714,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 53642,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "454245",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/146190913/rsz_412c160e2e-75ff-8902-1a9b-180dbe39d10fwallpaper.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/146190913/rsz_412c160e2e-75ff-8902-1a9b-180dbe39d10fwallpaper.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/803086355349835777/KEVqnr2D_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/803086355349835777/KEVqnr2D_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/27055034/1398196853",
+					"profile_link_color": "000000",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "FFFFFF",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 164,
+				"favorite_count": 85,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 121,
+			"favorite_count": 250,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 897603369115799600,
+		"quoted_status_id_str": "897603369115799552",
+		"retweet_count": 121,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 15 16:54:16 +0000 2017",
 		"id": 897501707428483100,
 		"id_str": "897501707428483072",
