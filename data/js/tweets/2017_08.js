@@ -1,6 +1,1077 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sat Aug 26 16:25:58 +0000 2017",
+		"id": 901480854182142000,
+		"id_str": "901480854182141952",
+		"text": "RT @brianklaas: In case you were wondering, a Secretary of Defense doesn't say something like this to the troops when the president is comp…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brianklaas",
+					"name": "Brian Klaas",
+					"id": 39279821,
+					"id_str": "39279821",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 482,
+			"friends_count": 680,
+			"listed_count": 29,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3383,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 26 14:03:21 +0000 2017",
+			"id": 901444961803132900,
+			"id_str": "901444961803132928",
+			"text": "In case you were wondering, a Secretary of Defense doesn't say something like this to the troops when the president… https://t.co/Nu3PayPSI8",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Nu3PayPSI8",
+						"expanded_url": "https://twitter.com/i/web/status/901444961803132928",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39279821,
+				"id_str": "39279821",
+				"name": "Brian Klaas",
+				"screen_name": "brianklaas",
+				"location": "London, England",
+				"description": "Fellow @LSEGovernment; DPhil from Oxford. Author: The Despot's Accomplice: How the West is Aiding & Abetting the Decline of Democracy. Ex-US campaign adviser.",
+				"url": "https://t.co/OJZSv00h3Q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OJZSv00h3Q",
+								"expanded_url": "http://www.brianpklaas.com",
+								"display_url": "brianpklaas.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 96846,
+				"friends_count": 984,
+				"listed_count": 1639,
+				"created_at": "Mon May 11 16:09:16 +0000 2009",
+				"favourites_count": 2555,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 11959,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/727547144979288070/OCkVQdGe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/727547144979288070/OCkVQdGe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39279821/1489680519",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 901432632394776600,
+			"quoted_status_id_str": "901432632394776576",
+			"quoted_status": {
+				"created_at": "Sat Aug 26 13:14:22 +0000 2017",
+				"id": 901432632394776600,
+				"id_str": "901432632394776576",
+				"text": "Wow. \"Hold the line until our country gets back to understanding &amp; respecting each other...\" Jim Mattis to US troops https://t.co/VMAAXjBWyg",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 901184494626984000,
+							"id_str": "901184494626983936",
+							"indices": [
+								121,
+								144
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/901184494626983936/pu/img/IEeXXfHX0cRvo4AW.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/901184494626983936/pu/img/IEeXXfHX0cRvo4AW.jpg",
+							"url": "https://t.co/VMAAXjBWyg",
+							"display_url": "pic.twitter.com/VMAAXjBWyg",
+							"expanded_url": "https://twitter.com/ReaganBattalion/status/901184752094457856/video/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 224,
+									"h": 400,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 224,
+									"h": 400,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 224,
+									"h": 400,
+									"resize": "fit"
+								}
+							},
+							"source_status_id": 901184752094457900,
+							"source_status_id_str": "901184752094457856",
+							"source_user_id": 4429709805,
+							"source_user_id_str": "4429709805"
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 901184494626984000,
+							"id_str": "901184494626983936",
+							"indices": [
+								121,
+								144
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/901184494626983936/pu/img/IEeXXfHX0cRvo4AW.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/901184494626983936/pu/img/IEeXXfHX0cRvo4AW.jpg",
+							"url": "https://t.co/VMAAXjBWyg",
+							"display_url": "pic.twitter.com/VMAAXjBWyg",
+							"expanded_url": "https://twitter.com/ReaganBattalion/status/901184752094457856/video/1",
+							"type": "video",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 224,
+									"h": 400,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 224,
+									"h": 400,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 224,
+									"h": 400,
+									"resize": "fit"
+								}
+							},
+							"source_status_id": 901184752094457900,
+							"source_status_id_str": "901184752094457856",
+							"source_user_id": 4429709805,
+							"source_user_id_str": "4429709805",
+							"video_info": {
+								"aspect_ratio": [
+									14,
+									25
+								],
+								"duration_millis": 140000,
+								"variants": [
+									{
+										"bitrate": 320000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/901184494626983936/pu/vid/178x320/MhyV1z5NmOsQu0Ii.mp4"
+									},
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/ext_tw_video/901184494626983936/pu/pl/4wygpLMStiuaPRBu.m3u8"
+									}
+								]
+							},
+							"additional_media_info": {
+								"monetizable": false,
+								"source_user": {
+									"id": 4429709805,
+									"id_str": "4429709805",
+									"name": "The Reagan Battalion",
+									"screen_name": "ReaganBattalion",
+									"location": "",
+									"description": "Your source for news, information and commentary from a conservative perspective.",
+									"url": "https://t.co/BJiaHcxad1",
+									"entities": {
+										"url": {
+											"urls": [
+												{
+													"url": "https://t.co/BJiaHcxad1",
+													"expanded_url": "http://www.TheReaganBattalion.com",
+													"display_url": "TheReaganBattalion.com",
+													"indices": [
+														0,
+														23
+													]
+												}
+											]
+										},
+										"description": {
+											"urls": []
+										}
+									},
+									"protected": false,
+									"followers_count": 47470,
+									"friends_count": 1476,
+									"listed_count": 866,
+									"created_at": "Wed Dec 09 19:33:33 +0000 2015",
+									"favourites_count": 14124,
+									"utc_offset": -25200,
+									"time_zone": "Pacific Time (US & Canada)",
+									"geo_enabled": false,
+									"verified": true,
+									"statuses_count": 51599,
+									"lang": "en",
+									"contributors_enabled": false,
+									"is_translator": false,
+									"is_translation_enabled": false,
+									"profile_background_color": "C0DEED",
+									"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+									"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+									"profile_background_tile": false,
+									"profile_image_url": "http://pbs.twimg.com/profile_images/882087395759403008/WLG3Qy6f_normal.jpg",
+									"profile_image_url_https": "https://pbs.twimg.com/profile_images/882087395759403008/WLG3Qy6f_normal.jpg",
+									"profile_banner_url": "https://pbs.twimg.com/profile_banners/4429709805/1503673160",
+									"profile_link_color": "1DA1F2",
+									"profile_sidebar_border_color": "C0DEED",
+									"profile_sidebar_fill_color": "DDEEF6",
+									"profile_text_color": "333333",
+									"profile_use_background_image": true,
+									"has_extended_profile": false,
+									"default_profile": true,
+									"default_profile_image": false,
+									"following": false,
+									"follow_request_sent": false,
+									"notifications": false,
+									"translator_type": "none"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 28076811,
+					"id_str": "28076811",
+					"name": "Richard Chambers",
+					"screen_name": "newschambers",
+					"location": "Dublin, Ireland",
+					"description": "Reporter, radio presenter, road warrior for @newstalkfm. Got a story, comment or conspiracy theory? Let me know: rchambers@newstalk.com🎙️📻",
+					"url": "https://t.co/zsr0lgJbv0",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/zsr0lgJbv0",
+									"expanded_url": "https://Instagram.com/newschambers",
+									"display_url": "Instagram.com/newschambers",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 13880,
+					"friends_count": 4559,
+					"listed_count": 285,
+					"created_at": "Wed Apr 01 09:12:42 +0000 2009",
+					"favourites_count": 28707,
+					"utc_offset": 3600,
+					"time_zone": "Dublin",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 64646,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/862623957/2955d564e0089d225f82f00aeb4c7e3b.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/862623957/2955d564e0089d225f82f00aeb4c7e3b.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/775452876768473088/3Iy8lVSP_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/775452876768473088/3Iy8lVSP_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/28076811/1493633786",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 10967,
+				"favorite_count": 20661,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 5512,
+			"favorite_count": 9719,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 901432632394776600,
+		"quoted_status_id_str": "901432632394776576",
+		"retweet_count": 5512,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 26 13:09:18 +0000 2017",
+		"id": 901431359243243500,
+		"id_str": "901431359243243520",
+		"text": "RT @paulcoxon: Happy 99th birthday Katherine Johnson, NASA mathematician who calculated the trajectory of the Apollo 11 mission https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paulcoxon",
+					"name": "Dr Paul Coxon",
+					"id": 18911432,
+					"id_str": "18911432",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 482,
+			"friends_count": 680,
+			"listed_count": 29,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3383,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 25 06:36:36 +0000 2017",
+			"id": 900970144901374000,
+			"id_str": "900970144901373954",
+			"text": "Happy 99th birthday Katherine Johnson, NASA mathematician who calculated the trajectory of the Apollo 11 mission… https://t.co/wz3JP2bwnS",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wz3JP2bwnS",
+						"expanded_url": "https://twitter.com/i/web/status/900970144901373954",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18911432,
+				"id_str": "18911432",
+				"name": "Dr Paul Coxon",
+				"screen_name": "paulcoxon",
+				"location": "Cambridge, UK",
+				"description": "Physicist in Materials Science at @Cambridge_Uni researching solar cells & energy storage materials. Science writer & communicator.",
+				"url": "https://t.co/M3BNFK3PD7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/M3BNFK3PD7",
+								"expanded_url": "http://www.mcg.msm.cam.ac.uk/",
+								"display_url": "mcg.msm.cam.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19771,
+				"friends_count": 988,
+				"listed_count": 633,
+				"created_at": "Mon Jan 12 19:20:44 +0000 2009",
+				"favourites_count": 43204,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 30143,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "103369",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/706847911/1bea558208f11cf23a24078541897406.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/706847911/1bea558208f11cf23a24078541897406.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/636660043312693248/K6eLUfum_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/636660043312693248/K6eLUfum_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18911432/1429563108",
+				"profile_link_color": "0995E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "333333",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 101122,
+			"favorite_count": 243537,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 101122,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 26 00:56:13 +0000 2017",
+		"id": 901246872295264300,
+		"id_str": "901246872295264258",
+		"text": "RT @ayjay: Now that the President has *unequivocally* announced his contempt for the rule of law, it's time for impeachment: https://t.co/z…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ayjay",
+					"name": "Alan Jacobs",
+					"id": 2141771,
+					"id_str": "2141771",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 482,
+			"friends_count": 680,
+			"listed_count": 29,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3383,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 26 00:18:12 +0000 2017",
+			"id": 901237307403104300,
+			"id_str": "901237307403104256",
+			"text": "Now that the President has *unequivocally* announced his contempt for the rule of law, it's time for impeachment: https://t.co/zpqJNpkijO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zpqJNpkijO",
+						"expanded_url": "https://www.bloomberg.com/view/articles/2017-08-23/arpaio-pardon-would-show-contempt-for-constitution",
+						"display_url": "bloomberg.com/view/articles/…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2141771,
+				"id_str": "2141771",
+				"name": "Alan Jacobs",
+				"screen_name": "ayjay",
+				"location": "Waco, Texas",
+				"description": "Nunc scripsi totum, pro Christo da mihi potum.  \n\nN.B.: I use this account for links only, and do not read replies here, ever.",
+				"url": "https://t.co/BGvNJB939A",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BGvNJB939A",
+								"expanded_url": "http://ayjay.org",
+								"display_url": "ayjay.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8945,
+				"friends_count": 28,
+				"listed_count": 380,
+				"created_at": "Sat Mar 24 23:37:59 +0000 2007",
+				"favourites_count": 2392,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 44304,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/800980521/956920a5b8c85ea9b9eb9cfbdc6f5828.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/800980521/956920a5b8c85ea9b9eb9cfbdc6f5828.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/723844593733627904/9czOMDqj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/723844593733627904/9czOMDqj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2141771/1494257209",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 48,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 26 00:53:57 +0000 2017",
+		"id": 901246303472160800,
+		"id_str": "901246303472160769",
+		"text": "RT @crampell: If you're not disgusted enough: read this on how Arpaio's office botched 400 sex-crime cases, many involving kids  https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "crampell",
+					"name": "Catherine Rampell",
+					"id": 14348157,
+					"id_str": "14348157",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Sherman, Texas",
+			"description": "Digital pedagogy designer @AustinCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 482,
+			"friends_count": 680,
+			"listed_count": 29,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3383,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 26 00:12:18 +0000 2017",
+			"id": 901235818957852700,
+			"id_str": "901235818957852673",
+			"text": "If you're not disgusted enough: read this on how Arpaio's office botched 400 sex-crime cases, many involving kids… https://t.co/htK1d1uwr7",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/htK1d1uwr7",
+						"expanded_url": "https://twitter.com/i/web/status/901235818957852673",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14348157,
+				"id_str": "14348157",
+				"name": "Catherine Rampell",
+				"screen_name": "crampell",
+				"location": "Here and there. Usually NYC.",
+				"description": "Opinion columnist at @washingtonpost. Previously econ reporter/moonlighting theater critic at @nytimes.",
+				"url": "http://t.co/E78NsTcxaU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/E78NsTcxaU",
+								"expanded_url": "http://www.washingtonpost.com/people/catherine-rampell",
+								"display_url": "washingtonpost.com/people/catheri…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 94193,
+				"friends_count": 738,
+				"listed_count": 3242,
+				"created_at": "Thu Apr 10 03:37:39 +0000 2008",
+				"favourites_count": 4391,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 40473,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/446055685759856640/KyW6AK_W.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/446055685759856640/KyW6AK_W.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/531821532972986368/WqfzPQ9b_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/531821532972986368/WqfzPQ9b_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14348157/1402524731",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12924,
+			"favorite_count": 11183,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12924,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 25 23:53:28 +0000 2017",
 		"id": 901231079373361200,
 		"id_str": "901231079373361153",
