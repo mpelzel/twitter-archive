@@ -1,6 +1,757 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Wed Sep 20 22:49:47 +0000 2017",
+		"id": 910637139406102500,
+		"id_str": "910637139406102529",
+		"text": "RT @leadinglinespod: In Ep. 24, Haerin Shin discusses how she structures the creative digital project options she offers her students: http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leadinglinespod",
+					"name": "Leading Lines",
+					"id": 756232587400667100,
+					"id_str": "756232587400667136",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 485,
+			"friends_count": 684,
+			"listed_count": 30,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3486,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4106,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 20 14:58:42 +0000 2017",
+			"id": 910518588758478800,
+			"id_str": "910518588758478848",
+			"text": "In Ep. 24, Haerin Shin discusses how she structures the creative digital project options she offers her students:… https://t.co/G96v3v8j9L",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/G96v3v8j9L",
+						"expanded_url": "https://twitter.com/i/web/status/910518588758478848",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 756232587400667100,
+				"id_str": "756232587400667136",
+				"name": "Leading Lines",
+				"screen_name": "leadinglinespod",
+				"location": "Nashville, TN",
+				"description": "A podcast on creative, intentional, and effective uses of technology to enhance  student learning, produced at Vanderbilt University",
+				"url": "https://t.co/zBsraGXUqB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zBsraGXUqB",
+								"expanded_url": "http://leadinglinespod.com/",
+								"display_url": "leadinglinespod.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 181,
+				"friends_count": 129,
+				"listed_count": 18,
+				"created_at": "Thu Jul 21 21:01:13 +0000 2016",
+				"favourites_count": 56,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 118,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875780659121442820/uNe38YIU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875780659121442820/uNe38YIU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/756232587400667136/1469636538",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 20 12:47:20 +0000 2017",
+		"id": 910485529845678100,
+		"id_str": "910485529845678080",
+		"text": "RT @UMaryWash: Which #digital tools should you be using as an #educator? @umwdtlt introduces a few in its \"Tool Parade\" today: https://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digital",
+					"indices": [
+						21,
+						29
+					]
+				},
+				{
+					"text": "educator",
+					"indices": [
+						62,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UMaryWash",
+					"name": "U of Mary Washington",
+					"id": 84149116,
+					"id_str": "84149116",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "umwdtlt",
+					"name": "UMW DTLT",
+					"id": 4218519915,
+					"id_str": "4218519915",
+					"indices": [
+						73,
+						81
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 485,
+			"friends_count": 684,
+			"listed_count": 30,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3486,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4106,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 19 18:29:21 +0000 2017",
+			"id": 910209211858112500,
+			"id_str": "910209211858112514",
+			"text": "Which #digital tools should you be using as an #educator? @umwdtlt introduces a few in its \"Tool Parade\" today: https://t.co/IUXBo7j4zC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "digital",
+						"indices": [
+							6,
+							14
+						]
+					},
+					{
+						"text": "educator",
+						"indices": [
+							47,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "umwdtlt",
+						"name": "UMW DTLT",
+						"id": 4218519915,
+						"id_str": "4218519915",
+						"indices": [
+							58,
+							66
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/IUXBo7j4zC",
+						"expanded_url": "http://bit.ly/2xfuF2E",
+						"display_url": "bit.ly/2xfuF2E",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 84149116,
+				"id_str": "84149116",
+				"name": "U of Mary Washington",
+				"screen_name": "UMaryWash",
+				"location": "Fredericksburg, Virginia",
+				"description": "Our #GreatMinds are world-ready. Are you ready for us? #UMW is a premier liberal arts and sciences #highered university in the heart of #Fxbg.",
+				"url": "http://t.co/Sx5vpXWMyX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Sx5vpXWMyX",
+								"expanded_url": "http://www.umw.edu/",
+								"display_url": "umw.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5594,
+				"friends_count": 1209,
+				"listed_count": 106,
+				"created_at": "Wed Oct 21 20:00:50 +0000 2009",
+				"favourites_count": 5309,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5150,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF7900",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/532571365765701632/rtgPTpTK.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/532571365765701632/rtgPTpTK.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2793033168/609c8c3dda4ebf319f8b440d12f8f991_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2793033168/609c8c3dda4ebf319f8b440d12f8f991_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/84149116/1495207490",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 20 01:57:07 +0000 2017",
+		"id": 910321895643406300,
+		"id_str": "910321895643406336",
+		"text": "RT @rexparker: Socislism isn't fascism (read a book) but nice to see you admit  that the right is in fact fascist. Baby steps. @claudiatenn…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rexparker",
+					"name": "Rex Parker",
+					"id": 14230012,
+					"id_str": "14230012",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 485,
+			"friends_count": 684,
+			"listed_count": 30,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3486,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4106,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 19 23:54:48 +0000 2017",
+			"id": 910291111628955600,
+			"id_str": "910291111628955649",
+			"text": "Socislism isn't fascism (read a book) but nice to see you admit  that the right is in fact fascist. Baby steps.… https://t.co/SGkAEM8fCL",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SGkAEM8fCL",
+						"expanded_url": "https://twitter.com/i/web/status/910291111628955649",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14230012,
+				"id_str": "14230012",
+				"name": "Rex Parker",
+				"screen_name": "rexparker",
+				"location": "Binghamton, NY",
+				"description": "Tossword Critter. Demented and sad, but social. All Hail OOXTEPLERNON!",
+				"url": "https://t.co/lL1n14Xuv4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lL1n14Xuv4",
+								"expanded_url": "http://rexwordpuzzle.blogspot.com",
+								"display_url": "rexwordpuzzle.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5843,
+				"friends_count": 195,
+				"listed_count": 135,
+				"created_at": "Wed Mar 26 21:33:58 +0000 2008",
+				"favourites_count": 25983,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 60465,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/46448532/binghamton-map.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/46448532/binghamton-map.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/893213753449238528/nHvnMfbv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/893213753449238528/nHvnMfbv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14230012/1455891450",
+				"profile_link_color": "D10404",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 910288813188161500,
+			"quoted_status_id_str": "910288813188161537",
+			"quoted_status": {
+				"created_at": "Tue Sep 19 23:45:40 +0000 2017",
+				"id": 910288813188161500,
+				"id_str": "910288813188161537",
+				"text": "\"Those are people who like socialism,\" Tenney says of the people who are rooting for single payer now. \"Fascism is on the left also.\"",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": 910288656757293000,
+				"in_reply_to_status_id_str": "910288656757293056",
+				"in_reply_to_user_id": 746390604,
+				"in_reply_to_user_id_str": "746390604",
+				"in_reply_to_screen_name": "HannahRSchwarz",
+				"user": {
+					"id": 746390604,
+					"id_str": "746390604",
+					"name": "Hannah Schwarz",
+					"screen_name": "HannahRSchwarz",
+					"location": "Binghamton, NY",
+					"description": "Covering city and county government for @pressconnects. Formerly: @journalsentinel & @PittsburghPG. Living a Parks & Rec episode.",
+					"url": "https://t.co/c6Zowpb0cf",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/c6Zowpb0cf",
+									"expanded_url": "http://www.pressconnects.com",
+									"display_url": "pressconnects.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 664,
+					"friends_count": 1706,
+					"listed_count": 24,
+					"created_at": "Thu Aug 09 02:38:38 +0000 2012",
+					"favourites_count": 3230,
+					"utc_offset": -25200,
+					"time_zone": "Arizona",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 4289,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/762659791634182146/6tjK6V19_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/762659791634182146/6tjK6V19_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/746390604/1474561019",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 910288813188161500,
+		"quoted_status_id_str": "910288813188161537",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 19 23:41:28 +0000 2017",
 		"id": 910287757691326500,
 		"id_str": "910287757691326464",
