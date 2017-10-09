@@ -1,6 +1,2326 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Mon Oct 09 00:08:47 +0000 2017",
+		"id": 917180002403323900,
+		"id_str": "917180002403323905",
+		"text": "@evanbirnholz @rexparker Yeah, Urban Dictionary says \"only cool people say it.\" Ugh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "evanbirnholz",
+					"name": "Evan Birnholz",
+					"id": 2657407832,
+					"id_str": "2657407832",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "rexparker",
+					"name": "Rex EERIE Parker🇺🇸",
+					"id": 14230012,
+					"id_str": "14230012",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 917175610207801300,
+		"in_reply_to_status_id_str": "917175610207801345",
+		"in_reply_to_user_id": 2657407832,
+		"in_reply_to_user_id_str": "2657407832",
+		"in_reply_to_screen_name": "evanbirnholz",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 495,
+			"friends_count": 695,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3586,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Oct 09 00:03:58 +0000 2017",
+		"id": 917178789536391200,
+		"id_str": "917178789536391168",
+		"text": "RT @BrendanScannell: Mike Pence is the most embarrassing part of being from Indiana and my firstgrade teacher was a tractor",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BrendanScannell",
+					"name": "Brendan Scannell",
+					"id": 371286387,
+					"id_str": "371286387",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 495,
+			"friends_count": 695,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3586,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 08 22:36:28 +0000 2017",
+			"id": 917156769956192300,
+			"id_str": "917156769956192257",
+			"text": "Mike Pence is the most embarrassing part of being from Indiana and my firstgrade teacher was a tractor",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 371286387,
+				"id_str": "371286387",
+				"name": "Brendan Scannell",
+				"screen_name": "BrendanScannell",
+				"location": "Los Angeles, CA",
+				"description": "friend to all 😌",
+				"url": "https://t.co/Iinn7hdt59",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Iinn7hdt59",
+								"expanded_url": "http://Instagram.com/bscan",
+								"display_url": "Instagram.com/bscan",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2095,
+				"friends_count": 711,
+				"listed_count": 11,
+				"created_at": "Sat Sep 10 15:16:04 +0000 2011",
+				"favourites_count": 11901,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3787,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/755620290030346240/5dMpna2N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/755620290030346240/5dMpna2N_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/371286387/1398194996",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 86,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Oct 08 23:46:09 +0000 2017",
+		"id": 917174305733206000,
+		"id_str": "917174305733206017",
+		"text": "RT @RefuseFascism: Mike Pence condemned one of these events today.\n\nAsk yourself why... \n\n#Charlottesville https://t.co/ix52VVuJQD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Charlottesville",
+					"indices": [
+						90,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RefuseFascism",
+					"name": "Refuse Fascism",
+					"id": 807810340339744800,
+					"id_str": "807810340339744768",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 917134570222346200,
+					"id_str": "917134570222346240",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DLpRCE1VYAAhT-L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLpRCE1VYAAhT-L.jpg",
+					"url": "https://t.co/ix52VVuJQD",
+					"display_url": "pic.twitter.com/ix52VVuJQD",
+					"expanded_url": "https://twitter.com/RefuseFascism/status/917134582981459968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 472,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 738,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 738,
+							"h": 512,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 917134582981460000,
+					"source_status_id_str": "917134582981459968",
+					"source_user_id": 807810340339744800,
+					"source_user_id_str": "807810340339744768"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 917134570222346200,
+					"id_str": "917134570222346240",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DLpRCE1VYAAhT-L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLpRCE1VYAAhT-L.jpg",
+					"url": "https://t.co/ix52VVuJQD",
+					"display_url": "pic.twitter.com/ix52VVuJQD",
+					"expanded_url": "https://twitter.com/RefuseFascism/status/917134582981459968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 472,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 738,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 738,
+							"h": 512,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 917134582981460000,
+					"source_status_id_str": "917134582981459968",
+					"source_user_id": 807810340339744800,
+					"source_user_id_str": "807810340339744768"
+				},
+				{
+					"id": 917134570230759400,
+					"id_str": "917134570230759425",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DLpRCE3VwAEPI5z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLpRCE3VwAEPI5z.jpg",
+					"url": "https://t.co/ix52VVuJQD",
+					"display_url": "pic.twitter.com/ix52VVuJQD",
+					"expanded_url": "https://twitter.com/RefuseFascism/status/917134582981459968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 319,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 319,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 319,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 917134582981460000,
+					"source_status_id_str": "917134582981459968",
+					"source_user_id": 807810340339744800,
+					"source_user_id_str": "807810340339744768"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 495,
+			"friends_count": 695,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3586,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 08 21:08:18 +0000 2017",
+			"id": 917134582981460000,
+			"id_str": "917134582981459968",
+			"text": "Mike Pence condemned one of these events today.\n\nAsk yourself why... \n\n#Charlottesville https://t.co/ix52VVuJQD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Charlottesville",
+						"indices": [
+							71,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 917134570222346200,
+						"id_str": "917134570222346240",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/DLpRCE1VYAAhT-L.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLpRCE1VYAAhT-L.jpg",
+						"url": "https://t.co/ix52VVuJQD",
+						"display_url": "pic.twitter.com/ix52VVuJQD",
+						"expanded_url": "https://twitter.com/RefuseFascism/status/917134582981459968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 472,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 738,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 738,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 917134570222346200,
+						"id_str": "917134570222346240",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/DLpRCE1VYAAhT-L.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLpRCE1VYAAhT-L.jpg",
+						"url": "https://t.co/ix52VVuJQD",
+						"display_url": "pic.twitter.com/ix52VVuJQD",
+						"expanded_url": "https://twitter.com/RefuseFascism/status/917134582981459968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 472,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 738,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 738,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 917134570230759400,
+						"id_str": "917134570230759425",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/DLpRCE3VwAEPI5z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLpRCE3VwAEPI5z.jpg",
+						"url": "https://t.co/ix52VVuJQD",
+						"display_url": "pic.twitter.com/ix52VVuJQD",
+						"expanded_url": "https://twitter.com/RefuseFascism/status/917134582981459968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 319,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 319,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 319,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 807810340339744800,
+				"id_str": "807810340339744768",
+				"name": "Refuse Fascism",
+				"screen_name": "RefuseFascism",
+				"location": "Nationwide",
+				"description": "We are organizing millions of people to drive OUT the Fascist Trump/Pence Regime.  #Nov4ItBegins #TrumpPenceMustGo #Resistance",
+				"url": "https://t.co/lfPJ1OBFZD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lfPJ1OBFZD",
+								"expanded_url": "https://www.refusefascism.org",
+								"display_url": "refusefascism.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13757,
+				"friends_count": 573,
+				"listed_count": 170,
+				"created_at": "Sun Dec 11 04:52:48 +0000 2016",
+				"favourites_count": 6429,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12129,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/900125936850534400/7BCBN4bC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/900125936850534400/7BCBN4bC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/807810340339744768/1502844431",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 250,
+			"favorite_count": 289,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 250,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Oct 08 21:56:12 +0000 2017",
+		"id": 917146636597338100,
+		"id_str": "917146636597338112",
+		"text": "RT @dickc: Fixed it for you\n\n\"I left today's Colts game, as planned, at the request of POTUS, a draft dodger who makes fun of veterans &amp; th…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dickc",
+					"name": "dick costolo",
+					"id": 6385432,
+					"id_str": "6385432",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 495,
+			"friends_count": 695,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3586,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 08 19:03:32 +0000 2017",
+			"id": 917103181418680300,
+			"id_str": "917103181418680320",
+			"text": "Fixed it for you\n\n\"I left today's Colts game, as planned, at the request of POTUS, a draft dodger who makes fun of… https://t.co/Uks5eNkiKW",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Uks5eNkiKW",
+						"expanded_url": "https://twitter.com/i/web/status/917103181418680320",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6385432,
+				"id_str": "6385432",
+				"name": "dick costolo",
+				"screen_name": "dickc",
+				"location": "San Francisco",
+				"description": "CEO @chorus",
+				"url": "https://t.co/5OwMO2rZ2M",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5OwMO2rZ2M",
+								"expanded_url": "http://chorus.fit",
+								"display_url": "chorus.fit",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1752324,
+				"friends_count": 699,
+				"listed_count": 9128,
+				"created_at": "Mon May 28 13:26:41 +0000 2007",
+				"favourites_count": 8406,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10952,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/792220014233264128/kpunIYN5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/792220014233264128/kpunIYN5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6385432/1491406744",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 917074120084516900,
+			"quoted_status_id_str": "917074120084516865",
+			"quoted_status": {
+				"created_at": "Sun Oct 08 17:08:03 +0000 2017",
+				"id": 917074120084516900,
+				"id_str": "917074120084516865",
+				"text": "I left today's Colts game because @POTUS and I will not dignify any event that disrespects our soldiers, our Flag, or our National Anthem.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "POTUS",
+							"name": "President Trump",
+							"id": 822215679726100500,
+							"id_str": "822215679726100480",
+							"indices": [
+								34,
+								40
+							]
+						}
+					],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 818910970567344100,
+					"id_str": "818910970567344128",
+					"name": "Vice President Pence",
+					"screen_name": "VP",
+					"location": "Washington, D.C.",
+					"description": "Vice President Mike Pence. Husband, father, and honored to serve as the 48th Vice President of the United States. Tweets may be archived: https://t.co/eVVzoBb3Zr",
+					"url": "https://t.co/8TGZjBkuaR",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/8TGZjBkuaR",
+									"expanded_url": null,
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 4621599,
+					"friends_count": 9,
+					"listed_count": 5677,
+					"created_at": "Tue Jan 10 20:02:44 +0000 2017",
+					"favourites_count": 4,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 2520,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/844923783097942016/DioqomJy_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/844923783097942016/DioqomJy_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/818910970567344128/1507484935",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 34862,
+				"favorite_count": 106147,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 3776,
+			"favorite_count": 9258,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 917074120084516900,
+		"quoted_status_id_str": "917074120084516865",
+		"retweet_count": 3776,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Oct 08 19:09:44 +0000 2017",
+		"id": 917104742882512900,
+		"id_str": "917104742882512896",
+		"text": "RT @YAppelbaum: 3. Not everyone accepted that claim. The search for a non-Catholic discoverer produced a vogue for Leif Erikson https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YAppelbaum",
+					"name": "Yoni Appelbaum",
+					"id": 269911034,
+					"id_str": "269911034",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 495,
+			"friends_count": 695,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3586,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 08 18:44:47 +0000 2017",
+			"id": 917098462814068700,
+			"id_str": "917098462814068741",
+			"text": "3. Not everyone accepted that claim. The search for a non-Catholic discoverer produced a vogue for Leif Erikson… https://t.co/ToiquPZQLn",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ToiquPZQLn",
+						"expanded_url": "https://twitter.com/i/web/status/917098462814068741",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 917097124789194800,
+			"in_reply_to_status_id_str": "917097124789194753",
+			"in_reply_to_user_id": 269911034,
+			"in_reply_to_user_id_str": "269911034",
+			"in_reply_to_screen_name": "YAppelbaum",
+			"user": {
+				"id": 269911034,
+				"id_str": "269911034",
+				"name": "Yoni Appelbaum",
+				"screen_name": "YAppelbaum",
+				"location": "Washington, DC",
+				"description": "Historian and journalist. Washington Bureau Chief @TheAtlantic.",
+				"url": "http://t.co/V5YY9Sx2FT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/V5YY9Sx2FT",
+								"expanded_url": "http://www.theatlantic.com/politics",
+								"display_url": "theatlantic.com/politics",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23372,
+				"friends_count": 504,
+				"listed_count": 848,
+				"created_at": "Mon Mar 21 17:35:37 +0000 2011",
+				"favourites_count": 13514,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 15669,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/722427866898702336/EjPPd7Ot_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/722427866898702336/EjPPd7Ot_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Oct 08 19:08:02 +0000 2017",
+		"id": 917104317152268300,
+		"id_str": "917104317152268288",
+		"text": "RT @SI_PeterKing: Pence2\nSo @VP took a taxpayer-funded airplane knowing he’d be walking out right after the anthem to protest. Swell use of…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SI_PeterKing",
+					"name": "Peter King",
+					"id": 32135704,
+					"id_str": "32135704",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "VP",
+					"name": "Vice President Pence",
+					"id": 818910970567344100,
+					"id_str": "818910970567344128",
+					"indices": [
+						28,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 495,
+			"friends_count": 695,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3586,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 08 18:36:04 +0000 2017",
+			"id": 917096269029527600,
+			"id_str": "917096269029527554",
+			"text": "Pence2\nSo @VP took a taxpayer-funded airplane knowing he’d be walking out right after the anthem to protest. Swell use of our tax dollars.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "VP",
+						"name": "Vice President Pence",
+						"id": 818910970567344100,
+						"id_str": "818910970567344128",
+						"indices": [
+							10,
+							13
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 32135704,
+				"id_str": "32135704",
+				"name": "Peter King",
+				"screen_name": "SI_PeterKing",
+				"location": "",
+				"description": "MMQB",
+				"url": "https://t.co/0Nyckz9I5u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0Nyckz9I5u",
+								"expanded_url": "http://www.TheMMQB.com",
+								"display_url": "TheMMQB.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1832926,
+				"friends_count": 684,
+				"listed_count": 21567,
+				"created_at": "Thu Apr 16 20:14:32 +0000 2009",
+				"favourites_count": 324,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 38272,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "A1A9B6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11942999/si_twitter_back_6232.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/11942999/si_twitter_back_6232.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/908904317578502144/reE7th2E_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/908904317578502144/reE7th2E_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/32135704/1505534669",
+				"profile_link_color": "CC0000",
+				"profile_sidebar_border_color": "D2D2D2",
+				"profile_sidebar_fill_color": "D2D2D2",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8574,
+			"favorite_count": 19281,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8574,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Oct 08 18:47:32 +0000 2017",
+		"id": 917099157491417100,
+		"id_str": "917099157491417088",
+		"text": "RT @JRBoh: Mike Pence, one year ago today... https://t.co/gs97MQYgR6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JRBoh",
+					"name": "Jack Bohrer",
+					"id": 21188030,
+					"id_str": "21188030",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 917037803724263400,
+					"id_str": "917037803724263425",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DLn5BhiW0AEs-Lh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLn5BhiW0AEs-Lh.jpg",
+					"url": "https://t.co/gs97MQYgR6",
+					"display_url": "pic.twitter.com/gs97MQYgR6",
+					"expanded_url": "https://twitter.com/JRBoh/status/917037876067659779/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 997,
+							"h": 617,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 997,
+							"h": 617,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 421,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 917037876067659800,
+					"source_status_id_str": "917037876067659779",
+					"source_user_id": 21188030,
+					"source_user_id_str": "21188030"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 917037803724263400,
+					"id_str": "917037803724263425",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DLn5BhiW0AEs-Lh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLn5BhiW0AEs-Lh.jpg",
+					"url": "https://t.co/gs97MQYgR6",
+					"display_url": "pic.twitter.com/gs97MQYgR6",
+					"expanded_url": "https://twitter.com/JRBoh/status/917037876067659779/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 997,
+							"h": 617,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 997,
+							"h": 617,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 421,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 917037876067659800,
+					"source_status_id_str": "917037876067659779",
+					"source_user_id": 21188030,
+					"source_user_id_str": "21188030"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 495,
+			"friends_count": 695,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3586,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 08 14:44:02 +0000 2017",
+			"id": 917037876067659800,
+			"id_str": "917037876067659779",
+			"text": "Mike Pence, one year ago today... https://t.co/gs97MQYgR6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 917037803724263400,
+						"id_str": "917037803724263425",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/DLn5BhiW0AEs-Lh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLn5BhiW0AEs-Lh.jpg",
+						"url": "https://t.co/gs97MQYgR6",
+						"display_url": "pic.twitter.com/gs97MQYgR6",
+						"expanded_url": "https://twitter.com/JRBoh/status/917037876067659779/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 997,
+								"h": 617,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 997,
+								"h": 617,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 421,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 917037803724263400,
+						"id_str": "917037803724263425",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/DLn5BhiW0AEs-Lh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLn5BhiW0AEs-Lh.jpg",
+						"url": "https://t.co/gs97MQYgR6",
+						"display_url": "pic.twitter.com/gs97MQYgR6",
+						"expanded_url": "https://twitter.com/JRBoh/status/917037876067659779/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 997,
+								"h": 617,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 997,
+								"h": 617,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 421,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21188030,
+				"id_str": "21188030",
+				"name": "Jack Bohrer",
+				"screen_name": "JRBoh",
+				"location": "New York City",
+				"description": "Historian and author of THE REVOLUTION OF ROBERT KENNEDY (@BloomsburyPub); TV news producer at @msnbc's @Morning_Joe; inky paper; opinions are mine.",
+				"url": "https://t.co/O9vZNbz4U9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/O9vZNbz4U9",
+								"expanded_url": "http://johnrbohrer.com",
+								"display_url": "johnrbohrer.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2546,
+				"friends_count": 470,
+				"listed_count": 119,
+				"created_at": "Wed Feb 18 11:37:00 +0000 2009",
+				"favourites_count": 8418,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12205,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/706671969/bb175c1b6289a9779f4bc6ab44f39c10.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/706671969/bb175c1b6289a9779f4bc6ab44f39c10.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/821502624902107137/HfPLcYJP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/821502624902107137/HfPLcYJP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21188030/1398508872",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1201,
+			"favorite_count": 2024,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1201,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Oct 08 15:43:32 +0000 2017",
+		"id": 917052852949979100,
+		"id_str": "917052852949979136",
+		"text": "RT @ShaunKing: We live in a time where white supremacists killed a woman &amp; nearly beat a man to death and march right back without the slig…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ShaunKing",
+					"name": "Shaun King",
+					"id": 755113,
+					"id_str": "755113",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 495,
+			"friends_count": 695,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3586,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 08 15:40:40 +0000 2017",
+			"id": 917052130581762000,
+			"id_str": "917052130581762050",
+			"text": "We live in a time where white supremacists killed a woman &amp; nearly beat a man to death and march right back without the slightest hesitation",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 755113,
+				"id_str": "755113",
+				"name": "Shaun King",
+				"screen_name": "ShaunKing",
+				"location": "Brooklyn via LA via ATL via KY",
+				"description": "Columnist @TheIntercept; Writer in Residence for @FairPunishment; Commentator @TheYoungTurks & @TJMShow; https://t.co/TCtHkUwVdX /TIPS: news@shaunking.org",
+				"url": "https://t.co/ifAFtjJOgz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ifAFtjJOgz",
+								"expanded_url": "http://Facebook.com/ShaunKing",
+								"display_url": "Facebook.com/ShaunKing",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TCtHkUwVdX",
+								"expanded_url": "http://ShaunKing.org",
+								"display_url": "ShaunKing.org",
+								"indices": [
+									105,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 830008,
+				"friends_count": 8795,
+				"listed_count": 8615,
+				"created_at": "Tue Feb 06 05:17:19 +0000 2007",
+				"favourites_count": 77819,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 20323,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/542860413432369152/UIhc0Gv9.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/542860413432369152/UIhc0Gv9.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875376124733280256/GxhiVOT3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875376124733280256/GxhiVOT3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/755113/1448336549",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1667,
+			"favorite_count": 3601,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1667,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Oct 08 15:21:32 +0000 2017",
+		"id": 917047313574621200,
+		"id_str": "917047313574621184",
+		"text": "RT @SenBobCorker: It's a shame the White House has become an adult day care center. Someone obviously missed their shift this morning.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SenBobCorker",
+					"name": "Senator Bob Corker",
+					"id": 73303753,
+					"id_str": "73303753",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 495,
+			"friends_count": 695,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3586,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 08 15:13:43 +0000 2017",
+			"id": 917045348820049900,
+			"id_str": "917045348820049920",
+			"text": "It's a shame the White House has become an adult day care center. Someone obviously missed their shift this morning.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 73303753,
+				"id_str": "73303753",
+				"name": "Senator Bob Corker",
+				"screen_name": "SenBobCorker",
+				"location": "Tennessee",
+				"description": "Official news and updates from United States Senator Bob Corker (R-Tennessee) and his staff.",
+				"url": "http://t.co/ZyiE2l8INn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ZyiE2l8INn",
+								"expanded_url": "http://corker.senate.gov/",
+								"display_url": "corker.senate.gov",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 145323,
+				"friends_count": 558,
+				"listed_count": 3179,
+				"created_at": "Fri Sep 11 03:56:08 +0000 2009",
+				"favourites_count": 107,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3828,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/569862735773454336/B-JQ3bGy.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/569862735773454336/B-JQ3bGy.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/910557517343789057/Sh38oulI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/910557517343789057/Sh38oulI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/73303753/1505929143",
+				"profile_link_color": "404040",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D6C989",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 106130,
+			"favorite_count": 287403,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 106130,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Oct 08 15:04:27 +0000 2017",
+		"id": 917043015184732200,
+		"id_str": "917043015184732161",
+		"text": "@rexparker I'm in...let's see, you talkin' about, oh, 6A, 53D?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rexparker",
+					"name": "Rex EERIE Parker🇺🇸",
+					"id": 14230012,
+					"id_str": "14230012",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 916695157470265300,
+		"in_reply_to_status_id_str": "916695157470265344",
+		"in_reply_to_user_id": 14230012,
+		"in_reply_to_user_id_str": "14230012",
+		"in_reply_to_screen_name": "rexparker",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 495,
+			"friends_count": 695,
+			"listed_count": 31,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3586,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Oct 07 16:47:33 +0000 2017",
 		"id": 916706573627641900,
 		"id_str": "916706573627641856",
