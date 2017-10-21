@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Fri Oct 20 15:43:43 +0000 2017",
+		"id": 921401551515799600,
+		"id_str": "921401551515799554",
+		"text": "RT @NotEvenPast: A great digital resource for studying colonial North America! https://t.co/Ic1qsQ4evG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NotEvenPast",
+					"name": "Not Even Past",
+					"id": 193744840,
+					"id_str": "193744840",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ic1qsQ4evG",
+					"expanded_url": "https://twitter.com/jm_beatty/status/921398255883255808",
+					"display_url": "twitter.com/jm_beatty/stat…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 502,
+			"friends_count": 708,
+			"listed_count": 30,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3585,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4292,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 20 15:40:48 +0000 2017",
+			"id": 921400816723996700,
+			"id_str": "921400816723996673",
+			"text": "A great digital resource for studying colonial North America! https://t.co/Ic1qsQ4evG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ic1qsQ4evG",
+						"expanded_url": "https://twitter.com/jm_beatty/status/921398255883255808",
+						"display_url": "twitter.com/jm_beatty/stat…",
+						"indices": [
+							62,
+							85
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 193744840,
+				"id_str": "193744840",
+				"name": "Not Even Past",
+				"screen_name": "NotEvenPast",
+				"location": "Austin, Texas",
+				"description": "Bringing History to the Public. Books, films, fun archival finds, videos. From the faculty & grad students of the UT Austin Dept of History.",
+				"url": "http://t.co/FxVBhRUbW6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/FxVBhRUbW6",
+								"expanded_url": "http://notevenpast.org",
+								"display_url": "notevenpast.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2362,
+				"friends_count": 1282,
+				"listed_count": 154,
+				"created_at": "Wed Sep 22 15:53:05 +0000 2010",
+				"favourites_count": 720,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2653,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "251810",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/688716522/5c8803f9b486e7e740aa817e38286ea9.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/688716522/5c8803f9b486e7e740aa817e38286ea9.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/461614776171249664/KlOctyXh_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/461614776171249664/KlOctyXh_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/193744840/1398890018",
+				"profile_link_color": "CC5B10",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "242224",
+				"profile_text_color": "E0CCB6",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 921398255883255800,
+			"quoted_status_id_str": "921398255883255808",
+			"quoted_status": {
+				"created_at": "Fri Oct 20 15:30:37 +0000 2017",
+				"id": 921398255883255800,
+				"id_str": "921398255883255808",
+				"text": "Harvard digitizes 450,000 documents from its Colonial North American Project https://t.co/HXfWS5vncY via @harvard",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "Harvard",
+							"name": "Harvard University",
+							"id": 39585367,
+							"id_str": "39585367",
+							"indices": [
+								105,
+								113
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/HXfWS5vncY",
+							"expanded_url": "http://news.harvard.edu/gazette/story/2017/10/harvard-digitizes-450000-documents-from-its-colonial-north-american-project/",
+							"display_url": "news.harvard.edu/gazette/story/…",
+							"indices": [
+								77,
+								100
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 178907782,
+					"id_str": "178907782",
+					"name": "Jackie Beatty",
+					"screen_name": "jm_beatty",
+					"location": "Lafayette, LA",
+					"description": "VAP Digital/Public & U.S. History @ULLafayette. Research: Early Am. women & gender. Lover of cheese, lists, & the Oxford Comma. Admirer of CJ Cregg. Views mine.",
+					"url": "https://t.co/99cALuukRj",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/99cALuukRj",
+									"expanded_url": "http://www.jacquelinebeatty.com",
+									"display_url": "jacquelinebeatty.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 351,
+					"friends_count": 455,
+					"listed_count": 15,
+					"created_at": "Mon Aug 16 00:47:23 +0000 2010",
+					"favourites_count": 1405,
+					"utc_offset": -18000,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 4261,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "ACDED6",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/897898316436049920/9eIuq3uq_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/897898316436049920/9eIuq3uq_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/178907782/1468440010",
+					"profile_link_color": "7FDBB6",
+					"profile_sidebar_border_color": "EEEEEE",
+					"profile_sidebar_fill_color": "F6F6F6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 20,
+				"favorite_count": 28,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 921398255883255800,
+		"quoted_status_id_str": "921398255883255808",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 19 18:36:59 +0000 2017",
 		"id": 921082768838266900,
 		"id_str": "921082768838266880",
