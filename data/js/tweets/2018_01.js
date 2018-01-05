@@ -1,6 +1,653 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Thu Jan 04 05:11:39 +0000 2018",
+		"id": 948783966504521700,
+		"id_str": "948783966504521728",
+		"text": "RT @ollie: a computer, another computer, and the future of human chess: https://t.co/RyKgy09lTR https://t.co/e7CUlWCFDb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ollie",
+					"name": "Oliver Roeder",
+					"id": 8593862,
+					"id_str": "8593862",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RyKgy09lTR",
+					"expanded_url": "https://fivethirtyeight.com/features/chesss-new-best-player-is-a-fearless-swashbuckling-algorithm/",
+					"display_url": "fivethirtyeight.com/features/chess…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 948613220432007200,
+					"id_str": "948613220432007170",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DSomsrEW0AIKboA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DSomsrEW0AIKboA.jpg",
+					"url": "https://t.co/e7CUlWCFDb",
+					"display_url": "pic.twitter.com/e7CUlWCFDb",
+					"expanded_url": "https://twitter.com/ollie/status/948613253386719232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1150,
+							"h": 950,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 562,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1150,
+							"h": 950,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 948613253386719200,
+					"source_status_id_str": "948613253386719232",
+					"source_user_id": 8593862,
+					"source_user_id_str": "8593862"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 948613220432007200,
+					"id_str": "948613220432007170",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DSomsrEW0AIKboA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DSomsrEW0AIKboA.jpg",
+					"url": "https://t.co/e7CUlWCFDb",
+					"display_url": "pic.twitter.com/e7CUlWCFDb",
+					"expanded_url": "https://twitter.com/ollie/status/948613253386719232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1150,
+							"h": 950,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 562,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1150,
+							"h": 950,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 948613253386719200,
+					"source_status_id_str": "948613253386719232",
+					"source_user_id": 8593862,
+					"source_user_id_str": "8593862"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 520,
+			"friends_count": 718,
+			"listed_count": 32,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3904,
+			"utc_offset": -21600,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4905,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 03 17:53:18 +0000 2018",
+			"id": 948613253386719200,
+			"id_str": "948613253386719232",
+			"text": "a computer, another computer, and the future of human chess: https://t.co/RyKgy09lTR https://t.co/e7CUlWCFDb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RyKgy09lTR",
+						"expanded_url": "https://fivethirtyeight.com/features/chesss-new-best-player-is-a-fearless-swashbuckling-algorithm/",
+						"display_url": "fivethirtyeight.com/features/chess…",
+						"indices": [
+							61,
+							84
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 948613220432007200,
+						"id_str": "948613220432007170",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/DSomsrEW0AIKboA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DSomsrEW0AIKboA.jpg",
+						"url": "https://t.co/e7CUlWCFDb",
+						"display_url": "pic.twitter.com/e7CUlWCFDb",
+						"expanded_url": "https://twitter.com/ollie/status/948613253386719232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1150,
+								"h": 950,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 562,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1150,
+								"h": 950,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 948613220432007200,
+						"id_str": "948613220432007170",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/DSomsrEW0AIKboA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DSomsrEW0AIKboA.jpg",
+						"url": "https://t.co/e7CUlWCFDb",
+						"display_url": "pic.twitter.com/e7CUlWCFDb",
+						"expanded_url": "https://twitter.com/ollie/status/948613253386719232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1150,
+								"h": 950,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 562,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1150,
+								"h": 950,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8593862,
+				"id_str": "8593862",
+				"name": "Oliver Roeder",
+				"screen_name": "ollie",
+				"location": "brooklyn",
+				"description": "senior writer & puzzle editor @fivethirtyeight. writing \"the riddler\" for @wwnorton.",
+				"url": "https://t.co/az1LO2ABED",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/az1LO2ABED",
+								"expanded_url": "http://oroeder.github.io/",
+								"display_url": "oroeder.github.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16154,
+				"friends_count": 625,
+				"listed_count": 318,
+				"created_at": "Sat Sep 01 18:31:27 +0000 2007",
+				"favourites_count": 744,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7978,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D3D3D3",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/825731855/b8c623e7c71427889dea73e43539a9a1.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/825731855/b8c623e7c71427889dea73e43539a9a1.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/944186742592204805/nu5oRbnv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/944186742592204805/nu5oRbnv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8593862/1514392342",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFBCDE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 39,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jan 04 04:55:53 +0000 2018",
+		"id": 948779998130966500,
+		"id_str": "948779998130966528",
+		"text": "@JonMalesic But still comfortably over 1,000!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JonMalesic",
+					"name": "Jon Malesic",
+					"id": 113129441,
+					"id_str": "113129441",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 948779755775590400,
+		"in_reply_to_status_id_str": "948779755775590400",
+		"in_reply_to_user_id": 113129441,
+		"in_reply_to_user_id_str": "113129441",
+		"in_reply_to_screen_name": "JonMalesic",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 520,
+			"friends_count": 718,
+			"listed_count": 32,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3904,
+			"utc_offset": -21600,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4905,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jan 04 04:52:57 +0000 2018",
+		"id": 948779261061627900,
+		"id_str": "948779261061627905",
+		"text": "So, for my first day back in Iowa...\n\n\"Wind chills that may reach up [down?] to -30 below zero.\" https://t.co/4WdE1UMltS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 948779229919043600,
+					"id_str": "948779229919043584",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DSq9rsmX4AATpsj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DSq9rsmX4AATpsj.jpg",
+					"url": "https://t.co/4WdE1UMltS",
+					"display_url": "pic.twitter.com/4WdE1UMltS",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/948779261061627905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 628,
+							"h": 257,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 628,
+							"h": 257,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 628,
+							"h": 257,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 948779229919043600,
+					"id_str": "948779229919043584",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DSq9rsmX4AATpsj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DSq9rsmX4AATpsj.jpg",
+					"url": "https://t.co/4WdE1UMltS",
+					"display_url": "pic.twitter.com/4WdE1UMltS",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/948779261061627905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 628,
+							"h": 257,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 628,
+							"h": 257,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 628,
+							"h": 257,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 520,
+			"friends_count": 718,
+			"listed_count": 32,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 3904,
+			"utc_offset": -21600,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4905,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jan 03 13:59:19 +0000 2018",
 		"id": 948554369276006400,
 		"id_str": "948554369276006400",
