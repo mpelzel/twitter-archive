@@ -1,6 +1,866 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sat Jan 27 23:30:51 +0000 2018",
+		"id": 957395508892520400,
+		"id_str": "957395508892520448",
+		"text": "RT @RAGBRAI_IOWA: In about three hours (8:30 p.m. Central), we'll stream the #RAGBRAI Route Announcement Party live here: https://t.co/FMBb…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RAGBRAI",
+					"indices": [
+						77,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RAGBRAI_IOWA",
+					"name": "RAGBRAI",
+					"id": 17069785,
+					"id_str": "17069785",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 546,
+			"friends_count": 732,
+			"listed_count": 33,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 4001,
+			"utc_offset": -21600,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5102,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 27 23:30:04 +0000 2018",
+			"id": 957395312389316600,
+			"id_str": "957395312389316608",
+			"text": "In about three hours (8:30 p.m. Central), we'll stream the #RAGBRAI Route Announcement Party live here: https://t.co/FMBblGDY8d",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RAGBRAI",
+						"indices": [
+							59,
+							67
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FMBblGDY8d",
+						"expanded_url": "http://dmreg.co/2nkjdOv",
+						"display_url": "dmreg.co/2nkjdOv",
+						"indices": [
+							104,
+							127
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17069785,
+				"id_str": "17069785",
+				"name": "RAGBRAI",
+				"screen_name": "RAGBRAI_IOWA",
+				"location": "IOWA",
+				"description": "The Des Moines Register’s Annual Great Bicycle Ride Across Iowa",
+				"url": "http://t.co/qDB9h3XEoJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/qDB9h3XEoJ",
+								"expanded_url": "http://www.ragbrai.com/",
+								"display_url": "ragbrai.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23950,
+				"friends_count": 5021,
+				"listed_count": 415,
+				"created_at": "Thu Oct 30 17:36:15 +0000 2008",
+				"favourites_count": 4887,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5651,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "032752",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/638937271/ekb1fnb4qucj1uhkflml.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/638937271/ekb1fnb4qucj1uhkflml.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/921373255415533568/zNYQ4nLU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/921373255415533568/zNYQ4nLU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17069785/1516735056",
+				"profile_link_color": "FF9900",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 27 23:00:14 +0000 2018",
+		"id": 957387804761296900,
+		"id_str": "957387804761296896",
+		"text": "@rexparker THE CULT OF SHORTZ (15)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rexparker",
+					"name": "Rex Parker!🇺🇸",
+					"id": 14230012,
+					"id_str": "14230012",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 957044643086159900,
+		"in_reply_to_status_id_str": "957044643086159873",
+		"in_reply_to_user_id": 14230012,
+		"in_reply_to_user_id_str": "14230012",
+		"in_reply_to_screen_name": "rexparker",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 546,
+			"friends_count": 732,
+			"listed_count": 33,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 4001,
+			"utc_offset": -21600,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5102,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 27 15:57:19 +0000 2018",
+		"id": 957281373311684600,
+		"id_str": "957281373311684608",
+		"text": "RT @giroditalia: In connection with the Holocaust Memorial Day, we wish to remember Gino Bartali, awarded with the honour of 'Righteous Amo…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "giroditalia",
+					"name": "Giro d'Italia",
+					"id": 174964320,
+					"id_str": "174964320",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 546,
+			"friends_count": 732,
+			"listed_count": 33,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 4001,
+			"utc_offset": -21600,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5102,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 27 11:05:09 +0000 2018",
+			"id": 957207846705393700,
+			"id_str": "957207846705393664",
+			"text": "In connection with the Holocaust Memorial Day, we wish to remember Gino Bartali, awarded with the honour of 'Righte… https://t.co/pJV4Hvwmns",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pJV4Hvwmns",
+						"expanded_url": "https://twitter.com/i/web/status/957207846705393664",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 174964320,
+				"id_str": "174964320",
+				"name": "Giro d'Italia",
+				"screen_name": "giroditalia",
+				"location": "Italia / Italy",
+				"description": "Giro d'Italia official Profile / Profilo ufficiale del Giro d'Italia",
+				"url": "http://t.co/VfygoLQ13N",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/VfygoLQ13N",
+								"expanded_url": "http://www.giroditalia.it/",
+								"display_url": "giroditalia.it",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 627929,
+				"friends_count": 702,
+				"listed_count": 4407,
+				"created_at": "Thu Aug 05 07:49:02 +0000 2010",
+				"favourites_count": 483,
+				"utc_offset": 3600,
+				"time_zone": "Rome",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17030,
+				"lang": "it",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/382024329/Sfondo.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/382024329/Sfondo.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/907180843721949185/3u44HYa3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/907180843721949185/3u44HYa3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/174964320/1516037344",
+				"profile_link_color": "010B0F",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "EB2A77",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 463,
+			"favorite_count": 1022,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 463,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 27 15:42:38 +0000 2018",
+		"id": 957277679958528000,
+		"id_str": "957277679958528000",
+		"text": "@BryanAlexander @actualham What's even awesomer is when you order by ILL and your library decides to purchase it fo… https://t.co/ia70ngRsw3",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BryanAlexander",
+					"name": "Bryan Alexander",
+					"id": 755991,
+					"id_str": "755991",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "actualham",
+					"name": "Robin DeRosa",
+					"id": 2182862052,
+					"id_str": "2182862052",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ia70ngRsw3",
+					"expanded_url": "https://twitter.com/i/web/status/957277679958528000",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 957274753613684700,
+		"in_reply_to_status_id_str": "957274753613684736",
+		"in_reply_to_user_id": 755991,
+		"in_reply_to_user_id_str": "755991",
+		"in_reply_to_screen_name": "BryanAlexander",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 546,
+			"friends_count": 732,
+			"listed_count": 33,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 4001,
+			"utc_offset": -21600,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5102,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 27 02:26:34 +0000 2018",
+		"id": 957077339401347100,
+		"id_str": "957077339401347072",
+		"text": "@BryanAlexander Well, as the saying goes, \"abusus non tollit usum\" ... the misuse of something is no argument against its proper use",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BryanAlexander",
+					"name": "Bryan Alexander",
+					"id": 755991,
+					"id_str": "755991",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 957023549352562700,
+		"in_reply_to_status_id_str": "957023549352562693",
+		"in_reply_to_user_id": 755991,
+		"in_reply_to_user_id_str": "755991",
+		"in_reply_to_screen_name": "BryanAlexander",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 546,
+			"friends_count": 732,
+			"listed_count": 33,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 4001,
+			"utc_offset": -21600,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5102,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 27 02:00:53 +0000 2018",
+		"id": 957070876310204400,
+		"id_str": "957070876310204417",
+		"text": "Settling in for Friday night #crosswords with new #cryptics from Kosman/Picciotto and Cox/Rathvon, and then at 9 th… https://t.co/D7wjhcxNc0",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "crosswords",
+					"indices": [
+						29,
+						40
+					]
+				},
+				{
+					"text": "cryptics",
+					"indices": [
+						50,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D7wjhcxNc0",
+					"expanded_url": "https://twitter.com/i/web/status/957070876310204417",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 546,
+			"friends_count": 732,
+			"listed_count": 33,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 4001,
+			"utc_offset": -21600,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5102,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jan 26 22:33:39 +0000 2018",
 		"id": 957018727886794800,
 		"id_str": "957018727886794752",
