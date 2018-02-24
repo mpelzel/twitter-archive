@@ -1,6 +1,464 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Fri Feb 23 23:16:10 +0000 2018",
+		"id": 967176288040603600,
+		"id_str": "967176288040603648",
+		"text": "Looking great, y'all ... hope there's one for me :) #DLAC #vivero https://t.co/MLsOYyQK21",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DLAC",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "vivero",
+					"indices": [
+						58,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MLsOYyQK21",
+					"expanded_url": "https://twitter.com/letsshall/status/967152791109210122",
+					"display_url": "twitter.com/letsshall/stat…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 570,
+			"friends_count": 787,
+			"listed_count": 33,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 4200,
+			"utc_offset": -21600,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5417,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 967152791109210100,
+		"quoted_status_id_str": "967152791109210122",
+		"quoted_status": {
+			"created_at": "Fri Feb 23 21:42:48 +0000 2018",
+			"id": 967152791109210100,
+			"id_str": "967152791109210122",
+			"text": "#vivero sweatshirts are here and we are rocking them @CaroHerbLew @gdomnijl &amp; thanks for saving us from our selfie… https://t.co/BLL7MAZWnl",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "vivero",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CaroHerbLew",
+						"name": "Carolyn Herbst Lewis",
+						"id": 418846212,
+						"id_str": "418846212",
+						"indices": [
+							53,
+							65
+						]
+					},
+					{
+						"screen_name": "gdomnijl",
+						"name": "Jinlin",
+						"id": 802175025952518100,
+						"id_str": "802175025952518148",
+						"indices": [
+							66,
+							75
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/BLL7MAZWnl",
+						"expanded_url": "https://twitter.com/i/web/status/967152791109210122",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7268482,
+				"id_str": "7268482",
+				"name": "Liz Rodrigues",
+				"screen_name": "letsshall",
+				"location": "Grinnell, IA",
+				"description": "Humanities & Digital Scholarship Librarian at Grinnell College. PhD in English from U Michigan. Parent. Union thug of faith. Views my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 679,
+				"friends_count": 1058,
+				"listed_count": 38,
+				"created_at": "Thu Jul 05 13:11:03 +0000 2007",
+				"favourites_count": 1040,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2942,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/488743205639188480/yZGlVJtM_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/488743205639188480/yZGlVJtM_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7268482/1405360397",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 23 05:05:57 +0000 2018",
+		"id": 966901923126235100,
+		"id_str": "966901923126235136",
+		"text": "RT @dallasnews: Enterprise, Alamo, National will no longer give NRA members discounts on car rentals https://t.co/25fWEr1Eyi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dallasnews",
+					"name": "Dallas Morning News",
+					"id": 15679641,
+					"id_str": "15679641",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/25fWEr1Eyi",
+					"expanded_url": "https://www.dallasnews.com/business/business/2018/02/22/enterprise-alamo-national-will-no-longer-give-nra-members-discounts-car-rentals?utm_campaign=Echobox&utm_medium=Social&utm_source=Twitter",
+					"display_url": "dallasnews.com/business/busin…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 570,
+			"friends_count": 787,
+			"listed_count": 33,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 4200,
+			"utc_offset": -21600,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5417,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 23 04:03:09 +0000 2018",
+			"id": 966886121677373400,
+			"id_str": "966886121677373442",
+			"text": "Enterprise, Alamo, National will no longer give NRA members discounts on car rentals https://t.co/25fWEr1Eyi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/25fWEr1Eyi",
+						"expanded_url": "https://www.dallasnews.com/business/business/2018/02/22/enterprise-alamo-national-will-no-longer-give-nra-members-discounts-car-rentals?utm_campaign=Echobox&utm_medium=Social&utm_source=Twitter",
+						"display_url": "dallasnews.com/business/busin…",
+						"indices": [
+							85,
+							108
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15679641,
+				"id_str": "15679641",
+				"name": "Dallas Morning News",
+				"screen_name": "dallasnews",
+				"location": "Dallas, Texas",
+				"description": "The official Dallas Morning News Twitter account with daily news, updates and headlines from https://t.co/AsHKI8KMUM.",
+				"url": "https://t.co/AsHKI8KMUM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AsHKI8KMUM",
+								"expanded_url": "http://dallasnews.com",
+								"display_url": "dallasnews.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/AsHKI8KMUM",
+								"expanded_url": "http://dallasnews.com",
+								"display_url": "dallasnews.com",
+								"indices": [
+									93,
+									116
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 625574,
+				"friends_count": 650,
+				"listed_count": 6381,
+				"created_at": "Thu Jul 31 19:59:08 +0000 2008",
+				"favourites_count": 3759,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 150919,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "27375B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000031349740/2d4f9b575a7c9266aa9c339051914c0a.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000031349740/2d4f9b575a7c9266aa9c339051914c0a.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/961449787873673216/_WHw31XG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/961449787873673216/_WHw31XG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15679641/1444921386",
+				"profile_link_color": "D83018",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F8F9FA",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 108,
+			"favorite_count": 363,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 108,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 22 23:52:14 +0000 2018",
 		"id": 966822975117905900,
 		"id_str": "966822975117905920",
