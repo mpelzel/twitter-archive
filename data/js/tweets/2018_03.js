@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Tue Mar 13 19:20:35 +0000 2018",
+		"id": 973639981406343200,
+		"id_str": "973639981406343168",
+		"text": "RT @sweatscience: Powerlifting and plyometrics for distance runners?! A recent comprehensive review by @rich_blagrove digs into the what, w…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sweatscience",
+					"name": "Alex Hutchinson",
+					"id": 23173210,
+					"id_str": "23173210",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "rich_blagrove",
+					"name": "Rich Blagrove",
+					"id": 328561094,
+					"id_str": "328561094",
+					"indices": [
+						103,
+						117
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 582,
+			"friends_count": 797,
+			"listed_count": 34,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 4254,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5515,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 13 19:20:04 +0000 2018",
+			"id": 973639851387113500,
+			"id_str": "973639851387113472",
+			"text": "Powerlifting and plyometrics for distance runners?! A recent comprehensive review by @rich_blagrove digs into the w… https://t.co/SFkIxGBtHg",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rich_blagrove",
+						"name": "Rich Blagrove",
+						"id": 328561094,
+						"id_str": "328561094",
+						"indices": [
+							85,
+							99
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SFkIxGBtHg",
+						"expanded_url": "https://twitter.com/i/web/status/973639851387113472",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23173210,
+				"id_str": "23173210",
+				"name": "Alex Hutchinson",
+				"screen_name": "sweatscience",
+				"location": "Toronto, Canada",
+				"description": "Outside's Sweat Science columnist, author of ENDURE: Mind, Body, and the Curiously Elastic Limits of Human Performance - now available!",
+				"url": "https://t.co/uwWRhBjNSE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uwWRhBjNSE",
+								"expanded_url": "https://www.harpercollins.com/9780062499868/endure",
+								"display_url": "harpercollins.com/9780062499868/…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32170,
+				"friends_count": 3033,
+				"listed_count": 1025,
+				"created_at": "Sat Mar 07 06:47:20 +0000 2009",
+				"favourites_count": 2494,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8449,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/199466189/IMG_1820.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/199466189/IMG_1820.JPG",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1230655922/IMG_2272_normal.JPG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230655922/IMG_2272_normal.JPG",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23173210/1515034562",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 55,
+			"favorite_count": 156,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Mar 12 23:31:18 +0000 2018",
 		"id": 973340686694125600,
 		"id_str": "973340686694125569",
