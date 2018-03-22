@@ -1,6 +1,415 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Wed Mar 21 02:28:54 +0000 2018",
+		"id": 976284485351178200,
+		"id_str": "976284485351178241",
+		"text": "Yes! Congrats...smart theme ...  4:38 for me https://t.co/YrykNWVKjD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YrykNWVKjD",
+					"expanded_url": "https://twitter.com/laurabrarian/status/976278699527036929",
+					"display_url": "twitter.com/laurabrarian/s…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 586,
+			"friends_count": 801,
+			"listed_count": 35,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 4289,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5576,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 976278699527036900,
+		"quoted_status_id_str": "976278699527036929",
+		"quoted_status": {
+			"created_at": "Wed Mar 21 02:05:55 +0000 2018",
+			"id": 976278699527036900,
+			"id_str": "976278699527036929",
+			"text": "solo @NYT_Crossword debut, hope you like it https://t.co/qOeHXWyIJs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NYT_Crossword",
+						"name": "NYTimes Crossword",
+						"id": 708425577162743800,
+						"id_str": "708425577162743808",
+						"indices": [
+							5,
+							19
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 976278692904058900,
+						"id_str": "976278692904058880",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/DYxwTHRUQAADokX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYxwTHRUQAADokX.jpg",
+						"url": "https://t.co/qOeHXWyIJs",
+						"display_url": "pic.twitter.com/qOeHXWyIJs",
+						"expanded_url": "https://twitter.com/laurabrarian/status/976278699527036929/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 644,
+								"h": 847,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 517,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 644,
+								"h": 847,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 976278692904058900,
+						"id_str": "976278692904058880",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/DYxwTHRUQAADokX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYxwTHRUQAADokX.jpg",
+						"url": "https://t.co/qOeHXWyIJs",
+						"display_url": "pic.twitter.com/qOeHXWyIJs",
+						"expanded_url": "https://twitter.com/laurabrarian/status/976278699527036929/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 644,
+								"h": 847,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 517,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 644,
+								"h": 847,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12838892,
+				"id_str": "12838892",
+				"name": "Laura Tesseract of the d’Urbervilles Braunstein",
+				"screen_name": "laurabrarian",
+				"location": "Hanover, NH",
+				"description": "Digital Humanities Librarian - Libraries & DH & SF/F & beer & crosswords & comics & old movies. @areopagitibot #RESIST #noncompliant https://t.co/OCjE7dp0R0",
+				"url": "https://t.co/LnuYtCq4Cs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LnuYtCq4Cs",
+								"expanded_url": "http://digitalhumanities.dartmouth.edu/",
+								"display_url": "digitalhumanities.dartmouth.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/OCjE7dp0R0",
+								"expanded_url": "http://pronoun.is/she",
+								"display_url": "pronoun.is/she",
+								"indices": [
+									133,
+									156
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2112,
+				"friends_count": 1089,
+				"listed_count": 128,
+				"created_at": "Tue Jan 29 18:10:43 +0000 2008",
+				"favourites_count": 17442,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14908,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000096519694/b9aeef6db9c68bbc16dff6541007d534.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000096519694/b9aeef6db9c68bbc16dff6541007d534.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823656924902293505/G6P0C-vA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823656924902293505/G6P0C-vA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12838892/1485008017",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 125,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Mar 21 02:17:44 +0000 2018",
+		"id": 976281673963728900,
+		"id_str": "976281673963728896",
+		"text": "\"A Desk of One's Own.\" Desk used by Virginia Woolf, now at Duke University Library #DoOO #librarypalooza… https://t.co/a35mnp9M8h",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DoOO",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "librarypalooza",
+					"indices": [
+						89,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a35mnp9M8h",
+					"expanded_url": "https://twitter.com/i/web/status/976281673963728896",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 586,
+			"friends_count": 801,
+			"listed_count": 35,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 4289,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5576,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 21 00:08:07 +0000 2018",
 		"id": 976249054421274600,
 		"id_str": "976249054421274630",
