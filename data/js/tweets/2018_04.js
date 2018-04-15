@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sat Apr 14 15:40:52 +0000 2018",
+		"id": 985181099348451300,
+		"id_str": "985181099348451329",
+		"text": "RT @MadsPelzel: What an amazing world @ricearch is. Our woodshop manager stayed until 7pm on a Friday night for us and our IT guy just emai…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MadsPelzel",
+					"name": "Madeleine Pelzel",
+					"id": 532725843,
+					"id_str": "532725843",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "RiceArch",
+					"name": "Rice Architecture",
+					"id": 211565700,
+					"id_str": "211565700",
+					"indices": [
+						38,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594,
+			"friends_count": 827,
+			"listed_count": 35,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 4413,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5730,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 14 15:18:20 +0000 2018",
+			"id": 985175428720676900,
+			"id_str": "985175428720676866",
+			"text": "What an amazing world @ricearch is. Our woodshop manager stayed until 7pm on a Friday night for us and our IT guy j… https://t.co/Yl8wGTISDC",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RiceArch",
+						"name": "Rice Architecture",
+						"id": 211565700,
+						"id_str": "211565700",
+						"indices": [
+							22,
+							31
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Yl8wGTISDC",
+						"expanded_url": "https://twitter.com/i/web/status/985175428720676866",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 532725843,
+				"id_str": "532725843",
+				"name": "Madeleine Pelzel",
+				"screen_name": "MadsPelzel",
+				"location": "Rice University",
+				"description": "inspired, motivated, and powered by google calendar",
+				"url": "https://t.co/tv9PKU93Q7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tv9PKU93Q7",
+								"expanded_url": "http://madeleinepelzel.com",
+								"display_url": "madeleinepelzel.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 338,
+				"friends_count": 197,
+				"listed_count": 5,
+				"created_at": "Wed Mar 21 23:17:11 +0000 2012",
+				"favourites_count": 1888,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2496,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DCF1",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/464739033/x3793694b306549d543c51ad77b6ae0f.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/464739033/x3793694b306549d543c51ad77b6ae0f.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980205427097923584/KOHObzRL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980205427097923584/KOHObzRL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/532725843/1521498118",
+				"profile_link_color": "0C446F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "1C1C1C",
+				"profile_text_color": "C0DCF1",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Apr 13 22:57:30 +0000 2018",
 		"id": 984928594408497200,
 		"id_str": "984928594408497152",
