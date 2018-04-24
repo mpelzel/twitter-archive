@@ -1,6 +1,767 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Mon Apr 23 14:17:09 +0000 2018",
+		"id": 988421521289941000,
+		"id_str": "988421521289940992",
+		"text": "RT @tombennett71: Absolutely fantastic poster outlining cognitive biases. This should be compulsory to study before studying anything else.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tombennett71",
+					"name": "Tom Bennett",
+					"id": 208996041,
+					"id_str": "208996041",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 596,
+			"friends_count": 838,
+			"listed_count": 35,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 4485,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5807,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 22 08:29:21 +0000 2018",
+			"id": 987971607997149200,
+			"id_str": "987971607997149184",
+			"text": "Absolutely fantastic poster outlining cognitive biases. This should be compulsory to study before studying anything… https://t.co/FGqru1HnqI",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FGqru1HnqI",
+						"expanded_url": "https://twitter.com/i/web/status/987971607997149184",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 208996041,
+				"id_str": "208996041",
+				"name": "Tom Bennett",
+				"screen_name": "tombennett71",
+				"location": "London",
+				"description": "Director of researchED- https://t.co/BL7zxnlqV9 Chair of @educationgovuk Behaviour group. Free training available here https://t.co/meexyfuzYL",
+				"url": "https://t.co/cJynGut7w0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cJynGut7w0",
+								"expanded_url": "http://www.researched.org.uk/event/researched-2016-national-conference/",
+								"display_url": "researched.org.uk/event/research…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/BL7zxnlqV9",
+								"expanded_url": "https://researched.org.uk",
+								"display_url": "researched.org.uk",
+								"indices": [
+									24,
+									47
+								]
+							},
+							{
+								"url": "https://t.co/meexyfuzYL",
+								"expanded_url": "http://www.tombennetttraining.co.uk",
+								"display_url": "tombennetttraining.co.uk",
+								"indices": [
+									119,
+									142
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 46929,
+				"friends_count": 3756,
+				"listed_count": 787,
+				"created_at": "Thu Oct 28 10:02:20 +0000 2010",
+				"favourites_count": 89957,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 156439,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000007880768/215a7f358e0d02083d100c1d7a5a55ef.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000007880768/215a7f358e0d02083d100c1d7a5a55ef.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/839877351492169729/GUN1Pivj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839877351492169729/GUN1Pivj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/208996041/1363995473",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3807,
+			"favorite_count": 7288,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3807,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 23 13:19:55 +0000 2018",
+		"id": 988407120663076900,
+		"id_str": "988407120663076866",
+		"text": "Hooray, @MadsPelzel! https://t.co/tIAwxRUNSH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MadsPelzel",
+					"name": "Madeleine Pelzel",
+					"id": 532725843,
+					"id_str": "532725843",
+					"indices": [
+						8,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tIAwxRUNSH",
+					"expanded_url": "https://twitter.com/SpaceCityWX/status/988386729496334336",
+					"display_url": "twitter.com/SpaceCityWX/st…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 596,
+			"friends_count": 838,
+			"listed_count": 35,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 4485,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5807,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 988386729496334300,
+		"quoted_status_id_str": "988386729496334336",
+		"quoted_status": {
+			"created_at": "Mon Apr 23 11:58:54 +0000 2018",
+			"id": 988386729496334300,
+			"id_str": "988386729496334336",
+			"text": "If you're riding in the BP MS 150 event to Austin, or competing in the IRONMAN in The Woodlands this weekend, at th… https://t.co/LpgYuez8rR",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LpgYuez8rR",
+						"expanded_url": "https://twitter.com/i/web/status/988386729496334336",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 988386239601627100,
+			"in_reply_to_status_id_str": "988386239601627137",
+			"in_reply_to_user_id": 3980516359,
+			"in_reply_to_user_id_str": "3980516359",
+			"in_reply_to_screen_name": "SpaceCityWX",
+			"user": {
+				"id": 3980516359,
+				"id_str": "3980516359",
+				"name": "Eric Berger",
+				"screen_name": "SpaceCityWX",
+				"location": "Houston, TX",
+				"description": "Hype-free forecast and weather information for the greater Houston area. Account run primarily by Eric 'SciGuy' Berger.",
+				"url": "https://t.co/RE2kASdW43",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RE2kASdW43",
+								"expanded_url": "http://www.spacecityweather.com",
+								"display_url": "spacecityweather.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18292,
+				"friends_count": 44,
+				"listed_count": 430,
+				"created_at": "Thu Oct 22 13:17:51 +0000 2015",
+				"favourites_count": 1153,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3556,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/657191183228104705/qozUi0lm.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/657191183228104705/qozUi0lm.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/744987387118268416/sl8kCt7s_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/744987387118268416/sl8kCt7s_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3980516359/1445524159",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 23 01:34:44 +0000 2018",
+		"id": 988229651721015300,
+		"id_str": "988229651721015296",
+		"text": "RT @kendrick38: The irony of an unarmed black man disarming a white domestic terrorist, putting his life on the line. Thank you, James Shaw…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kendrick38",
+					"name": "Kendrick Sampson",
+					"id": 99402071,
+					"id_str": "99402071",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 596,
+			"friends_count": 838,
+			"listed_count": 35,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 4485,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5807,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 22 17:56:43 +0000 2018",
+			"id": 988114389038383100,
+			"id_str": "988114389038383104",
+			"text": "The irony of an unarmed black man disarming a white domestic terrorist, putting his life on the line. Thank you, Ja… https://t.co/Nt1zbLb0A5",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Nt1zbLb0A5",
+						"expanded_url": "https://twitter.com/i/web/status/988114389038383104",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 99402071,
+				"id_str": "99402071",
+				"name": "Kendrick Sampson",
+				"screen_name": "kendrick38",
+				"location": "Los Angeles",
+				"description": "#GodisGood Instagram: @Kendrick38 https://t.co/lsrCl316p4 Snapchat: Ksmith38 #houston",
+				"url": "https://t.co/61sHjR0Ins",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/61sHjR0Ins",
+								"expanded_url": "http://KendrickSampson.com",
+								"display_url": "KendrickSampson.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/lsrCl316p4",
+								"expanded_url": "http://imdb.me/Kendrick",
+								"display_url": "imdb.me/Kendrick",
+								"indices": [
+									34,
+									57
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 56728,
+				"friends_count": 438,
+				"listed_count": 432,
+				"created_at": "Sat Dec 26 02:11:28 +0000 2009",
+				"favourites_count": 4536,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 40343,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/839788145960878080/ZDDD2GGX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839788145960878080/ZDDD2GGX_normal.jpg",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 988101790481690600,
+			"quoted_status_id_str": "988101790481690624",
+			"quoted_status": {
+				"created_at": "Sun Apr 22 17:06:39 +0000 2018",
+				"id": 988101790481690600,
+				"id_str": "988101790481690624",
+				"text": "Meet James Shaw, Jr. - the hero who single handedly tackled and disarmed the mass shooter at the Waffle House in Te… https://t.co/88ranPGyJ0",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/88ranPGyJ0",
+							"expanded_url": "https://twitter.com/i/web/status/988101790481690624",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 755113,
+					"id_str": "755113",
+					"name": "Shaun King",
+					"screen_name": "ShaunKing",
+					"location": "Brooklyn via LA via ATL via KY",
+					"description": "Co-Founder @RealJusticePAC; Columnist @TheIntercept & @FairPunishment; Mornings @TJMShow; https://t.co/TCtHkUwVdX /news@shaunking.org /Views here are my own",
+					"url": "https://t.co/14G4MUilKF",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/14G4MUilKF",
+									"expanded_url": "http://RealJustice.team",
+									"display_url": "RealJustice.team",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/TCtHkUwVdX",
+									"expanded_url": "http://ShaunKing.org",
+									"display_url": "ShaunKing.org",
+									"indices": [
+										90,
+										113
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 939096,
+					"friends_count": 10700,
+					"listed_count": 9710,
+					"created_at": "Tue Feb 06 05:17:19 +0000 2007",
+					"favourites_count": 93422,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 39169,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "131516",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/542860413432369152/UIhc0Gv9.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/542860413432369152/UIhc0Gv9.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/875376124733280256/GxhiVOT3_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/875376124733280256/GxhiVOT3_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/755113/1448336549",
+					"profile_link_color": "000000",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 14953,
+				"favorite_count": 44197,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 9169,
+			"favorite_count": 25051,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 988101790481690600,
+		"quoted_status_id_str": "988101790481690624",
+		"retweet_count": 9169,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Apr 22 21:22:26 +0000 2018",
 		"id": 988166160427479000,
 		"id_str": "988166160427479041",
