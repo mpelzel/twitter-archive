@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Thu May 03 02:07:07 +0000 2018",
+		"id": 991861681654509600,
+		"id_str": "991861681654509568",
+		"text": "RT @RiceUNews: “(#Reagan) lived, it is believed, because of the expert care he received at @GWHospital. Less widely known is that every doc…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Reagan",
+					"indices": [
+						17,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RiceUNews",
+					"name": "Rice University News",
+					"id": 353324665,
+					"id_str": "353324665",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "GWHospital",
+					"name": "GWHospital",
+					"id": 481281538,
+					"id_str": "481281538",
+					"indices": [
+						91,
+						102
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 604,
+			"friends_count": 849,
+			"listed_count": 35,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 4547,
+			"utc_offset": -18000,
+			"time_zone": "America/Chicago",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5858,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 03 01:58:50 +0000 2018",
+			"id": 991859597618090000,
+			"id_str": "991859597618089984",
+			"text": "“(#Reagan) lived, it is believed, because of the expert care he received at @GWHospital. Less widely known is that… https://t.co/avixLHrzi8",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Reagan",
+						"indices": [
+							2,
+							9
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GWHospital",
+						"name": "GWHospital",
+						"id": 481281538,
+						"id_str": "481281538",
+						"indices": [
+							76,
+							87
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/avixLHrzi8",
+						"expanded_url": "https://twitter.com/i/web/status/991859597618089984",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 353324665,
+				"id_str": "353324665",
+				"name": "Rice University News",
+				"screen_name": "RiceUNews",
+				"location": "Houston, TX",
+				"description": "Official Twitter account for Rice News and Media Relations.",
+				"url": "http://t.co/KO9jDtIcaT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/KO9jDtIcaT",
+								"expanded_url": "http://news.rice.edu",
+								"display_url": "news.rice.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5257,
+				"friends_count": 430,
+				"listed_count": 134,
+				"created_at": "Thu Aug 11 22:13:27 +0000 2011",
+				"favourites_count": 575,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9194,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0C2E52",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/317920221/RiceNewsTwitter4.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/317920221/RiceNewsTwitter4.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1508204497/ricenews_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1508204497/ricenews_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/353324665/1476818529",
+				"profile_link_color": "206396",
+				"profile_sidebar_border_color": "CDD0D1",
+				"profile_sidebar_fill_color": "EDEFF0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "1c69a67ad480e1b1",
+				"url": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json",
+				"place_type": "city",
+				"name": "Houston",
+				"full_name": "Houston, TX",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-95.823268,
+								29.522325
+							],
+							[
+								-95.069705,
+								29.522325
+							],
+							[
+								-95.069705,
+								30.1546646
+							],
+							[
+								-95.823268,
+								30.1546646
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 02 22:54:29 +0000 2018",
 		"id": 991813202366353400,
 		"id_str": "991813202366353408",
