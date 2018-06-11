@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sun Jun 10 03:34:15 +0000 2018",
+		"id": 1005654350016995300,
+		"id_str": "1005654350016995329",
+		"text": "Agreed! https://t.co/e0GarYq9iR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e0GarYq9iR",
+					"expanded_url": "https://twitter.com/KWaldenPhD/status/1005652650270994432",
+					"display_url": "twitter.com/KWaldenPhD/sta…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 620,
+			"friends_count": 883,
+			"listed_count": 37,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 4781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6135,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1005652650270994400,
+		"quoted_status_id_str": "1005652650270994432",
+		"quoted_status": {
+			"created_at": "Sun Jun 10 03:27:30 +0000 2018",
+			"id": 1005652650270994400,
+			"id_str": "1005652650270994432",
+			"text": "Iowa needs more mountains &amp; picturesque bodies of water. https://t.co/HvRX8CIOcS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1005652636371071000,
+						"id_str": "1005652636371070976",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/DfTLvp5VMAAHwEy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfTLvp5VMAAHwEy.jpg",
+						"url": "https://t.co/HvRX8CIOcS",
+						"display_url": "pic.twitter.com/HvRX8CIOcS",
+						"expanded_url": "https://twitter.com/KWaldenPhD/status/1005652650270994432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1280,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1005652636371071000,
+						"id_str": "1005652636371070976",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/DfTLvp5VMAAHwEy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfTLvp5VMAAHwEy.jpg",
+						"url": "https://t.co/HvRX8CIOcS",
+						"display_url": "pic.twitter.com/HvRX8CIOcS",
+						"expanded_url": "https://twitter.com/KWaldenPhD/status/1005652650270994432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1280,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1005652636371042300,
+						"id_str": "1005652636371042304",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/DfTLvp5UwAAC-W4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfTLvp5UwAAC-W4.jpg",
+						"url": "https://t.co/HvRX8CIOcS",
+						"display_url": "pic.twitter.com/HvRX8CIOcS",
+						"expanded_url": "https://twitter.com/KWaldenPhD/status/1005652650270994432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1005652636442345500,
+						"id_str": "1005652636442345472",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/DfTLvqKUwAA9v8L.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfTLvqKUwAA9v8L.jpg",
+						"url": "https://t.co/HvRX8CIOcS",
+						"display_url": "pic.twitter.com/HvRX8CIOcS",
+						"expanded_url": "https://twitter.com/KWaldenPhD/status/1005652650270994432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 495562702,
+				"id_str": "495562702",
+				"name": "Katherine W.",
+				"screen_name": "KWaldenPhD",
+				"location": "Grinnell, IA",
+				"description": "Dig Lib Arts Specialist @GrinnellDLAC. American-Sport Studies (almost) PhD + MLIS @uiowa. Fmr @VanderbiltU, @baseballhall, @librarycongress.  ⚾️ fan+scholar.",
+				"url": "https://t.co/3Vk8MiQ37C",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3Vk8MiQ37C",
+								"expanded_url": "https://kwaldenpond.com/",
+								"display_url": "kwaldenpond.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 442,
+				"friends_count": 672,
+				"listed_count": 15,
+				"created_at": "Sat Feb 18 03:09:25 +0000 2012",
+				"favourites_count": 9264,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7081,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1000168344547479552/lkDb2u25_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000168344547479552/lkDb2u25_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/495562702/1527293954",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07d9dc6d06086003",
+				"url": "https://api.twitter.com/1.1/geo/id/07d9dc6d06086003.json",
+				"place_type": "poi",
+				"name": "Mount Tolmie",
+				"full_name": "Mount Tolmie",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-123.32541704177855,
+								48.45688617558233
+							],
+							[
+								-123.32541704177855,
+								48.45688617558233
+							],
+							[
+								-123.32541704177855,
+								48.45688617558233
+							],
+							[
+								-123.32541704177855,
+								48.45688617558233
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jun 09 20:43:35 +0000 2018",
 		"id": 1005551000487374800,
 		"id_str": "1005551000487374849",
