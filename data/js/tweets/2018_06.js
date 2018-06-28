@@ -1,6 +1,891 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Wed Jun 27 21:58:39 +0000 2018",
+		"id": 1012092873511243800,
+		"id_str": "1012092873511243776",
+		"text": "RT @modacitylife: Our new book “Building the Cycling City: The Dutch Blueprint for Urban Vitality” is officially out August 28th.\n\n(Unoffic…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "modacitylife",
+					"name": "Modacity",
+					"id": 44974922,
+					"id_str": "44974922",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 905,
+			"listed_count": 37,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 4843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6249,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 27 19:51:30 +0000 2018",
+			"id": 1012060876122177500,
+			"id_str": "1012060876122177536",
+			"text": "Our new book “Building the Cycling City: The Dutch Blueprint for Urban Vitality” is officially out August 28th.\n\n(U… https://t.co/wROcKLGEwa",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wROcKLGEwa",
+						"expanded_url": "https://twitter.com/i/web/status/1012060876122177536",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 44974922,
+				"id_str": "44974922",
+				"name": "Modacity",
+				"screen_name": "modacitylife",
+				"location": "Vancouver, BC",
+				"description": "Chris and Melissa Bruntlett are the co-founders of Modacity: a creative agency focused on inspiring healthier, happier, and simpler forms of urban mobility.",
+				"url": "https://t.co/GwmxTptcDi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GwmxTptcDi",
+								"expanded_url": "http://www.modacitylife.com",
+								"display_url": "modacitylife.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27504,
+				"friends_count": 26325,
+				"listed_count": 697,
+				"created_at": "Fri Jun 05 19:37:06 +0000 2009",
+				"favourites_count": 33540,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 31620,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/800875180130058240/oUcSKVEL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/800875180130058240/oUcSKVEL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44974922/1425170608",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "1e5cb4d0509db554",
+				"url": "https://api.twitter.com/1.1/geo/id/1e5cb4d0509db554.json",
+				"place_type": "city",
+				"name": "Vancouver",
+				"full_name": "Vancouver, British Columbia",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-123.224215,
+								49.19854
+							],
+							[
+								-123.022947,
+								49.19854
+							],
+							[
+								-123.022947,
+								49.316738
+							],
+							[
+								-123.224215,
+								49.316738
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 105,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 27 21:36:21 +0000 2018",
+		"id": 1012087262081880000,
+		"id_str": "1012087262081880065",
+		"text": "@CiotaRebecca  https://t.co/VFrffCmRZM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CiotaRebecca",
+					"name": "Rebecca Ciota",
+					"id": 3258137575,
+					"id_str": "3258137575",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1012087249255555100,
+					"id_str": "1012087249255555072",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dgun_a2UYAApmB0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dgun_a2UYAApmB0.jpg",
+					"url": "https://t.co/VFrffCmRZM",
+					"display_url": "pic.twitter.com/VFrffCmRZM",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1012087262081880065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 338,
+							"h": 498,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 338,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 338,
+							"h": 498,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1012087249255555100,
+					"id_str": "1012087249255555072",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dgun_a2UYAApmB0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dgun_a2UYAApmB0.jpg",
+					"url": "https://t.co/VFrffCmRZM",
+					"display_url": "pic.twitter.com/VFrffCmRZM",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1012087262081880065/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 338,
+							"h": 498,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 338,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 338,
+							"h": 498,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							169,
+							249
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dgun_a2UYAApmB0.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1012060483229306900,
+		"in_reply_to_status_id_str": "1012060483229306882",
+		"in_reply_to_user_id": 3258137575,
+		"in_reply_to_user_id_str": "3258137575",
+		"in_reply_to_screen_name": "CiotaRebecca",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 905,
+			"listed_count": 37,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 4843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6249,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Wed Jun 27 17:01:01 +0000 2018",
+		"id": 1012017972070768600,
+		"id_str": "1012017972070768640",
+		"text": "Enjoy this puzzle goodness ... and yeah ... row in a few extra bucks ;) https://t.co/Ci0m1xYv8L",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ci0m1xYv8L",
+					"expanded_url": "https://twitter.com/laurabrarian/status/1012006100974080003",
+					"display_url": "twitter.com/laurabrarian/s…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 905,
+			"listed_count": 37,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 4843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6249,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1012006100974080000,
+		"quoted_status_id_str": "1012006100974080003",
+		"quoted_status": {
+			"created_at": "Wed Jun 27 16:13:51 +0000 2018",
+			"id": 1012006100974080000,
+			"id_str": "1012006100974080003",
+			"text": "today's @AVCXWord is by me and @fleetwoodwack -- if you already subscribe, why not throw in a few extra bucks to co… https://t.co/k7dL0ZaclE",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AVCXWord",
+						"name": "American Values Club",
+						"id": 1005568453,
+						"id_str": "1005568453",
+						"indices": [
+							8,
+							17
+						]
+					},
+					{
+						"screen_name": "fleetwoodwack",
+						"name": "Brendan Quigley",
+						"id": 18098674,
+						"id_str": "18098674",
+						"indices": [
+							31,
+							45
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/k7dL0ZaclE",
+						"expanded_url": "https://twitter.com/i/web/status/1012006100974080003",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12838892,
+				"id_str": "12838892",
+				"name": "Laura 🌈 Braunstein",
+				"screen_name": "laurabrarian",
+				"location": "Hanover, NH",
+				"description": "Digital Humanities Librarian - Libraries & DH & SF/F & beer & crosswords & comics & old movies. @areopagitibot #RESIST #noncompliant https://t.co/OCjE7dp0R0",
+				"url": "https://t.co/LnuYtCq4Cs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LnuYtCq4Cs",
+								"expanded_url": "http://digitalhumanities.dartmouth.edu/",
+								"display_url": "digitalhumanities.dartmouth.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/OCjE7dp0R0",
+								"expanded_url": "http://pronoun.is/she",
+								"display_url": "pronoun.is/she",
+								"indices": [
+									133,
+									156
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2244,
+				"friends_count": 1082,
+				"listed_count": 132,
+				"created_at": "Tue Jan 29 18:10:43 +0000 2008",
+				"favourites_count": 20782,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16022,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823656924902293505/G6P0C-vA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823656924902293505/G6P0C-vA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12838892/1485008017",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 27 16:50:23 +0000 2018",
+		"id": 1012015295219806200,
+		"id_str": "1012015295219806210",
+		"text": "RT @NateSilver538: Was Republicans declining to hold a vote on Merrick Garland an example of incivility?  https://t.co/5jaEfzpEEp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NateSilver538",
+					"name": "Nate Silver",
+					"id": 16017475,
+					"id_str": "16017475",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5jaEfzpEEp",
+					"expanded_url": "https://53eig.ht/2tHSvCQ",
+					"display_url": "53eig.ht/2tHSvCQ",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 905,
+			"listed_count": 37,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 4843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6249,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 27 16:46:14 +0000 2018",
+			"id": 1012014252511649800,
+			"id_str": "1012014252511649793",
+			"text": "Was Republicans declining to hold a vote on Merrick Garland an example of incivility?  https://t.co/5jaEfzpEEp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5jaEfzpEEp",
+						"expanded_url": "https://53eig.ht/2tHSvCQ",
+						"display_url": "53eig.ht/2tHSvCQ",
+						"indices": [
+							87,
+							110
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16017475,
+				"id_str": "16017475",
+				"name": "Nate Silver",
+				"screen_name": "NateSilver538",
+				"location": "New York",
+				"description": "Editor-in-Chief, @FiveThirtyEight. Author, The Signal and the Noise (https://t.co/EYTxvN6BLY). Sports/politics/food geek.",
+				"url": "http://t.co/wNpFg2xg4f",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/wNpFg2xg4f",
+								"expanded_url": "http://fivethirtyeight.com/",
+								"display_url": "fivethirtyeight.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/EYTxvN6BLY",
+								"expanded_url": "http://amzn.to/QdyFYV",
+								"display_url": "amzn.to/QdyFYV",
+								"indices": [
+									69,
+									92
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3151945,
+				"friends_count": 1083,
+				"listed_count": 29084,
+				"created_at": "Wed Aug 27 20:56:45 +0000 2008",
+				"favourites_count": 315,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 18650,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/668814368008708096/5HABV7bJ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/668814368008708096/5HABV7bJ_normal.png",
+				"profile_link_color": "000092",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 156,
+			"favorite_count": 645,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 156,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jun 26 21:40:25 +0000 2018",
 		"id": 1011725896389185500,
 		"id_str": "1011725896389185543",
