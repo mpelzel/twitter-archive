@@ -1,6 +1,915 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 30 23:56:48 +0000 2018",
+		"id": 1013209771984457700,
+		"id_str": "1013209771984457729",
+		"text": "RT @rexparker: It's fine if you don't think diacritical marks are important, but this answer is a mild cop-out. Issue isn't so much whether…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rexparker",
+					"name": "Rex Parkour Trash Panda!🏹🏹🏹",
+					"id": 14230012,
+					"id_str": "14230012",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 628,
+			"friends_count": 907,
+			"listed_count": 37,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 4855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6262,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 30 23:51:04 +0000 2018",
+			"id": 1013208329051689000,
+			"id_str": "1013208329051688960",
+			"text": "It's fine if you don't think diacritical marks are important, but this answer is a mild cop-out. Issue isn't so muc… https://t.co/EUIuqSPzZb",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EUIuqSPzZb",
+						"expanded_url": "https://twitter.com/i/web/status/1013208329051688960",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14230012,
+				"id_str": "14230012",
+				"name": "Rex Parkour Trash Panda!🏹🏹🏹",
+				"screen_name": "rexparker",
+				"location": "Binghamton, NY",
+				"description": "Tossword Critter // I married a Kiwi // #crosswords #pulp #tcm // All Hail OOXTEPLERNON!",
+				"url": "https://t.co/lL1n14Xuv4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lL1n14Xuv4",
+								"expanded_url": "http://rexwordpuzzle.blogspot.com",
+								"display_url": "rexwordpuzzle.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6565,
+				"friends_count": 221,
+				"listed_count": 148,
+				"created_at": "Wed Mar 26 21:33:58 +0000 2008",
+				"favourites_count": 39595,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 70511,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/977249006060531715/kD3wMl50_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/977249006060531715/kD3wMl50_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14230012/1524625527",
+				"profile_link_color": "D10404",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1013206172692832300,
+			"quoted_status_id_str": "1013206172692832257",
+			"quoted_status": {
+				"created_at": "Sat Jun 30 23:42:30 +0000 2018",
+				"id": 1013206172692832300,
+				"id_str": "1013206172692832257",
+				"text": "@RoigFranzia @svdate I'll add that neither the puzzle editors nor I are aware of any American crossword that uses d… https://t.co/VYovPSWXh0",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "RoigFranzia",
+							"name": "Manuel Roig-Franzia",
+							"id": 371800458,
+							"id_str": "371800458",
+							"indices": [
+								0,
+								12
+							]
+						},
+						{
+							"screen_name": "svdate",
+							"name": "S.V. Dáte",
+							"id": 807975026,
+							"id_str": "807975026",
+							"indices": [
+								13,
+								20
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/VYovPSWXh0",
+							"expanded_url": "https://twitter.com/i/web/status/1013206172692832257",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": 1013205752125718500,
+				"in_reply_to_status_id_str": "1013205752125718530",
+				"in_reply_to_user_id": 273668513,
+				"in_reply_to_user_id_str": "273668513",
+				"in_reply_to_screen_name": "NYTimesWordplay",
+				"user": {
+					"id": 273668513,
+					"id_str": "273668513",
+					"name": "NYTimes Wordplay",
+					"screen_name": "NYTimesWordplay",
+					"location": "",
+					"description": "We're here to help you solve. Q's for puzzle editors or about streaks = FEEDBACK button. Spelling Bee Q's to @thegridkid. @debamlen claims not to work here.",
+					"url": "https://t.co/gWbBxy4v8I",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/gWbBxy4v8I",
+									"expanded_url": "http://www.nytimes.com/column/wordplay",
+									"display_url": "nytimes.com/column/wordplay",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 14293,
+					"friends_count": 954,
+					"listed_count": 171,
+					"created_at": "Mon Mar 28 23:09:12 +0000 2011",
+					"favourites_count": 14170,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 9073,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "0099B9",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/963784275668582400/5pu_5hwl_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/963784275668582400/5pu_5hwl_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/273668513/1511451535",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "95E8EC",
+					"profile_text_color": "3C3940",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1013206172692832300,
+		"quoted_status_id_str": "1013206172692832257",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jun 30 23:54:55 +0000 2018",
+		"id": 1013209297919053800,
+		"id_str": "1013209297919053830",
+		"text": "RT @NPR: We deleted this tweet due to the use of the incorrect Spanish phrase to say \"the year of the woman.\" The phrase is \"el año de la m…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NPR",
+					"name": "NPR",
+					"id": 5392522,
+					"id_str": "5392522",
+					"indices": [
+						3,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 628,
+			"friends_count": 907,
+			"listed_count": 37,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 4855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6262,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 30 20:21:02 +0000 2018",
+			"id": 1013155470729769000,
+			"id_str": "1013155470729768960",
+			"text": "We deleted this tweet due to the use of the incorrect Spanish phrase to say \"the year of the woman.\" The phrase is… https://t.co/DgeSaYFTx7",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DgeSaYFTx7",
+						"expanded_url": "https://twitter.com/i/web/status/1013155470729768960",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5392522,
+				"id_str": "5392522",
+				"name": "NPR",
+				"screen_name": "NPR",
+				"location": "",
+				"description": "News. Arts & Life. Music. Everything and more from NPR.\n\n🕵️ Securely send us news tips: https://t.co/LPkf6Tsozm",
+				"url": "http://t.co/SoL86ga4RI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/SoL86ga4RI",
+								"expanded_url": "http://www.npr.org",
+								"display_url": "npr.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/LPkf6Tsozm",
+								"expanded_url": "http://securedrop.npr.org",
+								"display_url": "securedrop.npr.org",
+								"indices": [
+									88,
+									111
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7592788,
+				"friends_count": 71866,
+				"listed_count": 65455,
+				"created_at": "Sun Apr 22 05:10:15 +0000 2007",
+				"favourites_count": 2457,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 153889,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/722199003845304320/s2zwEoao_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/722199003845304320/s2zwEoao_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5392522/1406560384",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 436,
+			"favorite_count": 1332,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 436,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jun 30 00:28:52 +0000 2018",
+		"id": 1012855453167112200,
+		"id_str": "1012855453167112192",
+		"text": "RT @NYTimesWordplay: Cryptics are the bomb! And @alanconnor’s online guide to solving them is the best out there. https://t.co/mDhB6Jel8W",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NYTimesWordplay",
+					"name": "NYTimes Wordplay",
+					"id": 273668513,
+					"id_str": "273668513",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "alanconnor",
+					"name": "alanconnor",
+					"id": 12818,
+					"id_str": "12818",
+					"indices": [
+						48,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mDhB6Jel8W",
+					"expanded_url": "https://twitter.com/alanconnor/status/1012815765207179264",
+					"display_url": "twitter.com/alanconnor/sta…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 628,
+			"friends_count": 907,
+			"listed_count": 37,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 4855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6262,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 29 23:53:13 +0000 2018",
+			"id": 1012846481630429200,
+			"id_str": "1012846481630429185",
+			"text": "Cryptics are the bomb! And @alanconnor’s online guide to solving them is the best out there. https://t.co/mDhB6Jel8W",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "alanconnor",
+						"name": "alanconnor",
+						"id": 12818,
+						"id_str": "12818",
+						"indices": [
+							27,
+							38
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/mDhB6Jel8W",
+						"expanded_url": "https://twitter.com/alanconnor/status/1012815765207179264",
+						"display_url": "twitter.com/alanconnor/sta…",
+						"indices": [
+							93,
+							116
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 273668513,
+				"id_str": "273668513",
+				"name": "NYTimes Wordplay",
+				"screen_name": "NYTimesWordplay",
+				"location": "",
+				"description": "We're here to help you solve. Q's for puzzle editors or about streaks = FEEDBACK button. Spelling Bee Q's to @thegridkid. @debamlen claims not to work here.",
+				"url": "https://t.co/gWbBxy4v8I",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gWbBxy4v8I",
+								"expanded_url": "http://www.nytimes.com/column/wordplay",
+								"display_url": "nytimes.com/column/wordplay",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14293,
+				"friends_count": 954,
+				"listed_count": 171,
+				"created_at": "Mon Mar 28 23:09:12 +0000 2011",
+				"favourites_count": 14170,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9073,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/963784275668582400/5pu_5hwl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/963784275668582400/5pu_5hwl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/273668513/1511451535",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1012815765207179300,
+			"quoted_status_id_str": "1012815765207179264",
+			"quoted_status": {
+				"created_at": "Fri Jun 29 21:51:10 +0000 2018",
+				"id": 1012815765207179300,
+				"id_str": "1012815765207179264",
+				"text": "@7upislemonade @NYTimesWordplay Likewise friendly to cryptic fans:\n\nhttps://t.co/FE8BVAgMeH",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "7upislemonade",
+							"name": "Kieron Callaghan",
+							"id": 905124513716863000,
+							"id_str": "905124513716862976",
+							"indices": [
+								0,
+								14
+							]
+						},
+						{
+							"screen_name": "NYTimesWordplay",
+							"name": "NYTimes Wordplay",
+							"id": 273668513,
+							"id_str": "273668513",
+							"indices": [
+								15,
+								31
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/FE8BVAgMeH",
+							"expanded_url": "https://www.theguardian.com/crosswords/series/american-style",
+							"display_url": "theguardian.com/crosswords/ser…",
+							"indices": [
+								68,
+								91
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": 1012814679801024500,
+				"in_reply_to_status_id_str": "1012814679801024518",
+				"in_reply_to_user_id": 905124513716863000,
+				"in_reply_to_user_id_str": "905124513716862976",
+				"in_reply_to_screen_name": "7upislemonade",
+				"user": {
+					"id": 12818,
+					"id_str": "12818",
+					"name": "alanconnor",
+					"screen_name": "alanconnor",
+					"location": "London",
+					"description": "Writer, most recently The Joy of Quiz https://t.co/EHK8pndcGU",
+					"url": "https://t.co/iLvy4UfLxN",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/iLvy4UfLxN",
+									"expanded_url": "http://www.alanconnor.com",
+									"display_url": "alanconnor.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/EHK8pndcGU",
+									"expanded_url": "http://amzn.to/1TKKK2O",
+									"display_url": "amzn.to/1TKKK2O",
+									"indices": [
+										38,
+										61
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 2452,
+					"friends_count": 4180,
+					"listed_count": 67,
+					"created_at": "Fri Nov 17 10:55:00 +0000 2006",
+					"favourites_count": 1416,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 5809,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "D1EECF",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/378800000725996851/e39e92dbca54044775edc7d23b394ce1_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000725996851/e39e92dbca54044775edc7d23b394ce1_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/12818/1401268393",
+					"profile_link_color": "981CEB",
+					"profile_sidebar_border_color": "87BC34",
+					"profile_sidebar_fill_color": "E0FF82",
+					"profile_text_color": "0B711E",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 3,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1012815765207179300,
+		"quoted_status_id_str": "1012815765207179264",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 29 20:33:38 +0000 2018",
 		"id": 1012796254307409900,
 		"id_str": "1012796254307409921",
