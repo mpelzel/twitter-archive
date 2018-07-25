@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Tue Jul 24 01:26:16 +0000 2018",
+		"id": 1021567205526388700,
+		"id_str": "1021567205526388736",
+		"text": "RT @ErikTheSimpson: Currently at @GrinnellCollege with @rebelsky: language and code camp. Coding for kids with emphasis on text analysis/DH…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ErikTheSimpson",
+					"name": "Erik Simpson",
+					"id": 276676907,
+					"id_str": "276676907",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "GrinnellCollege",
+					"name": "Grinnell College",
+					"id": 17652635,
+					"id_str": "17652635",
+					"indices": [
+						33,
+						49
+					]
+				},
+				{
+					"screen_name": "rebelsky",
+					"name": "Samuel Rebelsky",
+					"id": 35748045,
+					"id_str": "35748045",
+					"indices": [
+						55,
+						64
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 638,
+			"friends_count": 936,
+			"listed_count": 37,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6423,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 23 17:17:16 +0000 2018",
+			"id": 1021444146811359200,
+			"id_str": "1021444146811359234",
+			"text": "Currently at @GrinnellCollege with @rebelsky: language and code camp. Coding for kids with emphasis on text analysi… https://t.co/4sG09kKkW3",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GrinnellCollege",
+						"name": "Grinnell College",
+						"id": 17652635,
+						"id_str": "17652635",
+						"indices": [
+							13,
+							29
+						]
+					},
+					{
+						"screen_name": "rebelsky",
+						"name": "Samuel Rebelsky",
+						"id": 35748045,
+						"id_str": "35748045",
+						"indices": [
+							35,
+							44
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4sG09kKkW3",
+						"expanded_url": "https://twitter.com/i/web/status/1021444146811359234",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 276676907,
+				"id_str": "276676907",
+				"name": "Erik Simpson",
+				"screen_name": "ErikTheSimpson",
+				"location": "Grinnell, IA",
+				"description": "English professor, saxophonist, digital humanist. This feed may contain implicit language.",
+				"url": "http://t.co/hcwiHQAvkR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/hcwiHQAvkR",
+								"expanded_url": "http://www.math.grinnell.edu/~simpsone/",
+								"display_url": "math.grinnell.edu/~simpsone/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 435,
+				"friends_count": 399,
+				"listed_count": 19,
+				"created_at": "Sun Apr 03 21:18:36 +0000 2011",
+				"favourites_count": 502,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1879,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/926408251696140288/_oqF-xbv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/926408251696140288/_oqF-xbv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/276676907/1474752215",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 23 21:06:49 +0000 2018",
 		"id": 1021501912712130600,
 		"id_str": "1021501912712130563",
@@ -1077,7 +1320,7 @@ Grailbird.data.tweets_2018_07 =
 				"name": "Austin Frerick",
 				"screen_name": "AustinFrerick",
 				"location": "Iowa, USA",
-				"description": "Research Fellow at @OpenMarkets. (Coming Soon) @Forbes Contributor. Heroes: Jane Addams, Grandpa Frerick, RuPaul, & Louis Brandeis. 🌽🏳️‍🌈 #iowaAF",
+				"description": "Research Fellow at @OpenMarkets. (Coming Soon) @Forbes Contributor. Heroes: Jane Addams, Grandpa Frerick, RuPaul, & Louis Brandeis. 🌽🏳️🌈 #iowaAF",
 				"url": "https://t.co/g7FWHJ9lSp",
 				"entities": {
 					"url": {
