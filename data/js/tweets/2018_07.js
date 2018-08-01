@@ -1,6 +1,492 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Tue Jul 31 14:14:00 +0000 2018",
+		"id": 1024297130117288000,
+		"id_str": "1024297130117287937",
+		"text": "RT @RBReich: Even researchers with funding from the Koch brothers agree that Medicare for All would: \n\n1) Allow the government to negotiate…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RBReich",
+					"name": "Robert Reich",
+					"id": 148529707,
+					"id_str": "148529707",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 638,
+			"friends_count": 937,
+			"listed_count": 37,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5046,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6448,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 31 01:11:32 +0000 2018",
+			"id": 1024100213068156900,
+			"id_str": "1024100213068156928",
+			"text": "Even researchers with funding from the Koch brothers agree that Medicare for All would: \n\n1) Allow the government t… https://t.co/NpQ4e31NBL",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NpQ4e31NBL",
+						"expanded_url": "https://twitter.com/i/web/status/1024100213068156928",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 148529707,
+				"id_str": "148529707",
+				"name": "Robert Reich",
+				"screen_name": "RBReich",
+				"location": "Berkeley, CA",
+				"description": "Berkeley prof, former Sec. of Labor. Co-Founder @InequalityMedia. Latest Documentary: \"Saving Capitalism\" (Streaming on Netflix) Latest Book: \"The Common Good\"",
+				"url": "https://t.co/av1dQrY7Wj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/av1dQrY7Wj",
+								"expanded_url": "http://www.inequalitymedia.org",
+								"display_url": "inequalitymedia.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 595301,
+				"friends_count": 225,
+				"listed_count": 10481,
+				"created_at": "Wed May 26 23:17:10 +0000 2010",
+				"favourites_count": 672,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 8274,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/796103696106958848/D2c364z2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/796103696106958848/D2c364z2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/148529707/1515701574",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "E87F7F",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1024059769366175700,
+			"quoted_status_id_str": "1024059769366175746",
+			"quoted_status": {
+				"created_at": "Mon Jul 30 22:30:49 +0000 2018",
+				"id": 1024059769366175700,
+				"id_str": "1024059769366175746",
+				"text": "Koch-backed study finds ‘Medicare for All’ would save U.S. trillions https://t.co/0bM95blnVG https://t.co/x0gbRaJOch",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/0bM95blnVG",
+							"expanded_url": "http://bit.ly/2vl3bIe",
+							"display_url": "bit.ly/2vl3bIe",
+							"indices": [
+								69,
+								92
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 1024059767663157200,
+							"id_str": "1024059767663157248",
+							"indices": [
+								93,
+								116
+							],
+							"media_url": "http://pbs.twimg.com/media/DjYw7thU4AAQsXD.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DjYw7thU4AAQsXD.jpg",
+							"url": "https://t.co/x0gbRaJOch",
+							"display_url": "pic.twitter.com/x0gbRaJOch",
+							"expanded_url": "https://twitter.com/thinkprogress/status/1024059769366175746/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1024,
+									"h": 576,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1024,
+									"h": 576,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1024059767663157200,
+							"id_str": "1024059767663157248",
+							"indices": [
+								93,
+								116
+							],
+							"media_url": "http://pbs.twimg.com/media/DjYw7thU4AAQsXD.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DjYw7thU4AAQsXD.jpg",
+							"url": "https://t.co/x0gbRaJOch",
+							"display_url": "pic.twitter.com/x0gbRaJOch",
+							"expanded_url": "https://twitter.com/thinkprogress/status/1024059769366175746/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1024,
+									"h": 576,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1024,
+									"h": 576,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://trueanthem.com/\" rel=\"nofollow\">trueAnthem</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 55355654,
+					"id_str": "55355654",
+					"name": "ThinkProgress",
+					"screen_name": "thinkprogress",
+					"location": "Washington, D.C.",
+					"description": "Moving news forward since 2005.",
+					"url": "https://t.co/zvnMIuvszS",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/zvnMIuvszS",
+									"expanded_url": "http://www.thinkprogress.org",
+									"display_url": "thinkprogress.org",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 844229,
+					"friends_count": 881,
+					"listed_count": 14152,
+					"created_at": "Thu Jul 09 20:42:08 +0000 2009",
+					"favourites_count": 257,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 128768,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "E6EDED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/982066242122145792/2IXlRbSb_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/982066242122145792/2IXlRbSb_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/55355654/1522977798",
+					"profile_link_color": "000000",
+					"profile_sidebar_border_color": "EDEDED",
+					"profile_sidebar_fill_color": "D4D4D4",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 630,
+				"favorite_count": 937,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 6384,
+			"favorite_count": 11898,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1024059769366175700,
+		"quoted_status_id_str": "1024059769366175746",
+		"retweet_count": 6384,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 31 13:19:14 +0000 2018",
+		"id": 1024283344224309200,
+		"id_str": "1024283344224309248",
+		"text": "\"LeBron James often credits his bicycle as a huge factor in his childhood that gave him an escape from dangerous pa… https://t.co/822qerzdL2",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/822qerzdL2",
+					"expanded_url": "https://twitter.com/i/web/status/1024283344224309248",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 638,
+			"friends_count": 937,
+			"listed_count": 37,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5046,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6448,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 30 22:03:49 +0000 2018",
 		"id": 1024052975294144500,
 		"id_str": "1024052975294144512",
