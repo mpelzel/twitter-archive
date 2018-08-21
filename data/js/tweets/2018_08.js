@@ -1,6 +1,1236 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Mon Aug 20 16:14:00 +0000 2018",
+		"id": 1031575083616272400,
+		"id_str": "1031575083616272384",
+		"text": "RT @samplereality: My Intro to Digital Studies class is live: https://t.co/AUxg6z8T3a https://t.co/qqZMlWN2mb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "samplereality",
+					"name": "Mark Sample",
+					"id": 8497292,
+					"id_str": "8497292",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AUxg6z8T3a",
+					"expanded_url": "https://courses.digitaldavidson.net/dig101-2018/",
+					"display_url": "courses.digitaldavidson.net/dig101-2018/",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1031568757045391400,
+					"id_str": "1031568757045391361",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/DlDeUa0U8AE7h88.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DlDeUa0U8AE7h88.jpg",
+					"url": "https://t.co/qqZMlWN2mb",
+					"display_url": "pic.twitter.com/qqZMlWN2mb",
+					"expanded_url": "https://twitter.com/samplereality/status/1031568759918682113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 617,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 855,
+							"h": 943,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 855,
+							"h": 943,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1031568759918682100,
+					"source_status_id_str": "1031568759918682113",
+					"source_user_id": 8497292,
+					"source_user_id_str": "8497292"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1031568757045391400,
+					"id_str": "1031568757045391361",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/DlDeUa0U8AE7h88.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DlDeUa0U8AE7h88.jpg",
+					"url": "https://t.co/qqZMlWN2mb",
+					"display_url": "pic.twitter.com/qqZMlWN2mb",
+					"expanded_url": "https://twitter.com/samplereality/status/1031568759918682113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 617,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 855,
+							"h": 943,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 855,
+							"h": 943,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1031568759918682100,
+					"source_status_id_str": "1031568759918682113",
+					"source_user_id": 8497292,
+					"source_user_id_str": "8497292"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 644,
+			"friends_count": 952,
+			"listed_count": 37,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6542,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 20 15:48:52 +0000 2018",
+			"id": 1031568759918682100,
+			"id_str": "1031568759918682113",
+			"text": "My Intro to Digital Studies class is live: https://t.co/AUxg6z8T3a https://t.co/qqZMlWN2mb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AUxg6z8T3a",
+						"expanded_url": "https://courses.digitaldavidson.net/dig101-2018/",
+						"display_url": "courses.digitaldavidson.net/dig101-2018/",
+						"indices": [
+							43,
+							66
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1031568757045391400,
+						"id_str": "1031568757045391361",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/DlDeUa0U8AE7h88.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DlDeUa0U8AE7h88.jpg",
+						"url": "https://t.co/qqZMlWN2mb",
+						"display_url": "pic.twitter.com/qqZMlWN2mb",
+						"expanded_url": "https://twitter.com/samplereality/status/1031568759918682113/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 617,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 855,
+								"h": 943,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 855,
+								"h": 943,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1031568757045391400,
+						"id_str": "1031568757045391361",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/DlDeUa0U8AE7h88.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DlDeUa0U8AE7h88.jpg",
+						"url": "https://t.co/qqZMlWN2mb",
+						"display_url": "pic.twitter.com/qqZMlWN2mb",
+						"expanded_url": "https://twitter.com/samplereality/status/1031568759918682113/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 617,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 855,
+								"h": 943,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 855,
+								"h": 943,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8497292,
+				"id_str": "8497292",
+				"name": "Mark Sample",
+				"screen_name": "samplereality",
+				"location": "This Land Is Your Land",
+				"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+				"url": "https://t.co/oRy4nnx6c1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oRy4nnx6c1",
+								"expanded_url": "https://www.samplereality.com",
+								"display_url": "samplereality.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8580,
+				"friends_count": 1142,
+				"listed_count": 518,
+				"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+				"favourites_count": 1166,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 41042,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B3B3B3",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+				"profile_link_color": "236299",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Aug 20 14:15:40 +0000 2018",
+		"id": 1031545304041119700,
+		"id_str": "1031545304041119746",
+		"text": "RT @jayrosen_nyu: Marty Baron, editor of the Washington Post, in his recent joint interview with Dean Baquet for CNN. His observation is ex…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jayrosen_nyu",
+					"name": "Jay Rosen",
+					"id": 14834340,
+					"id_str": "14834340",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 644,
+			"friends_count": 952,
+			"listed_count": 37,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6542,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 20 13:44:46 +0000 2018",
+			"id": 1031537529986711600,
+			"id_str": "1031537529986711559",
+			"text": "Marty Baron, editor of the Washington Post, in his recent joint interview with Dean Baquet for CNN. His observation… https://t.co/7F0lRrZqbv",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7F0lRrZqbv",
+						"expanded_url": "https://twitter.com/i/web/status/1031537529986711559",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14834340,
+				"id_str": "14834340",
+				"name": "Jay Rosen",
+				"screen_name": "jayrosen_nyu",
+				"location": "New York City jr3@nyu.edu",
+				"description": "I teach journalism and direct the Studio 20 program at NYU, critique the press, direct @membershippzzle. 'Ambassador' for @decorrespondent's expansion to US.",
+				"url": "https://t.co/DB3C2ThOLr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DB3C2ThOLr",
+								"expanded_url": "http://pressthink.org/2016/12/winter-coming-prospects-american-press-trump/",
+								"display_url": "pressthink.org/2016/12/winter…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 234469,
+				"friends_count": 1252,
+				"listed_count": 12469,
+				"created_at": "Mon May 19 16:09:01 +0000 2008",
+				"favourites_count": 49,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 67891,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "718ECD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/846771016147898372/4njbzXG5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/846771016147898372/4njbzXG5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14834340/1485669845",
+				"profile_link_color": "1749B3",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 67,
+			"favorite_count": 132,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Aug 20 14:11:55 +0000 2018",
+		"id": 1031544359207018500,
+		"id_str": "1031544359207018497",
+		"text": "RT @GibsonWrites: One huge, long-term issue: seminary education, the whole self-enclosed seminary system. It's going to have to change, I s…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GibsonWrites",
+					"name": "David Gibson",
+					"id": 54942492,
+					"id_str": "54942492",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 644,
+			"friends_count": 952,
+			"listed_count": 37,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6542,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 20 13:29:15 +0000 2018",
+			"id": 1031533622417866800,
+			"id_str": "1031533622417866754",
+			"text": "One huge, long-term issue: seminary education, the whole self-enclosed seminary system. It's going to have to chang… https://t.co/MlC3TdS9j2",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MlC3TdS9j2",
+						"expanded_url": "https://twitter.com/i/web/status/1031533622417866754",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 54942492,
+				"id_str": "54942492",
+				"name": "David Gibson",
+				"screen_name": "GibsonWrites",
+				"location": "New York",
+				"description": "Director of Fordham's Center on Religion & Culture. Catholic convert. Vatican veteran. Alliteration addict. *Religious but not spiritual*",
+				"url": "https://t.co/rwjvAvMYN2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rwjvAvMYN2",
+								"expanded_url": "http://www.religionnews.com/index.php?/gibson/",
+								"display_url": "religionnews.com/index.php?/gib…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9119,
+				"friends_count": 646,
+				"listed_count": 380,
+				"created_at": "Wed Jul 08 16:17:53 +0000 2009",
+				"favourites_count": 2573,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 41664,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1012384006040678400/71lcBaMM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012384006040678400/71lcBaMM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54942492/1485131816",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1031528639119196200,
+			"quoted_status_id_str": "1031528639119196160",
+			"quoted_status": {
+				"created_at": "Mon Aug 20 13:09:27 +0000 2018",
+				"id": 1031528639119196200,
+				"id_str": "1031528639119196160",
+				"text": "Letter from Pope Francis on child sexual abuse is long on sorrow, short on solutions. Text here:  https://t.co/8GjeCSuoH7",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/8GjeCSuoH7",
+							"expanded_url": "https://www.vaticannews.va/en/pope/news/2018-08/pope-francis-letter-people-of-god-sexual-abuse.html#.W3q82Jg4Y51.twitter",
+							"display_url": "vaticannews.va/en/pope/news/2…",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 460408325,
+					"id_str": "460408325",
+					"name": "Laurie Goodstein",
+					"screen_name": "lauriegnyt",
+					"location": "",
+					"description": "New York Times National Religion Correspondent. Because we need to know how religion impacts news, politics, culture, everything. \nhttps://t.co/WRWUcN9F4V",
+					"url": "https://t.co/XL7GPTKDCN",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/XL7GPTKDCN",
+									"expanded_url": "http://www.nytimes.com/",
+									"display_url": "nytimes.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/WRWUcN9F4V",
+									"expanded_url": "http://nyti.ms/2FLjgOx",
+									"display_url": "nyti.ms/2FLjgOx",
+									"indices": [
+										131,
+										154
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 16649,
+					"friends_count": 1531,
+					"listed_count": 591,
+					"created_at": "Tue Jan 10 18:40:28 +0000 2012",
+					"favourites_count": 7980,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 7791,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/660084404606386176/VLUKXJi-_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/660084404606386176/VLUKXJi-_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/460408325/1470265918",
+					"profile_link_color": "3B94D9",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 20,
+				"favorite_count": 29,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 10,
+			"favorite_count": 35,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1031528639119196200,
+		"quoted_status_id_str": "1031528639119196160",
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Aug 20 01:31:27 +0000 2018",
+		"id": 1031352982745612300,
+		"id_str": "1031352982745612288",
+		"text": "RT @clauersen: #librariesmatter ❤️📚👊 https://t.co/chfANjSyjP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "librariesmatter",
+					"indices": [
+						15,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clauersen",
+					"name": "Christian Lauersen",
+					"id": 773795797,
+					"id_str": "773795797",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/chfANjSyjP",
+					"expanded_url": "https://twitter.com/good/status/1029091478436556801",
+					"display_url": "twitter.com/good/status/10…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 644,
+			"friends_count": 952,
+			"listed_count": 37,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6542,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 16 12:13:34 +0000 2018",
+			"id": 1030065027435429900,
+			"id_str": "1030065027435429889",
+			"text": "#librariesmatter ❤️📚👊 https://t.co/chfANjSyjP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "librariesmatter",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/chfANjSyjP",
+						"expanded_url": "https://twitter.com/good/status/1029091478436556801",
+						"display_url": "twitter.com/good/status/10…",
+						"indices": [
+							22,
+							45
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 773795797,
+				"id_str": "773795797",
+				"name": "Christian Lauersen",
+				"screen_name": "clauersen",
+				"location": "Copenhagen",
+				"description": "Library director at Roskilde University and #UCPH Social Sciences. Maker of Digital Social Science Lab. LEGO aficionado. Own views. Insta: librarylovestories",
+				"url": "https://t.co/onCt7lXgZ1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/onCt7lXgZ1",
+								"expanded_url": "http://christianlauersen.net/",
+								"display_url": "christianlauersen.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2981,
+				"friends_count": 652,
+				"listed_count": 312,
+				"created_at": "Wed Aug 22 14:28:21 +0000 2012",
+				"favourites_count": 13603,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15799,
+				"lang": "da",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCEBB6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/763738493847740416/DDWHjL5J_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/763738493847740416/DDWHjL5J_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/773795797/1423469908",
+				"profile_link_color": "CE7834",
+				"profile_sidebar_border_color": "F0A830",
+				"profile_sidebar_fill_color": "78C0A8",
+				"profile_text_color": "5E412F",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1029091478436556800,
+			"quoted_status_id_str": "1029091478436556801",
+			"quoted_status": {
+				"created_at": "Mon Aug 13 19:45:02 +0000 2018",
+				"id": 1029091478436556800,
+				"id_str": "1029091478436556801",
+				"text": "Man falsely imprisoned for 10 years, uses prison library to study law and have his conviction overturned. Becomes a… https://t.co/9M5CbzPz4x",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/9M5CbzPz4x",
+							"expanded_url": "https://twitter.com/i/web/status/1029091478436556801",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 19621110,
+					"id_str": "19621110",
+					"name": "GOOD",
+					"screen_name": "good",
+					"location": "Los Angeles, CA",
+					"description": "Understand the world so you can improve it. Since 2006 and still pushing.",
+					"url": "http://t.co/B2IlfCvK5b",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/B2IlfCvK5b",
+									"expanded_url": "http://www.good.is",
+									"display_url": "good.is",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 896359,
+					"friends_count": 1278,
+					"listed_count": 21293,
+					"created_at": "Tue Jan 27 22:24:55 +0000 2009",
+					"favourites_count": 6293,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 44300,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "131516",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/839881982574108672/qN7BVlr4_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/839881982574108672/qN7BVlr4_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/19621110/1494949518",
+					"profile_link_color": "1892F0",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "FFFFFF",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 22830,
+				"favorite_count": 49729,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 25,
+			"favorite_count": 56,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1029091478436556800,
+		"quoted_status_id_str": "1029091478436556801",
+		"retweet_count": 25,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sun Aug 19 19:18:07 +0000 2018",
 		"id": 1031259030914834400,
 		"id_str": "1031259030914834432",
