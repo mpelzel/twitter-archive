@@ -1,6 +1,1634 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Mon Sep 17 22:27:27 +0000 2018",
+		"id": 1041815925920546800,
+		"id_str": "1041815925920546818",
+		"text": "Sounds cool ... wonder if any @GrinnellCollege peeps will be going? #PoetrySlam https://t.co/4BFfrseYaj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PoetrySlam",
+					"indices": [
+						68,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GrinnellCollege",
+					"name": "Grinnell College",
+					"id": 17652635,
+					"id_str": "17652635",
+					"indices": [
+						30,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4BFfrseYaj",
+					"expanded_url": "https://twitter.com/HandonthePlow/status/1041815158866235392",
+					"display_url": "twitter.com/HandonthePlow/…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | Texan | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 647,
+			"friends_count": 993,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5507,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1041815158866235400,
+		"quoted_status_id_str": "1041815158866235392",
+		"quoted_status": {
+			"created_at": "Mon Sep 17 22:24:24 +0000 2018",
+			"id": 1041815158866235400,
+			"id_str": "1041815158866235392",
+			"text": "Yo! If there are any @GracelandU students interested in going to the DSM Slam with our Poetry and Social Justice cl… https://t.co/3uxz1brRNt",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GracelandU",
+						"name": "Graceland University",
+						"id": 110816023,
+						"id_str": "110816023",
+						"indices": [
+							21,
+							32
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/3uxz1brRNt",
+						"expanded_url": "https://twitter.com/i/web/status/1041815158866235392",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 568301966,
+				"id_str": "568301966",
+				"name": "Tim Robbins",
+				"screen_name": "HandonthePlow",
+				"location": "Iowa, USA",
+				"description": "assistant english prof writing about, teaching #c19 lit, #opened, #antiracism; ed. @rebuscommunity Open Anthology Early Am Lit. avi's my son organizing daycare.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 971,
+				"friends_count": 1560,
+				"listed_count": 26,
+				"created_at": "Tue May 01 15:35:01 +0000 2012",
+				"favourites_count": 26598,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1138,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/984608815453786113/KyrXPfWm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/984608815453786113/KyrXPfWm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/568301966/1526875382",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1040701581828730900,
+			"quoted_status_id_str": "1040701581828730882",
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Sep 17 20:38:56 +0000 2018",
+		"id": 1041788616199073800,
+		"id_str": "1041788616199073794",
+		"text": "Just discovered that REL 220, Traditions of Islam, with @EGSaba_IA of @GrinnellCollege, is using Twitter in their c… https://t.co/yXzfjdUwig",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EGSaba_IA",
+					"name": "Elias",
+					"id": 16225887,
+					"id_str": "16225887",
+					"indices": [
+						56,
+						66
+					]
+				},
+				{
+					"screen_name": "GrinnellCollege",
+					"name": "Grinnell College",
+					"id": 17652635,
+					"id_str": "17652635",
+					"indices": [
+						70,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yXzfjdUwig",
+					"expanded_url": "https://twitter.com/i/web/status/1041788616199073794",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | Texan | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 647,
+			"friends_count": 993,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5507,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1035585692259237900,
+		"quoted_status_id_str": "1035585692259237888",
+		"quoted_status": {
+			"created_at": "Fri Aug 31 17:50:43 +0000 2018",
+			"id": 1035585692259237900,
+			"id_str": "1035585692259237888",
+			"text": "Getting ready to start our first class. We'll be tweeting throughout the semester about our readings, discussions,… https://t.co/lV9fPqFBcJ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lV9fPqFBcJ",
+						"expanded_url": "https://twitter.com/i/web/status/1035585692259237888",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 993532768104714200,
+				"id_str": "993532768104714240",
+				"name": "Traditions of Islam",
+				"screen_name": "TraditionsIslam",
+				"location": "Grinnell, IA",
+				"description": "Twitter account for REL 220 - Traditions of Islam at Grinnell College. Taught by @EGSaba_IA",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38,
+				"friends_count": 78,
+				"listed_count": 0,
+				"created_at": "Mon May 07 16:47:25 +0000 2018",
+				"favourites_count": 18,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1036667676825808896/N4zIE0AG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1036667676825808896/N4zIE0AG_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Sep 17 14:14:59 +0000 2018",
+		"id": 1041691993678721000,
+		"id_str": "1041691993678721024",
+		"text": "RT @GrinnellCIEL: Excited to welcome @emorycraig from @DigitalBodies this week to @GrinnellCollege for the GCIEL Speaker Series (https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GrinnellCIEL",
+					"name": "Grinnell College Immersive Experiences Lab (GCIEL)",
+					"id": 950748055233540100,
+					"id_str": "950748055233540102",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "emorycraig",
+					"name": "Emory Craig",
+					"id": 316096481,
+					"id_str": "316096481",
+					"indices": [
+						37,
+						48
+					]
+				},
+				{
+					"screen_name": "DigitalBodies",
+					"name": "Digital Bodies",
+					"id": 3174079078,
+					"id_str": "3174079078",
+					"indices": [
+						54,
+						68
+					]
+				},
+				{
+					"screen_name": "GrinnellCollege",
+					"name": "Grinnell College",
+					"id": 17652635,
+					"id_str": "17652635",
+					"indices": [
+						82,
+						98
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | Texan | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 647,
+			"friends_count": 993,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5507,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 17 14:12:51 +0000 2018",
+			"id": 1041691456258404400,
+			"id_str": "1041691456258404353",
+			"text": "Excited to welcome @emorycraig from @DigitalBodies this week to @GrinnellCollege for the GCIEL Speaker Series (… https://t.co/uFNzowL5LY",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "emorycraig",
+						"name": "Emory Craig",
+						"id": 316096481,
+						"id_str": "316096481",
+						"indices": [
+							19,
+							30
+						]
+					},
+					{
+						"screen_name": "DigitalBodies",
+						"name": "Digital Bodies",
+						"id": 3174079078,
+						"id_str": "3174079078",
+						"indices": [
+							36,
+							50
+						]
+					},
+					{
+						"screen_name": "GrinnellCollege",
+						"name": "Grinnell College",
+						"id": 17652635,
+						"id_str": "17652635",
+						"indices": [
+							64,
+							80
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/uFNzowL5LY",
+						"expanded_url": "https://twitter.com/i/web/status/1041691456258404353",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 950748055233540100,
+				"id_str": "950748055233540102",
+				"name": "Grinnell College Immersive Experiences Lab (GCIEL)",
+				"screen_name": "GrinnellCIEL",
+				"location": "Grinnell, IA",
+				"description": "Exploring new ways to approach the liberal arts @GrinnellCollege through 3D, VR, and AR technologies. Tweets by #GCIEL students, faculty, and @doktorfrag.",
+				"url": "https://t.co/azx7VVrUyj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/azx7VVrUyj",
+								"expanded_url": "http://gciel.sites.grinnell.edu",
+								"display_url": "gciel.sites.grinnell.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 77,
+				"friends_count": 109,
+				"listed_count": 1,
+				"created_at": "Tue Jan 09 15:16:15 +0000 2018",
+				"favourites_count": 289,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 330,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950761846713143297/t1yZqMXr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950761846713143297/t1yZqMXr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/950748055233540102/1516897180",
+				"profile_link_color": "E03C2B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Sep 17 14:01:48 +0000 2018",
+		"id": 1041688673358684200,
+		"id_str": "1041688673358684160",
+		"text": "RT @annashechtman: Escape this SICK SAD WORLD for a bit: try my latest @NewYorker puzzle. It’s a good one! https://t.co/OF0wvyF5Gu https://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "annashechtman",
+					"name": "anna shechtman",
+					"id": 1206982374,
+					"id_str": "1206982374",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "NewYorker",
+					"name": "The New Yorker",
+					"id": 14677919,
+					"id_str": "14677919",
+					"indices": [
+						71,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OF0wvyF5Gu",
+					"expanded_url": "https://www.newyorker.com/crossword/puzzles-dept/2018/09/17",
+					"display_url": "newyorker.com/crossword/puzz…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | Texan | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 647,
+			"friends_count": 993,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5507,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 17 13:56:39 +0000 2018",
+			"id": 1041687378992279600,
+			"id_str": "1041687378992279558",
+			"text": "Escape this SICK SAD WORLD for a bit: try my latest @NewYorker puzzle. It’s a good one! https://t.co/OF0wvyF5Gu https://t.co/opwQ7TNQg9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NewYorker",
+						"name": "The New Yorker",
+						"id": 14677919,
+						"id_str": "14677919",
+						"indices": [
+							52,
+							62
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/OF0wvyF5Gu",
+						"expanded_url": "https://www.newyorker.com/crossword/puzzles-dept/2018/09/17",
+						"display_url": "newyorker.com/crossword/puzz…",
+						"indices": [
+							88,
+							111
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1041687375334780900,
+						"id_str": "1041687375334780928",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/DnTRJhXWsAAqnAP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DnTRJhXWsAAqnAP.jpg",
+						"url": "https://t.co/opwQ7TNQg9",
+						"display_url": "pic.twitter.com/opwQ7TNQg9",
+						"expanded_url": "https://twitter.com/annashechtman/status/1041687378992279558/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1041687375334780900,
+						"id_str": "1041687375334780928",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/DnTRJhXWsAAqnAP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DnTRJhXWsAAqnAP.jpg",
+						"url": "https://t.co/opwQ7TNQg9",
+						"display_url": "pic.twitter.com/opwQ7TNQg9",
+						"expanded_url": "https://twitter.com/annashechtman/status/1041687378992279558/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1206982374,
+				"id_str": "1206982374",
+				"name": "anna shechtman",
+				"screen_name": "annashechtman",
+				"location": "",
+				"description": "PhD candidate @yale  — cruciverbalist @newyorker — film editor @lareviewofbooks",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 885,
+				"friends_count": 607,
+				"listed_count": 9,
+				"created_at": "Fri Feb 22 06:12:10 +0000 2013",
+				"favourites_count": 953,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 269,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/990934105498976256/5H_ib-AI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/990934105498976256/5H_ib-AI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1206982374/1525092761",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Sep 17 01:14:25 +0000 2018",
+		"id": 1041495557263515600,
+		"id_str": "1041495557263515648",
+		"text": "RT @GeneforTexas: Hello. \n\nThis is violation of the Texas Deceptive Trade Practices Act (DTPA).\n\nI know, because I passed this law in 2015.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeneforTexas",
+					"name": "Gene Wu",
+					"id": 438529528,
+					"id_str": "438529528",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | Texan | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 647,
+			"friends_count": 993,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5507,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 16 23:36:54 +0000 2018",
+			"id": 1041471016231493600,
+			"id_str": "1041471016231493632",
+			"text": "Hello. \n\nThis is violation of the Texas Deceptive Trade Practices Act (DTPA).\n\nI know, because I passed this law in… https://t.co/HgxLtELclk",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HgxLtELclk",
+						"expanded_url": "https://twitter.com/i/web/status/1041471016231493632",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 438529528,
+				"id_str": "438529528",
+				"name": "Gene Wu",
+				"screen_name": "GeneforTexas",
+				"location": "Houston, Texas",
+				"description": "Texas State Representative - District 137, Southwest Houston. Dad to Winston & Lyndon, Husband to @MiyaShay, Attorney, & Volunteer.",
+				"url": "http://t.co/zsAV1TgZTu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/zsAV1TgZTu",
+								"expanded_url": "http://genefortexas.com",
+								"display_url": "genefortexas.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11120,
+				"friends_count": 69,
+				"listed_count": 361,
+				"created_at": "Fri Dec 16 18:04:16 +0000 2011",
+				"favourites_count": 1234,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15647,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/767904118828478464/_4Up71E__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/767904118828478464/_4Up71E__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/438529528/1358347015",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1041466776444383200,
+			"quoted_status_id_str": "1041466776444383232",
+			"quoted_status": {
+				"created_at": "Sun Sep 16 23:20:03 +0000 2018",
+				"id": 1041466776444383200,
+				"id_str": "1041466776444383232",
+				"text": "NEW: The Ted Cruz campaign is mailing out donation requests disguised as legal summonses, confusing some Texas vote… https://t.co/skH7KNEEFm",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/skH7KNEEFm",
+							"expanded_url": "https://twitter.com/i/web/status/1041466776444383232",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2884771,
+					"id_str": "2884771",
+					"name": "Newsweek",
+					"screen_name": "Newsweek",
+					"location": "New York, NY",
+					"description": "Stay relevant. News and analysis on politics, science, technology, and culture. Our staff likes to tweet: https://t.co/9nAK2YjGoz",
+					"url": "https://t.co/92gD7evE72",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/92gD7evE72",
+									"expanded_url": "http://www.newsweek.com",
+									"display_url": "newsweek.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/9nAK2YjGoz",
+									"expanded_url": "https://twitter.com/Newsweek/lists/newsweek-editorial",
+									"display_url": "twitter.com/Newsweek/lists…",
+									"indices": [
+										106,
+										129
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 3284049,
+					"friends_count": 204,
+					"listed_count": 37715,
+					"created_at": "Thu Mar 29 19:51:11 +0000 2007",
+					"favourites_count": 2744,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 164833,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "EE2A26",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/741603495929905152/di0NxkFa_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/741603495929905152/di0NxkFa_normal.jpg",
+					"profile_link_color": "990000",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "F2F2F2",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2029,
+				"favorite_count": 1750,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 30605,
+			"favorite_count": 67686,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1041466776444383200,
+		"quoted_status_id_str": "1041466776444383232",
+		"retweet_count": 30605,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Sep 17 01:10:05 +0000 2018",
+		"id": 1041494465381318700,
+		"id_str": "1041494465381318656",
+		"text": "RT @cwellmon: The moral reasoning from the Princeton paragon here is, uh, pitiful... https://t.co/tTPLtkxQUC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cwellmon",
+					"name": "chad wellmon",
+					"id": 49507898,
+					"id_str": "49507898",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tTPLtkxQUC",
+					"expanded_url": "https://twitter.com/mccormickprof/status/1041342410251485185",
+					"display_url": "twitter.com/mccormickprof/…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | Texan | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 647,
+			"friends_count": 993,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5507,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 17 00:18:13 +0000 2018",
+			"id": 1041481414326333400,
+			"id_str": "1041481414326333440",
+			"text": "The moral reasoning from the Princeton paragon here is, uh, pitiful... https://t.co/tTPLtkxQUC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tTPLtkxQUC",
+						"expanded_url": "https://twitter.com/mccormickprof/status/1041342410251485185",
+						"display_url": "twitter.com/mccormickprof/…",
+						"indices": [
+							71,
+							94
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 49507898,
+				"id_str": "49507898",
+				"name": "chad wellmon",
+				"screen_name": "cwellmon",
+				"location": "",
+				"description": "teaches and writes on German literature and philosophy and the history of technology and education at the University of Virginia",
+				"url": "http://t.co/wIdIGWcUBF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/wIdIGWcUBF",
+								"expanded_url": "http://chadwellmon.com",
+								"display_url": "chadwellmon.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1399,
+				"friends_count": 273,
+				"listed_count": 38,
+				"created_at": "Mon Jun 22 02:27:26 +0000 2009",
+				"favourites_count": 1868,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6751,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/663889082972434432/XcRr-muI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/663889082972434432/XcRr-muI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/49507898/1447119604",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1041342410251485200,
+			"quoted_status_id_str": "1041342410251485185",
+			"quoted_status": {
+				"created_at": "Sun Sep 16 15:05:52 +0000 2018",
+				"id": 1041342410251485200,
+				"id_str": "1041342410251485185",
+				"text": "When Juanita Broaddrick stepped forward and bravely told the story of what Bill Clinton had done to her--and what H… https://t.co/6PgoO6ybVr",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/6PgoO6ybVr",
+							"expanded_url": "https://twitter.com/i/web/status/1041342410251485185",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1969097227,
+					"id_str": "1969097227",
+					"name": "Robert P. George",
+					"screen_name": "McCormickProf",
+					"location": "",
+					"description": "Princeton Prof + former Chairman, U.S. Commission on Int. Religious Freedom + Bluegrass Banjo Picker + Co-author: What is Marriage? Man and Woman: A Defense",
+					"url": "https://t.co/0xX2KKGzH0",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/0xX2KKGzH0",
+									"expanded_url": "http://contemporarythinkers.org/robert-george/",
+									"display_url": "contemporarythinkers.org/robert-george/",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 34558,
+					"friends_count": 110,
+					"listed_count": 593,
+					"created_at": "Fri Oct 18 15:19:42 +0000 2013",
+					"favourites_count": 1438,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 4877,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/692106716893175808/S7txIucA_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/692106716893175808/S7txIucA_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1969097227/1489700176",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 905,
+				"favorite_count": 2241,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1041342410251485200,
+		"quoted_status_id_str": "1041342410251485185",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 16 14:49:07 +0000 2018",
 		"id": 1041338197102526500,
 		"id_str": "1041338197102526469",
