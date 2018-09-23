@@ -1,6 +1,1194 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Sat Sep 22 15:55:50 +0000 2018",
+		"id": 1043529313717563400,
+		"id_str": "1043529313717563393",
+		"text": "RT @NWSDesMoines: Fall begins today! \nOfficially it begins at 8:54 p.m. CT tonight. Perfect fall weather today! \n#FirstDayofFall https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FirstDayofFall",
+					"indices": [
+						113,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NWSDesMoines",
+					"name": "NWS Des Moines",
+					"id": 601283082,
+					"id_str": "601283082",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | Texan | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 650,
+			"friends_count": 997,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6796,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 22 12:29:06 +0000 2018",
+			"id": 1043477285985312800,
+			"id_str": "1043477285985312768",
+			"text": "Fall begins today! \nOfficially it begins at 8:54 p.m. CT tonight. Perfect fall weather today! \n#FirstDayofFall https://t.co/SEWlLdxPDp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FirstDayofFall",
+						"indices": [
+							95,
+							110
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1043475748684750800,
+						"id_str": "1043475748684750848",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/DnsrqjQW4AA39wG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DnsrqjQW4AA39wG.jpg",
+						"url": "https://t.co/SEWlLdxPDp",
+						"display_url": "pic.twitter.com/SEWlLdxPDp",
+						"expanded_url": "https://twitter.com/NWSDesMoines/status/1043477285985312768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1043475748684750800,
+						"id_str": "1043475748684750848",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/DnsrqjQW4AA39wG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DnsrqjQW4AA39wG.jpg",
+						"url": "https://t.co/SEWlLdxPDp",
+						"display_url": "pic.twitter.com/SEWlLdxPDp",
+						"expanded_url": "https://twitter.com/NWSDesMoines/status/1043477285985312768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 601283082,
+				"id_str": "601283082",
+				"name": "NWS Des Moines",
+				"screen_name": "NWSDesMoines",
+				"location": "Johnston, Iowa",
+				"description": "Official Twitter account for the National Weather Service Des Moines. Details: http://t.co/KKTK7cZlhK.",
+				"url": "http://t.co/x7FasNkgS6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/x7FasNkgS6",
+								"expanded_url": "http://weather.gov/desmoines",
+								"display_url": "weather.gov/desmoines",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/KKTK7cZlhK",
+								"expanded_url": "http://weather.gov/twitter",
+								"display_url": "weather.gov/twitter",
+								"indices": [
+									79,
+									101
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 22241,
+				"friends_count": 708,
+				"listed_count": 594,
+				"created_at": "Wed Jun 06 18:53:19 +0000 2012",
+				"favourites_count": 9062,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22156,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877037326286954496/1cz62iOr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877037326286954496/1cz62iOr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/601283082/1522720599",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 63,
+			"favorite_count": 132,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Sep 22 15:51:39 +0000 2018",
+		"id": 1043528259584045000,
+		"id_str": "1043528259584045056",
+		"text": "RT @MJGerson: How in the world can the Cruz campaign view this as an attack on O'Rourke? What assumption does this make about Texas voters?…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MJGerson",
+					"name": "Michael Gerson",
+					"id": 21394764,
+					"id_str": "21394764",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | Texan | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 650,
+			"friends_count": 997,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6796,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 22 13:24:59 +0000 2018",
+			"id": 1043491348119208000,
+			"id_str": "1043491348119207936",
+			"text": "How in the world can the Cruz campaign view this as an attack on O'Rourke? What assumption does this make about Tex… https://t.co/AGcg9BeGta",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AGcg9BeGta",
+						"expanded_url": "https://twitter.com/i/web/status/1043491348119207936",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21394764,
+				"id_str": "21394764",
+				"name": "Michael Gerson",
+				"screen_name": "MJGerson",
+				"location": "Washington, DC",
+				"description": "Syndicated columnist, in Washington Post on Tuesdays and Fridays. Focus on politics, culture, global health, religion, foreign policy.",
+				"url": "https://t.co/YGDLMNx9hi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YGDLMNx9hi",
+								"expanded_url": "http://www.washingtonpost.com/wp-dyn/content/linkset/2007/09/26/LI2007092601982.html",
+								"display_url": "washingtonpost.com/wp-dyn/content…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 49443,
+				"friends_count": 283,
+				"listed_count": 1331,
+				"created_at": "Fri Feb 20 13:07:34 +0000 2009",
+				"favourites_count": 50,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6887,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823128923630276608/YdtBwQnb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823128923630276608/YdtBwQnb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21394764/1485084170",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1043278255740973000,
+			"quoted_status_id_str": "1043278255740973058",
+			"quoted_status": {
+				"created_at": "Fri Sep 21 23:18:13 +0000 2018",
+				"id": 1043278255740973000,
+				"id_str": "1043278255740973058",
+				"text": "In Beto O'Rourke's own words #TXSenateDebate https://t.co/uUzW7DSqgo",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "TXSenateDebate",
+							"indices": [
+								29,
+								44
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 1043277874529103900,
+							"id_str": "1043277874529103872",
+							"indices": [
+								45,
+								68
+							],
+							"media_url": "http://pbs.twimg.com/media/Dnp35RMU0AE6_GX.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Dnp35RMU0AE6_GX.jpg",
+							"url": "https://t.co/uUzW7DSqgo",
+							"display_url": "pic.twitter.com/uUzW7DSqgo",
+							"expanded_url": "https://twitter.com/tedcruz/status/1043278255740973058/video/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1280,
+									"h": 720,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1043277874529103900,
+							"id_str": "1043277874529103872",
+							"indices": [
+								45,
+								68
+							],
+							"media_url": "http://pbs.twimg.com/media/Dnp35RMU0AE6_GX.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Dnp35RMU0AE6_GX.jpg",
+							"url": "https://t.co/uUzW7DSqgo",
+							"display_url": "pic.twitter.com/uUzW7DSqgo",
+							"expanded_url": "https://twitter.com/tedcruz/status/1043278255740973058/video/1",
+							"type": "video",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1280,
+									"h": 720,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									16,
+									9
+								],
+								"duration_millis": 59267,
+								"variants": [
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/amplify_video/1043277874529103872/pl/NBB3-XT8lt25BSRi.m3u8?tag=8"
+									},
+									{
+										"bitrate": 288000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/1043277874529103872/vid/320x180/NTcOpzA9_4IKnvrl.mp4?tag=8"
+									},
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/1043277874529103872/vid/640x360/H2lFca2FpBFj2kbQ.mp4?tag=8"
+									},
+									{
+										"bitrate": 2176000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/1043277874529103872/vid/1280x720/jRgqg59MaafBhyiG.mp4?tag=8"
+									}
+								]
+							},
+							"additional_media_info": {
+								"title": "",
+								"description": "",
+								"embeddable": true,
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 23022687,
+					"id_str": "23022687",
+					"name": "Ted Cruz",
+					"screen_name": "tedcruz",
+					"location": "Houston, Texas",
+					"description": "Father of two, @heidiscruz's husband, fighter for liberty. Representing the great state of Texas in the U.S. Senate.",
+					"url": "https://t.co/dJ4Q3979gw",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/dJ4Q3979gw",
+									"expanded_url": "http://www.tedcruz.org",
+									"display_url": "tedcruz.org",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3214063,
+					"friends_count": 6499,
+					"listed_count": 11871,
+					"created_at": "Fri Mar 06 03:20:20 +0000 2009",
+					"favourites_count": 1312,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 22049,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "131516",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/727845526805188614/Becds2yE_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/727845526805188614/Becds2yE_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/23022687/1529028227",
+					"profile_link_color": "009999",
+					"profile_sidebar_border_color": "EEEEEE",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 10356,
+				"favorite_count": 28652,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1917,
+			"favorite_count": 8992,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1043278255740973000,
+		"quoted_status_id_str": "1043278255740973058",
+		"retweet_count": 1917,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Sep 22 15:38:22 +0000 2018",
+		"id": 1043524917650702300,
+		"id_str": "1043524917650702336",
+		"text": "RT @SarahJPurcell: If you’re not following the righteously rage-filled #tweetstorm by @ErikTheSimpson against @ChuckGrassley this morning,…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tweetstorm",
+					"indices": [
+						71,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarahJPurcell",
+					"name": "Sarah J. Purcell",
+					"id": 386185407,
+					"id_str": "386185407",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "ErikTheSimpson",
+					"name": "Erik Simpson",
+					"id": 276676907,
+					"id_str": "276676907",
+					"indices": [
+						86,
+						101
+					]
+				},
+				{
+					"screen_name": "ChuckGrassley",
+					"name": "ChuckGrassley",
+					"id": 10615232,
+					"id_str": "10615232",
+					"indices": [
+						110,
+						124
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | Texan | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 650,
+			"friends_count": 997,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6796,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 22 15:12:38 +0000 2018",
+			"id": 1043518442421329900,
+			"id_str": "1043518442421329921",
+			"text": "If you’re not following the righteously rage-filled #tweetstorm by @ErikTheSimpson against @ChuckGrassley this morn… https://t.co/H4iqud14rU",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tweetstorm",
+						"indices": [
+							52,
+							63
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ErikTheSimpson",
+						"name": "Erik Simpson",
+						"id": 276676907,
+						"id_str": "276676907",
+						"indices": [
+							67,
+							82
+						]
+					},
+					{
+						"screen_name": "ChuckGrassley",
+						"name": "ChuckGrassley",
+						"id": 10615232,
+						"id_str": "10615232",
+						"indices": [
+							91,
+							105
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/H4iqud14rU",
+						"expanded_url": "https://twitter.com/i/web/status/1043518442421329921",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 386185407,
+				"id_str": "386185407",
+				"name": "Sarah J. Purcell",
+				"screen_name": "SarahJPurcell",
+				"location": "Grinnell, IA",
+				"description": "Historian. Teacher. Writer. Amateur baker. Far too many meetings...",
+				"url": "https://t.co/3argZ5h0p5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3argZ5h0p5",
+								"expanded_url": "http://www.grinnell.edu/users/purcelsj#profile-person",
+								"display_url": "grinnell.edu/users/purcelsj…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1929,
+				"friends_count": 2850,
+				"listed_count": 111,
+				"created_at": "Thu Oct 06 20:20:16 +0000 2011",
+				"favourites_count": 8525,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16174,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/899711966133927936/dYax2mPk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/899711966133927936/dYax2mPk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/386185407/1398354374",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1043509199492264000,
+			"quoted_status_id_str": "1043509199492263937",
+			"quoted_status": {
+				"created_at": "Sat Sep 22 14:35:55 +0000 2018",
+				"id": 1043509199492264000,
+				"id_str": "1043509199492263937",
+				"text": "It’s the loss of this power to brush aside women’s pain that is driving @ChuckGrassley—who was on the committee the… https://t.co/79K4vqpqT3",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "ChuckGrassley",
+							"name": "ChuckGrassley",
+							"id": 10615232,
+							"id_str": "10615232",
+							"indices": [
+								72,
+								86
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/79K4vqpqT3",
+							"expanded_url": "https://twitter.com/i/web/status/1043509199492263937",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 276676907,
+					"id_str": "276676907",
+					"name": "Erik Simpson",
+					"screen_name": "ErikTheSimpson",
+					"location": "Grinnell, IA",
+					"description": "English professor, saxophonist, digital humanist. This feed may contain implicit language.",
+					"url": "http://t.co/hcwiHQAvkR",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/hcwiHQAvkR",
+									"expanded_url": "http://www.math.grinnell.edu/~simpsone/",
+									"display_url": "math.grinnell.edu/~simpsone/",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 458,
+					"friends_count": 424,
+					"listed_count": 18,
+					"created_at": "Sun Apr 03 21:18:36 +0000 2011",
+					"favourites_count": 659,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 2024,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "EBEBEB",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1040326986894327808/WhsdMvjK_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040326986894327808/WhsdMvjK_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/276676907/1474752215",
+					"profile_link_color": "990000",
+					"profile_sidebar_border_color": "DFDFDF",
+					"profile_sidebar_fill_color": "F3F3F3",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 1043505927159275500,
+				"quoted_status_id_str": "1043505927159275521",
+				"retweet_count": 0,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1043509199492264000,
+		"quoted_status_id_str": "1043509199492263937",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Sep 22 01:01:33 +0000 2018",
+		"id": 1043304260312752100,
+		"id_str": "1043304260312752128",
+		"text": "It's Friday night...and my Twitter TL swells with reports of high school football #FridayNightLights",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FridayNightLights",
+					"indices": [
+						82,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | Texan | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 650,
+			"friends_count": 997,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6796,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 21 22:06:18 +0000 2018",
 		"id": 1043260153515176000,
 		"id_str": "1043260153515175943",
@@ -1148,7 +2336,7 @@ Grailbird.data.tweets_2018_09 =
 				"name": "Austin Frerick",
 				"screen_name": "AustinFrerick",
 				"location": "Iowa, USA",
-				"description": "Fellow at @OpenMarkets. Heroes: Jane Addams, Grandpa Frerick, RuPaul, & Louis Brandeis. 🌽🏳️‍🌈 #iowaAF",
+				"description": "Fellow at @OpenMarkets. Heroes: Jane Addams, Grandpa Frerick, RuPaul, & Louis Brandeis. 🌽🏳️🌈 #iowaAF",
 				"url": "https://t.co/g7FWHJ9lSp",
 				"entities": {
 					"url": {
