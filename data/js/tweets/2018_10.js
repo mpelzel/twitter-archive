@@ -1,6 +1,1026 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sat Oct 13 20:14:57 +0000 2018",
+		"id": 1051204665478664200,
+		"id_str": "1051204665478664192",
+		"full_text": "Right-wing America perpetuates the myth that the “takers” are blue states, liberals, immigrants and people of color. In reality, the takers are wealthy people like Kushner and Trump who don’t pay taxes, and red states that take way more from the treasury than they put back in.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17261066,
+			"id_str": "17261066",
+			"name": "Adam Best",
+			"screen_name": "adamcbest",
+			"location": "The George Soros payroll",
+			"description": "@TheLeft Newsletter/Pod (subscibe via link). A judge made Trump unblock me. “Be Best\" is not my fault. One letter away from being Batman. Past: @FanSided CEO",
+			"url": "https://t.co/bP92LaYrqu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bP92LaYrqu",
+							"expanded_url": "https://theleft.com/",
+							"display_url": "theleft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116336,
+			"friends_count": 15608,
+			"listed_count": 1437,
+			"created_at": "Sat Nov 08 23:28:07 +0000 2008",
+			"favourites_count": 21474,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19092,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1014280923133698048/axYpg0p7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1014280923133698048/axYpg0p7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17261066/1513289367",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1030,
+		"favorite_count": 2253,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Right-wing America perpetuates the myth that the “takers” are blue states, liberals, immigrants and people of color. In reality, the takers are wealthy people like Kushner and Trump who don’t pay taxes, and red states that take way more from the treasury than they put back in."
+	},
+	{
+		"created_at": "Sat Oct 13 15:24:29 +0000 2018",
+		"id": 1051131569400897500,
+		"id_str": "1051131569400897538",
+		"full_text": "I find this essay exhorting Americans to solve political problems by joining bowling leagues and buying burial plots incredibly hard to take from someone who has a vote in the US Senate and a working telephone. https://t.co/g1fdIhZvqr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g1fdIhZvqr",
+					"expanded_url": "https://twitter.com/bensasse/status/1051082080363393024",
+					"display_url": "twitter.com/bensasse/statu…",
+					"indices": [
+						211,
+						234
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22429979,
+			"id_str": "22429979",
+			"name": "southpaw",
+			"screen_name": "nycsouthpaw",
+			"location": "",
+			"description": "Lawyer, Dodger fan, partisan, idealist, hater.  nycsouthpaw18 at gmail. RTs = endorsement or scorn.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 124120,
+			"friends_count": 3878,
+			"listed_count": 2203,
+			"created_at": "Mon Mar 02 00:50:07 +0000 2009",
+			"favourites_count": 70766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 254543,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1D5287",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/680842593048002560/s4jbWhqz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/680842593048002560/s4jbWhqz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22429979/1353169389",
+			"profile_link_color": "177A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1051082080363393000,
+		"quoted_status_id_str": "1051082080363393024",
+		"quoted_status_permalink": {
+			"url": "https://t.co/g1fdIhZvqr",
+			"expanded": "https://twitter.com/bensasse/status/1051082080363393024",
+			"display": "twitter.com/bensasse/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 13 12:07:50 +0000 2018",
+			"id": 1051082080363393000,
+			"id_str": "1051082080363393024",
+			"full_text": "“More of us are plac­ing pol­i­tics at the cen­ter of our lives. Both sides increasingly be­lieve a grand so­lu­tion to our po­lit­i­cal dys­func­tion can be found in­side pol­i­tics. In the Weekend Essay, Sen. Sasse explains why he thinks this won’t work” https://t.co/dCpDjo96Rv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dCpDjo96Rv",
+						"expanded_url": "https://www.wsj.com/articles/politics-cant-solve-our-political-problems-1539364986",
+						"display_url": "wsj.com/articles/polit…",
+						"indices": [
+							257,
+							280
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1480852568,
+				"id_str": "1480852568",
+				"name": "Ben Sasse",
+				"screen_name": "BenSasse",
+				"location": "Fremont, Nebraska",
+				"description": "I took seven months off twitter and almost forgot we're supposed to hate each other",
+				"url": "https://t.co/55PxsZTq7t",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/55PxsZTq7t",
+								"expanded_url": "http://teamsasse.com",
+								"display_url": "teamsasse.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 275276,
+				"friends_count": 813,
+				"listed_count": 2648,
+				"created_at": "Mon Jun 03 23:18:20 +0000 2013",
+				"favourites_count": 6218,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8485,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/803780738890035201/xaeiH72P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/803780738890035201/xaeiH72P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1480852568/1479490455",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 474,
+			"favorite_count": 1181,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 424,
+		"favorite_count": 1736,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I find this essay exhorting Americans to solve political problems by joining bowling leagues and buying burial plots incredibly hard to take from someone who has a vote in the US Senate and a working telephone. https://t.co/g1fdIhZvqr"
+	},
+	{
+		"created_at": "Sat Oct 13 16:37:42 +0000 2018",
+		"id": 1051149992570880000,
+		"id_str": "1051149992570880001",
+		"full_text": "@ebruenig .@hypothes_is &gt;&gt; @RapGenius",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ebruenig",
+					"name": "pumpkin spice liz bruenig",
+					"id": 1471542956,
+					"id_str": "1471542956",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "hypothes_is",
+					"name": "Hypothesis",
+					"id": 325100970,
+					"id_str": "325100970",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "RapGenius",
+					"name": "Rap Genius",
+					"id": 735773,
+					"id_str": "735773",
+					"indices": [
+						33,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1051148709633908700,
+		"in_reply_to_status_id_str": "1051148709633908737",
+		"in_reply_to_user_id": 1471542956,
+		"in_reply_to_user_id_str": "1471542956",
+		"in_reply_to_screen_name": "ebruenig",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | Texan | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 657,
+			"friends_count": 1011,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5692,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6942,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@ebruenig .@hypothes_is &gt;&gt; @RapGenius"
+	},
+	{
+		"created_at": "Sat Oct 13 13:20:10 +0000 2018",
+		"id": 1051100283344949200,
+		"id_str": "1051100283344949248",
+		"full_text": "Thanks Sam...I am going to check out Michael Perry's books. By the way, you can see that Kate Hennessy talk on #DorothyDay (we went to her talk in Ankeny, which is now on YouTube) at https://t.co/P6cVhYFeeX https://t.co/dLPdKlR3cN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DorothyDay",
+					"indices": [
+						111,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P6cVhYFeeX",
+					"expanded_url": "http://bit.ly/2ISLaax",
+					"display_url": "bit.ly/2ISLaax",
+					"indices": [
+						183,
+						206
+					]
+				},
+				{
+					"url": "https://t.co/dLPdKlR3cN",
+					"expanded_url": "https://twitter.com/rebelsky/status/1050887111329624066",
+					"display_url": "twitter.com/rebelsky/statu…",
+					"indices": [
+						207,
+						230
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | Texan | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 657,
+			"friends_count": 1011,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5692,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6942,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1050887111329624000,
+		"quoted_status_id_str": "1050887111329624066",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dLPdKlR3cN",
+			"expanded": "https://twitter.com/rebelsky/status/1050887111329624066",
+			"display": "twitter.com/rebelsky/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 12 23:13:06 +0000 2018",
+			"id": 1050887111329624000,
+			"id_str": "1050887111329624066",
+			"full_text": "Daily musing #777: Michael Perry.  https://t.co/OXqyBUrui6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				58
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OXqyBUrui6",
+						"expanded_url": "https://www.cs.grinnell.edu/~rebelsky/musings/michael-perry",
+						"display_url": "cs.grinnell.edu/~rebelsky/musi…",
+						"indices": [
+							35,
+							58
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 35748045,
+				"id_str": "35748045",
+				"name": "Samuel Rebelsky",
+				"screen_name": "rebelsky",
+				"location": "Middle of Nowhere",
+				"description": "",
+				"url": "http://t.co/sR2YrVO7w6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/sR2YrVO7w6",
+								"expanded_url": "http://www.cs.grinnell.edu/~rebelsky/",
+								"display_url": "cs.grinnell.edu/~rebelsky/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 316,
+				"friends_count": 181,
+				"listed_count": 19,
+				"created_at": "Mon Apr 27 14:02:47 +0000 2009",
+				"favourites_count": 478,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1465,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000363944422/5f02d70b51147e41e213221b8fe28e54_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000363944422/5f02d70b51147e41e213221b8fe28e54_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks Sam...I am going to check out Michael Perry's books. By the way, you can see that Kate Hennessy talk on #DorothyDay (we went to her talk in Ankeny, which is now on YouTube) at https://t.co/P6cVhYFeeX https://t.co/dLPdKlR3cN"
+	},
+	{
+		"created_at": "Fri Oct 12 22:20:00 +0000 2018",
+		"id": 1050873747455000600,
+		"id_str": "1050873747455000577",
+		"full_text": "\"...one must not love oneself so much as to avoid getting involved in the risks of life which history demands of us...\" https://t.co/IBxsWJPlmA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IBxsWJPlmA",
+					"expanded_url": "https://twitter.com/americamag/status/1050831092603899904",
+					"display_url": "twitter.com/americamag/sta…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27713918,
+			"id_str": "27713918",
+			"name": "Kerry Weber",
+			"screen_name": "Kerry_Weber",
+			"location": "New York, NY",
+			"description": "Editing, writing, mercying w/ @americamag. Author of #MercyInTheCity: https://t.co/NU5L768Gwu",
+			"url": "https://t.co/BXgjzOM2US",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BXgjzOM2US",
+							"expanded_url": "http://americamagazine.org",
+							"display_url": "americamagazine.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NU5L768Gwu",
+							"expanded_url": "http://amzn.to/1hNnmmV",
+							"display_url": "amzn.to/1hNnmmV",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3790,
+			"friends_count": 828,
+			"listed_count": 97,
+			"created_at": "Mon Mar 30 19:57:11 +0000 2009",
+			"favourites_count": 1963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4294,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0B3B2E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986769697579335680/ZHf2KD44_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986769697579335680/ZHf2KD44_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27713918/1495324603",
+			"profile_link_color": "008B8B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1050831092603899900,
+		"quoted_status_id_str": "1050831092603899904",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IBxsWJPlmA",
+			"expanded": "https://twitter.com/americamag/status/1050831092603899904",
+			"display": "twitter.com/americamag/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 12 19:30:30 +0000 2018",
+			"id": 1050831092603899900,
+			"id_str": "1050831092603899904",
+			"full_text": "This is the homily Óscar Romero was delivering when he was killed. https://t.co/7Zm4EEULMI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				90
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7Zm4EEULMI",
+						"expanded_url": "https://www.americamagazine.org/faith/2018/10/12/homily-oscar-romero-was-delivering-when-he-was-killed",
+						"display_url": "americamagazine.org/faith/2018/10/…",
+						"indices": [
+							67,
+							90
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17372204,
+				"id_str": "17372204",
+				"name": "America Magazine",
+				"screen_name": "americamag",
+				"location": "",
+				"description": "The Jesuit Review of Faith and Culture",
+				"url": "https://t.co/oa7owxzsNV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oa7owxzsNV",
+								"expanded_url": "http://www.americamagazine.org",
+								"display_url": "americamagazine.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52830,
+				"friends_count": 376,
+				"listed_count": 1094,
+				"created_at": "Thu Nov 13 19:28:03 +0000 2008",
+				"favourites_count": 1362,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 42150,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EAECF0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823506014548951041/pt6Tnc3z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823506014548951041/pt6Tnc3z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17372204/1485174139",
+				"profile_link_color": "0044B4",
+				"profile_sidebar_border_color": "181E15",
+				"profile_sidebar_fill_color": "CCFFF7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 144,
+			"favorite_count": 289,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"...one must not love oneself so much as to avoid getting involved in the risks of life which history demands of us...\" https://t.co/IBxsWJPlmA"
+	},
+	{
+		"created_at": "Fri Oct 12 23:17:48 +0000 2018",
+		"id": 1050888295306145800,
+		"id_str": "1050888295306145792",
+		"full_text": "I just donated to @Wikipedia. Support free knowledge! #iloveWikipedia #opened18 https://t.co/PvDoQmudiM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iloveWikipedia",
+					"indices": [
+						54,
+						69
+					]
+				},
+				{
+					"text": "opened18",
+					"indices": [
+						70,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Wikipedia",
+					"name": "Wikipedia",
+					"id": 86390214,
+					"id_str": "86390214",
+					"indices": [
+						18,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PvDoQmudiM",
+					"expanded_url": "https://donate.wikimedia.org/?utm_medium=SocialMedia&utm_campaign=ThankYouPage&utm_source=Twitter&uselang=en",
+					"display_url": "donate.wikimedia.org/?utm_medium=So…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17620729,
+			"id_str": "17620729",
+			"name": "Giulia Forsythe",
+			"screen_name": "giuliaforsythe",
+			"location": "Niagara",
+			"description": "I work at a university supporting teaching & lifelong learning. I think in pictures. Doodling helps me be a better listener, problem solver and communicator.",
+			"url": "https://t.co/pDmVhBzZO5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDmVhBzZO5",
+							"expanded_url": "http://edudoodle.com",
+							"display_url": "edudoodle.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2597,
+			"friends_count": 1352,
+			"listed_count": 175,
+			"created_at": "Tue Nov 25 14:49:50 +0000 2008",
+			"favourites_count": 7729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17705,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948372856823533568/Yv5WpZxg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948372856823533568/Yv5WpZxg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17620729/1504626279",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I just donated to @Wikipedia. Support free knowledge! #iloveWikipedia #opened18 https://t.co/PvDoQmudiM"
+	},
+	{
 		"created_at": "Fri Oct 12 22:20:00 +0000 2018",
 		"id": 1050873747455000600,
 		"id_str": "1050873747455000577",
@@ -3247,7 +4267,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Amy, but spookier & w/ sweaters🎃",
 			"screen_name": "amy_nusbaum",
 			"location": "Traditional Palouse land",
-			"description": "cog psych PhD candidate • tweets dog pics, science, teaching fun, first gen higher ed, & feminism • she/her 💜🏳️‍🌈🖤 #FirstGenDocs #OER",
+			"description": "cog psych PhD candidate • tweets dog pics, science, teaching fun, first gen higher ed, & feminism • she/her 💜🏳️🌈🖤 #FirstGenDocs #OER",
 			"url": "https://t.co/8qFwzj7r4k",
 			"entities": {
 				"url": {
