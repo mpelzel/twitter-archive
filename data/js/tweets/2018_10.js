@@ -1,6 +1,839 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 15 14:03:53 +0000 2018",
+		"id": 1051836060387463200,
+		"id_str": "1051836060387463168",
+		"full_text": "Ep 46 is out! @JuliaFeerrar talks about the development of a digital literacy initiative at @virginia_tech! Thanks to @librarianliss for the interview! https://t.co/tDpwwfRIXU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JuliaFeerrar",
+					"name": "Julia Feerrar",
+					"id": 774920204,
+					"id_str": "774920204",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "virginia_tech",
+					"name": "Virginia Tech",
+					"id": 17416707,
+					"id_str": "17416707",
+					"indices": [
+						92,
+						106
+					]
+				},
+				{
+					"screen_name": "librarianliss",
+					"name": "Melissa Mallon",
+					"id": 64466627,
+					"id_str": "64466627",
+					"indices": [
+						118,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tDpwwfRIXU",
+					"expanded_url": "https://soundcloud.com/leadinglines/episode-046-julia-feerrar",
+					"display_url": "soundcloud.com/leadinglines/e…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 756232587400667100,
+			"id_str": "756232587400667136",
+			"name": "Leading Lines",
+			"screen_name": "leadinglinespod",
+			"location": "Nashville, TN",
+			"description": "A podcast on creative, intentional, and effective uses of technology to enhance  student learning, produced at Vanderbilt University",
+			"url": "https://t.co/zBsraGXUqB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zBsraGXUqB",
+							"expanded_url": "http://leadinglinespod.com/",
+							"display_url": "leadinglinespod.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 167,
+			"listed_count": 21,
+			"created_at": "Thu Jul 21 21:01:13 +0000 2016",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 205,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875780659121442820/uNe38YIU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875780659121442820/uNe38YIU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/756232587400667136/1469636538",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ep 46 is out! @JuliaFeerrar talks about the development of a digital literacy initiative at @virginia_tech! Thanks to @librarianliss for the interview! https://t.co/tDpwwfRIXU"
+	},
+	{
+		"created_at": "Sun Oct 14 08:20:02 +0000 2018",
+		"id": 1051387137621467100,
+		"id_str": "1051387137621467136",
+		"full_text": "🙌🏻I remember a prof using the “school of thought” reason— acknowledging, but still proceeding w the syllabus. The only place I got significant non-white male euro-centric history during architecture school was from one prof in the art history dept https://t.co/aPVazVEbLO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aPVazVEbLO",
+					"expanded_url": "https://twitter.com/nelsonlflores/status/1051211144336220160",
+					"display_url": "twitter.com/nelsonlflores/…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 532725843,
+			"id_str": "532725843",
+			"name": "Madeleine Pelzel",
+			"screen_name": "MadsPelzel",
+			"location": "Rice University",
+			"description": "inspired, motivated, and powered by google calendar",
+			"url": "https://t.co/tv9PKU93Q7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tv9PKU93Q7",
+							"expanded_url": "http://madeleinepelzel.com",
+							"display_url": "madeleinepelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 336,
+			"friends_count": 247,
+			"listed_count": 5,
+			"created_at": "Wed Mar 21 23:17:11 +0000 2012",
+			"favourites_count": 2346,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2956,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DCF1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980205427097923584/KOHObzRL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980205427097923584/KOHObzRL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/532725843/1521498118",
+			"profile_link_color": "0C446F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "1C1C1C",
+			"profile_text_color": "C0DCF1",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1051211144336220200,
+		"quoted_status_id_str": "1051211144336220160",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aPVazVEbLO",
+			"expanded": "https://twitter.com/nelsonlflores/status/1051211144336220160",
+			"display": "twitter.com/nelsonlflores/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 13 20:40:42 +0000 2018",
+			"id": 1051211144336220200,
+			"id_str": "1051211144336220160",
+			"full_text": "Academics: When you justify an all white syllabus because that is the legacy of your field, your racism is showing. POC have always contributed to academic knowledge even as they have been systematically ignored by white scholars. You inherited racism and choose to maintain it.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 248343882,
+				"id_str": "248343882",
+				"name": "Nelson Flores",
+				"screen_name": "nelsonlflores",
+				"location": "Philadelphia, PA",
+				"description": "Associate Professor in Educational Linguistics @PennGSE researching race and language in bilingual education #raciolx he/his/him",
+				"url": "https://t.co/FMuLhKQCdA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FMuLhKQCdA",
+								"expanded_url": "http://educationallinguist.wordpress.com",
+								"display_url": "educationallinguist.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4370,
+				"friends_count": 581,
+				"listed_count": 125,
+				"created_at": "Sun Feb 06 20:09:17 +0000 2011",
+				"favourites_count": 2860,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17753,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/860336600030605312/HvbtbR0h_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/860336600030605312/HvbtbR0h_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3050,
+			"favorite_count": 9853,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🙌🏻I remember a prof using the “school of thought” reason— acknowledging, but still proceeding w the syllabus. The only place I got significant non-white male euro-centric history during architecture school was from one prof in the art history dept https://t.co/aPVazVEbLO"
+	},
+	{
+		"created_at": "Sun Oct 14 15:38:06 +0000 2018",
+		"id": 1051497382725206000,
+		"id_str": "1051497382725206016",
+		"full_text": "@laurabrarian Have a great time...several of my Grinnell College colleagues are there...",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "laurabrarian",
+					"name": "Laura 🧟‍♀️ BRAAAINS!stein",
+					"id": 12838892,
+					"id_str": "12838892",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1051396854301290500,
+		"in_reply_to_status_id_str": "1051396854301290496",
+		"in_reply_to_user_id": 12838892,
+		"in_reply_to_user_id_str": "12838892",
+		"in_reply_to_screen_name": "laurabrarian",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | Texan | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 657,
+			"friends_count": 1012,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6947,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@laurabrarian Have a great time...several of my Grinnell College colleagues are there..."
+	},
+	{
+		"created_at": "Sun Oct 14 12:00:01 +0000 2018",
+		"id": 1051442500525801500,
+		"id_str": "1051442500525801472",
+		"full_text": "Good morning! Today's #WordOfTheDay is 'crapulous' https://t.co/UdSgH2Cv1N https://t.co/P38TLDVlNM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WordOfTheDay",
+					"indices": [
+						22,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UdSgH2Cv1N",
+					"expanded_url": "https://s.m-w.com/2P45fge",
+					"display_url": "s.m-w.com/2P45fge",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1050831740036513800,
+					"id_str": "1050831740036513792",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DpVN5meVAAArgzs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpVN5meVAAArgzs.jpg",
+					"url": "https://t.co/P38TLDVlNM",
+					"display_url": "pic.twitter.com/P38TLDVlNM",
+					"expanded_url": "https://twitter.com/MerriamWebster/status/1051442500525801472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1012,
+							"h": 530,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1012,
+							"h": 530,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050831740036513800,
+					"id_str": "1050831740036513792",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DpVN5meVAAArgzs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpVN5meVAAArgzs.jpg",
+					"url": "https://t.co/P38TLDVlNM",
+					"display_url": "pic.twitter.com/P38TLDVlNM",
+					"expanded_url": "https://twitter.com/MerriamWebster/status/1051442500525801472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1012,
+							"h": 530,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1012,
+							"h": 530,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 97040343,
+			"id_str": "97040343",
+			"name": "Merriam-Webster",
+			"screen_name": "MerriamWebster",
+			"location": "Springfield, MA",
+			"description": "Word of the Day, facts and observations on language, lookup trends, and wordplay from the editors at Merriam-Webster Dictionary.",
+			"url": "https://t.co/vQxcT3e4Iq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vQxcT3e4Iq",
+							"expanded_url": "http://Merriam-Webster.com",
+							"display_url": "Merriam-Webster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 733098,
+			"friends_count": 694,
+			"listed_count": 5776,
+			"created_at": "Tue Dec 15 19:07:56 +0000 2009",
+			"favourites_count": 9181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20249,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "355185",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/677210982616195072/DWj4oUuT_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/677210982616195072/DWj4oUuT_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/97040343/1535382063",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 479,
+		"favorite_count": 1409,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good morning! Today's #WordOfTheDay is 'crapulous' https://t.co/UdSgH2Cv1N https://t.co/P38TLDVlNM"
+	},
+	{
+		"created_at": "Sun Oct 14 13:16:01 +0000 2018",
+		"id": 1051461626321350700,
+		"id_str": "1051461626321350656",
+		"full_text": "Canonizing Paul VI and Óscar Romero alongside five others, Pope says new saints bore witness “without lukewarmness, without calculation,” lived “the passion to risk everything and leave it all behind” – Homily/Video: https://t.co/Cx7WZ4Hq8t \n\nBackstory: https://t.co/YLNng7zDau https://t.co/ISOOi4d9a9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Cx7WZ4Hq8t",
+					"expanded_url": "http://bit.ly/2yggRGD",
+					"display_url": "bit.ly/2yggRGD",
+					"indices": [
+						217,
+						240
+					]
+				},
+				{
+					"url": "https://t.co/YLNng7zDau",
+					"expanded_url": "http://bit.ly/2HetpjZ",
+					"display_url": "bit.ly/2HetpjZ",
+					"indices": [
+						254,
+						277
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1051461623783845900,
+					"id_str": "1051461623783845889",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/DpeKxqSXcAEttO2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpeKxqSXcAEttO2.jpg",
+					"url": "https://t.co/ISOOi4d9a9",
+					"display_url": "pic.twitter.com/ISOOi4d9a9",
+					"expanded_url": "https://twitter.com/roccopalmo/status/1051461626321350656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 920,
+							"h": 613,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 920,
+							"h": 613,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1051461623783845900,
+					"id_str": "1051461623783845889",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/DpeKxqSXcAEttO2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpeKxqSXcAEttO2.jpg",
+					"url": "https://t.co/ISOOi4d9a9",
+					"display_url": "pic.twitter.com/ISOOi4d9a9",
+					"expanded_url": "https://twitter.com/roccopalmo/status/1051461626321350656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 920,
+							"h": 613,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 920,
+							"h": 613,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 173373241,
+			"id_str": "173373241",
+			"name": "Rocco Palmo",
+			"screen_name": "roccopalmo",
+			"location": "Philadelphia, PA",
+			"description": "",
+			"url": "https://t.co/ZdRJG7TvzA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZdRJG7TvzA",
+							"expanded_url": "http://theloggia.org",
+							"display_url": "theloggia.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26348,
+			"friends_count": 867,
+			"listed_count": 690,
+			"created_at": "Sun Aug 01 06:20:54 +0000 2010",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22511,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092843050/cardinal_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092843050/cardinal_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Canonizing Paul VI and Óscar Romero alongside five others, Pope says new saints bore witness “without lukewarmness, without calculation,” lived “the passion to risk everything and leave it all behind” – Homily/Video: https://t.co/Cx7WZ4Hq8t \n\nBackstory: https://t.co/YLNng7zDau https://t.co/ISOOi4d9a9"
+	},
+	{
 		"created_at": "Sun Oct 14 08:20:02 +0000 2018",
 		"id": 1051387137621467100,
 		"id_str": "1051387137621467136",
@@ -222,7 +1055,7 @@ Grailbird.data.tweets_2018_10 =
 			"user_mentions": [
 				{
 					"screen_name": "laurabrarian",
-					"name": "Laura 🧟‍♀️ BRAAAINS!stein",
+					"name": "Laura 🧟♀️ BRAAAINS!stein",
 					"id": 12838892,
 					"id_str": "12838892",
 					"indices": [
