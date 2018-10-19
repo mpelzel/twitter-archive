@@ -1,6 +1,1736 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 19 00:11:57 +0000 2018",
+		"id": 1053076249424355300,
+		"id_str": "1053076249424355328",
+		"full_text": "@Autumm @ShannonVallor Thanks, that would be so generous!",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Autumm",
+					"name": "Autumm Caines is a liminal space",
+					"id": 6292182,
+					"id_str": "6292182",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "ShannonVallor",
+					"name": "Shannon Vallor",
+					"id": 196481854,
+					"id_str": "196481854",
+					"indices": [
+						8,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1053076120202084400,
+		"in_reply_to_status_id_str": "1053076120202084352",
+		"in_reply_to_user_id": 6292182,
+		"in_reply_to_user_id_str": "6292182",
+		"in_reply_to_screen_name": "Autumm",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | Texan | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 658,
+			"friends_count": 1018,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Autumm @ShannonVallor Thanks, that would be so generous!"
+	},
+	{
+		"created_at": "Thu Oct 18 23:34:02 +0000 2018",
+		"id": 1053066705679892500,
+		"id_str": "1053066705679892481",
+		"full_text": "Texas is correct https://t.co/SLfv9B5uNO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SLfv9B5uNO",
+					"expanded_url": "https://twitter.com/kenradio/status/1052243661725921280",
+					"display_url": "twitter.com/kenradio/statu…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1471542956,
+			"id_str": "1471542956",
+			"name": "pumpkin spice liz bruenig",
+			"screen_name": "ebruenig",
+			"location": "elizabeth.bruenig@washpost.com",
+			"description": "Opinion columnist at @WashingtonPost. Christian. Mama. Into ideas, jokes, birds. Email: Elizabeth.Bruenig@washpost.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83999,
+			"friends_count": 3751,
+			"listed_count": 1425,
+			"created_at": "Fri May 31 07:06:34 +0000 2013",
+			"favourites_count": 196878,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 128,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAF6DA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1001990060256804864/vYjMs3R5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001990060256804864/vYjMs3R5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1471542956/1442437177",
+			"profile_link_color": "A3A395",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCCCCA",
+			"profile_text_color": "82C2B9",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1052243661725921300,
+		"quoted_status_id_str": "1052243661725921280",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SLfv9B5uNO",
+			"expanded": "https://twitter.com/kenradio/status/1052243661725921280",
+			"display": "twitter.com/kenradio/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 16 17:03:33 +0000 2018",
+			"id": 1052243661725921300,
+			"id_str": "1052243661725921280",
+			"full_text": "The most popular Halloween candy in every US state https://t.co/TLyeMiuANX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				50
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1052243647633084400,
+						"id_str": "1052243647633084421",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DppSBcJU0AUlDGa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DppSBcJU0AUlDGa.jpg",
+						"url": "https://t.co/TLyeMiuANX",
+						"display_url": "pic.twitter.com/TLyeMiuANX",
+						"expanded_url": "https://twitter.com/kenradio/status/1052243661725921280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1401,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 821,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 465,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1052243647633084400,
+						"id_str": "1052243647633084421",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DppSBcJU0AUlDGa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DppSBcJU0AUlDGa.jpg",
+						"url": "https://t.co/TLyeMiuANX",
+						"display_url": "pic.twitter.com/TLyeMiuANX",
+						"expanded_url": "https://twitter.com/kenradio/status/1052243661725921280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1401,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 821,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 465,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5514192,
+				"id_str": "5514192",
+				"name": "Ken Rutkowski",
+				"screen_name": "kenradio",
+				"location": "Los Angeles, CA",
+				"description": "Co-Founder of METal International & Syndicated Radio Talk Show Host\n\nAdd yourself to my FB page - https://t.co/kFqj4GmzJ5",
+				"url": "https://t.co/kFqj4GEaAD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kFqj4GEaAD",
+								"expanded_url": "https://business.facebook.com/KenRadio",
+								"display_url": "business.facebook.com/KenRadio",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/kFqj4GmzJ5",
+								"expanded_url": "https://business.facebook.com/KenRadio",
+								"display_url": "business.facebook.com/KenRadio",
+								"indices": [
+									98,
+									121
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1072941,
+				"friends_count": 840787,
+				"listed_count": 3614,
+				"created_at": "Thu Apr 26 02:07:14 +0000 2007",
+				"favourites_count": 435,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 18580,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/845318528085348352/w1KoXHom_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/845318528085348352/w1KoXHom_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5514192/1526437283",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3b77caf94bfc81fe",
+				"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+				"place_type": "city",
+				"name": "Los Angeles",
+				"full_name": "Los Angeles, CA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-118.668404,
+								33.704538
+							],
+							[
+								-118.155409,
+								33.704538
+							],
+							[
+								-118.155409,
+								34.337041
+							],
+							[
+								-118.668404,
+								34.337041
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 520,
+			"favorite_count": 1165,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 166,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Texas is correct https://t.co/SLfv9B5uNO"
+	},
+	{
+		"created_at": "Thu Oct 18 20:39:26 +0000 2018",
+		"id": 1053022767031840800,
+		"id_str": "1053022767031840770",
+		"full_text": "I find this Permissions Guide for Educators so helpful and continually reference it to help clarify legal ways to use digital resources #copyright #fairuse #oer https://t.co/jfUjEsEpO4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "copyright",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "fairuse",
+					"indices": [
+						147,
+						155
+					]
+				},
+				{
+					"text": "oer",
+					"indices": [
+						156,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jfUjEsEpO4",
+					"expanded_url": "https://www.oercommons.org/authoring/5800-permissions-guide-for-educators/view",
+					"display_url": "oercommons.org/authoring/5800…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 253281582,
+			"id_str": "253281582",
+			"name": "Megan Simmons",
+			"screen_name": "megsimmo",
+			"location": "Santa Cruz, CA",
+			"description": "Supporting open educational practice, design thinking, sustainability, equity & arts integration. Associate Director of Training & Design @ISKME",
+			"url": "https://t.co/DcDI6NoduI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DcDI6NoduI",
+							"expanded_url": "http://www.iskme.org/",
+							"display_url": "iskme.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 898,
+			"friends_count": 528,
+			"listed_count": 60,
+			"created_at": "Wed Feb 16 22:50:48 +0000 2011",
+			"favourites_count": 1243,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3077,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/938099480330514433/VhH99rmD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/938099480330514433/VhH99rmD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/253281582/1354064781",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I find this Permissions Guide for Educators so helpful and continually reference it to help clarify legal ways to use digital resources #copyright #fairuse #oer https://t.co/jfUjEsEpO4"
+	},
+	{
+		"created_at": "Fri Oct 19 00:07:56 +0000 2018",
+		"id": 1053075237066170400,
+		"id_str": "1053075237066170368",
+		"full_text": "@Autumm @ShannonVallor This looks like a very interesting presentation...any chance there'll be a link to the video?",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Autumm",
+					"name": "Autumm Caines is a liminal space",
+					"id": 6292182,
+					"id_str": "6292182",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "ShannonVallor",
+					"name": "Shannon Vallor",
+					"id": 196481854,
+					"id_str": "196481854",
+					"indices": [
+						8,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1053073124340699100,
+		"in_reply_to_status_id_str": "1053073124340699137",
+		"in_reply_to_user_id": 6292182,
+		"in_reply_to_user_id_str": "6292182",
+		"in_reply_to_screen_name": "Autumm",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | Texan | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 658,
+			"friends_count": 1018,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Autumm @ShannonVallor This looks like a very interesting presentation...any chance there'll be a link to the video?"
+	},
+	{
+		"created_at": "Thu Oct 18 17:45:58 +0000 2018",
+		"id": 1052979113626148900,
+		"id_str": "1052979113626148864",
+		"full_text": "The March for Life just announced that next year's theme will be \"Pro-Life Is Pro-Science.\" Read @emmaogreen's terrific story from earlier this year on how the movement is using science to bolster its arguments: https://t.co/t450inYYyh https://t.co/f6wlfScRny",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "emmaogreen",
+					"name": "Emma Green",
+					"id": 1511299686,
+					"id_str": "1511299686",
+					"indices": [
+						97,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/t450inYYyh",
+					"expanded_url": "https://www.theatlantic.com/politics/archive/2018/01/pro-life-pro-science/549308/",
+					"display_url": "theatlantic.com/politics/archi…",
+					"indices": [
+						212,
+						235
+					]
+				},
+				{
+					"url": "https://t.co/f6wlfScRny",
+					"expanded_url": "https://twitter.com/March_for_Life/status/1052960627587715072",
+					"display_url": "twitter.com/March_for_Life…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 57048551,
+			"id_str": "57048551",
+			"name": "Ruth Graham",
+			"screen_name": "publicroad",
+			"location": "New Hampshire",
+			"description": "Contributor to @Slate. Freelancer out & about (@NYTmag). Former editor. 'Relentlessly sane' — @elongreen",
+			"url": "http://t.co/up7GSSXFbA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/up7GSSXFbA",
+							"expanded_url": "http://publicroad.wordpress.com/",
+							"display_url": "publicroad.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13139,
+			"friends_count": 1228,
+			"listed_count": 370,
+			"created_at": "Wed Jul 15 15:36:51 +0000 2009",
+			"favourites_count": 9509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 380,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/518548593922150400/44ENUg3__normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/518548593922150400/44ENUg3__normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/57048551/1407594982",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1052960627587715100,
+		"quoted_status_id_str": "1052960627587715072",
+		"quoted_status_permalink": {
+			"url": "https://t.co/f6wlfScRny",
+			"expanded": "https://twitter.com/March_for_Life/status/1052960627587715072",
+			"display": "twitter.com/March_for_Life…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 18 16:32:31 +0000 2018",
+			"id": 1052960627587715100,
+			"id_str": "1052960627587715072",
+			"full_text": "“Modern science realize the truth about what is growing in the uterus, a baby.” @GChristiemd #uniquefromdayone #prolifeisproscience",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "uniquefromdayone",
+						"indices": [
+							93,
+							110
+						]
+					},
+					{
+						"text": "prolifeisproscience",
+						"indices": [
+							111,
+							131
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GChristiemd",
+						"name": "Grazie P Christie MD",
+						"id": 2836276731,
+						"id_str": "2836276731",
+						"indices": [
+							80,
+							92
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1052960307969175600,
+			"in_reply_to_status_id_str": "1052960307969175552",
+			"in_reply_to_user_id": 430130014,
+			"in_reply_to_user_id_str": "430130014",
+			"in_reply_to_screen_name": "March_for_Life",
+			"user": {
+				"id": 430130014,
+				"id_str": "430130014",
+				"name": "March for Life",
+				"screen_name": "March_for_Life",
+				"location": "Washington, DC",
+				"description": "Official March for Life account. Join us for the march in Washington, DC on Friday Jan. 18, 2019! Led by @JeanneMFL #whywemarch",
+				"url": "https://t.co/HV7n8dz5of",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HV7n8dz5of",
+								"expanded_url": "http://www.marchforlife.org",
+								"display_url": "marchforlife.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 59571,
+				"friends_count": 2225,
+				"listed_count": 488,
+				"created_at": "Tue Dec 06 20:07:36 +0000 2011",
+				"favourites_count": 10327,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 18889,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/991801976236265472/YmdAQriQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/991801976236265472/YmdAQriQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/430130014/1534968578",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 18,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The March for Life just announced that next year's theme will be \"Pro-Life Is Pro-Science.\" Read @emmaogreen's terrific story from earlier this year on how the movement is using science to bolster its arguments: https://t.co/t450inYYyh https://t.co/f6wlfScRny"
+	},
+	{
+		"created_at": "Thu Oct 18 17:17:07 +0000 2018",
+		"id": 1052971851432030200,
+		"id_str": "1052971851432030209",
+		"full_text": "Trump using ‘Pocahontas’ as a slur is part of her sad, 400-year history as a pawn https://t.co/7kHHu1fL5g https://t.co/HuGe3MORyW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7kHHu1fL5g",
+					"expanded_url": "https://www.washingtonpost.com/history/2018/10/18/trump-using-pocahontas-slur-is-part-her-sad-year-history-pawn/",
+					"display_url": "washingtonpost.com/history/2018/1…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1052971849703977000,
+					"id_str": "1052971849703976961",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DpzoUYQXcAEft-h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpzoUYQXcAEft-h.jpg",
+					"url": "https://t.co/HuGe3MORyW",
+					"display_url": "pic.twitter.com/HuGe3MORyW",
+					"expanded_url": "https://twitter.com/SarahJPurcell/status/1052971851432030209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 797,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1052971849703977000,
+					"id_str": "1052971849703976961",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DpzoUYQXcAEft-h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpzoUYQXcAEft-h.jpg",
+					"url": "https://t.co/HuGe3MORyW",
+					"display_url": "pic.twitter.com/HuGe3MORyW",
+					"expanded_url": "https://twitter.com/SarahJPurcell/status/1052971851432030209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 797,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 386185407,
+			"id_str": "386185407",
+			"name": "Sarah J. Purcell",
+			"screen_name": "SarahJPurcell",
+			"location": "Grinnell, IA",
+			"description": "Historian. Teacher. Writer. Amateur baker. Far too many meetings...",
+			"url": "https://t.co/3argZ5h0p5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3argZ5h0p5",
+							"expanded_url": "http://www.grinnell.edu/users/purcelsj#profile-person",
+							"display_url": "grinnell.edu/users/purcelsj…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1939,
+			"friends_count": 2887,
+			"listed_count": 110,
+			"created_at": "Thu Oct 06 20:20:16 +0000 2011",
+			"favourites_count": 8908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16353,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/899711966133927936/dYax2mPk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/899711966133927936/dYax2mPk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/386185407/1398354374",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Trump using ‘Pocahontas’ as a slur is part of her sad, 400-year history as a pawn https://t.co/7kHHu1fL5g https://t.co/HuGe3MORyW"
+	},
+	{
+		"created_at": "Thu Oct 18 15:25:35 +0000 2018",
+		"id": 1052943785557184500,
+		"id_str": "1052943785557184512",
+		"full_text": "I’ve a Warren take  https://t.co/vKXTwcxunz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vKXTwcxunz",
+					"expanded_url": "https://www.washingtonpost.com/opinions/elizabeth-warrens-dna-test-is-about-more-than-politics/2018/10/18/85bd1368-d248-11e8-8c22-fa2ef74bd6d6_story.html",
+					"display_url": "washingtonpost.com/opinions/eliza…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1471542956,
+			"id_str": "1471542956",
+			"name": "pumpkin spice liz bruenig",
+			"screen_name": "ebruenig",
+			"location": "elizabeth.bruenig@washpost.com",
+			"description": "Opinion columnist at @WashingtonPost. Christian. Mama. Into ideas, jokes, birds. Email: Elizabeth.Bruenig@washpost.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83999,
+			"friends_count": 3751,
+			"listed_count": 1425,
+			"created_at": "Fri May 31 07:06:34 +0000 2013",
+			"favourites_count": 196878,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 128,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAF6DA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1001990060256804864/vYjMs3R5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001990060256804864/vYjMs3R5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1471542956/1442437177",
+			"profile_link_color": "A3A395",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCCCCA",
+			"profile_text_color": "82C2B9",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’ve a Warren take  https://t.co/vKXTwcxunz"
+	},
+	{
+		"created_at": "Thu Oct 18 15:05:10 +0000 2018",
+		"id": 1052938645198405600,
+		"id_str": "1052938645198405633",
+		"full_text": "Twangy instrument from Janáček’s first work in F? (4,4)\n\n@hpicciotto and I get musicological in our new cryptic crossword (#3480) for @thenation\n\nhttps://t.co/DfU1JPBefy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hpicciotto",
+					"name": "Henri Picciotto",
+					"id": 3178391529,
+					"id_str": "3178391529",
+					"indices": [
+						57,
+						68
+					]
+				},
+				{
+					"screen_name": "thenation",
+					"name": "The Nation",
+					"id": 1947301,
+					"id_str": "1947301",
+					"indices": [
+						134,
+						144
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DfU1JPBefy",
+					"expanded_url": "https://www.thenation.com/article/puzzle-no-3480/",
+					"display_url": "thenation.com/article/puzzle…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2147884818,
+			"id_str": "2147884818",
+			"name": "Joshua Kosman",
+			"screen_name": "JoshuaKosman",
+			"location": "San Francisco",
+			"description": "Classical music critic for the San Francisco Chronicle. Co-constructor of The Nation's cryptic crossword.",
+			"url": "https://t.co/a27X9uTpDI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a27X9uTpDI",
+							"expanded_url": "http://www.sfchronicle.com/author/joshua-kosman/",
+							"display_url": "sfchronicle.com/author/joshua-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2181,
+			"friends_count": 439,
+			"listed_count": 81,
+			"created_at": "Mon Oct 21 21:48:21 +0000 2013",
+			"favourites_count": 23882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2590,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1029769407445303296/NvghupZa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1029769407445303296/NvghupZa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2147884818/1497548708",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Twangy instrument from Janáček’s first work in F? (4,4)\n\n@hpicciotto and I get musicological in our new cryptic crossword (#3480) for @thenation\n\nhttps://t.co/DfU1JPBefy"
+	},
+	{
+		"created_at": "Thu Oct 18 14:04:20 +0000 2018",
+		"id": 1052923337196884000,
+		"id_str": "1052923337196883969",
+		"full_text": "Hear why one instructor at the Middlebury Institute @MIIS went from being \"a skeptic\" of Wikipedia, to doing \"a complete 180\" and opting to have have a Wikipedia assignment in her courses this fall! https://t.co/WZiToxDccE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MIIS",
+					"name": "Middlebury Institute",
+					"id": 18927528,
+					"id_str": "18927528",
+					"indices": [
+						52,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WZiToxDccE",
+					"expanded_url": "https://wikiedu.org/blog/2018/10/18/teaching-and-learning-in-the-public-sphere-with-wikipedia/",
+					"display_url": "wikiedu.org/blog/2018/10/1…",
+					"indices": [
+						199,
+						222
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2181109652,
+			"id_str": "2181109652",
+			"name": "Wiki Education",
+			"screen_name": "WikiEducation",
+			"location": "San Francisco, CA",
+			"description": "Wiki Education supports innovative uses of Wikipedia and related projects in higher education throughout the USA and Canada.",
+			"url": "http://t.co/DYb4eSXwui",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/DYb4eSXwui",
+							"expanded_url": "http://wikiedu.org",
+							"display_url": "wikiedu.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3576,
+			"friends_count": 1243,
+			"listed_count": 135,
+			"created_at": "Fri Nov 08 00:02:47 +0000 2013",
+			"favourites_count": 2234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1983,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/470667691968061441/rQpQvQ_Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/470667691968061441/rQpQvQ_Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2181109652/1415818906",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hear why one instructor at the Middlebury Institute @MIIS went from being \"a skeptic\" of Wikipedia, to doing \"a complete 180\" and opting to have have a Wikipedia assignment in her courses this fall! https://t.co/WZiToxDccE"
+	},
+	{
+		"created_at": "Thu Oct 18 00:53:34 +0000 2018",
+		"id": 1052724332353470500,
+		"id_str": "1052724332353470465",
+		"full_text": "Horror themed pub trivia tonight at Peace Tree Grinnell @peacetreegrinn Not my wheelhouse, but teammates pulling us through... https://t.co/cc9dxMN5Ro",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "peacetreegrinn",
+					"name": "Peace Tree Grinnell",
+					"id": 849709766192635900,
+					"id_str": "849709766192635905",
+					"indices": [
+						56,
+						71
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1052724320110170100,
+					"id_str": "1052724320110170112",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/DpwHMQqU0AAalnd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpwHMQqU0AAalnd.jpg",
+					"url": "https://t.co/cc9dxMN5Ro",
+					"display_url": "pic.twitter.com/cc9dxMN5Ro",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1052724332353470465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1052724320110170100,
+					"id_str": "1052724320110170112",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/DpwHMQqU0AAalnd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpwHMQqU0AAalnd.jpg",
+					"url": "https://t.co/cc9dxMN5Ro",
+					"display_url": "pic.twitter.com/cc9dxMN5Ro",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1052724332353470465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | Texan | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 658,
+			"friends_count": 1018,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Horror themed pub trivia tonight at Peace Tree Grinnell @peacetreegrinn Not my wheelhouse, but teammates pulling us through... https://t.co/cc9dxMN5Ro"
+	},
+	{
+		"created_at": "Wed Oct 17 19:16:44 +0000 2018",
+		"id": 1052639567965290500,
+		"id_str": "1052639567965290498",
+		"full_text": "The S&amp;B will live tweet parts of the hearing between the College and the Union of Grinnell Student Dining Workers (UGSDW) regarding student workers’ rights to unionize. \n\nMark Watts, HR Training &amp; Student Employment Coordinator, is currently testifying.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21555437,
+			"id_str": "21555437",
+			"name": "The Scarlet & Black",
+			"screen_name": "thesandb",
+			"location": "Grinnell College, Grinnell, IA",
+			"description": "The Scarlet & Black is the weekly Grinnell College newspaper, run entirely by students.",
+			"url": "http://t.co/disouO2bBo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/disouO2bBo",
+							"expanded_url": "http://thesandb.com/",
+							"display_url": "thesandb.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1088,
+			"friends_count": 137,
+			"listed_count": 40,
+			"created_at": "Sun Feb 22 09:16:58 +0000 2009",
+			"favourites_count": 108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2227,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/529309078275649537/Sy_iQRpd_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/529309078275649537/Sy_iQRpd_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21555437/1415032072",
+			"profile_link_color": "ED2F2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The S&amp;B will live tweet parts of the hearing between the College and the Union of Grinnell Student Dining Workers (UGSDW) regarding student workers’ rights to unionize. \n\nMark Watts, HR Training &amp; Student Employment Coordinator, is currently testifying."
+	},
+	{
 		"created_at": "Wed Oct 17 19:16:44 +0000 2018",
 		"id": 1052639567965290500,
 		"id_str": "1052639567965290498",
@@ -3281,7 +5011,7 @@ Grailbird.data.tweets_2018_10 =
 			"user_mentions": [
 				{
 					"screen_name": "laurabrarian",
-					"name": "Laura 🧟‍♀️ BRAAAINS!stein",
+					"name": "Laura 🧟♀️ BRAAAINS!stein",
 					"id": 12838892,
 					"id_str": "12838892",
 					"indices": [
@@ -3946,7 +5676,7 @@ Grailbird.data.tweets_2018_10 =
 			"created_at": "Sat Oct 13 12:07:50 +0000 2018",
 			"id": 1051082080363393000,
 			"id_str": "1051082080363393024",
-			"full_text": "“More of us are plac­ing pol­i­tics at the cen­ter of our lives. Both sides increasingly be­lieve a grand so­lu­tion to our po­lit­i­cal dys­func­tion can be found in­side pol­i­tics. In the Weekend Essay, Sen. Sasse explains why he thinks this won’t work” https://t.co/dCpDjo96Rv",
+			"full_text": "“More of us are placing politics at the center of our lives. Both sides increasingly believe a grand solution to our political dysfunction can be found inside politics. In the Weekend Essay, Sen. Sasse explains why he thinks this won’t work” https://t.co/dCpDjo96Rv",
 			"truncated": false,
 			"display_text_range": [
 				0,
@@ -7662,7 +9392,7 @@ Grailbird.data.tweets_2018_10 =
 			"name": "Amy, but spookier & w/ sweaters🎃",
 			"screen_name": "amy_nusbaum",
 			"location": "Traditional Palouse land",
-			"description": "cog psych PhD candidate • tweets dog pics, science, teaching fun, first gen higher ed, & feminism • she/her 💜🏳️‍🌈🖤 #FirstGenDocs #OER",
+			"description": "cog psych PhD candidate • tweets dog pics, science, teaching fun, first gen higher ed, & feminism • she/her 💜🏳️🌈🖤 #FirstGenDocs #OER",
 			"url": "https://t.co/8qFwzj7r4k",
 			"entities": {
 				"url": {
