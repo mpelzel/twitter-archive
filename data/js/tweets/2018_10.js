@@ -1,6 +1,471 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sat Oct 20 02:13:00 +0000 2018",
+		"id": 1053469097630097400,
+		"id_str": "1053469097630097409",
+		"full_text": "Crossword star Erik Agard @e_a_rly was on \"Jeopardy!\" tonight, watch it at the link below https://t.co/qpfklpTiof",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "e_a_rly",
+					"name": "erik",
+					"id": 28259959,
+					"id_str": "28259959",
+					"indices": [
+						26,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qpfklpTiof",
+					"expanded_url": "https://twitter.com/KoenigRMHS/status/1053447685712347138",
+					"display_url": "twitter.com/KoenigRMHS/sta…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996373496,
+			"id_str": "996373496",
+			"name": "Matt Gaffney",
+			"screen_name": "metabymatt",
+			"location": "Staunton, Virginia",
+			"description": "Professional crossword puzzle writer for the past 18 years. Really.",
+			"url": "https://t.co/Hl0q7MhBS5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hl0q7MhBS5",
+							"expanded_url": "http://www.xwordcontest.com",
+							"display_url": "xwordcontest.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1577,
+			"friends_count": 738,
+			"listed_count": 34,
+			"created_at": "Sat Dec 08 03:45:06 +0000 2012",
+			"favourites_count": 2650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4234,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3268840972/d1d8d4b243a13e46e0ee4058b2849e00_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3268840972/d1d8d4b243a13e46e0ee4058b2849e00_normal.jpeg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1053447685712347100,
+		"quoted_status_id_str": "1053447685712347138",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qpfklpTiof",
+			"expanded": "https://twitter.com/KoenigRMHS/status/1053447685712347138",
+			"display": "twitter.com/KoenigRMHS/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 20 00:47:55 +0000 2018",
+			"id": 1053447685712347100,
+			"id_str": "1053447685712347138",
+			"full_text": "@metabymatt @MattJPuzzleGuy https://t.co/XNNPb1dXVs",
+			"truncated": false,
+			"display_text_range": [
+				28,
+				51
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "metabymatt",
+						"name": "Matt Gaffney",
+						"id": 996373496,
+						"id_str": "996373496",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "MattJPuzzleGuy",
+						"name": "Matt 'Clock Blinking 12:00' Jones",
+						"id": 702038719696535600,
+						"id_str": "702038719696535552",
+						"indices": [
+							12,
+							27
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/XNNPb1dXVs",
+						"expanded_url": "https://www.dailymotion.com/video/x6vrxjv",
+						"display_url": "dailymotion.com/video/x6vrxjv",
+						"indices": [
+							28,
+							51
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1053441388396929000,
+			"in_reply_to_status_id_str": "1053441388396929024",
+			"in_reply_to_user_id": 996373496,
+			"in_reply_to_user_id_str": "996373496",
+			"in_reply_to_screen_name": "metabymatt",
+			"user": {
+				"id": 2890111887,
+				"id_str": "2890111887",
+				"name": "Jeremy Koenig",
+				"screen_name": "KoenigRMHS",
+				"location": "Washington, DC",
+				"description": "English Teacher at RMHS (Rockville, MD), M.Ed. Adolescent Development (@UofMaryland '11), #NBCT. Dreams of hexagonal libraries. #reader #runner #cruciverbalist",
+				"url": "https://t.co/DqCPgaq9hJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DqCPgaq9hJ",
+								"expanded_url": "https://docs.google.com/document/d/1cdBOVm8f9US2zlbDnudUiHiSKDxYLs-4_lbXNLS_s-U/edit?usp=sharing",
+								"display_url": "docs.google.com/document/d/1cd…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 457,
+				"friends_count": 852,
+				"listed_count": 11,
+				"created_at": "Mon Nov 24 02:49:30 +0000 2014",
+				"favourites_count": 5190,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2382,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1015636353000800256/ERNwOEUq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015636353000800256/ERNwOEUq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2890111887/1530981552",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01fbe706f872cb32",
+				"url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+				"place_type": "city",
+				"name": "Washington",
+				"full_name": "Washington, DC",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-77.119401,
+								38.801826
+							],
+							[
+								-76.909396,
+								38.801826
+							],
+							[
+								-76.909396,
+								38.9953797
+							],
+							[
+								-77.119401,
+								38.9953797
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 2,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Crossword star Erik Agard @e_a_rly was on \"Jeopardy!\" tonight, watch it at the link below https://t.co/qpfklpTiof"
+	},
+	{
+		"created_at": "Fri Oct 19 18:50:48 +0000 2018",
+		"id": 1053357817149689900,
+		"id_str": "1053357817149689857",
+		"full_text": "Zotero’s powerful word processor integration is now available in Google Docs https://t.co/hDuYlXKfI8 https://t.co/kRGIRInP0g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hDuYlXKfI8",
+					"expanded_url": "https://www.zotero.org/blog/google-docs-integration/",
+					"display_url": "zotero.org/blog/google-do…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1053357335136165900,
+					"id_str": "1053357335136165888",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp5G6lZX4AAS_9w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp5G6lZX4AAS_9w.jpg",
+					"url": "https://t.co/kRGIRInP0g",
+					"display_url": "pic.twitter.com/kRGIRInP0g",
+					"expanded_url": "https://twitter.com/zotero/status/1053357817149689857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 586,
+							"h": 274,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 586,
+							"h": 274,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 586,
+							"h": 274,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053357335136165900,
+					"id_str": "1053357335136165888",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp5G6lZX4AAS_9w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp5G6lZX4AAS_9w.jpg",
+					"url": "https://t.co/kRGIRInP0g",
+					"display_url": "pic.twitter.com/kRGIRInP0g",
+					"expanded_url": "https://twitter.com/zotero/status/1053357817149689857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 586,
+							"h": 274,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 586,
+							"h": 274,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 586,
+							"h": 274,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9893772,
+			"id_str": "9893772",
+			"name": "Zotero",
+			"screen_name": "zotero",
+			"location": "",
+			"description": "I’m the free, easy-to-use tool to help you collect, organize, cite, and share your research sources.",
+			"url": "https://t.co/zXFp3yQAgY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zXFp3yQAgY",
+							"expanded_url": "https://www.zotero.org",
+							"display_url": "zotero.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18211,
+			"friends_count": 120,
+			"listed_count": 1027,
+			"created_at": "Fri Nov 02 18:13:11 +0000 2007",
+			"favourites_count": 103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 517,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/482247447293337601/hBQdLi_-_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/482247447293337601/hBQdLi_-_normal.png",
+			"profile_link_color": "CC2936",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 326,
+		"favorite_count": 625,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Zotero’s powerful word processor integration is now available in Google Docs https://t.co/hDuYlXKfI8 https://t.co/kRGIRInP0g"
+	},
+	{
 		"created_at": "Fri Oct 19 18:50:48 +0000 2018",
 		"id": 1053357817149689900,
 		"id_str": "1053357817149689857",
