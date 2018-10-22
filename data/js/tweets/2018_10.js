@@ -1,6 +1,1077 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sun Oct 21 14:22:01 +0000 2018",
+		"id": 1054014951680065500,
+		"id_str": "1054014951680065539",
+		"full_text": "\"Adamant that property rights supersede democracy, neoliberals insisted that the world must be made safe for capitalism.\"\n\nYou probably shouldn't \"like\" this tweet...\n...but maybe give it an RT?\n\nhttps://t.co/T2cm4kq54z https://t.co/LKbm940MG6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T2cm4kq54z",
+					"expanded_url": "https://buff.ly/2EdIoxW",
+					"display_url": "buff.ly/2EdIoxW",
+					"indices": [
+						196,
+						219
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1054014950111432700,
+					"id_str": "1054014950111432705",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/DqCdA0FX0AEY13T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqCdA0FX0AEY13T.jpg",
+					"url": "https://t.co/LKbm940MG6",
+					"display_url": "pic.twitter.com/LKbm940MG6",
+					"expanded_url": "https://twitter.com/commonwealmag/status/1054014951680065539/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1067,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1054014950111432700,
+					"id_str": "1054014950111432705",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/DqCdA0FX0AEY13T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqCdA0FX0AEY13T.jpg",
+					"url": "https://t.co/LKbm940MG6",
+					"display_url": "pic.twitter.com/LKbm940MG6",
+					"expanded_url": "https://twitter.com/commonwealmag/status/1054014951680065539/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1067,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22770131,
+			"id_str": "22770131",
+			"name": "Commonweal Magazine",
+			"screen_name": "commonwealmag",
+			"location": "New York, NY",
+			"description": "A review of religion, politics, and culture since 1924.  @DominicPreziosi, @MatthewSitman, @gehringdc, @MassimoFaggioli, @tonydomestico, @paulbmoses. @bdmcclay",
+			"url": "http://t.co/DZd7CxB3yM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/DZd7CxB3yM",
+							"expanded_url": "http://www.commonwealmagazine.org",
+							"display_url": "commonwealmagazine.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14835,
+			"friends_count": 442,
+			"listed_count": 441,
+			"created_at": "Wed Mar 04 13:32:22 +0000 2009",
+			"favourites_count": 1793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12796,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004408476939046913/nSbcnf4g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004408476939046913/nSbcnf4g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22770131/1528318070",
+			"profile_link_color": "6A90CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCE1FF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Adamant that property rights supersede democracy, neoliberals insisted that the world must be made safe for capitalism.\"\n\nYou probably shouldn't \"like\" this tweet...\n...but maybe give it an RT?\n\nhttps://t.co/T2cm4kq54z https://t.co/LKbm940MG6"
+	},
+	{
+		"created_at": "Fri Oct 19 13:40:06 +0000 2018",
+		"id": 1053279625571434500,
+		"id_str": "1053279625571434498",
+		"full_text": "No polling place exists in Dodge City, Kansas, a majority Hispanic city of 27,000. Voting takes place at just one location. Not only is it outside of town, it’s a mile walk from the nearest bus stop. To vote you have to get the hell out of Dodge.  https://t.co/Cmwesui2tr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Cmwesui2tr",
+					"expanded_url": "http://www.kansas.com/news/business/article220286260.html",
+					"display_url": "kansas.com/news/business/…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 338608917,
+			"id_str": "338608917",
+			"name": "David Cay Johnston",
+			"screen_name": "DavidCayJ",
+			"location": "Rochester NY",
+			"description": "Founder https://t.co/WOxAZ05hj8; @ShadowingTrump IRS commissioner; 2001 Pulitzer; 51 years of investigative reporting",
+			"url": "https://t.co/LctSNeopcu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LctSNeopcu",
+							"expanded_url": "https://www.dcreport.org",
+							"display_url": "dcreport.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WOxAZ05hj8",
+							"expanded_url": "http://DCReport.org",
+							"display_url": "DCReport.org",
+							"indices": [
+								8,
+								31
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 124221,
+			"friends_count": 283,
+			"listed_count": 2029,
+			"created_at": "Tue Jul 19 20:46:16 +0000 2011",
+			"favourites_count": 6588,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9988,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957624014276571137/dAduYaV9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957624014276571137/dAduYaV9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/338608917/1517150284",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12139,
+		"favorite_count": 13361,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No polling place exists in Dodge City, Kansas, a majority Hispanic city of 27,000. Voting takes place at just one location. Not only is it outside of town, it’s a mile walk from the nearest bus stop. To vote you have to get the hell out of Dodge.  https://t.co/Cmwesui2tr"
+	},
+	{
+		"created_at": "Sun Oct 21 16:00:40 +0000 2018",
+		"id": 1054039774556758000,
+		"id_str": "1054039774556758017",
+		"full_text": "Announcing The Inkubator: Crosswords by women -- cis women, trans women, and woman-aligned constructors, published twice monthly beginning January 2019, and edited by me and @teeracyrox. Back our Kickstarter to help us smash the patriarchy with puzzles! https://t.co/2Upi9QpnDK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "teeracyrox",
+					"name": "Tracy Bennett",
+					"id": 3153864905,
+					"id_str": "3153864905",
+					"indices": [
+						174,
+						185
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2Upi9QpnDK",
+					"expanded_url": "https://www.kickstarter.com/projects/laurabrarian/the-inkubator",
+					"display_url": "kickstarter.com/projects/laura…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12838892,
+			"id_str": "12838892",
+			"name": "Laura 🧟‍♀️ BRAAAINS!stein",
+			"screen_name": "laurabrarian",
+			"location": "Hanover, NH",
+			"description": "Digital Humanities Librarian - Libraries & DH & SF/F & beer & crosswords & comics & old movies. @areopagitibot #RESIST #noncompliant https://t.co/OCjE7dp0R0",
+			"url": "https://t.co/LnuYtCq4Cs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LnuYtCq4Cs",
+							"expanded_url": "http://digitalhumanities.dartmouth.edu/",
+							"display_url": "digitalhumanities.dartmouth.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OCjE7dp0R0",
+							"expanded_url": "http://pronoun.is/she",
+							"display_url": "pronoun.is/she",
+							"indices": [
+								133,
+								156
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2396,
+			"friends_count": 1092,
+			"listed_count": 139,
+			"created_at": "Tue Jan 29 18:10:43 +0000 2008",
+			"favourites_count": 23426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17039,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/823656924902293505/G6P0C-vA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/823656924902293505/G6P0C-vA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12838892/1485008017",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Announcing The Inkubator: Crosswords by women -- cis women, trans women, and woman-aligned constructors, published twice monthly beginning January 2019, and edited by me and @teeracyrox. Back our Kickstarter to help us smash the patriarchy with puzzles! https://t.co/2Upi9QpnDK"
+	},
+	{
+		"created_at": "Sun Oct 21 16:19:08 +0000 2018",
+		"id": 1054044422369935400,
+		"id_str": "1054044422369935361",
+		"full_text": "EXCITING NEWS! The Inkubator is the first-ever crossword feature owned, edited, and written entirely by women. The puzzle world is way overdue for this AND the ppl running it (@laurabrarian and @teeracyrox) have planned it exceptionally.\n\nBack the project: https://t.co/fu0747vAeL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "laurabrarian",
+					"name": "Laura 🧟‍♀️ BRAAAINS!stein",
+					"id": 12838892,
+					"id_str": "12838892",
+					"indices": [
+						176,
+						189
+					]
+				},
+				{
+					"screen_name": "teeracyrox",
+					"name": "Tracy Bennett",
+					"id": 3153864905,
+					"id_str": "3153864905",
+					"indices": [
+						194,
+						205
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fu0747vAeL",
+					"expanded_url": "https://www.kickstarter.com/projects/laurabrarian/the-inkubator",
+					"display_url": "kickstarter.com/projects/laura…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1005568453,
+			"id_str": "1005568453",
+			"name": "American Values Club",
+			"screen_name": "AVCXWord",
+			"location": "",
+			"description": "crosswords.",
+			"url": "https://t.co/7l8QLyF0HT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7l8QLyF0HT",
+							"expanded_url": "http://www.avxword.com",
+							"display_url": "avxword.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1303,
+			"friends_count": 133,
+			"listed_count": 21,
+			"created_at": "Wed Dec 12 04:29:05 +0000 2012",
+			"favourites_count": 1710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2175,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2964563295/688b80940110de35cb74428280199884_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2964563295/688b80940110de35cb74428280199884_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "EXCITING NEWS! The Inkubator is the first-ever crossword feature owned, edited, and written entirely by women. The puzzle world is way overdue for this AND the ppl running it (@laurabrarian and @teeracyrox) have planned it exceptionally.\n\nBack the project: https://t.co/fu0747vAeL"
+	},
+	{
+		"created_at": "Sun Oct 21 00:33:01 +0000 2018",
+		"id": 1053806324868362200,
+		"id_str": "1053806324868362240",
+		"full_text": "You should be on my team for #AdultSpellingBee at Peace Tree Grinnell @peacetreegrinn ... next Wednesday at 7:00 ... https://t.co/XOlRiDxdeC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdultSpellingBee",
+					"indices": [
+						29,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "peacetreegrinn",
+					"name": "Peace Tree Grinnell",
+					"id": 849709766192635900,
+					"id_str": "849709766192635905",
+					"indices": [
+						70,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XOlRiDxdeC",
+					"expanded_url": "https://twitter.com/rebelsky/status/1053784993481269250",
+					"display_url": "twitter.com/rebelsky/statu…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | husband | dad | trail runner | cyclist | cantor | Texan | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 661,
+			"friends_count": 1022,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6990,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1053784993481269200,
+		"quoted_status_id_str": "1053784993481269250",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XOlRiDxdeC",
+			"expanded": "https://twitter.com/rebelsky/status/1053784993481269250",
+			"display": "twitter.com/rebelsky/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 20 23:08:15 +0000 2018",
+			"id": 1053784993481269200,
+			"id_str": "1053784993481269250",
+			"full_text": "Daily musing #784: Correct spelling matters (at least to me).  https://t.co/PY59IVckEQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				86
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PY59IVckEQ",
+						"expanded_url": "https://www.cs.grinnell.edu/~rebelsky/musings/masterwriter-alliteration",
+						"display_url": "cs.grinnell.edu/~rebelsky/musi…",
+						"indices": [
+							63,
+							86
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 35748045,
+				"id_str": "35748045",
+				"name": "Samuel Rebelsky",
+				"screen_name": "rebelsky",
+				"location": "Middle of Nowhere",
+				"description": "",
+				"url": "http://t.co/sR2YrVO7w6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/sR2YrVO7w6",
+								"expanded_url": "http://www.cs.grinnell.edu/~rebelsky/",
+								"display_url": "cs.grinnell.edu/~rebelsky/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 316,
+				"friends_count": 181,
+				"listed_count": 19,
+				"created_at": "Mon Apr 27 14:02:47 +0000 2009",
+				"favourites_count": 489,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1477,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000363944422/5f02d70b51147e41e213221b8fe28e54_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000363944422/5f02d70b51147e41e213221b8fe28e54_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You should be on my team for #AdultSpellingBee at Peace Tree Grinnell @peacetreegrinn ... next Wednesday at 7:00 ... https://t.co/XOlRiDxdeC"
+	},
+	{
+		"created_at": "Sat Oct 20 02:13:00 +0000 2018",
+		"id": 1053469097630097400,
+		"id_str": "1053469097630097409",
+		"full_text": "Crossword star Erik Agard @e_a_rly was on \"Jeopardy!\" tonight, watch it at the link below https://t.co/qpfklpTiof",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "e_a_rly",
+					"name": "erik",
+					"id": 28259959,
+					"id_str": "28259959",
+					"indices": [
+						26,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qpfklpTiof",
+					"expanded_url": "https://twitter.com/KoenigRMHS/status/1053447685712347138",
+					"display_url": "twitter.com/KoenigRMHS/sta…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996373496,
+			"id_str": "996373496",
+			"name": "Matt Gaffney",
+			"screen_name": "metabymatt",
+			"location": "Staunton, Virginia",
+			"description": "Professional crossword puzzle writer for the past 18 years. Really.",
+			"url": "https://t.co/Hl0q7MhBS5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hl0q7MhBS5",
+							"expanded_url": "http://www.xwordcontest.com",
+							"display_url": "xwordcontest.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1577,
+			"friends_count": 738,
+			"listed_count": 34,
+			"created_at": "Sat Dec 08 03:45:06 +0000 2012",
+			"favourites_count": 2650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4235,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3268840972/d1d8d4b243a13e46e0ee4058b2849e00_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3268840972/d1d8d4b243a13e46e0ee4058b2849e00_normal.jpeg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1053447685712347100,
+		"quoted_status_id_str": "1053447685712347138",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qpfklpTiof",
+			"expanded": "https://twitter.com/KoenigRMHS/status/1053447685712347138",
+			"display": "twitter.com/KoenigRMHS/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 20 00:47:55 +0000 2018",
+			"id": 1053447685712347100,
+			"id_str": "1053447685712347138",
+			"full_text": "@metabymatt @MattJPuzzleGuy https://t.co/XNNPb1dXVs",
+			"truncated": false,
+			"display_text_range": [
+				28,
+				51
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "metabymatt",
+						"name": "Matt Gaffney",
+						"id": 996373496,
+						"id_str": "996373496",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "MattJPuzzleGuy",
+						"name": "Matt 'Clock Blinking 12:00' Jones",
+						"id": 702038719696535600,
+						"id_str": "702038719696535552",
+						"indices": [
+							12,
+							27
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/XNNPb1dXVs",
+						"expanded_url": "https://www.dailymotion.com/video/x6vrxjv",
+						"display_url": "dailymotion.com/video/x6vrxjv",
+						"indices": [
+							28,
+							51
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1053441388396929000,
+			"in_reply_to_status_id_str": "1053441388396929024",
+			"in_reply_to_user_id": 996373496,
+			"in_reply_to_user_id_str": "996373496",
+			"in_reply_to_screen_name": "metabymatt",
+			"user": {
+				"id": 2890111887,
+				"id_str": "2890111887",
+				"name": "ScareMe Koenig",
+				"screen_name": "KoenigRMHS",
+				"location": "Washington, DC",
+				"description": "English Teacher at RMHS (Rockville, MD), M.Ed. Adolescent Development (@UofMaryland '11), #NBCT. Dreams of hexagonal libraries. #reader #runner #cruciverbalist",
+				"url": "https://t.co/DqCPgaq9hJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DqCPgaq9hJ",
+								"expanded_url": "https://docs.google.com/document/d/1cdBOVm8f9US2zlbDnudUiHiSKDxYLs-4_lbXNLS_s-U/edit?usp=sharing",
+								"display_url": "docs.google.com/document/d/1cd…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 459,
+				"friends_count": 852,
+				"listed_count": 11,
+				"created_at": "Mon Nov 24 02:49:30 +0000 2014",
+				"favourites_count": 5200,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2387,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1015636353000800256/ERNwOEUq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015636353000800256/ERNwOEUq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2890111887/1530981552",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01fbe706f872cb32",
+				"url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+				"place_type": "city",
+				"name": "Washington",
+				"full_name": "Washington, DC",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-77.119401,
+								38.801826
+							],
+							[
+								-76.909396,
+								38.801826
+							],
+							[
+								-76.909396,
+								38.9953797
+							],
+							[
+								-77.119401,
+								38.9953797
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 2,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Crossword star Erik Agard @e_a_rly was on \"Jeopardy!\" tonight, watch it at the link below https://t.co/qpfklpTiof"
+	},
+	{
 		"created_at": "Sat Oct 20 02:13:00 +0000 2018",
 		"id": 1053469097630097400,
 		"id_str": "1053469097630097409",
