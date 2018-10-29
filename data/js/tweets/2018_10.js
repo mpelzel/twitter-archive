@@ -1,6 +1,810 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sun Oct 28 23:59:46 +0000 2018",
+		"id": 1056697061595406300,
+		"id_str": "1056697061595406338",
+		"full_text": "\"Culpability is a tricky thing, and politicians, especially of the demagogic variety, know this very well. Unless they go as far as organized, state-implemented slaughter, they don’t give specific directions. They don’t have to. They simply set the tone.\"\nhttps://t.co/XEwHmehPcx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XEwHmehPcx",
+					"expanded_url": "https://wapo.st/2OhbyfC",
+					"display_url": "wapo.st/2OhbyfC",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 664,
+			"friends_count": 1032,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7051,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Culpability is a tricky thing, and politicians, especially of the demagogic variety, know this very well. Unless they go as far as organized, state-implemented slaughter, they don’t give specific directions. They don’t have to. They simply set the tone.\"\nhttps://t.co/XEwHmehPcx"
+	},
+	{
+		"created_at": "Sun Oct 28 04:43:21 +0000 2018",
+		"id": 1056406039741022200,
+		"id_str": "1056406039741022208",
+		"full_text": "In 1855, when an anti-immigrant movement called the Know-Nothings seemed on its way to taking over the country, Abraham Lincoln wrote a letter to a friend about it. https://t.co/GEhn9EoM49",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1056406033583824900,
+					"id_str": "1056406033583824896",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/DqkbsMJX4AASqIB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqkbsMJX4AASqIB.jpg",
+					"url": "https://t.co/GEhn9EoM49",
+					"display_url": "pic.twitter.com/GEhn9EoM49",
+					"expanded_url": "https://twitter.com/NPRinskeep/status/1056406039741022208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 612,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1056406033583824900,
+					"id_str": "1056406033583824896",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/DqkbsMJX4AASqIB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqkbsMJX4AASqIB.jpg",
+					"url": "https://t.co/GEhn9EoM49",
+					"display_url": "pic.twitter.com/GEhn9EoM49",
+					"expanded_url": "https://twitter.com/NPRinskeep/status/1056406039741022208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 612,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 115710058,
+			"id_str": "115710058",
+			"name": "Steve Inskeep",
+			"screen_name": "NPRinskeep",
+			"location": "Washington, DC",
+			"description": "@MorningEdition, @UpFirst; author #Jacksonland: https://t.co/rbiz4bc7VC Disagreement welcome! But argue in bad faith or use an avatar that isn’t you? I block.",
+			"url": "https://t.co/7Pui2wJIuI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7Pui2wJIuI",
+							"expanded_url": "http://steveinskeep.com",
+							"display_url": "steveinskeep.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rbiz4bc7VC",
+							"expanded_url": "http://bit.ly/1Qr78zE",
+							"display_url": "bit.ly/1Qr78zE",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 237672,
+			"friends_count": 2214,
+			"listed_count": 4221,
+			"created_at": "Fri Feb 19 16:55:11 +0000 2010",
+			"favourites_count": 5907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 31339,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/916328931095138312/2id9cypw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/916328931095138312/2id9cypw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/115710058/1401726711",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3245,
+		"favorite_count": 6166,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In 1855, when an anti-immigrant movement called the Know-Nothings seemed on its way to taking over the country, Abraham Lincoln wrote a letter to a friend about it. https://t.co/GEhn9EoM49"
+	},
+	{
+		"created_at": "Sat Oct 27 23:17:49 +0000 2018",
+		"id": 1056324117329297400,
+		"id_str": "1056324117329297409",
+		"full_text": "Straight out of the Protocols of the Elders of Zion. Just moments ago, Lou Dobbs guest Chris Farrell (head of Judicial Watch) says Caravan is being funded/directed by the \"Soros-occupied State Department\". https://t.co/QBSong7uk1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1056324064887881700,
+					"id_str": "1056324064887881728",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1056324064887881728/pu/img/R-P4AAbOrBiKiLYT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1056324064887881728/pu/img/R-P4AAbOrBiKiLYT.jpg",
+					"url": "https://t.co/QBSong7uk1",
+					"display_url": "pic.twitter.com/QBSong7uk1",
+					"expanded_url": "https://twitter.com/joshtpm/status/1056324117329297409/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1056324064887881700,
+					"id_str": "1056324064887881728",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1056324064887881728/pu/img/R-P4AAbOrBiKiLYT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1056324064887881728/pu/img/R-P4AAbOrBiKiLYT.jpg",
+					"url": "https://t.co/QBSong7uk1",
+					"display_url": "pic.twitter.com/QBSong7uk1",
+					"expanded_url": "https://twitter.com/joshtpm/status/1056324117329297409/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29429,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1056324064887881728/pu/vid/320x180/0DD3caNizhj6G9Cg.mp4?tag=5"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1056324064887881728/pu/vid/960x540/fJxfrt4xc_dyr7cE.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1056324064887881728/pu/vid/640x360/wPqGgt3rbFLZffn4.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1056324064887881728/pu/pl/eFqTP9pBWzKFtusw.m3u8?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.snapstream.com\" rel=\"nofollow\">SnapStream TV Search</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21268897,
+			"id_str": "21268897",
+			"name": "Josh Marshall",
+			"screen_name": "joshtpm",
+			"location": "New York City",
+			"description": "Editor and Publisher of TPM. Lapsed historian. Polk Award winner.",
+			"url": "https://t.co/PwdfPkQfTw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PwdfPkQfTw",
+							"expanded_url": "http://talkingpointsmemo.com",
+							"display_url": "talkingpointsmemo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257780,
+			"friends_count": 769,
+			"listed_count": 7128,
+			"created_at": "Thu Feb 19 02:41:22 +0000 2009",
+			"favourites_count": 3764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 164408,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1052185445340246017/2r1fd3Hw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1052185445340246017/2r1fd3Hw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21268897/1536894648",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8689,
+		"favorite_count": 12859,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Straight out of the Protocols of the Elders of Zion. Just moments ago, Lou Dobbs guest Chris Farrell (head of Judicial Watch) says Caravan is being funded/directed by the \"Soros-occupied State Department\". https://t.co/QBSong7uk1"
+	},
+	{
+		"created_at": "Sun Oct 28 02:22:28 +0000 2018",
+		"id": 1056370586665058300,
+		"id_str": "1056370586665058304",
+		"full_text": "I am not the kind of pig-headed Red Sox fan who can’t appreciate the sublime poetry of this gif. https://t.co/z2AayTQyxo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z2AayTQyxo",
+					"expanded_url": "https://twitter.com/bubbaprog/status/1056368727044907008",
+					"display_url": "twitter.com/bubbaprog/stat…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 88262417,
+			"id_str": "88262417",
+			"name": "David Gooblar",
+			"screen_name": "dgooblar",
+			"location": "Iowa City",
+			"description": "I want to be good; is that not enough?  (Lecturer in Rhetoric at the University of Iowa. Columnist at https://t.co/f0eP4GTS6X. Erstwhile Philip Roth scholar.)",
+			"url": "http://t.co/L45mKLIyfi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/L45mKLIyfi",
+							"expanded_url": "http://PedagogyUnbound.com",
+							"display_url": "PedagogyUnbound.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/f0eP4GTS6X",
+							"expanded_url": "http://chroniclevitae.com",
+							"display_url": "chroniclevitae.com",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 981,
+			"friends_count": 501,
+			"listed_count": 55,
+			"created_at": "Sat Nov 07 20:19:42 +0000 2009",
+			"favourites_count": 3718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7571,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2C5569",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/659836356076548101/68f1nMRh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/659836356076548101/68f1nMRh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/88262417/1398481617",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1056368727044907000,
+		"quoted_status_id_str": "1056368727044907008",
+		"quoted_status_permalink": {
+			"url": "https://t.co/z2AayTQyxo",
+			"expanded": "https://twitter.com/bubbaprog/status/1056368727044907008",
+			"display": "twitter.com/bubbaprog/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 28 02:15:05 +0000 2018",
+			"id": 1056368727044907000,
+			"id_str": "1056368727044907008",
+			"full_text": "LIFE IS BEAUTIFUL https://t.co/cJajeNWNOM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				17
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1056368690697064400,
+						"id_str": "1056368690697064448",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dqj5ujDX0AANGPa.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dqj5ujDX0AANGPa.jpg",
+						"url": "https://t.co/cJajeNWNOM",
+						"display_url": "pic.twitter.com/cJajeNWNOM",
+						"expanded_url": "https://twitter.com/bubbaprog/status/1056368727044907008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 858,
+								"h": 482,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 858,
+								"h": 482,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1056368690697064400,
+						"id_str": "1056368690697064448",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dqj5ujDX0AANGPa.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dqj5ujDX0AANGPa.jpg",
+						"url": "https://t.co/cJajeNWNOM",
+						"display_url": "pic.twitter.com/cJajeNWNOM",
+						"expanded_url": "https://twitter.com/bubbaprog/status/1056368727044907008/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 858,
+								"h": 482,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 858,
+								"h": 482,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								429,
+								241
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/Dqj5ujDX0AANGPa.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 62103,
+				"id_str": "62103",
+				"name": "Timothy Burke",
+				"screen_name": "bubbaprog",
+				"location": "Tampa, FL",
+				"description": "Director of Video, @thedailybeast. Before that: @deadspin. Beagle rescue foster dad, pepper farmer, musician. timothy.burke@gmail.com",
+				"url": "https://t.co/bnicUe3uMY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bnicUe3uMY",
+								"expanded_url": "http://ilovecitr.us/",
+								"display_url": "ilovecitr.us",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52500,
+				"friends_count": 999,
+				"listed_count": 1497,
+				"created_at": "Tue Dec 12 23:53:15 +0000 2006",
+				"favourites_count": 95,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 87901,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "07090B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000703433512/4d469e15223622e8f73a96d29b5e0483_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000703433512/4d469e15223622e8f73a96d29b5e0483_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/62103/1398273557",
+				"profile_link_color": "055919",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C9C9C9",
+				"profile_text_color": "1C1F23",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 511,
+			"favorite_count": 1300,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am not the kind of pig-headed Red Sox fan who can’t appreciate the sublime poetry of this gif. https://t.co/z2AayTQyxo"
+	},
+	{
 		"created_at": "Sat Oct 27 23:13:14 +0000 2018",
 		"id": 1056322962360549400,
 		"id_str": "1056322962360549377",
