@@ -1,6 +1,1199 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 29 23:45:29 +0000 2018",
+		"id": 1057055854950785000,
+		"id_str": "1057055854950785025",
+		"full_text": "This, again, is why you should make up false answers to security questions. Amuse yourself. Say your mother's maiden name is Cheerios and you were born in Socket Wrench. Save the fake answers in a password manager. https://t.co/Vb94voGKvg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vb94voGKvg",
+					"expanded_url": "https://twitter.com/connectjunkie/status/1056968911630012417",
+					"display_url": "twitter.com/connectjunkie/…",
+					"indices": [
+						215,
+						238
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 117543420,
+			"id_str": "117543420",
+			"name": "Barton Gellman",
+			"screen_name": "bartongellman",
+			"location": "New York, Princeton & on the road",
+			"description": "Author of 'Angler' & forthcoming 'Dark Mirror' | @tcfdotorg @princetonCITP @washingtonpost | Secure contacts: https://t.co/QAEo6sEv38 | SecureDrop: https://t.co/Bnuty9quVb",
+			"url": "https://t.co/isAXxVa7nl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/isAXxVa7nl",
+							"expanded_url": "https://bartongellman.com",
+							"display_url": "bartongellman.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QAEo6sEv38",
+							"expanded_url": "http://git.io/Contact",
+							"display_url": "git.io/Contact",
+							"indices": [
+								110,
+								133
+							]
+						},
+						{
+							"url": "https://t.co/Bnuty9quVb",
+							"expanded_url": "http://git.io/SDrop",
+							"display_url": "git.io/SDrop",
+							"indices": [
+								148,
+								171
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 44566,
+			"friends_count": 837,
+			"listed_count": 1527,
+			"created_at": "Thu Feb 25 21:55:14 +0000 2010",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7556,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/449256938593730560/-bTeUc1O_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/449256938593730560/-bTeUc1O_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/117543420/1395947566",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1056968911630012400,
+		"quoted_status_id_str": "1056968911630012417",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Vb94voGKvg",
+			"expanded": "https://twitter.com/connectjunkie/status/1056968911630012417",
+			"display": "twitter.com/connectjunkie/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 29 18:00:00 +0000 2018",
+			"id": 1056968911630012400,
+			"id_str": "1056968911630012417",
+			"full_text": "\"Christopher Brannan...accessed the iCloud, Yahoo!, Facebook and other email and internet accounts of more than 200 celebrities and non-celebrities by answering security questions he gleaned from the victims’  Facebook accounts\" https://t.co/1uX9KxPYMM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				252
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1uX9KxPYMM",
+						"expanded_url": "https://lnkd.in/dttCXHa",
+						"display_url": "lnkd.in/dttCXHa",
+						"indices": [
+							229,
+							252
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.linkedin.com/\" rel=\"nofollow\">LinkedIn</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14901435,
+				"id_str": "14901435",
+				"name": "Justin Clarke-Salt",
+				"screen_name": "connectjunkie",
+				"location": "London, Greater London, UK",
+				"description": "Author, Consultant, Software Security Guy",
+				"url": "http://t.co/b31V3cfPEj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/b31V3cfPEj",
+								"expanded_url": "http://www.gdssecurity.com",
+								"display_url": "gdssecurity.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1245,
+				"friends_count": 403,
+				"listed_count": 73,
+				"created_at": "Sun May 25 19:58:44 +0000 2008",
+				"favourites_count": 10,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1850,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/846701986531737600/IkX14sp1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/846701986531737600/IkX14sp1_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 17,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This, again, is why you should make up false answers to security questions. Amuse yourself. Say your mother's maiden name is Cheerios and you were born in Socket Wrench. Save the fake answers in a password manager. https://t.co/Vb94voGKvg"
+	},
+	{
+		"created_at": "Mon Oct 29 16:52:39 +0000 2018",
+		"id": 1056951959457091600,
+		"id_str": "1056951959457091586",
+		"full_text": "In Texas, Brownsville bishop @bpdflores met with feds wanting to survey church property for construction of border wall and said \"he does not consent to use church property to construct a border wall\" but the govt has filed \"papers\" to gain right of entry https://t.co/RRBxIvsfjX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bpdflores",
+					"name": "Amigo de Frodo",
+					"id": 3260556122,
+					"id_str": "3260556122",
+					"indices": [
+						29,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RRBxIvsfjX",
+					"expanded_url": "https://twitter.com/CatholicRGV/status/1056934489266511873",
+					"display_url": "twitter.com/CatholicRGV/st…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 299375278,
+			"id_str": "299375278",
+			"name": "Rhina Guidos",
+			"screen_name": "CNS_Rhina",
+			"location": "Washington, D.C.",
+			"description": "Reporter @CatholicNewsSvc. Author 'Rutilio Grande: A Table for All' about the Jesuit who inspired Oscar Romero 👉https://t.co/yllONh1xIY",
+			"url": "https://t.co/ZQcvk9sBSd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZQcvk9sBSd",
+							"expanded_url": "http://www.catholicnews.com",
+							"display_url": "catholicnews.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yllONh1xIY",
+							"expanded_url": "http://bit.ly/2nNVjvjl",
+							"display_url": "bit.ly/2nNVjvjl",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2391,
+			"friends_count": 2161,
+			"listed_count": 133,
+			"created_at": "Mon May 16 00:07:01 +0000 2011",
+			"favourites_count": 5137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13568,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039155288652296192/tGQJ_Mad_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039155288652296192/tGQJ_Mad_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/299375278/1438050919",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1056934489266511900,
+		"quoted_status_id_str": "1056934489266511873",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RRBxIvsfjX",
+			"expanded": "https://twitter.com/CatholicRGV/status/1056934489266511873",
+			"display": "twitter.com/CatholicRGV/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 29 15:43:13 +0000 2018",
+			"id": 1056934489266511900,
+			"id_str": "1056934489266511873",
+			"full_text": "Bishop Flores: A border wall “would in fact be a sign contrary to the Church’s mission.” https://t.co/LuYHUD5xoK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				88
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1056934466176733200,
+						"id_str": "1056934466176733189",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/Dqr8TA9U0AU1fBu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dqr8TA9U0AU1fBu.jpg",
+						"url": "https://t.co/LuYHUD5xoK",
+						"display_url": "pic.twitter.com/LuYHUD5xoK",
+						"expanded_url": "https://twitter.com/CatholicRGV/status/1056934489266511873/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 927,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 525,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1582,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1056934466176733200,
+						"id_str": "1056934466176733189",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/Dqr8TA9U0AU1fBu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dqr8TA9U0AU1fBu.jpg",
+						"url": "https://t.co/LuYHUD5xoK",
+						"display_url": "pic.twitter.com/LuYHUD5xoK",
+						"expanded_url": "https://twitter.com/CatholicRGV/status/1056934489266511873/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 927,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 525,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1582,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1056934466180939800,
+						"id_str": "1056934466180939776",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/Dqr8TA-VAAAq0PT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dqr8TA-VAAAq0PT.jpg",
+						"url": "https://t.co/LuYHUD5xoK",
+						"display_url": "pic.twitter.com/LuYHUD5xoK",
+						"expanded_url": "https://twitter.com/CatholicRGV/status/1056934489266511873/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 927,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 525,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1582,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18907617,
+				"id_str": "18907617",
+				"name": "Brownsville Diocese",
+				"screen_name": "CatholicRGV",
+				"location": "South Texas",
+				"description": "Catholic Diocese of Brownsville - Serving more than a million Catholics in the Rio Grande Valley",
+				"url": "http://t.co/Co8a39mlw8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Co8a39mlw8",
+								"expanded_url": "http://www.cdob.org",
+								"display_url": "cdob.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8218,
+				"friends_count": 546,
+				"listed_count": 197,
+				"created_at": "Mon Jan 12 17:29:30 +0000 2009",
+				"favourites_count": 2926,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6250,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "23357D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3728824596/b17451194e50d7c749127173cbf3cec1_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3728824596/b17451194e50d7c749127173cbf3cec1_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18907617/1452274868",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "013fbf673c82e5e4",
+				"url": "https://api.twitter.com/1.1/geo/id/013fbf673c82e5e4.json",
+				"place_type": "city",
+				"name": "Edinburg",
+				"full_name": "Edinburg, TX",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-98.225807,
+								26.244127
+							],
+							[
+								-98.0790308,
+								26.244127
+							],
+							[
+								-98.0790308,
+								26.450924
+							],
+							[
+								-98.225807,
+								26.450924
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 65,
+			"favorite_count": 140,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 47,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In Texas, Brownsville bishop @bpdflores met with feds wanting to survey church property for construction of border wall and said \"he does not consent to use church property to construct a border wall\" but the govt has filed \"papers\" to gain right of entry https://t.co/RRBxIvsfjX"
+	},
+	{
+		"created_at": "Mon Oct 29 17:27:14 +0000 2018",
+		"id": 1056960663191457800,
+		"id_str": "1056960663191457792",
+		"full_text": "The penguins are back...#DoOO https://t.co/jKj8efeQyp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DoOO",
+					"indices": [
+						24,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jKj8efeQyp",
+					"expanded_url": "https://twitter.com/DomainsConf/status/1056925783976038402",
+					"display_url": "twitter.com/DomainsConf/st…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 664,
+			"friends_count": 1032,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1056925783976038400,
+		"quoted_status_id_str": "1056925783976038402",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jKj8efeQyp",
+			"expanded": "https://twitter.com/DomainsConf/status/1056925783976038402",
+			"display": "twitter.com/DomainsConf/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 29 15:08:38 +0000 2018",
+			"id": 1056925783976038400,
+			"id_str": "1056925783976038402",
+			"full_text": "https://t.co/02NDsmraVs https://t.co/8fnoYJMeui",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				23
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/02NDsmraVs",
+						"expanded_url": "https://domains.reclaimhosting.com/",
+						"display_url": "domains.reclaimhosting.com",
+						"indices": [
+							0,
+							23
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1056925769820192800,
+						"id_str": "1056925769820192774",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/Dqr0Y0gWwAYZxQP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dqr0Y0gWwAYZxQP.jpg",
+						"url": "https://t.co/8fnoYJMeui",
+						"display_url": "pic.twitter.com/8fnoYJMeui",
+						"expanded_url": "https://twitter.com/DomainsConf/status/1056925783976038402/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1420,
+								"h": 602,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 288,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 509,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1056925769820192800,
+						"id_str": "1056925769820192774",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/Dqr0Y0gWwAYZxQP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dqr0Y0gWwAYZxQP.jpg",
+						"url": "https://t.co/8fnoYJMeui",
+						"display_url": "pic.twitter.com/8fnoYJMeui",
+						"expanded_url": "https://twitter.com/DomainsConf/status/1056925783976038402/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1420,
+								"h": 602,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 288,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 509,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 808349016157257700,
+				"id_str": "808349016157257728",
+				"name": "Domains",
+				"screen_name": "DomainsConf",
+				"location": "Durham, NC",
+				"description": "Domains19 • BACK TO THE FUTURE\nJune 10-11, 2019 #Domains19",
+				"url": "https://t.co/TMqRnqo2Ki",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TMqRnqo2Ki",
+								"expanded_url": "http://domains.reclaimhosting.com",
+								"display_url": "domains.reclaimhosting.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 91,
+				"friends_count": 33,
+				"listed_count": 8,
+				"created_at": "Mon Dec 12 16:33:18 +0000 2016",
+				"favourites_count": 59,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 101,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1056921201820413952/XOlT_RBq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1056921201820413952/XOlT_RBq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/808349016157257728/1540824645",
+				"profile_link_color": "9400D3",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The penguins are back...#DoOO https://t.co/jKj8efeQyp"
+	},
+	{
+		"created_at": "Mon Oct 29 16:58:28 +0000 2018",
+		"id": 1056953424921661400,
+		"id_str": "1056953424921661442",
+		"full_text": "New Yorker puzzle is me this week. If it brings any manner of pleasure or distraction, I’ll have done my job. Some of the clues are autobiographical, as you can see below. https://t.co/T6HuUar6xk https://t.co/uYtUQIrsjL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T6HuUar6xk",
+					"expanded_url": "https://www.newyorker.com/crossword/puzzles-dept/2018/10/29",
+					"display_url": "newyorker.com/crossword/puzz…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1056953419640975400,
+					"id_str": "1056953419640975360",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/DqsNiQHVsAAaDRS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqsNiQHVsAAaDRS.jpg",
+					"url": "https://t.co/uYtUQIrsjL",
+					"display_url": "pic.twitter.com/uYtUQIrsjL",
+					"expanded_url": "https://twitter.com/melvillmatic/status/1056953424921661442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 969,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1393,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1056953419640975400,
+					"id_str": "1056953419640975360",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/DqsNiQHVsAAaDRS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqsNiQHVsAAaDRS.jpg",
+					"url": "https://t.co/uYtUQIrsjL",
+					"display_url": "pic.twitter.com/uYtUQIrsjL",
+					"expanded_url": "https://twitter.com/melvillmatic/status/1056953424921661442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 969,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1393,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 353054875,
+			"id_str": "353054875",
+			"name": "k austin collins",
+			"screen_name": "melvillmatic",
+			"location": "New York, NY",
+			"description": "film critic, @vanityfair | formerly @ringer | crosswords, @newyorker @nytimes @avcxword",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12009,
+			"friends_count": 1262,
+			"listed_count": 181,
+			"created_at": "Thu Aug 11 13:48:56 +0000 2011",
+			"favourites_count": 121142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 42656,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1011786074312658945/zfjuPj6y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011786074312658945/zfjuPj6y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/353054875/1540252395",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 87,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New Yorker puzzle is me this week. If it brings any manner of pleasure or distraction, I’ll have done my job. Some of the clues are autobiographical, as you can see below. https://t.co/T6HuUar6xk https://t.co/uYtUQIrsjL"
+	},
+	{
+		"created_at": "Mon Oct 29 14:49:19 +0000 2018",
+		"id": 1056920922836426800,
+		"id_str": "1056920922836426752",
+		"full_text": "We are hiring! Reclaim Hosting is known for stellar support and we are looking for someone that can build out a strong support program to take it to the next level. If that’s you or someone you know we’d love to hear from you! https://t.co/Jsp1uDs8r4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Jsp1uDs8r4",
+					"expanded_url": "https://reclaimhosting.com/careers/customer-support-manager/",
+					"display_url": "reclaimhosting.com/careers/custom…",
+					"indices": [
+						227,
+						250
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1602053274,
+			"id_str": "1602053274",
+			"name": "Reclaim Hosting",
+			"screen_name": "ReclaimHosting",
+			"location": "",
+			"description": "Reclaim Hosting provides educators and institutions with an easy way to offer their students domains and web hosting that they own and control.",
+			"url": "https://t.co/7YLSpKrSJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7YLSpKrSJW",
+							"expanded_url": "https://reclaimhosting.com",
+							"display_url": "reclaimhosting.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1404,
+			"friends_count": 272,
+			"listed_count": 50,
+			"created_at": "Wed Jul 17 23:35:51 +0000 2013",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986364029651357696/VvHYmotd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986364029651357696/VvHYmotd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1602053274/1524002583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are hiring! Reclaim Hosting is known for stellar support and we are looking for someone that can build out a strong support program to take it to the next level. If that’s you or someone you know we’d love to hear from you! https://t.co/Jsp1uDs8r4"
+	},
+	{
 		"created_at": "Sun Oct 28 23:59:46 +0000 2018",
 		"id": 1056697061595406300,
 		"id_str": "1056697061595406338",
