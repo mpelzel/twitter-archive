@@ -1,6 +1,1949 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 11 13:53:27 +0000 2018",
+		"id": 1061617905073176600,
+		"id_str": "1061617905073176577",
+		"full_text": "We do examine assholes all day so it does make us an expert on them. You qualify https://t.co/yRQTZnGqQr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yRQTZnGqQr",
+					"expanded_url": "https://twitter.com/AnnCoulter/status/1061368733229309952",
+					"display_url": "twitter.com/AnnCoulter/sta…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1393551,
+			"id_str": "1393551",
+			"name": "Cathleen London MD",
+			"screen_name": "DrChaya",
+			"location": "Milbridge, ME",
+			"description": "Family Medicine Physician, mother 2 sons 4 dogs, research supplements. views my own, campaign account @DrCat4ME",
+			"url": "https://t.co/j69Q3Bca6A",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j69Q3Bca6A",
+							"expanded_url": "http://www.thevillagedoc.org/",
+							"display_url": "thevillagedoc.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14356,
+			"friends_count": 2770,
+			"listed_count": 167,
+			"created_at": "Sun Mar 18 03:37:46 +0000 2007",
+			"favourites_count": 7521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24997,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "163992",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032987728453857288/_cXN460a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032987728453857288/_cXN460a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1393551/1501762697",
+			"profile_link_color": "7295E9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F0DAF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1061368733229310000,
+		"quoted_status_id_str": "1061368733229309952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yRQTZnGqQr",
+			"expanded": "https://twitter.com/AnnCoulter/status/1061368733229309952",
+			"display": "twitter.com/AnnCoulter/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 10 21:23:19 +0000 2018",
+			"id": 1061368733229310000,
+			"id_str": "1061368733229309952",
+			"full_text": "Emergency room doctors pull cue balls, vines &amp; gummy bears out of human orifices every week.  That doesn't make them experts on pool, horticulture or chewy candy. https://t.co/EdksEGDnCx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				166
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EdksEGDnCx",
+						"expanded_url": "https://twitter.com/drjudymelinek/status/1060912988532629504",
+						"display_url": "twitter.com/drjudymelinek/…",
+						"indices": [
+							167,
+							190
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 196168350,
+				"id_str": "196168350",
+				"name": "Ann Coulter",
+				"screen_name": "AnnCoulter",
+				"location": "Los Angeles/NYC",
+				"description": "Author - follow me on #Facebook! https://t.co/i7VTQ5btPI",
+				"url": "http://t.co/yOTZER5hRn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/yOTZER5hRn",
+								"expanded_url": "http://www.anncoulter.com",
+								"display_url": "anncoulter.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/i7VTQ5btPI",
+								"expanded_url": "http://goo.gl/JvMjld",
+								"display_url": "goo.gl/JvMjld",
+								"indices": [
+									33,
+									56
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2096228,
+				"friends_count": 981,
+				"listed_count": 13201,
+				"created_at": "Tue Sep 28 14:04:51 +0000 2010",
+				"favourites_count": 18,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 37767,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/598204767739981825/iD1DZBbS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/598204767739981825/iD1DZBbS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/196168350/1534785019",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1060912988532629500,
+			"quoted_status_id_str": "1060912988532629504",
+			"quoted_status_permalink": {
+				"url": "https://t.co/EdksEGDnCx",
+				"expanded": "https://twitter.com/drjudymelinek/status/1060912988532629504",
+				"display": "twitter.com/drjudymelinek/…"
+			},
+			"retweet_count": 6760,
+			"favorite_count": 21824,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 26606,
+		"favorite_count": 121309,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We do examine assholes all day so it does make us an expert on them. You qualify https://t.co/yRQTZnGqQr"
+	},
+	{
+		"created_at": "Sat Nov 10 10:10:29 +0000 2018",
+		"id": 1061199406979076100,
+		"id_str": "1061199406979076096",
+		"full_text": "In today’s ⁦@lemondefr⁩: When #Trump received the leaders of #Estonia, #Latvia and #Lithuania, he began by blaming them for the war in Yugoslavia. It took them a few moments to realise he’d mixed up the Balkans and the Baltics. ⁦@SylvieKauffmann⁩ https://t.co/HYQYpbqgGs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Trump",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "Estonia",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"text": "Latvia",
+					"indices": [
+						71,
+						78
+					]
+				},
+				{
+					"text": "Lithuania",
+					"indices": [
+						83,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lemondefr",
+					"name": "Le Monde",
+					"id": 24744541,
+					"id_str": "24744541",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "SylvieKauffmann",
+					"name": "Sylvie Kauffmann",
+					"id": 413413847,
+					"id_str": "413413847",
+					"indices": [
+						229,
+						245
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1061199391296499700,
+					"id_str": "1061199391296499714",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/DrojOVIWsAIAkp3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrojOVIWsAIAkp3.jpg",
+					"url": "https://t.co/HYQYpbqgGs",
+					"display_url": "pic.twitter.com/HYQYpbqgGs",
+					"expanded_url": "https://twitter.com/marklowen/status/1061199406979076096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061199391296499700,
+					"id_str": "1061199391296499714",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/DrojOVIWsAIAkp3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrojOVIWsAIAkp3.jpg",
+					"url": "https://t.co/HYQYpbqgGs",
+					"display_url": "pic.twitter.com/HYQYpbqgGs",
+					"expanded_url": "https://twitter.com/marklowen/status/1061199406979076096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 230014404,
+			"id_str": "230014404",
+			"name": "Mark Lowen",
+			"screen_name": "marklowen",
+			"location": "Istanbul and beyond",
+			"description": "BBC Turkey Correspondent. Previously based in Athens and Belgrade. All views my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32744,
+			"friends_count": 717,
+			"listed_count": 1124,
+			"created_at": "Fri Dec 24 00:57:56 +0000 2010",
+			"favourites_count": 1979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8301,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/696249622780628992/AamSx5Re_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/696249622780628992/AamSx5Re_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/230014404/1514988270",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13842,
+		"favorite_count": 19894,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In today’s ⁦@lemondefr⁩: When #Trump received the leaders of #Estonia, #Latvia and #Lithuania, he began by blaming them for the war in Yugoslavia. It took them a few moments to realise he’d mixed up the Balkans and the Baltics. ⁦@SylvieKauffmann⁩ https://t.co/HYQYpbqgGs"
+	},
+	{
+		"created_at": "Sat Nov 10 21:29:24 +0000 2018",
+		"id": 1061370261897801700,
+		"id_str": "1061370261897801728",
+		"full_text": "In an absolutely scathing statement, California Professional Firefighters President Brian Rice blasts President Trump’s comments on the California fires: https://t.co/Tre3rC2Suw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1061370256071942100,
+					"id_str": "1061370256071942144",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/Drq-n-BVYAAnPph.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Drq-n-BVYAAnPph.jpg",
+					"url": "https://t.co/Tre3rC2Suw",
+					"display_url": "pic.twitter.com/Tre3rC2Suw",
+					"expanded_url": "https://twitter.com/jdelreal/status/1061370261897801728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 626,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1104,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1223,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061370256071942100,
+					"id_str": "1061370256071942144",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/Drq-n-BVYAAnPph.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Drq-n-BVYAAnPph.jpg",
+					"url": "https://t.co/Tre3rC2Suw",
+					"display_url": "pic.twitter.com/Tre3rC2Suw",
+					"expanded_url": "https://twitter.com/jdelreal/status/1061370261897801728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 626,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1104,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1223,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1061370256059326500,
+					"id_str": "1061370256059326464",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/Drq-n9-U4AAqghr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Drq-n9-U4AAqghr.jpg",
+					"url": "https://t.co/Tre3rC2Suw",
+					"display_url": "pic.twitter.com/Tre3rC2Suw",
+					"expanded_url": "https://twitter.com/jdelreal/status/1061370261897801728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1092,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1236,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 619,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22313347,
+			"id_str": "22313347",
+			"name": "Jose A. Del Real",
+			"screen_name": "jdelreal",
+			"location": "Los Angeles, CA",
+			"description": "National correspondent for @nytimes, writing about life and news in California. Alaska Grown. @washingtonpost alum. call me beep me jose.delreal@nytimes.com",
+			"url": "https://t.co/TgE974HO3n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TgE974HO3n",
+							"expanded_url": "http://josedelreal.com",
+							"display_url": "josedelreal.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26112,
+			"friends_count": 3959,
+			"listed_count": 859,
+			"created_at": "Sun Mar 01 00:22:58 +0000 2009",
+			"favourites_count": 12104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 22788,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "717475",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/996905822947979264/Ihe-_xDy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/996905822947979264/Ihe-_xDy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22313347/1532364112",
+			"profile_link_color": "2196F3",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "831E1E",
+			"profile_text_color": "A3D8DF",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47558,
+		"favorite_count": 109956,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In an absolutely scathing statement, California Professional Firefighters President Brian Rice blasts President Trump’s comments on the California fires: https://t.co/Tre3rC2Suw"
+	},
+	{
+		"created_at": "Sat Nov 10 19:00:12 +0000 2018",
+		"id": 1061332713586806800,
+		"id_str": "1061332713586806785",
+		"full_text": "First excerpt from TALK ON THE WILD SIDE in @politico , and appropriately political: why George Orwell's rules from \"Politics and the English Language\" didn't save us from Trump and Brexit. In many ways Trump and Nigel Farage obey those rules. https://t.co/WstPgyG8c9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "politico",
+					"name": "POLITICO",
+					"id": 9300262,
+					"id_str": "9300262",
+					"indices": [
+						44,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WstPgyG8c9",
+					"expanded_url": "https://www.politico.com/magazine/story/2018/11/10/donald-trump-george-orwell-222404",
+					"display_url": "politico.com/magazine/story…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49170981,
+			"id_str": "49170981",
+			"name": "Lane Greene",
+			"screen_name": "lanegreene",
+			"location": "London, England",
+			"description": "Language columnist and editor, @TheEconomist. \"Talk on the Wild Side: Why Language Can't be Tamed\" is now out in UK/EU, and coming to N. America on November 6.",
+			"url": "https://t.co/5elNAsHplS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5elNAsHplS",
+							"expanded_url": "http://lanegreene.com",
+							"display_url": "lanegreene.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7279,
+			"friends_count": 1778,
+			"listed_count": 352,
+			"created_at": "Sun Jun 21 00:24:13 +0000 2009",
+			"favourites_count": 806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6591,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060140576102932480/skGizzAA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060140576102932480/skGizzAA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49170981/1539959816",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "First excerpt from TALK ON THE WILD SIDE in @politico , and appropriately political: why George Orwell's rules from \"Politics and the English Language\" didn't save us from Trump and Brexit. In many ways Trump and Nigel Farage obey those rules. https://t.co/WstPgyG8c9"
+	},
+	{
+		"created_at": "Sat Nov 10 19:07:26 +0000 2018",
+		"id": 1061334535315640300,
+		"id_str": "1061334535315640321",
+		"full_text": "My Intro to Digital Studies students have a final project about what life online is like at the end of 2018. Key principles: the project must be public, and it must exist offline. https://t.co/dmmlsAUyKX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dmmlsAUyKX",
+					"expanded_url": "https://courses.digitaldavidson.net/dig101-2018/life-online-project/",
+					"display_url": "courses.digitaldavidson.net/dig101-2018/li…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Sample",
+			"screen_name": "samplereality",
+			"location": "This Land Is Your Land",
+			"description": "Associate Professor and Scholar of Digital Media and Culture at Davidson College. I regret all my passwords.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8761,
+			"friends_count": 1151,
+			"listed_count": 521,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41384,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1484516426",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My Intro to Digital Studies students have a final project about what life online is like at the end of 2018. Key principles: the project must be public, and it must exist offline. https://t.co/dmmlsAUyKX"
+	},
+	{
+		"created_at": "Sat Nov 10 19:39:04 +0000 2018",
+		"id": 1061342495458635800,
+		"id_str": "1061342495458635776",
+		"full_text": "The World Chess Championship is deadlocked after Game 2: https://t.co/Hs3EWLDHGi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Hs3EWLDHGi",
+					"expanded_url": "https://53eig.ht/2qDwbJt",
+					"display_url": "53eig.ht/2qDwbJt",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2303751216,
+			"id_str": "2303751216",
+			"name": "FiveThirtyEight",
+			"screen_name": "FiveThirtyEight",
+			"location": "New York, NY",
+			"description": "The home of Nate Silver's FiveThirtyEight on Twitter. Politics, Economics, Science, Life, Sports.",
+			"url": "https://t.co/BDdsHpm7og",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BDdsHpm7og",
+							"expanded_url": "http://www.fivethirtyeight.com",
+							"display_url": "fivethirtyeight.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1010255,
+			"friends_count": 261,
+			"listed_count": 15173,
+			"created_at": "Tue Jan 21 21:39:32 +0000 2014",
+			"favourites_count": 1168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 59692,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875426588061573121/lpQG3W6i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875426588061573121/lpQG3W6i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2303751216/1481815429",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The World Chess Championship is deadlocked after Game 2: https://t.co/Hs3EWLDHGi"
+	},
+	{
+		"created_at": "Sat Nov 10 17:48:05 +0000 2018",
+		"id": 1061314566028750800,
+		"id_str": "1061314566028750848",
+		"full_text": "\"As a group we vibe very well. There are so many things that we have inside jokes and talk to each other about. Like, it’s [three] in the morning, but you’re still able to laugh with these people.\" https://t.co/m7q2JEWmZF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m7q2JEWmZF",
+					"expanded_url": "http://www.ricethresher.org/article/2018/11/archis-at-rice",
+					"display_url": "ricethresher.org/article/2018/1…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 69330711,
+			"id_str": "69330711",
+			"name": "The Rice Thresher",
+			"screen_name": "TheRiceThresher",
+			"location": "2nd floor of the RMC, MS-524",
+			"description": "Rice University's student-run newspaper, celebrating 102 years!",
+			"url": "http://t.co/v62VheKV64",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/v62VheKV64",
+							"expanded_url": "http://www.ricethresher.org",
+							"display_url": "ricethresher.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3373,
+			"friends_count": 80,
+			"listed_count": 156,
+			"created_at": "Thu Aug 27 16:13:48 +0000 2009",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2442,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/776478038435307520/Kz60n__Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/776478038435307520/Kz60n__Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/69330711/1473962214",
+			"profile_link_color": "212E66",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"As a group we vibe very well. There are so many things that we have inside jokes and talk to each other about. Like, it’s [three] in the morning, but you’re still able to laugh with these people.\" https://t.co/m7q2JEWmZF"
+	},
+	{
+		"created_at": "Fri Nov 02 15:25:06 +0000 2018",
+		"id": 1058379478290886700,
+		"id_str": "1058379478290886656",
+		"full_text": "FFL has long said, \"No woman should be forced to choose between sacrificing her education and career plans and sacrificing her child.\" Our College Outreach Program shows how to accommodate pregnant women, expectant fathers, parents, and birthmothers.\n\nhttps://t.co/iWCYDNDKc3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iWCYDNDKc3",
+					"expanded_url": "https://theweek.com/articles/803160/women-shouldnt-have-choose-between-motherhood-higher-education",
+					"display_url": "theweek.com/articles/80316…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 308623653,
+			"id_str": "308623653",
+			"name": "Feminists for Life",
+			"screen_name": "Feminists4Life",
+			"location": "Alexandria, VA",
+			"description": "Abortion is a reflection that our society has failed to meet the needs of women. Women deserve better.",
+			"url": "http://t.co/wrfoLA6c9J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/wrfoLA6c9J",
+							"expanded_url": "http://www.feministsforlife.org",
+							"display_url": "feministsforlife.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6872,
+			"friends_count": 62,
+			"listed_count": 159,
+			"created_at": "Tue May 31 18:32:30 +0000 2011",
+			"favourites_count": 720,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2536,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "272727",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1376488021/logo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1376488021/logo_normal.jpg",
+			"profile_link_color": "006666",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "99CCCC",
+			"profile_text_color": "1D0445",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 19,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "FFL has long said, \"No woman should be forced to choose between sacrificing her education and career plans and sacrificing her child.\" Our College Outreach Program shows how to accommodate pregnant women, expectant fathers, parents, and birthmothers.\n\nhttps://t.co/iWCYDNDKc3"
+	},
+	{
+		"created_at": "Thu Nov 08 22:31:13 +0000 2018",
+		"id": 1060661043863674900,
+		"id_str": "1060661043863674885",
+		"full_text": "Interested in the FIRE movement? (Financial Independence/Retire Early)  If so, here's something you need to read:  https://t.co/ZTozdpOJ4U https://t.co/ZTozdpOJ4U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZTozdpOJ4U",
+					"expanded_url": "https://assetbuilder.com/knowledge-center/articles/how-a-stock-market-crash-could-accelerate-your-fire",
+					"display_url": "assetbuilder.com/knowledge-cent…",
+					"indices": [
+						115,
+						138
+					]
+				},
+				{
+					"url": "https://t.co/ZTozdpOJ4U",
+					"expanded_url": "https://assetbuilder.com/knowledge-center/articles/how-a-stock-market-crash-could-accelerate-your-fire",
+					"display_url": "assetbuilder.com/knowledge-cent…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 30863691,
+			"id_str": "30863691",
+			"name": "Andrew Hallam",
+			"screen_name": "aphallam",
+			"location": "Canada",
+			"description": "author of Millionaire Teacher & The Global Expatriate’s Guide To Investing",
+			"url": "http://t.co/BoWk6ZDq1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/BoWk6ZDq1C",
+							"expanded_url": "http://andrewhallam.com",
+							"display_url": "andrewhallam.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13257,
+			"friends_count": 13087,
+			"listed_count": 147,
+			"created_at": "Mon Apr 13 13:28:15 +0000 2009",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5344,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/771590575736750081/N8i6snQf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/771590575736750081/N8i6snQf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/30863691/1472796438",
+			"profile_link_color": "205669",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "CDFEFE",
+			"profile_text_color": "222222",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interested in the FIRE movement? (Financial Independence/Retire Early)  If so, here's something you need to read:  https://t.co/ZTozdpOJ4U https://t.co/ZTozdpOJ4U"
+	},
+	{
+		"created_at": "Fri Nov 09 15:23:00 +0000 2018",
+		"id": 1060915666331459600,
+		"id_str": "1060915666331459584",
+		"full_text": "A three-crop rotation required 86 %  less mineral nitrogen fertilizer and 96 % less herbicide use. #sustainablesolution #agriculture #croprotation #bergsus \n\nhttps://t.co/pYFsbDcKyZ via @YaleE360",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sustainablesolution",
+					"indices": [
+						99,
+						119
+					]
+				},
+				{
+					"text": "agriculture",
+					"indices": [
+						120,
+						132
+					]
+				},
+				{
+					"text": "croprotation",
+					"indices": [
+						133,
+						146
+					]
+				},
+				{
+					"text": "bergsus",
+					"indices": [
+						147,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YaleE360",
+					"name": "Yale Environment 360",
+					"id": 19918353,
+					"id_str": "19918353",
+					"indices": [
+						186,
+						195
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pYFsbDcKyZ",
+					"expanded_url": "https://e360.yale.edu/features/where-corn-is-king-the-stirrings-of-a-small-grain-renaissance",
+					"display_url": "e360.yale.edu/features/where…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2383944895,
+			"id_str": "2383944895",
+			"name": "Richard Niesenbaum",
+			"screen_name": "SusSolutions",
+			"location": "Muhlenberg College, Allentown",
+			"description": "Professor of Biology & Sustainability, Passion for Plants, Author of 'Sustainable Solutions: Problem Solving for Current and Future Generations' out fall ‘18",
+			"url": "https://t.co/WgXlANxfBp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WgXlANxfBp",
+							"expanded_url": "https://richardniesenbaum.com",
+							"display_url": "richardniesenbaum.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 467,
+			"friends_count": 402,
+			"listed_count": 86,
+			"created_at": "Tue Mar 11 16:16:49 +0000 2014",
+			"favourites_count": 848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2296,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016488616200163329/B8548xPB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016488616200163329/B8548xPB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2383944895/1535985379",
+			"profile_link_color": "00B377",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A three-crop rotation required 86 %  less mineral nitrogen fertilizer and 96 % less herbicide use. #sustainablesolution #agriculture #croprotation #bergsus \n\nhttps://t.co/pYFsbDcKyZ via @YaleE360"
+	},
+	{
+		"created_at": "Sat Nov 10 17:19:25 +0000 2018",
+		"id": 1061307353889468400,
+		"id_str": "1061307353889468417",
+		"full_text": ".@MadsPelzel https://t.co/81NjUYARiM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MadsPelzel",
+					"name": "Madeleine Pelzel",
+					"id": 532725843,
+					"id_str": "532725843",
+					"indices": [
+						1,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/81NjUYARiM",
+					"expanded_url": "https://twitter.com/americamag/status/1061053346021367809",
+					"display_url": "twitter.com/americamag/sta…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 671,
+			"friends_count": 1039,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5861,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7201,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1061053346021367800,
+		"quoted_status_id_str": "1061053346021367809",
+		"quoted_status_permalink": {
+			"url": "https://t.co/81NjUYARiM",
+			"expanded": "https://twitter.com/americamag/status/1061053346021367809",
+			"display": "twitter.com/americamag/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 10 00:30:05 +0000 2018",
+			"id": 1061053346021367800,
+			"id_str": "1061053346021367809",
+			"full_text": "Mary Magdalene is my patron saint, chosen when I went through confirmation, but she is also the patron saint of the mansplained, writes @kayaoakes.\nhttps://t.co/11fPAi0Df2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				171
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "kayaoakes",
+						"name": "Kaya Oakes",
+						"id": 48150548,
+						"id_str": "48150548",
+						"indices": [
+							136,
+							146
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/11fPAi0Df2",
+						"expanded_url": "https://www.americamagazine.org/faith/2018/11/09/what-it-means-be-catholic-feminist-and-why-church-must-embrace-it",
+						"display_url": "americamagazine.org/faith/2018/11/…",
+						"indices": [
+							148,
+							171
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17372204,
+				"id_str": "17372204",
+				"name": "America Magazine",
+				"screen_name": "americamag",
+				"location": "",
+				"description": "The Jesuit Review of Faith and Culture",
+				"url": "https://t.co/oa7owxzsNV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oa7owxzsNV",
+								"expanded_url": "http://www.americamagazine.org",
+								"display_url": "americamagazine.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 53227,
+				"friends_count": 377,
+				"listed_count": 1085,
+				"created_at": "Thu Nov 13 19:28:03 +0000 2008",
+				"favourites_count": 1401,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 42844,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EAECF0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823506014548951041/pt6Tnc3z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823506014548951041/pt6Tnc3z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17372204/1485174139",
+				"profile_link_color": "0044B4",
+				"profile_sidebar_border_color": "181E15",
+				"profile_sidebar_fill_color": "CCFFF7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 72,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": ".@MadsPelzel https://t.co/81NjUYARiM"
+	},
+	{
+		"created_at": "Fri Nov 09 17:51:09 +0000 2018",
+		"id": 1060952948774260700,
+		"id_str": "1060952948774260736",
+		"full_text": "These abandoned and burned out cars shows you what a panic it must have been for residents trying to escape the Camp Fire. Unreal scenes in Paradise, CA, this morning. #CampFire https://t.co/AhBuWzS0Tx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CampFire",
+					"indices": [
+						168,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1060951262953381900,
+					"id_str": "1060951262953381889",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060951262953381889/pu/img/MoVNR_7Qs6RQv5oO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060951262953381889/pu/img/MoVNR_7Qs6RQv5oO.jpg",
+					"url": "https://t.co/AhBuWzS0Tx",
+					"display_url": "pic.twitter.com/AhBuWzS0Tx",
+					"expanded_url": "https://twitter.com/CNNValencia/status/1060952948774260736/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060951262953381900,
+					"id_str": "1060951262953381889",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1060951262953381889/pu/img/MoVNR_7Qs6RQv5oO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1060951262953381889/pu/img/MoVNR_7Qs6RQv5oO.jpg",
+					"url": "https://t.co/AhBuWzS0Tx",
+					"display_url": "pic.twitter.com/AhBuWzS0Tx",
+					"expanded_url": "https://twitter.com/CNNValencia/status/1060952948774260736/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 23028,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1060951262953381889/pu/vid/1280x720/8Zes_0NOmWWcYj8d.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1060951262953381889/pu/vid/640x360/njEFR9Od81GFG_cQ.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1060951262953381889/pu/vid/320x180/hCj8CHKmZYTS7RWO.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1060951262953381889/pu/pl/7gkBafYEdtJ7I2TO.m3u8?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15320603,
+			"id_str": "15320603",
+			"name": "Nick Valencia",
+			"screen_name": "CNNValencia",
+			"location": "Los Angeles-Atlanta-The World",
+			"description": "New Dad ❤️ Correspondent @CNN. Vice President of Broadcast & Executive Board @NAHJ. @USCAnnenberg Alum.  Born & raised in Northeast LA #EagleRock",
+			"url": "https://t.co/W1jGud7sxE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W1jGud7sxE",
+							"expanded_url": "http://www.cnn.com/profiles/nick-valencia-profile",
+							"display_url": "cnn.com/profiles/nick-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23508,
+			"friends_count": 5709,
+			"listed_count": 1035,
+			"created_at": "Fri Jul 04 20:10:09 +0000 2008",
+			"favourites_count": 7876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 40833,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854003416644931585/XF39oanz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854003416644931585/XF39oanz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15320603/1537112371",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "ca9dad2bd6490ee0",
+			"url": "https://api.twitter.com/1.1/geo/id/ca9dad2bd6490ee0.json",
+			"place_type": "city",
+			"name": "Paradise",
+			"full_name": "Paradise, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-121.657304,
+							39.724579
+						],
+						[
+							-121.563121,
+							39.724579
+						],
+						[
+							-121.563121,
+							39.801597
+						],
+						[
+							-121.657304,
+							39.801597
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22133,
+		"favorite_count": 37624,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These abandoned and burned out cars shows you what a panic it must have been for residents trying to escape the Camp Fire. Unreal scenes in Paradise, CA, this morning. #CampFire https://t.co/AhBuWzS0Tx"
+	},
+	{
 		"created_at": "Sat Nov 10 10:10:29 +0000 2018",
 		"id": 1061199406979076100,
 		"id_str": "1061199406979076096",
