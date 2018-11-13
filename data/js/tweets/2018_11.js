@@ -1,6 +1,1602 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 12 20:32:41 +0000 2018",
+		"id": 1062080766220402700,
+		"id_str": "1062080766220402688",
+		"full_text": "Well, this is terrible https://t.co/fmkOmd3nQ1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fmkOmd3nQ1",
+					"expanded_url": "https://twitter.com/MSyallpolitics/status/1062032791427313665",
+					"display_url": "twitter.com/MSyallpolitics…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14412533,
+			"id_str": "14412533",
+			"name": "Chris Cillizza",
+			"screen_name": "CillizzaCNN",
+			"location": "Washington, D.C.",
+			"description": "\"One of the dumber and least respected of the political pundits.\" -- Donald Trump; \"A f*!-ing mouth breather.\" -- Roseanne Barr",
+			"url": "https://t.co/VM2JQsQH6X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VM2JQsQH6X",
+							"expanded_url": "http://CNN.com/ThePoint",
+							"display_url": "CNN.com/ThePoint",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 665565,
+			"friends_count": 3224,
+			"listed_count": 9907,
+			"created_at": "Wed Apr 16 20:34:24 +0000 2008",
+			"favourites_count": 183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125969,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/918126286610018305/0LVMCwOV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/918126286610018305/0LVMCwOV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14412533/1498647512",
+			"profile_link_color": "A81B1B",
+			"profile_sidebar_border_color": "5E8B9C",
+			"profile_sidebar_fill_color": "8EA5BF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1062032791427313700,
+		"quoted_status_id_str": "1062032791427313665",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fmkOmd3nQ1",
+			"expanded": "https://twitter.com/MSyallpolitics/status/1062032791427313665",
+			"display": "twitter.com/MSyallpolitics…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 12 17:22:03 +0000 2018",
+			"id": 1062032791427313700,
+			"id_str": "1062032791427313665",
+			"full_text": "In today’s press conference receiving an endorsement from the National Right to Life President, @SenHydeSmith was only asked questions regarding her statement on “public hangings” this is what she and Gov. @PhilBryantMS had to say: #mssen #mselex https://t.co/HuFZlNlq34",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				246
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "mssen",
+						"indices": [
+							232,
+							238
+						]
+					},
+					{
+						"text": "mselex",
+						"indices": [
+							239,
+							246
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SenHydeSmith",
+						"name": "U.S. Senator Cindy Hyde-Smith",
+						"id": 983348251972816900,
+						"id_str": "983348251972816896",
+						"indices": [
+							96,
+							109
+						]
+					},
+					{
+						"screen_name": "PhilBryantMS",
+						"name": "Phil Bryant",
+						"id": 231592153,
+						"id_str": "231592153",
+						"indices": [
+							206,
+							219
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1062032336336773100,
+						"id_str": "1062032336336773123",
+						"indices": [
+							247,
+							270
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1062032336336773123/pu/img/-wb5cVmetNbRFbTM.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1062032336336773123/pu/img/-wb5cVmetNbRFbTM.jpg",
+						"url": "https://t.co/HuFZlNlq34",
+						"display_url": "pic.twitter.com/HuFZlNlq34",
+						"expanded_url": "https://twitter.com/MSyallpolitics/status/1062032791427313665/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1062032336336773100,
+						"id_str": "1062032336336773123",
+						"indices": [
+							247,
+							270
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1062032336336773123/pu/img/-wb5cVmetNbRFbTM.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1062032336336773123/pu/img/-wb5cVmetNbRFbTM.jpg",
+						"url": "https://t.co/HuFZlNlq34",
+						"display_url": "pic.twitter.com/HuFZlNlq34",
+						"expanded_url": "https://twitter.com/MSyallpolitics/status/1062032791427313665/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 140000,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1062032336336773123/pu/vid/640x360/sbtC7N5ge5ee2MWc.mp4?tag=5"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1062032336336773123/pu/vid/1280x720/xuHlEDyzvwdjnu78.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1062032336336773123/pu/pl/ZnC2A5K5bqamrMV-.m3u8?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1062032336336773123/pu/vid/320x180/dm17DuTwyEtPe-aY.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 48463400,
+				"id_str": "48463400",
+				"name": "Yall Politics",
+				"screen_name": "MSyallpolitics",
+				"location": "Jackson, MS",
+				"description": "Mississippi's leading conservative news, analysis and commentary aggregator since 2004. 50,000,000 page views & counting on #msleg, #mssen and politics in MS.",
+				"url": "https://t.co/dVKXPSTuG9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dVKXPSTuG9",
+								"expanded_url": "http://www.yallpolitics.com",
+								"display_url": "yallpolitics.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8656,
+				"friends_count": 1689,
+				"listed_count": 205,
+				"created_at": "Thu Jun 18 19:41:48 +0000 2009",
+				"favourites_count": 650,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 26567,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "121314",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/705358409755959296/UGIQJfVb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/705358409755959296/UGIQJfVb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/48463400/1486508539",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "09090A",
+				"profile_sidebar_fill_color": "C28418",
+				"profile_text_color": "211D21",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 259,
+			"favorite_count": 342,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 75,
+		"favorite_count": 222,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well, this is terrible https://t.co/fmkOmd3nQ1"
+	},
+	{
+		"created_at": "Sun Nov 11 03:49:05 +0000 2018",
+		"id": 1061465813977362400,
+		"id_str": "1061465813977362432",
+		"full_text": "For other old people like myself: “How to make a GIF from a YouTube video” https://t.co/5kLPcr8rK3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5kLPcr8rK3",
+					"expanded_url": "https://www.digitaltrends.com/computing/turn-youtube-video-gif/",
+					"display_url": "digitaltrends.com/computing/turn…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2182862052,
+			"id_str": "2182862052",
+			"name": "Robin DeRosa",
+			"screen_name": "actualham",
+			"location": "New Hampshire, USA",
+			"description": "Interdisciplinary Prof/Director; Ed @HybridPed; #OpenPed #OER #OA; public university/community college missions; learner-centered HigherEd; cherish outliers",
+			"url": "https://t.co/SeO0KU15y5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SeO0KU15y5",
+							"expanded_url": "http://robinderosa.net",
+							"display_url": "robinderosa.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6241,
+			"friends_count": 1369,
+			"listed_count": 370,
+			"created_at": "Fri Nov 08 20:13:27 +0000 2013",
+			"favourites_count": 38446,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11039,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030A09",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/885553291056353281/ye-nZujw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/885553291056353281/ye-nZujw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2182862052/1464633198",
+			"profile_link_color": "C94410",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For other old people like myself: “How to make a GIF from a YouTube video” https://t.co/5kLPcr8rK3"
+	},
+	{
+		"created_at": "Mon Nov 12 20:26:10 +0000 2018",
+		"id": 1062079126473990100,
+		"id_str": "1062079126473990145",
+		"full_text": "@actualham You taught me how to do this... https://t.co/7rHZHEYHlh",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "actualham",
+					"name": "Robin DeRosa",
+					"id": 2182862052,
+					"id_str": "2182862052",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1062079110644559900,
+					"id_str": "1062079110644559872",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dr1DUvFU8AAigta.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dr1DUvFU8AAigta.jpg",
+					"url": "https://t.co/7rHZHEYHlh",
+					"display_url": "pic.twitter.com/7rHZHEYHlh",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1062079126473990145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 164,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 164,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 164,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1062079110644559900,
+					"id_str": "1062079110644559872",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dr1DUvFU8AAigta.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dr1DUvFU8AAigta.jpg",
+					"url": "https://t.co/7rHZHEYHlh",
+					"display_url": "pic.twitter.com/7rHZHEYHlh",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1062079126473990145/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 164,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 164,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 164,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							50,
+							41
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dr1DUvFU8AAigta.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1062073696762900500,
+		"in_reply_to_status_id_str": "1062073696762900481",
+		"in_reply_to_user_id": 2182862052,
+		"in_reply_to_user_id_str": "2182862052",
+		"in_reply_to_screen_name": "actualham",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 671,
+			"friends_count": 1039,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7208,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@actualham You taught me how to do this... https://t.co/7rHZHEYHlh"
+	},
+	{
+		"created_at": "Mon Nov 12 20:03:56 +0000 2018",
+		"id": 1062073530832035800,
+		"id_str": "1062073530832035840",
+		"full_text": "@actualham You *always* have the most fascinating flights ... how do you do it?!?",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "actualham",
+					"name": "Robin DeRosa",
+					"id": 2182862052,
+					"id_str": "2182862052",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1062073203156230100,
+		"in_reply_to_status_id_str": "1062073203156230144",
+		"in_reply_to_user_id": 2182862052,
+		"in_reply_to_user_id_str": "2182862052",
+		"in_reply_to_screen_name": "actualham",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 671,
+			"friends_count": 1039,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7208,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@actualham You *always* have the most fascinating flights ... how do you do it?!?"
+	},
+	{
+		"created_at": "Mon Nov 12 19:30:17 +0000 2018",
+		"id": 1062065060527390700,
+		"id_str": "1062065060527390720",
+		"full_text": "But we can take better care of each other. I know we can. Thank you.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1062064980466516000,
+		"in_reply_to_status_id_str": "1062064980466515969",
+		"in_reply_to_user_id": 14230012,
+		"in_reply_to_user_id_str": "14230012",
+		"in_reply_to_screen_name": "rexparker",
+		"user": {
+			"id": 14230012,
+			"id_str": "14230012",
+			"name": "Rex Parker🏹🏹🏹",
+			"screen_name": "rexparker",
+			"location": "Binghamton, NY",
+			"description": "Tossword Critter // I married a Kiwi // #crosswords #pulp #tcm // he him His Highness // All Hail OOXTEPLERNON!",
+			"url": "https://t.co/lL1n14Xuv4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lL1n14Xuv4",
+							"expanded_url": "http://rexwordpuzzle.blogspot.com",
+							"display_url": "rexwordpuzzle.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6919,
+			"friends_count": 249,
+			"listed_count": 150,
+			"created_at": "Wed Mar 26 21:33:58 +0000 2008",
+			"favourites_count": 43972,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74101,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/977249006060531715/kD3wMl50_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/977249006060531715/kD3wMl50_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14230012/1524625527",
+			"profile_link_color": "D10404",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "But we can take better care of each other. I know we can. Thank you."
+	},
+	{
+		"created_at": "Mon Nov 12 19:52:37 +0000 2018",
+		"id": 1062070679774867500,
+		"id_str": "1062070679774867458",
+		"full_text": "\"Never send to know for whom the bell tolls; it tolls for thee.\"\n\nMan, this thread... https://t.co/QyWf0tvIeS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QyWf0tvIeS",
+					"expanded_url": "https://twitter.com/rexparker/status/1062053776226480133",
+					"display_url": "twitter.com/rexparker/stat…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 671,
+			"friends_count": 1039,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7208,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1062053776226480100,
+		"quoted_status_id_str": "1062053776226480133",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QyWf0tvIeS",
+			"expanded": "https://twitter.com/rexparker/status/1062053776226480133",
+			"display": "twitter.com/rexparker/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 12 18:45:26 +0000 2018",
+			"id": 1062053776226480100,
+			"id_str": "1062053776226480133",
+			"full_text": "Got to school this morning and was approached by a colleague who said: \"I'm sorry to hear about your student.\" \n\nI had no idea what she was talking about.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				154
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14230012,
+				"id_str": "14230012",
+				"name": "Rex Parker🏹🏹🏹",
+				"screen_name": "rexparker",
+				"location": "Binghamton, NY",
+				"description": "Tossword Critter // I married a Kiwi // #crosswords #pulp #tcm // he him His Highness // All Hail OOXTEPLERNON!",
+				"url": "https://t.co/lL1n14Xuv4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lL1n14Xuv4",
+								"expanded_url": "http://rexwordpuzzle.blogspot.com",
+								"display_url": "rexwordpuzzle.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6919,
+				"friends_count": 249,
+				"listed_count": 150,
+				"created_at": "Wed Mar 26 21:33:58 +0000 2008",
+				"favourites_count": 43972,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 74101,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/977249006060531715/kD3wMl50_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/977249006060531715/kD3wMl50_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14230012/1524625527",
+				"profile_link_color": "D10404",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Never send to know for whom the bell tolls; it tolls for thee.\"\n\nMan, this thread... https://t.co/QyWf0tvIeS"
+	},
+	{
+		"created_at": "Mon Nov 12 17:24:47 +0000 2018",
+		"id": 1062033480257847300,
+		"id_str": "1062033480257847299",
+		"full_text": "Now this is an assignment I can get into (actually, I've already solved the puzzles and done all the reading...) https://t.co/FkzkSIgyq5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FkzkSIgyq5",
+					"expanded_url": "https://twitter.com/laurabrarian/status/1062029081494065153",
+					"display_url": "twitter.com/laurabrarian/s…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 671,
+			"friends_count": 1039,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7208,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1062029081494065200,
+		"quoted_status_id_str": "1062029081494065153",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FkzkSIgyq5",
+			"expanded": "https://twitter.com/laurabrarian/status/1062029081494065153",
+			"display": "twitter.com/laurabrarian/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 12 17:07:19 +0000 2018",
+			"id": 1062029081494065200,
+			"id_str": "1062029081494065153",
+			"full_text": "I just guest-lectured about crosswords in an Intro to Gender Studies course, AMA https://t.co/ZnJQfRoOZV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				80
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1062029076712620000,
+						"id_str": "1062029076712620033",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/Dr0V0YKXgAEOZh6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dr0V0YKXgAEOZh6.jpg",
+						"url": "https://t.co/ZnJQfRoOZV",
+						"display_url": "pic.twitter.com/ZnJQfRoOZV",
+						"expanded_url": "https://twitter.com/laurabrarian/status/1062029081494065153/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1062029076712620000,
+						"id_str": "1062029076712620033",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/Dr0V0YKXgAEOZh6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dr0V0YKXgAEOZh6.jpg",
+						"url": "https://t.co/ZnJQfRoOZV",
+						"display_url": "pic.twitter.com/ZnJQfRoOZV",
+						"expanded_url": "https://twitter.com/laurabrarian/status/1062029081494065153/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12838892,
+				"id_str": "12838892",
+				"name": "Laura 🗳 Braunstein",
+				"screen_name": "laurabrarian",
+				"location": "Hanover, NH",
+				"description": "Digital Humanities Librarian - Libraries & DH & SF/F & beer & crosswords & comics & old movies. @areopagitibot #RESIST #noncompliant https://t.co/OCjE7dp0R0",
+				"url": "https://t.co/mMPqWjtnU5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mMPqWjtnU5",
+								"expanded_url": "http://inkubatorcrosswords.com/",
+								"display_url": "inkubatorcrosswords.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/OCjE7dp0R0",
+								"expanded_url": "http://pronoun.is/she",
+								"display_url": "pronoun.is/she",
+								"indices": [
+									133,
+									156
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2436,
+				"friends_count": 1097,
+				"listed_count": 140,
+				"created_at": "Tue Jan 29 18:10:43 +0000 2008",
+				"favourites_count": 23922,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17367,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823656924902293505/G6P0C-vA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823656924902293505/G6P0C-vA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12838892/1485008017",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Now this is an assignment I can get into (actually, I've already solved the puzzles and done all the reading...) https://t.co/FkzkSIgyq5"
+	},
+	{
+		"created_at": "Sun Nov 11 13:53:27 +0000 2018",
+		"id": 1061617905073176600,
+		"id_str": "1061617905073176577",
+		"full_text": "We do examine assholes all day so it does make us an expert on them. You qualify https://t.co/yRQTZnGqQr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yRQTZnGqQr",
+					"expanded_url": "https://twitter.com/AnnCoulter/status/1061368733229309952",
+					"display_url": "twitter.com/AnnCoulter/sta…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1393551,
+			"id_str": "1393551",
+			"name": "Cathleen London MD",
+			"screen_name": "DrChaya",
+			"location": "Milbridge, ME",
+			"description": "Family Medicine Physician, mother 2 sons 4 dogs, research supplements. views my own, campaign account @DrCat4ME",
+			"url": "https://t.co/j69Q3Bca6A",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j69Q3Bca6A",
+							"expanded_url": "http://www.thevillagedoc.org/",
+							"display_url": "thevillagedoc.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18210,
+			"friends_count": 2817,
+			"listed_count": 176,
+			"created_at": "Sun Mar 18 03:37:46 +0000 2007",
+			"favourites_count": 7703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25029,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "163992",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032987728453857288/_cXN460a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032987728453857288/_cXN460a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1393551/1501762697",
+			"profile_link_color": "7295E9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F0DAF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1061368733229310000,
+		"quoted_status_id_str": "1061368733229309952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yRQTZnGqQr",
+			"expanded": "https://twitter.com/AnnCoulter/status/1061368733229309952",
+			"display": "twitter.com/AnnCoulter/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 10 21:23:19 +0000 2018",
+			"id": 1061368733229310000,
+			"id_str": "1061368733229309952",
+			"full_text": "Emergency room doctors pull cue balls, vines &amp; gummy bears out of human orifices every week.  That doesn't make them experts on pool, horticulture or chewy candy. https://t.co/EdksEGDnCx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				166
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EdksEGDnCx",
+						"expanded_url": "https://twitter.com/drjudymelinek/status/1060912988532629504",
+						"display_url": "twitter.com/drjudymelinek/…",
+						"indices": [
+							167,
+							190
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 196168350,
+				"id_str": "196168350",
+				"name": "Ann Coulter",
+				"screen_name": "AnnCoulter",
+				"location": "Los Angeles/NYC",
+				"description": "Author - follow me on #Facebook! https://t.co/i7VTQ5btPI",
+				"url": "http://t.co/yOTZER5hRn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/yOTZER5hRn",
+								"expanded_url": "http://www.anncoulter.com",
+								"display_url": "anncoulter.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/i7VTQ5btPI",
+								"expanded_url": "http://goo.gl/JvMjld",
+								"display_url": "goo.gl/JvMjld",
+								"indices": [
+									33,
+									56
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2097415,
+				"friends_count": 981,
+				"listed_count": 13211,
+				"created_at": "Tue Sep 28 14:04:51 +0000 2010",
+				"favourites_count": 18,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 37795,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/598204767739981825/iD1DZBbS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/598204767739981825/iD1DZBbS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/196168350/1534785019",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1060912988532629500,
+			"quoted_status_id_str": "1060912988532629504",
+			"quoted_status_permalink": {
+				"url": "https://t.co/EdksEGDnCx",
+				"expanded": "https://twitter.com/drjudymelinek/status/1060912988532629504",
+				"display": "twitter.com/drjudymelinek/…"
+			},
+			"retweet_count": 7978,
+			"favorite_count": 27573,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 67308,
+		"favorite_count": 346863,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We do examine assholes all day so it does make us an expert on them. You qualify https://t.co/yRQTZnGqQr"
+	},
+	{
 		"created_at": "Sun Nov 11 13:53:27 +0000 2018",
 		"id": 1061617905073176600,
 		"id_str": "1061617905073176577",
