@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 15 17:21:23 +0000 2018",
+		"id": 1063119787981787100,
+		"id_str": "1063119787981787136",
+		"full_text": "LAC folk! Get yerself a-registerin' for @EDUCAUSELI pre-conf workshop 'Local and Global Decisions: Development and Assessment of Digital Competency Initiatives 2/19 w/ the gr8 @JSpohrer @sendelbach @MorrisPelzel Ted Wilder @eevans @acmtechliaison https://t.co/u6C2Qzveft",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EDUCAUSELI",
+					"name": "EDUCAUSELI",
+					"id": 10195462,
+					"id_str": "10195462",
+					"indices": [
+						40,
+						51
+					]
+				},
+				{
+					"screen_name": "JSpohrer",
+					"name": "Jennifer Spohrer",
+					"id": 595687222,
+					"id_str": "595687222",
+					"indices": [
+						176,
+						185
+					]
+				},
+				{
+					"screen_name": "sendelbach",
+					"name": "Donnie Sendelbach",
+					"id": 14239350,
+					"id_str": "14239350",
+					"indices": [
+						186,
+						197
+					]
+				},
+				{
+					"screen_name": "MorrisPelzel",
+					"name": "Mo Pelzel",
+					"id": 33972737,
+					"id_str": "33972737",
+					"indices": [
+						198,
+						211
+					]
+				},
+				{
+					"screen_name": "eevans",
+					"name": "E. Evans",
+					"id": 14326562,
+					"id_str": "14326562",
+					"indices": [
+						223,
+						230
+					]
+				},
+				{
+					"screen_name": "acmtechliaison",
+					"name": "Ed Finn, Ed.D.",
+					"id": 2788007040,
+					"id_str": "2788007040",
+					"indices": [
+						231,
+						246
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/u6C2Qzveft",
+					"expanded_url": "http://lacol.net/digital-competencies-eli/",
+					"display_url": "lacol.net/digital-compet…",
+					"indices": [
+						247,
+						270
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4046459417,
+			"id_str": "4046459417",
+			"name": "TheLACOL",
+			"screen_name": "TheLACOL",
+			"location": "http://lacol.net",
+			"description": "Liberal Arts Collaborative for Digital Innovation",
+			"url": "https://t.co/aQI4dUGbaS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aQI4dUGbaS",
+							"expanded_url": "http://lacol.net",
+							"display_url": "lacol.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272,
+			"friends_count": 282,
+			"listed_count": 9,
+			"created_at": "Mon Oct 26 13:35:12 +0000 2015",
+			"favourites_count": 656,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 820,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/679420268037726208/2q6senOR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/679420268037726208/2q6senOR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4046459417/1537551973",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LAC folk! Get yerself a-registerin' for @EDUCAUSELI pre-conf workshop 'Local and Global Decisions: Development and Assessment of Digital Competency Initiatives 2/19 w/ the gr8 @JSpohrer @sendelbach @MorrisPelzel Ted Wilder @eevans @acmtechliaison https://t.co/u6C2Qzveft"
+	},
+	{
+		"created_at": "Thu Nov 15 15:49:54 +0000 2018",
+		"id": 1063096764419452900,
+		"id_str": "1063096764419452934",
+		"full_text": "@elizabolt Really depends on what kind of content you're looking for...I follow tons of stuff, but don't know what you might be interested in. One I can for sure recommend is @openculture https://t.co/FfTZjIPtvb",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elizabolt",
+					"name": "elizabeth brentzel",
+					"id": 21655506,
+					"id_str": "21655506",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "openculture",
+					"name": "Open Culture",
+					"id": 19826509,
+					"id_str": "19826509",
+					"indices": [
+						175,
+						187
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FfTZjIPtvb",
+					"expanded_url": "http://bit.ly/YyKxN",
+					"display_url": "bit.ly/YyKxN",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1063086508830351400,
+		"in_reply_to_status_id_str": "1063086508830351365",
+		"in_reply_to_user_id": 21655506,
+		"in_reply_to_user_id_str": "21655506",
+		"in_reply_to_screen_name": "elizabolt",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 671,
+			"friends_count": 1041,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7226,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@elizabolt Really depends on what kind of content you're looking for...I follow tons of stuff, but don't know what you might be interested in. One I can for sure recommend is @openculture https://t.co/FfTZjIPtvb"
+	},
+	{
 		"created_at": "Wed Nov 14 21:39:16 +0000 2018",
 		"id": 1062822297004896300,
 		"id_str": "1062822297004896257",
