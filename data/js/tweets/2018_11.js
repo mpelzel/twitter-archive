@@ -1,6 +1,2256 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 16 21:54:30 +0000 2018",
+		"id": 1063550907936325600,
+		"id_str": "1063550907936325632",
+		"full_text": "I have a PhD in English and I just used this tool: https://t.co/jWzYWp0HUI #noshame",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "noshame",
+					"indices": [
+						75,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jWzYWp0HUI",
+					"expanded_url": "https://capitalizemytitle.com/",
+					"display_url": "capitalizemytitle.com",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2182862052,
+			"id_str": "2182862052",
+			"name": "Robin DeRosa",
+			"screen_name": "actualham",
+			"location": "New Hampshire, USA",
+			"description": "Interdisciplinary Prof/Director; Ed @HybridPed; #OpenPed #OER #OA; public university/community college missions; learner-centered HigherEd; cherish outliers",
+			"url": "https://t.co/SeO0KU15y5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SeO0KU15y5",
+							"expanded_url": "http://robinderosa.net",
+							"display_url": "robinderosa.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6306,
+			"friends_count": 1374,
+			"listed_count": 367,
+			"created_at": "Fri Nov 08 20:13:27 +0000 2013",
+			"favourites_count": 38785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11078,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030A09",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062457212164100096/xlApr2Pt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062457212164100096/xlApr2Pt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2182862052/1464633198",
+			"profile_link_color": "C94410",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I have a PhD in English and I just used this tool: https://t.co/jWzYWp0HUI #noshame"
+	},
+	{
+		"created_at": "Fri Nov 16 21:55:06 +0000 2018",
+		"id": 1063551058914549800,
+		"id_str": "1063551058914549765",
+		"full_text": "@actualham Does this make you a capitalist?",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "actualham",
+					"name": "Robin DeRosa",
+					"id": 2182862052,
+					"id_str": "2182862052",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1063550907936325600,
+		"in_reply_to_status_id_str": "1063550907936325632",
+		"in_reply_to_user_id": 2182862052,
+		"in_reply_to_user_id_str": "2182862052",
+		"in_reply_to_screen_name": "actualham",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 672,
+			"friends_count": 1043,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7238,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@actualham Does this make you a capitalist?"
+	},
+	{
+		"created_at": "Fri Nov 16 21:50:06 +0000 2018",
+		"id": 1063549799096553500,
+		"id_str": "1063549799096553473",
+		"full_text": "\"The Cyclones haven’t won a conference title since before the television was invented.\"\n\nThe television was invented in 1927 ... https://t.co/idVVHHzYsU https://t.co/c4TO1LEsAV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/idVVHHzYsU",
+					"expanded_url": "http://bit.ly/2qPdvGD",
+					"display_url": "bit.ly/2qPdvGD",
+					"indices": [
+						129,
+						152
+					]
+				},
+				{
+					"url": "https://t.co/c4TO1LEsAV",
+					"expanded_url": "https://twitter.com/FiveThirtyEight/status/1063526630558220290",
+					"display_url": "twitter.com/FiveThirtyEigh…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 672,
+			"friends_count": 1043,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7238,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1063526630558220300,
+		"quoted_status_id_str": "1063526630558220290",
+		"quoted_status_permalink": {
+			"url": "https://t.co/c4TO1LEsAV",
+			"expanded": "https://twitter.com/FiveThirtyEight/status/1063526630558220290",
+			"display": "twitter.com/FiveThirtyEigh…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 16 20:18:02 +0000 2018",
+			"id": 1063526630558220300,
+			"id_str": "1063526630558220290",
+			"full_text": "Iowa State is a contender (finally)! https://t.co/36V5FQfmzM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				60
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/36V5FQfmzM",
+						"expanded_url": "https://53eig.ht/2zYsxxU",
+						"display_url": "53eig.ht/2zYsxxU",
+						"indices": [
+							37,
+							60
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2303751216,
+				"id_str": "2303751216",
+				"name": "FiveThirtyEight",
+				"screen_name": "FiveThirtyEight",
+				"location": "New York, NY",
+				"description": "The home of Nate Silver's FiveThirtyEight on Twitter. Politics, Economics, Science, Life, Sports.",
+				"url": "https://t.co/BDdsHpm7og",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BDdsHpm7og",
+								"expanded_url": "http://www.fivethirtyeight.com",
+								"display_url": "fivethirtyeight.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1012148,
+				"friends_count": 261,
+				"listed_count": 15186,
+				"created_at": "Tue Jan 21 21:39:32 +0000 2014",
+				"favourites_count": 1171,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 59956,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875426588061573121/lpQG3W6i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875426588061573121/lpQG3W6i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2303751216/1481815429",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 81,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"The Cyclones haven’t won a conference title since before the television was invented.\"\n\nThe television was invented in 1927 ... https://t.co/idVVHHzYsU https://t.co/c4TO1LEsAV"
+	},
+	{
+		"created_at": "Fri Nov 16 17:41:11 +0000 2018",
+		"id": 1063487158122618900,
+		"id_str": "1063487158122618883",
+		"full_text": "One of the best reads of the year. Art is the truth (and most especially including the language.) His “Storm Lake”, @Sarah_Smarsh’s “Heartland,” @marionnestle’s “Unsavory Truth,” @AnandWrites “Winners Take All” and @Yascha_Mounk’s “People vs Democracy” are the ‘18 pick of the lot https://t.co/OZ32unhcEo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sarah_Smarsh",
+					"name": "Sarah Smarsh 🌻",
+					"id": 568712194,
+					"id_str": "568712194",
+					"indices": [
+						116,
+						129
+					]
+				},
+				{
+					"screen_name": "marionnestle",
+					"name": "Marion Nestle",
+					"id": 24212723,
+					"id_str": "24212723",
+					"indices": [
+						145,
+						158
+					]
+				},
+				{
+					"screen_name": "AnandWrites",
+					"name": "Anand Giridharadas",
+					"id": 24889586,
+					"id_str": "24889586",
+					"indices": [
+						179,
+						191
+					]
+				},
+				{
+					"screen_name": "Yascha_Mounk",
+					"name": "Yascha Mounk",
+					"id": 301863076,
+					"id_str": "301863076",
+					"indices": [
+						215,
+						228
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OZ32unhcEo",
+					"expanded_url": "https://twitter.com/austinfrerick/status/1063469240747991040",
+					"display_url": "twitter.com/austinfrerick/…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87966593,
+			"id_str": "87966593",
+			"name": "Ricardo Salvador",
+			"screen_name": "cadwego",
+			"location": "Washington, DC",
+			"description": "Director, Food & Environment, Union of Concerned Scientists. Running fixes everything: your health, diet and attitude. O Tierra del Sol, suspiro por verte...",
+			"url": "https://t.co/u3agLDF21R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u3agLDF21R",
+							"expanded_url": "http://www.ucsusa.org/food",
+							"display_url": "ucsusa.org/food",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5799,
+			"friends_count": 6036,
+			"listed_count": 257,
+			"created_at": "Fri Nov 06 15:45:25 +0000 2009",
+			"favourites_count": 27056,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22747,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/733521329610067969/7dpgiYez_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/733521329610067969/7dpgiYez_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87966593/1498311530",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01fbe706f872cb32",
+			"url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+			"place_type": "city",
+			"name": "Washington",
+			"full_name": "Washington, DC",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-77.119401,
+							38.801826
+						],
+						[
+							-76.909396,
+							38.801826
+						],
+						[
+							-76.909396,
+							38.9953797
+						],
+						[
+							-77.119401,
+							38.9953797
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1063469240747991000,
+		"quoted_status_id_str": "1063469240747991040",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OZ32unhcEo",
+			"expanded": "https://twitter.com/austinfrerick/status/1063469240747991040",
+			"display": "twitter.com/austinfrerick/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 16 16:29:59 +0000 2018",
+			"id": 1063469240747991000,
+			"id_str": "1063469240747991040",
+			"full_text": "The @nytimes reviews the new book from Pulitzer Prize editorial writer Art Cullen, a small town Iowa newspaper man. The central critique 👉 Cullen's prose isn't yuppie enough.\n\nOh New York Times....  \nhttps://t.co/7RZrI9LsTe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				223
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nytimes",
+						"name": "The New York Times",
+						"id": 807095,
+						"id_str": "807095",
+						"indices": [
+							4,
+							12
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/7RZrI9LsTe",
+						"expanded_url": "https://www.nytimes.com/2018/11/16/books/review/art-cullen-storm-lake.html?fbclid=IwAR2iBP4QrZdRnm1X8-4bZSi_-YROgWq9-c4zwrVabN3tUtY5uc-pymkMwls",
+						"display_url": "nytimes.com/2018/11/16/boo…",
+						"indices": [
+							200,
+							223
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3336901401,
+				"id_str": "3336901401",
+				"name": "Austin Frerick",
+				"screen_name": "AustinFrerick",
+				"location": "Iowa, USA",
+				"description": "Fellow at @OpenMarkets. Heroes: Jane Addams, Grandpa Frerick, RuPaul, & Louis Brandeis. 🌽🏳️‍🌈 #iowaAF",
+				"url": "https://t.co/g7FWHJ9lSp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/g7FWHJ9lSp",
+								"expanded_url": "http://www.austinfrerick.com/",
+								"display_url": "austinfrerick.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7069,
+				"friends_count": 444,
+				"listed_count": 96,
+				"created_at": "Sat Jun 20 14:05:20 +0000 2015",
+				"favourites_count": 6709,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6195,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/882775313536634881/OcE8V-09_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/882775313536634881/OcE8V-09_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3336901401/1521293847",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One of the best reads of the year. Art is the truth (and most especially including the language.) His “Storm Lake”, @Sarah_Smarsh’s “Heartland,” @marionnestle’s “Unsavory Truth,” @AnandWrites “Winners Take All” and @Yascha_Mounk’s “People vs Democracy” are the ‘18 pick of the lot https://t.co/OZ32unhcEo"
+	},
+	{
+		"created_at": "Fri Nov 16 17:47:03 +0000 2018",
+		"id": 1063488632823136300,
+		"id_str": "1063488632823136257",
+		"full_text": "How a Small-Town Newspaper Editor Won a Pulitzer Prize:\n\"Print the truth and raise hell.\"\n https://t.co/tWXuH7M7Qr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tWXuH7M7Qr",
+					"expanded_url": "https://nyti.ms/2zcUwdD",
+					"display_url": "nyti.ms/2zcUwdD",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 672,
+			"friends_count": 1043,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7238,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How a Small-Town Newspaper Editor Won a Pulitzer Prize:\n\"Print the truth and raise hell.\"\n https://t.co/tWXuH7M7Qr"
+	},
+	{
+		"created_at": "Fri Nov 16 16:29:59 +0000 2018",
+		"id": 1063469240747991000,
+		"id_str": "1063469240747991040",
+		"full_text": "The @nytimes reviews the new book from Pulitzer Prize editorial writer Art Cullen, a small town Iowa newspaper man. The central critique 👉 Cullen's prose isn't yuppie enough.\n\nOh New York Times....  \nhttps://t.co/7RZrI9LsTe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						4,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7RZrI9LsTe",
+					"expanded_url": "https://www.nytimes.com/2018/11/16/books/review/art-cullen-storm-lake.html?fbclid=IwAR2iBP4QrZdRnm1X8-4bZSi_-YROgWq9-c4zwrVabN3tUtY5uc-pymkMwls",
+					"display_url": "nytimes.com/2018/11/16/boo…",
+					"indices": [
+						200,
+						223
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3336901401,
+			"id_str": "3336901401",
+			"name": "Austin Frerick",
+			"screen_name": "AustinFrerick",
+			"location": "Iowa, USA",
+			"description": "Fellow at @OpenMarkets. Heroes: Jane Addams, Grandpa Frerick, RuPaul, & Louis Brandeis. 🌽🏳️‍🌈 #iowaAF",
+			"url": "https://t.co/g7FWHJ9lSp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/g7FWHJ9lSp",
+							"expanded_url": "http://www.austinfrerick.com/",
+							"display_url": "austinfrerick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7069,
+			"friends_count": 444,
+			"listed_count": 96,
+			"created_at": "Sat Jun 20 14:05:20 +0000 2015",
+			"favourites_count": 6709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6195,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/882775313536634881/OcE8V-09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/882775313536634881/OcE8V-09_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3336901401/1521293847",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @nytimes reviews the new book from Pulitzer Prize editorial writer Art Cullen, a small town Iowa newspaper man. The central critique 👉 Cullen's prose isn't yuppie enough.\n\nOh New York Times....  \nhttps://t.co/7RZrI9LsTe"
+	},
+	{
+		"created_at": "Fri Nov 16 15:10:02 +0000 2018",
+		"id": 1063449119111487500,
+		"id_str": "1063449119111487491",
+		"full_text": "Today in 1989, 6 Jesuit priests were murdered for their involvement with El Salvador's poorest, under the allegation of subversive activity. But as Herbert McCabe wrote, \"the likeliest model for the Christian minister...is the revolutionary leader.\" More: https://t.co/VLz7P4zctY https://t.co/LhCrEerAYm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VLz7P4zctY",
+					"expanded_url": "https://buff.ly/2LrqYMG",
+					"display_url": "buff.ly/2LrqYMG",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1063449117316300800,
+					"id_str": "1063449117316300802",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DsIhVnpXQAIFxzt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsIhVnpXQAIFxzt.jpg",
+					"url": "https://t.co/LhCrEerAYm",
+					"display_url": "pic.twitter.com/LhCrEerAYm",
+					"expanded_url": "https://twitter.com/commonwealmag/status/1063449119111487491/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 373,
+							"h": 485,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 373,
+							"h": 485,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 373,
+							"h": 485,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063449117316300800,
+					"id_str": "1063449117316300802",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DsIhVnpXQAIFxzt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsIhVnpXQAIFxzt.jpg",
+					"url": "https://t.co/LhCrEerAYm",
+					"display_url": "pic.twitter.com/LhCrEerAYm",
+					"expanded_url": "https://twitter.com/commonwealmag/status/1063449119111487491/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 373,
+							"h": 485,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 373,
+							"h": 485,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 373,
+							"h": 485,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22770131,
+			"id_str": "22770131",
+			"name": "Commonweal Magazine",
+			"screen_name": "commonwealmag",
+			"location": "New York, NY",
+			"description": "A review of religion, politics, and culture since 1924.  @DominicPreziosi, @MatthewSitman, @gehringdc, @MassimoFaggioli, @tonydomestico, @paulbmoses. @bdmcclay",
+			"url": "http://t.co/DZd7CxB3yM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/DZd7CxB3yM",
+							"expanded_url": "http://www.commonwealmagazine.org",
+							"display_url": "commonwealmagazine.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14965,
+			"friends_count": 451,
+			"listed_count": 441,
+			"created_at": "Wed Mar 04 13:32:22 +0000 2009",
+			"favourites_count": 1903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13024,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004408476939046913/nSbcnf4g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004408476939046913/nSbcnf4g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22770131/1528318070",
+			"profile_link_color": "6A90CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCE1FF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today in 1989, 6 Jesuit priests were murdered for their involvement with El Salvador's poorest, under the allegation of subversive activity. But as Herbert McCabe wrote, \"the likeliest model for the Christian minister...is the revolutionary leader.\" More: https://t.co/VLz7P4zctY https://t.co/LhCrEerAYm"
+	},
+	{
+		"created_at": "Fri Nov 16 14:31:42 +0000 2018",
+		"id": 1063439470484234200,
+		"id_str": "1063439470484234242",
+		"full_text": "#Winning https://t.co/1WbjA8ypmV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Winning",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1WbjA8ypmV",
+					"expanded_url": "https://twitter.com/laurabrarian/status/1063434947799777280",
+					"display_url": "twitter.com/laurabrarian/s…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 672,
+			"friends_count": 1043,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7238,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1063434947799777300,
+		"quoted_status_id_str": "1063434947799777280",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1WbjA8ypmV",
+			"expanded": "https://twitter.com/laurabrarian/status/1063434947799777280",
+			"display": "twitter.com/laurabrarian/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 16 14:13:43 +0000 2018",
+			"id": 1063434947799777300,
+			"id_str": "1063434947799777280",
+			"full_text": "Life Partner (leaving for work): Are you going to spend this entire snow day solving crossword puzzles and wasting time on the internet?\nMe: I also plan on snuggling with the cat.\nHim: Fair enough. https://t.co/cJIetOPYk2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				197
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1063434936655343600,
+						"id_str": "1063434936655343616",
+						"indices": [
+							198,
+							221
+						],
+						"media_url": "http://pbs.twimg.com/media/DsIUcMkU8AAZrFq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsIUcMkU8AAZrFq.jpg",
+						"url": "https://t.co/cJIetOPYk2",
+						"display_url": "pic.twitter.com/cJIetOPYk2",
+						"expanded_url": "https://twitter.com/laurabrarian/status/1063434947799777280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1063434936655343600,
+						"id_str": "1063434936655343616",
+						"indices": [
+							198,
+							221
+						],
+						"media_url": "http://pbs.twimg.com/media/DsIUcMkU8AAZrFq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsIUcMkU8AAZrFq.jpg",
+						"url": "https://t.co/cJIetOPYk2",
+						"display_url": "pic.twitter.com/cJIetOPYk2",
+						"expanded_url": "https://twitter.com/laurabrarian/status/1063434947799777280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12838892,
+				"id_str": "12838892",
+				"name": "Laura Braunstein",
+				"screen_name": "laurabrarian",
+				"location": "Hanover, NH",
+				"description": "Digital Humanities Librarian - Libraries & DH & SF/F & beer & crosswords & comics & old movies. @areopagitibot #RESIST #noncompliant https://t.co/OCjE7dp0R0",
+				"url": "https://t.co/mMPqWjtnU5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mMPqWjtnU5",
+								"expanded_url": "http://inkubatorcrosswords.com/",
+								"display_url": "inkubatorcrosswords.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/OCjE7dp0R0",
+								"expanded_url": "http://pronoun.is/she",
+								"display_url": "pronoun.is/she",
+								"indices": [
+									133,
+									156
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2448,
+				"friends_count": 1092,
+				"listed_count": 139,
+				"created_at": "Tue Jan 29 18:10:43 +0000 2008",
+				"favourites_count": 24030,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17429,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823656924902293505/G6P0C-vA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823656924902293505/G6P0C-vA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12838892/1485008017",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#Winning https://t.co/1WbjA8ypmV"
+	},
+	{
+		"created_at": "Fri Nov 16 14:08:30 +0000 2018",
+		"id": 1063433632965111800,
+		"id_str": "1063433632965111808",
+		"full_text": "On this day in 1989, six Jesuits and their companions were martyred in El Salvador, for standing with the poor. Yesterday's murder of Victor-Luke Odhiambo, SJ, in South Sudan shows that Jesuits and their colleagues still stand with the poor and marginalized--where Jesus stands. https://t.co/ZsdosqlTrN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1063433568779677700,
+					"id_str": "1063433568779677696",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/DsITMk1WsAAiFce.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsITMk1WsAAiFce.jpg",
+					"url": "https://t.co/ZsdosqlTrN",
+					"display_url": "pic.twitter.com/ZsdosqlTrN",
+					"expanded_url": "https://twitter.com/JamesMartinSJ/status/1063433632965111808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 791,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 791,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063433568779677700,
+					"id_str": "1063433568779677696",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/DsITMk1WsAAiFce.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsITMk1WsAAiFce.jpg",
+					"url": "https://t.co/ZsdosqlTrN",
+					"display_url": "pic.twitter.com/ZsdosqlTrN",
+					"expanded_url": "https://twitter.com/JamesMartinSJ/status/1063433632965111808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 791,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 791,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226320142,
+			"id_str": "226320142",
+			"name": "James Martin, SJ",
+			"screen_name": "JamesMartinSJ",
+			"location": "New York City",
+			"description": "Jesuit priest, editor at large @Americamag, author of 'Jesus: A Pilgrimage' and 'Building a Bridge,' consultor to the Dicastery for Communication.",
+			"url": "https://t.co/FfaI6niv6t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FfaI6niv6t",
+							"expanded_url": "http://www.facebook.com/FrJamesMartin?fref=ts",
+							"display_url": "facebook.com/FrJamesMartin?…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 228701,
+			"friends_count": 280,
+			"listed_count": 2566,
+			"created_at": "Mon Dec 13 21:56:22 +0000 2010",
+			"favourites_count": 20305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 33473,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "61E0AD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/573235627325591552/BvUyZbwk_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/573235627325591552/BvUyZbwk_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226320142/1534796309",
+			"profile_link_color": "1C1CAD",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F4F5ED",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 220,
+		"favorite_count": 649,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On this day in 1989, six Jesuits and their companions were martyred in El Salvador, for standing with the poor. Yesterday's murder of Victor-Luke Odhiambo, SJ, in South Sudan shows that Jesuits and their colleagues still stand with the poor and marginalized--where Jesus stands. https://t.co/ZsdosqlTrN"
+	},
+	{
+		"created_at": "Fri Nov 16 14:07:40 +0000 2018",
+		"id": 1063433422285230100,
+		"id_str": "1063433422285230081",
+		"full_text": "Final stage tapering for tomorrow's trail run race at the Iowa Living History Farm: lowering the stand-up desk and sitting all day today.\n#tapir https://t.co/grZMpFkqvz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tapir",
+					"indices": [
+						138,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1063433384188239900,
+					"id_str": "1063433384188239872",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/DsITB1LU4AATQD8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsITB1LU4AATQD8.jpg",
+					"url": "https://t.co/grZMpFkqvz",
+					"display_url": "pic.twitter.com/grZMpFkqvz",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1063433422285230081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 269,
+							"h": 188,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 269,
+							"h": 188,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 269,
+							"h": 188,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063433384188239900,
+					"id_str": "1063433384188239872",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/DsITB1LU4AATQD8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsITB1LU4AATQD8.jpg",
+					"url": "https://t.co/grZMpFkqvz",
+					"display_url": "pic.twitter.com/grZMpFkqvz",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1063433422285230081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 269,
+							"h": 188,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 269,
+							"h": 188,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 269,
+							"h": 188,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 672,
+			"friends_count": 1043,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7238,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Final stage tapering for tomorrow's trail run race at the Iowa Living History Farm: lowering the stand-up desk and sitting all day today.\n#tapir https://t.co/grZMpFkqvz"
+	},
+	{
+		"created_at": "Wed Nov 14 19:30:38 +0000 2018",
+		"id": 1062789926289174500,
+		"id_str": "1062789926289174529",
+		"full_text": "I teach a 60-student course on Technology and Society. This year, after some nudging, I decided to compose a list of tips for combining theory and practice when designing and developing projects. Here they are, with links to assigned materials. https://t.co/0xiqiq8pYF https://t.co/IWSnC4gzce",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0xiqiq8pYF",
+					"expanded_url": "https://jentery.github.io/ts200v2/notes.html",
+					"display_url": "jentery.github.io/ts200v2/notes.…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1062789238100381700,
+					"id_str": "1062789238100381696",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr_JLmAU0AALQ6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr_JLmAU0AALQ6J.jpg",
+					"url": "https://t.co/IWSnC4gzce",
+					"display_url": "pic.twitter.com/IWSnC4gzce",
+					"expanded_url": "https://twitter.com/jenterysayers/status/1062789926289174529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 473,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 268,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 807,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1062789238100381700,
+					"id_str": "1062789238100381696",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr_JLmAU0AALQ6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr_JLmAU0AALQ6J.jpg",
+					"url": "https://t.co/IWSnC4gzce",
+					"display_url": "pic.twitter.com/IWSnC4gzce",
+					"expanded_url": "https://twitter.com/jenterysayers/status/1062789926289174529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 473,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 268,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 807,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 98890966,
+			"id_str": "98890966",
+			"name": "Jentery Sayers",
+			"screen_name": "jenterysayers",
+			"location": "Lekwungen + W̱SÁNEĆ Territory",
+			"description": "Crossed wires | Associate Professor | University of Victoria | He/Him/His",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4356,
+			"friends_count": 939,
+			"listed_count": 224,
+			"created_at": "Wed Dec 23 14:28:04 +0000 2009",
+			"favourites_count": 6433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15074,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/985974088479916032/ErM-Nu9z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/985974088479916032/ErM-Nu9z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/98890966/1462116857",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 144,
+		"favorite_count": 461,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I teach a 60-student course on Technology and Society. This year, after some nudging, I decided to compose a list of tips for combining theory and practice when designing and developing projects. Here they are, with links to assigned materials. https://t.co/0xiqiq8pYF https://t.co/IWSnC4gzce"
+	},
+	{
+		"created_at": "Fri Nov 16 00:38:19 +0000 2018",
+		"id": 1063229744370479100,
+		"id_str": "1063229744370479104",
+		"full_text": "Alexandria Ocasio-Cortez claims to hate capitalism and yet i count three capital letters in her very own name",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15605430,
+			"id_str": "15605430",
+			"name": "Ben Rosen",
+			"screen_name": "ben_rosen",
+			"location": "Los Angeles",
+			"description": "Writer @funnyordie / Contributor @theonion / benrosen88 at gmail dot com",
+			"url": "https://t.co/0nGYmesGKO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0nGYmesGKO",
+							"expanded_url": "http://www.benrosen.tumblr.com",
+							"display_url": "benrosen.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9803,
+			"friends_count": 1371,
+			"listed_count": 160,
+			"created_at": "Fri Jul 25 23:41:29 +0000 2008",
+			"favourites_count": 9767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10710,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016451004923985920/QjtIqSUB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016451004923985920/QjtIqSUB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15605430/1398206297",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "9241AF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4511,
+		"favorite_count": 37673,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Alexandria Ocasio-Cortez claims to hate capitalism and yet i count three capital letters in her very own name"
+	},
+	{
+		"created_at": "Thu Nov 15 17:21:23 +0000 2018",
+		"id": 1063119787981787100,
+		"id_str": "1063119787981787136",
+		"full_text": "LAC folk! Get yerself a-registerin' for @EDUCAUSELI pre-conf workshop 'Local and Global Decisions: Development and Assessment of Digital Competency Initiatives 2/19 w/ the gr8 @JSpohrer @sendelbach @MorrisPelzel Ted Wilder @eevans @acmtechliaison https://t.co/u6C2Qzveft",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EDUCAUSELI",
+					"name": "EDUCAUSELI",
+					"id": 10195462,
+					"id_str": "10195462",
+					"indices": [
+						40,
+						51
+					]
+				},
+				{
+					"screen_name": "JSpohrer",
+					"name": "Jennifer Spohrer",
+					"id": 595687222,
+					"id_str": "595687222",
+					"indices": [
+						176,
+						185
+					]
+				},
+				{
+					"screen_name": "sendelbach",
+					"name": "Donnie Sendelbach",
+					"id": 14239350,
+					"id_str": "14239350",
+					"indices": [
+						186,
+						197
+					]
+				},
+				{
+					"screen_name": "MorrisPelzel",
+					"name": "Mo Pelzel",
+					"id": 33972737,
+					"id_str": "33972737",
+					"indices": [
+						198,
+						211
+					]
+				},
+				{
+					"screen_name": "eevans",
+					"name": "E. Evans",
+					"id": 14326562,
+					"id_str": "14326562",
+					"indices": [
+						223,
+						230
+					]
+				},
+				{
+					"screen_name": "acmtechliaison",
+					"name": "Ed Finn, Ed.D.",
+					"id": 2788007040,
+					"id_str": "2788007040",
+					"indices": [
+						231,
+						246
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/u6C2Qzveft",
+					"expanded_url": "http://lacol.net/digital-competencies-eli/",
+					"display_url": "lacol.net/digital-compet…",
+					"indices": [
+						247,
+						270
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4046459417,
+			"id_str": "4046459417",
+			"name": "TheLACOL",
+			"screen_name": "TheLACOL",
+			"location": "http://lacol.net",
+			"description": "Liberal Arts Collaborative for Digital Innovation",
+			"url": "https://t.co/aQI4dUGbaS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aQI4dUGbaS",
+							"expanded_url": "http://lacol.net",
+							"display_url": "lacol.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 282,
+			"listed_count": 9,
+			"created_at": "Mon Oct 26 13:35:12 +0000 2015",
+			"favourites_count": 659,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 820,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/679420268037726208/2q6senOR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/679420268037726208/2q6senOR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4046459417/1537551973",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LAC folk! Get yerself a-registerin' for @EDUCAUSELI pre-conf workshop 'Local and Global Decisions: Development and Assessment of Digital Competency Initiatives 2/19 w/ the gr8 @JSpohrer @sendelbach @MorrisPelzel Ted Wilder @eevans @acmtechliaison https://t.co/u6C2Qzveft"
+	},
+	{
 		"created_at": "Thu Nov 15 17:21:23 +0000 2018",
 		"id": 1063119787981787100,
 		"id_str": "1063119787981787136",
