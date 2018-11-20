@@ -1,6 +1,864 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 19 19:05:43 +0000 2018",
+		"id": 1064595593975210000,
+		"id_str": "1064595593975209984",
+		"full_text": "\"My goal is to create one of America’s best small colleges, with students who come from the margins, students who have lived lives of scarcity. I want #PaulQuinnCollege to be the place that lifts them up.” - @michaelsorrell\nRead @TexasMonthly's full story: https://t.co/pKAun0izy7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PaulQuinnCollege",
+					"indices": [
+						151,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michaelsorrell",
+					"name": "Michael Sorrell",
+					"id": 47445197,
+					"id_str": "47445197",
+					"indices": [
+						208,
+						223
+					]
+				},
+				{
+					"screen_name": "TexasMonthly",
+					"name": "Texas Monthly",
+					"id": 16365305,
+					"id_str": "16365305",
+					"indices": [
+						229,
+						242
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pKAun0izy7",
+					"expanded_url": "https://bit.ly/2zgPCwp",
+					"display_url": "bit.ly/2zgPCwp",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55278426,
+			"id_str": "55278426",
+			"name": "Paul Quinn College",
+			"screen_name": "PaulQuinnTigers",
+			"location": "Dallas, TX",
+			"description": "Paul Quinn College is America's greatest higher #education transformation story and an example of the new college model. #QuinniteNation #PQCPride",
+			"url": "http://t.co/Zof8ChZ5Tp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Zof8ChZ5Tp",
+							"expanded_url": "http://www.pqc.edu",
+							"display_url": "pqc.edu",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4203,
+			"friends_count": 2092,
+			"listed_count": 118,
+			"created_at": "Thu Jul 09 16:10:46 +0000 2009",
+			"favourites_count": 1772,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9563,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030003",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040663526170189824/diZIhGAi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040663526170189824/diZIhGAi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55278426/1542135904",
+			"profile_link_color": "32C26C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "050405",
+			"profile_text_color": "583778",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"My goal is to create one of America’s best small colleges, with students who come from the margins, students who have lived lives of scarcity. I want #PaulQuinnCollege to be the place that lifts them up.” - @michaelsorrell\nRead @TexasMonthly's full story: https://t.co/pKAun0izy7"
+	},
+	{
+		"created_at": "Mon Nov 19 19:34:00 +0000 2018",
+		"id": 1064602713206546400,
+		"id_str": "1064602713206546434",
+		"full_text": "&amp; to end #crosswordkaraoke, the hero at 44-Across is memorialized in this beautiful @rubenblades song. It has one of my favorite (tragic) lines:\n \nAntonio cayo, ostia en mano y sin saber por qué / \nAndrés se murió a su lado sin conocer a Pelé\n\nhttps://t.co/B7CRB4ZqPr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "crosswordkaraoke",
+					"indices": [
+						13,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rubenblades",
+					"name": "Rubén Blades",
+					"id": 36928426,
+					"id_str": "36928426",
+					"indices": [
+						88,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B7CRB4ZqPr",
+					"expanded_url": "https://www.youtube.com/watch?v=GL8x1AaUBVc",
+					"display_url": "youtube.com/watch?v=GL8x1A…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1064600245533843500,
+		"in_reply_to_status_id_str": "1064600245533843457",
+		"in_reply_to_user_id": 365544795,
+		"in_reply_to_user_id_str": "365544795",
+		"in_reply_to_screen_name": "natanlast",
+		"user": {
+			"id": 365544795,
+			"id_str": "365544795",
+			"name": "Natan Last",
+			"screen_name": "natanlast",
+			"location": "Brooklyn, NY",
+			"description": "I work in refugee resettlement & policy | @theIRC, @airbel | Write crossword puzzles for @nytimes, @newyorker | Wrote a book of em, linked below | Views my own.",
+			"url": "https://t.co/iCCFGah4hI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCCFGah4hI",
+							"expanded_url": "https://www.amazon.com/Word-Crossword-Puzzles-Prove-Square/dp/0761167552",
+							"display_url": "amazon.com/Word-Crossword…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 313,
+			"friends_count": 1283,
+			"listed_count": 5,
+			"created_at": "Wed Aug 31 16:27:09 +0000 2011",
+			"favourites_count": 1011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 535,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1001102925085773824/0QLHI7bs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001102925085773824/0QLHI7bs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/365544795/1537240418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "&amp; to end #crosswordkaraoke, the hero at 44-Across is memorialized in this beautiful @rubenblades song. It has one of my favorite (tragic) lines:\n \nAntonio cayo, ostia en mano y sin saber por qué / \nAndrés se murió a su lado sin conocer a Pelé\n\nhttps://t.co/B7CRB4ZqPr"
+	},
+	{
+		"created_at": "Mon Nov 19 19:22:26 +0000 2018",
+		"id": 1064599801675821000,
+		"id_str": "1064599801675821057",
+		"full_text": "Quick lunchtime solve...started with a nice gimme at 44A, and went from there (btw, it's \"theologian,\" not \"theologist\") https://t.co/Z5WCCbiBHZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z5WCCbiBHZ",
+					"expanded_url": "https://twitter.com/natanlast/status/1064562788692054016",
+					"display_url": "twitter.com/natanlast/stat…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 669,
+			"friends_count": 1045,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7242,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1064562788692054000,
+		"quoted_status_id_str": "1064562788692054016",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Z5WCCbiBHZ",
+			"expanded": "https://twitter.com/natanlast/status/1064562788692054016",
+			"display": "twitter.com/natanlast/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 19 16:55:22 +0000 2018",
+			"id": 1064562788692054000,
+			"id_str": "1064562788692054016",
+			"full_text": "today's @NewYorker crossword brought to you by me and that friend who takes karaoke to this place https://t.co/WMTdeFb5WI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NewYorker",
+						"name": "The New Yorker",
+						"id": 14677919,
+						"id_str": "14677919",
+						"indices": [
+							8,
+							18
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1064562768303525900,
+						"id_str": "1064562768303525888",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DsYWMo3WkAAsDJ4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsYWMo3WkAAsDJ4.jpg",
+						"url": "https://t.co/WMTdeFb5WI",
+						"display_url": "pic.twitter.com/WMTdeFb5WI",
+						"expanded_url": "https://twitter.com/natanlast/status/1064562788692054016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 494,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 523,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 523,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1064562768303525900,
+						"id_str": "1064562768303525888",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DsYWMo3WkAAsDJ4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsYWMo3WkAAsDJ4.jpg",
+						"url": "https://t.co/WMTdeFb5WI",
+						"display_url": "pic.twitter.com/WMTdeFb5WI",
+						"expanded_url": "https://twitter.com/natanlast/status/1064562788692054016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 494,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 523,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 523,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 365544795,
+				"id_str": "365544795",
+				"name": "Natan Last",
+				"screen_name": "natanlast",
+				"location": "Brooklyn, NY",
+				"description": "I work in refugee resettlement & policy | @theIRC, @airbel | Write crossword puzzles for @nytimes, @newyorker | Wrote a book of em, linked below | Views my own.",
+				"url": "https://t.co/iCCFGah4hI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iCCFGah4hI",
+								"expanded_url": "https://www.amazon.com/Word-Crossword-Puzzles-Prove-Square/dp/0761167552",
+								"display_url": "amazon.com/Word-Crossword…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 313,
+				"friends_count": 1283,
+				"listed_count": 5,
+				"created_at": "Wed Aug 31 16:27:09 +0000 2011",
+				"favourites_count": 1011,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 535,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1001102925085773824/0QLHI7bs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001102925085773824/0QLHI7bs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/365544795/1537240418",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Quick lunchtime solve...started with a nice gimme at 44A, and went from there (btw, it's \"theologian,\" not \"theologist\") https://t.co/Z5WCCbiBHZ"
+	},
+	{
+		"created_at": "Mon Nov 19 18:54:03 +0000 2018",
+		"id": 1064592656372850700,
+		"id_str": "1064592656372850688",
+		"full_text": "She’s been called the Pope’s Favorite Nun and the Mother Teresa of South Texas. Every day she fights fiercely for the dignity of immigrants. \n\nMeet Sister Norma Pimentel, the woman who’s demonstrating the power of mercy and charity in McAllen. https://t.co/AfpZhMRFGW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AfpZhMRFGW",
+					"expanded_url": "https://www.texasmonthly.com/the-culture/power-issue-sister-norma-pimentel-demonstrating-power-mercy-charity/?utm_source=Twitter&utm_medium=Social&utm_campaign=Book%20Social&utm_content=sisternorma",
+					"display_url": "texasmonthly.com/the-culture/po…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://coschedule.com\" rel=\"nofollow\">CoSchedule</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16365305,
+			"id_str": "16365305",
+			"name": "Texas Monthly",
+			"screen_name": "TexasMonthly",
+			"location": "Austin, TX",
+			"description": "Covering Texas news, politics, food, culture, travel, and more. RTs not endorsements. Tweets by @regmack_.",
+			"url": "https://t.co/nZv2cCoax9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nZv2cCoax9",
+							"expanded_url": "http://www.texasmonthly.com/",
+							"display_url": "texasmonthly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 181109,
+			"friends_count": 721,
+			"listed_count": 3458,
+			"created_at": "Fri Sep 19 16:18:28 +0000 2008",
+			"favourites_count": 3251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30230,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956215816193638400/4PR8ZTr9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956215816193638400/4PR8ZTr9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16365305/1542662110",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "She’s been called the Pope’s Favorite Nun and the Mother Teresa of South Texas. Every day she fights fiercely for the dignity of immigrants. \n\nMeet Sister Norma Pimentel, the woman who’s demonstrating the power of mercy and charity in McAllen. https://t.co/AfpZhMRFGW"
+	},
+	{
+		"created_at": "Mon Nov 19 13:29:50 +0000 2018",
+		"id": 1064511064795217900,
+		"id_str": "1064511064795217925",
+		"full_text": "Pleased to feature a Q&amp;A with @joshua_r_eyler author of \"How Humans Learn: The Science and Stories Behind Effective College Teaching\" Great book, and answers offer interesting insights on field of teaching and learning. https://t.co/1bMhuDimhr https://t.co/rYx0xxVDlL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joshua_r_eyler",
+					"name": "Joshua Eyler",
+					"id": 304582737,
+					"id_str": "304582737",
+					"indices": [
+						34,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1bMhuDimhr",
+					"expanded_url": "https://www.insidehighered.com/blogs/just-visiting/qa-joshua-eyler-how-humans-learn",
+					"display_url": "insidehighered.com/blogs/just-vis…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1064511037267828700,
+					"id_str": "1064511037267828738",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/DsXnJfvU4AIBcnC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsXnJfvU4AIBcnC.jpg",
+					"url": "https://t.co/rYx0xxVDlL",
+					"display_url": "pic.twitter.com/rYx0xxVDlL",
+					"expanded_url": "https://twitter.com/biblioracle/status/1064511064795217925/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 313,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 313,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 313,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1064511037267828700,
+					"id_str": "1064511037267828738",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/DsXnJfvU4AIBcnC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsXnJfvU4AIBcnC.jpg",
+					"url": "https://t.co/rYx0xxVDlL",
+					"display_url": "pic.twitter.com/rYx0xxVDlL",
+					"expanded_url": "https://twitter.com/biblioracle/status/1064511064795217925/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 313,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 313,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 313,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 136277952,
+			"id_str": "136277952",
+			"name": "John Warner",
+			"screen_name": "biblioracle",
+			"location": "South Carolina",
+			"description": "Author WHY THEY CAN'T WRITE: KILLING THE FIVE-PARAGRAPH ESSAY AND OTHER NECESSITIES and other stuff. @insidehighered, @mcsweeneys,  @ChiTribBooks.",
+			"url": "https://t.co/hZw4o3lZJc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hZw4o3lZJc",
+							"expanded_url": "https://www.johnwarnerwriter.com",
+							"display_url": "johnwarnerwriter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9065,
+			"friends_count": 1391,
+			"listed_count": 261,
+			"created_at": "Fri Apr 23 13:47:49 +0000 2010",
+			"favourites_count": 8566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25321,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993869746536841216/EZZKey6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993869746536841216/EZZKey6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/136277952/1525522454",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pleased to feature a Q&amp;A with @joshua_r_eyler author of \"How Humans Learn: The Science and Stories Behind Effective College Teaching\" Great book, and answers offer interesting insights on field of teaching and learning. https://t.co/1bMhuDimhr https://t.co/rYx0xxVDlL"
+	},
+	{
 		"created_at": "Fri Nov 16 21:55:06 +0000 2018",
 		"id": 1063551058914549800,
 		"id_str": "1063551058914549765",
