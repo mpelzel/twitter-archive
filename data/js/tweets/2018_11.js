@@ -1,6 +1,1145 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 20 16:09:00 +0000 2018",
+		"id": 1064913509329322000,
+		"id_str": "1064913509329321985",
+		"full_text": "Ran the Road-O-Cross trail run at  Living History Farm in Iowa this past weekend ... let's just say that I put the slow back into #TeamSloMo https://t.co/t03CHxtUr9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TeamSloMo",
+					"indices": [
+						130,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1064727405955297300,
+					"id_str": "1064727405955297280",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Dsar7z6WsAATSPg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dsar7z6WsAATSPg.jpg",
+					"url": "https://t.co/t03CHxtUr9",
+					"display_url": "pic.twitter.com/t03CHxtUr9",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1064913509329321985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2008,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1177,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1064727405955297300,
+					"id_str": "1064727405955297280",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Dsar7z6WsAATSPg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dsar7z6WsAATSPg.jpg",
+					"url": "https://t.co/t03CHxtUr9",
+					"display_url": "pic.twitter.com/t03CHxtUr9",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1064913509329321985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2008,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1177,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 670,
+			"friends_count": 1045,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ran the Road-O-Cross trail run at  Living History Farm in Iowa this past weekend ... let's just say that I put the slow back into #TeamSloMo https://t.co/t03CHxtUr9"
+	},
+	{
+		"created_at": "Tue Nov 20 14:19:49 +0000 2018",
+		"id": 1064886031319801900,
+		"id_str": "1064886031319801861",
+		"full_text": "Ran the Road-O-Cross trail run this past weekend at the Living History Farm in Urbandale, Iowa. Let's just say that I put the slow back into #TeamSloMo https://t.co/TK7P4J19Yh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TeamSloMo",
+					"indices": [
+						141,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1064885955671273500,
+					"id_str": "1064885955671273473",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/Dsc8InoWsAEoBuA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dsc8InoWsAEoBuA.jpg",
+					"url": "https://t.co/TK7P4J19Yh",
+					"display_url": "pic.twitter.com/TK7P4J19Yh",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1064886031319801861/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2008,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1177,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1064885955671273500,
+					"id_str": "1064885955671273473",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/Dsc8InoWsAEoBuA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dsc8InoWsAEoBuA.jpg",
+					"url": "https://t.co/TK7P4J19Yh",
+					"display_url": "pic.twitter.com/TK7P4J19Yh",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1064886031319801861/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2008,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1177,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 670,
+			"friends_count": 1045,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ran the Road-O-Cross trail run this past weekend at the Living History Farm in Urbandale, Iowa. Let's just say that I put the slow back into #TeamSloMo https://t.co/TK7P4J19Yh"
+	},
+	{
+		"created_at": "Tue Nov 20 02:30:00 +0000 2018",
+		"id": 1064707402178748400,
+		"id_str": "1064707402178748416",
+		"full_text": "\"Taco journalism\"\n\nWhere do I apply for this job? https://t.co/tf35xwrCot",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tf35xwrCot",
+					"expanded_url": "https://twitter.com/americamag/status/1064607745905750018",
+					"display_url": "twitter.com/americamag/sta…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 670,
+			"friends_count": 1045,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1064607745905750000,
+		"quoted_status_id_str": "1064607745905750018",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tf35xwrCot",
+			"expanded": "https://twitter.com/americamag/status/1064607745905750018",
+			"display": "twitter.com/americamag/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 19 19:54:00 +0000 2018",
+			"id": 1064607745905750000,
+			"id_str": "1064607745905750018",
+			"full_text": "In Texas, all roads lead to tacos 🌮 \nhttps://t.co/yFUT1AKPdL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				60
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yFUT1AKPdL",
+						"expanded_url": "https://www.americamagazine.org/arts-culture/2018/11/16/texas-all-roads-lead-tacos",
+						"display_url": "americamagazine.org/arts-culture/2…",
+						"indices": [
+							37,
+							60
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17372204,
+				"id_str": "17372204",
+				"name": "America Magazine",
+				"screen_name": "americamag",
+				"location": "",
+				"description": "The Jesuit Review of Faith and Culture",
+				"url": "https://t.co/oa7owxzsNV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oa7owxzsNV",
+								"expanded_url": "http://www.americamagazine.org",
+								"display_url": "americamagazine.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 53423,
+				"friends_count": 377,
+				"listed_count": 1086,
+				"created_at": "Thu Nov 13 19:28:03 +0000 2008",
+				"favourites_count": 1426,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 43020,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EAECF0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823506014548951041/pt6Tnc3z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823506014548951041/pt6Tnc3z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17372204/1485174139",
+				"profile_link_color": "0044B4",
+				"profile_sidebar_border_color": "181E15",
+				"profile_sidebar_fill_color": "CCFFF7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Taco journalism\"\n\nWhere do I apply for this job? https://t.co/tf35xwrCot"
+	},
+	{
+		"created_at": "Mon Nov 19 19:05:43 +0000 2018",
+		"id": 1064595593975210000,
+		"id_str": "1064595593975209984",
+		"full_text": "\"My goal is to create one of America’s best small colleges, with students who come from the margins, students who have lived lives of scarcity. I want #PaulQuinnCollege to be the place that lifts them up.” - @michaelsorrell\nRead @TexasMonthly's full story: https://t.co/pKAun0izy7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PaulQuinnCollege",
+					"indices": [
+						151,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michaelsorrell",
+					"name": "Michael Sorrell",
+					"id": 47445197,
+					"id_str": "47445197",
+					"indices": [
+						208,
+						223
+					]
+				},
+				{
+					"screen_name": "TexasMonthly",
+					"name": "Texas Monthly",
+					"id": 16365305,
+					"id_str": "16365305",
+					"indices": [
+						229,
+						242
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pKAun0izy7",
+					"expanded_url": "https://bit.ly/2zgPCwp",
+					"display_url": "bit.ly/2zgPCwp",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55278426,
+			"id_str": "55278426",
+			"name": "Paul Quinn College",
+			"screen_name": "PaulQuinnTigers",
+			"location": "Dallas, TX",
+			"description": "Paul Quinn College is America's greatest higher #education transformation story and an example of the new college model. #QuinniteNation #PQCPride",
+			"url": "http://t.co/Zof8ChZ5Tp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Zof8ChZ5Tp",
+							"expanded_url": "http://www.pqc.edu",
+							"display_url": "pqc.edu",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4208,
+			"friends_count": 2095,
+			"listed_count": 118,
+			"created_at": "Thu Jul 09 16:10:46 +0000 2009",
+			"favourites_count": 1787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9572,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030003",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040663526170189824/diZIhGAi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040663526170189824/diZIhGAi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55278426/1542135904",
+			"profile_link_color": "32C26C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "050405",
+			"profile_text_color": "583778",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"My goal is to create one of America’s best small colleges, with students who come from the margins, students who have lived lives of scarcity. I want #PaulQuinnCollege to be the place that lifts them up.” - @michaelsorrell\nRead @TexasMonthly's full story: https://t.co/pKAun0izy7"
+	},
+	{
+		"created_at": "Mon Nov 19 19:34:00 +0000 2018",
+		"id": 1064602713206546400,
+		"id_str": "1064602713206546434",
+		"full_text": "&amp; to end #crosswordkaraoke, the hero at 44-Across is memorialized in this beautiful @rubenblades song. It has one of my favorite (tragic) lines:\n \nAntonio cayo, ostia en mano y sin saber por qué / \nAndrés se murió a su lado sin conocer a Pelé\n\nhttps://t.co/B7CRB4ZqPr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "crosswordkaraoke",
+					"indices": [
+						13,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rubenblades",
+					"name": "Rubén Blades",
+					"id": 36928426,
+					"id_str": "36928426",
+					"indices": [
+						88,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B7CRB4ZqPr",
+					"expanded_url": "https://www.youtube.com/watch?v=GL8x1AaUBVc",
+					"display_url": "youtube.com/watch?v=GL8x1A…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1064600245533843500,
+		"in_reply_to_status_id_str": "1064600245533843457",
+		"in_reply_to_user_id": 365544795,
+		"in_reply_to_user_id_str": "365544795",
+		"in_reply_to_screen_name": "natanlast",
+		"user": {
+			"id": 365544795,
+			"id_str": "365544795",
+			"name": "Natan Last",
+			"screen_name": "natanlast",
+			"location": "Brooklyn, NY",
+			"description": "I work in refugee resettlement & policy | @theIRC, @airbel | Write crossword puzzles for @nytimes, @newyorker | Wrote a book of em, linked below | Views my own.",
+			"url": "https://t.co/iCCFGah4hI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCCFGah4hI",
+							"expanded_url": "https://www.amazon.com/Word-Crossword-Puzzles-Prove-Square/dp/0761167552",
+							"display_url": "amazon.com/Word-Crossword…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1284,
+			"listed_count": 5,
+			"created_at": "Wed Aug 31 16:27:09 +0000 2011",
+			"favourites_count": 1016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 537,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1001102925085773824/0QLHI7bs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001102925085773824/0QLHI7bs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/365544795/1537240418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "&amp; to end #crosswordkaraoke, the hero at 44-Across is memorialized in this beautiful @rubenblades song. It has one of my favorite (tragic) lines:\n \nAntonio cayo, ostia en mano y sin saber por qué / \nAndrés se murió a su lado sin conocer a Pelé\n\nhttps://t.co/B7CRB4ZqPr"
+	},
+	{
+		"created_at": "Mon Nov 19 19:22:26 +0000 2018",
+		"id": 1064599801675821000,
+		"id_str": "1064599801675821057",
+		"full_text": "Quick lunchtime solve...started with a nice gimme at 44A, and went from there (btw, it's \"theologian,\" not \"theologist\") https://t.co/Z5WCCbiBHZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z5WCCbiBHZ",
+					"expanded_url": "https://twitter.com/natanlast/status/1064562788692054016",
+					"display_url": "twitter.com/natanlast/stat…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 670,
+			"friends_count": 1045,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1064562788692054000,
+		"quoted_status_id_str": "1064562788692054016",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Z5WCCbiBHZ",
+			"expanded": "https://twitter.com/natanlast/status/1064562788692054016",
+			"display": "twitter.com/natanlast/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 19 16:55:22 +0000 2018",
+			"id": 1064562788692054000,
+			"id_str": "1064562788692054016",
+			"full_text": "today's @NewYorker crossword brought to you by me and that friend who takes karaoke to this place https://t.co/WMTdeFb5WI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NewYorker",
+						"name": "The New Yorker",
+						"id": 14677919,
+						"id_str": "14677919",
+						"indices": [
+							8,
+							18
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1064562768303525900,
+						"id_str": "1064562768303525888",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DsYWMo3WkAAsDJ4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsYWMo3WkAAsDJ4.jpg",
+						"url": "https://t.co/WMTdeFb5WI",
+						"display_url": "pic.twitter.com/WMTdeFb5WI",
+						"expanded_url": "https://twitter.com/natanlast/status/1064562788692054016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 494,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 523,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 523,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1064562768303525900,
+						"id_str": "1064562768303525888",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DsYWMo3WkAAsDJ4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsYWMo3WkAAsDJ4.jpg",
+						"url": "https://t.co/WMTdeFb5WI",
+						"display_url": "pic.twitter.com/WMTdeFb5WI",
+						"expanded_url": "https://twitter.com/natanlast/status/1064562788692054016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 494,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 523,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 523,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 365544795,
+				"id_str": "365544795",
+				"name": "Natan Last",
+				"screen_name": "natanlast",
+				"location": "Brooklyn, NY",
+				"description": "I work in refugee resettlement & policy | @theIRC, @airbel | Write crossword puzzles for @nytimes, @newyorker | Wrote a book of em, linked below | Views my own.",
+				"url": "https://t.co/iCCFGah4hI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iCCFGah4hI",
+								"expanded_url": "https://www.amazon.com/Word-Crossword-Puzzles-Prove-Square/dp/0761167552",
+								"display_url": "amazon.com/Word-Crossword…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 317,
+				"friends_count": 1284,
+				"listed_count": 5,
+				"created_at": "Wed Aug 31 16:27:09 +0000 2011",
+				"favourites_count": 1016,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 537,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1001102925085773824/0QLHI7bs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001102925085773824/0QLHI7bs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/365544795/1537240418",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Quick lunchtime solve...started with a nice gimme at 44A, and went from there (btw, it's \"theologian,\" not \"theologist\") https://t.co/Z5WCCbiBHZ"
+	},
+	{
 		"created_at": "Mon Nov 19 19:05:43 +0000 2018",
 		"id": 1064595593975210000,
 		"id_str": "1064595593975209984",
