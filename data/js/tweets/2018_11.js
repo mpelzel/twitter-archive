@@ -69,6 +69,122 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 1322451,
+			"friends_count": 1294,
+			"listed_count": 4919,
+			"created_at": "Wed Apr 28 22:38:40 +0000 2010",
+			"favourites_count": 9097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6060,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/138203134/1511815660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18133,
+		"favorite_count": 87229,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cognitive dissonance is Republican commentators stalking, doctoring, + editing my casual livestreams out of context in order to sow doubt in my intelligence, all while blindly supporting a man who thinks our greatest defense against forest fires is: A Rake\nhttps://t.co/RsfyPT6rGy"
+	},
+	{
+		"created_at": "Wed Nov 21 22:20:41 +0000 2018",
+		"id": 1065369433982595100,
+		"id_str": "1065369433982595073",
+		"full_text": "Cognitive dissonance is Republican commentators stalking, doctoring, + editing my casual livestreams out of context in order to sow doubt in my intelligence, all while blindly supporting a man who thinks our greatest defense against forest fires is: A Rake\nhttps://t.co/RsfyPT6rGy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RsfyPT6rGy",
+					"expanded_url": "https://www.washingtonpost.com/amphtml/world/2018/11/18/trump-suggests-californians-can-rake-their-forests-prevent-wildfires-he-is-wrong/",
+					"display_url": "washingtonpost.com/amphtml/world/…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 138203134,
+			"id_str": "138203134",
+			"name": "Alexandria Ocasio-Cortez",
+			"screen_name": "Ocasio2018",
+			"location": "Bronx + Queens, NYC",
+			"description": "Congressmember-Elect, NY-14: Bronx + Queens. 100% People-Funded, No Corporate Money. Support the movement: https://t.co/3vr38eqPRQ",
+			"url": "https://t.co/WkxIUgr9EX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WkxIUgr9EX",
+							"expanded_url": "http://www.Ocasio2018.com/donate",
+							"display_url": "Ocasio2018.com/donate",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3vr38eqPRQ",
+							"expanded_url": "http://ocasio2018.com/",
+							"display_url": "ocasio2018.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
 			"followers_count": 1308028,
 			"friends_count": 1294,
 			"listed_count": 4864,
