@@ -1,6 +1,1352 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 25 19:54:58 +0000 2018",
+		"id": 1066782313374195700,
+		"id_str": "1066782313374195715",
+		"full_text": "A. do a ton of crosswords, not just NYT\nB. keep track of your times (your NYT times, anyway)\nC. do really really hard crosswords (Newsday Saturday Stumper, Fireball)\nD. solve easy crosswords Downs-only (builds pattern recog skills)\nE. construct crosswords (seriously)\n(1/2) https://t.co/wEhk1yRk5Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wEhk1yRk5Z",
+					"expanded_url": "https://twitter.com/enveloping/status/1066753505988235264",
+					"display_url": "twitter.com/enveloping/sta…",
+					"indices": [
+						274,
+						297
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14230012,
+			"id_str": "14230012",
+			"name": "Rex Parker🏹🏹🏹",
+			"screen_name": "rexparker",
+			"location": "Binghamton, NY",
+			"description": "Tossword Critter // I married a Kiwi // #NYTXW // he him His Highness // All Hail OOXTEPLERNON!",
+			"url": "https://t.co/lL1n14Xuv4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lL1n14Xuv4",
+							"expanded_url": "http://rexwordpuzzle.blogspot.com",
+							"display_url": "rexwordpuzzle.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6967,
+			"friends_count": 250,
+			"listed_count": 150,
+			"created_at": "Wed Mar 26 21:33:58 +0000 2008",
+			"favourites_count": 44482,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74498,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/977249006060531715/kD3wMl50_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/977249006060531715/kD3wMl50_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14230012/1524625527",
+			"profile_link_color": "D10404",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1066753505988235300,
+		"quoted_status_id_str": "1066753505988235264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wEhk1yRk5Z",
+			"expanded": "https://twitter.com/enveloping/status/1066753505988235264",
+			"display": "twitter.com/enveloping/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 25 18:00:29 +0000 2018",
+			"id": 1066753505988235300,
+			"id_str": "1066753505988235264",
+			"full_text": "@rexparker i am a relatively novice solver who was quite proud of a 35 minute time today until i saw your time. how do i get faster? just do a ton of crosswords? (read books for knowledge? ugh)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				193
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rexparker",
+						"name": "Rex Parker🏹🏹🏹",
+						"id": 14230012,
+						"id_str": "14230012",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 14230012,
+			"in_reply_to_user_id_str": "14230012",
+			"in_reply_to_screen_name": "rexparker",
+			"user": {
+				"id": 477120615,
+				"id_str": "477120615",
+				"name": "big scary pile of slime",
+				"screen_name": "enveloping",
+				"location": "",
+				"description": "i enjoy to math",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 396,
+				"friends_count": 284,
+				"listed_count": 16,
+				"created_at": "Sat Jan 28 21:22:18 +0000 2012",
+				"favourites_count": 1377,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3862,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/567053560181829633/RaS6D7r5_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/567053560181829633/RaS6D7r5_normal.png",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A. do a ton of crosswords, not just NYT\nB. keep track of your times (your NYT times, anyway)\nC. do really really hard crosswords (Newsday Saturday Stumper, Fireball)\nD. solve easy crosswords Downs-only (builds pattern recog skills)\nE. construct crosswords (seriously)\n(1/2) https://t.co/wEhk1yRk5Z"
+	},
+	{
+		"created_at": "Sun Nov 25 19:05:52 +0000 2018",
+		"id": 1066769957034307600,
+		"id_str": "1066769957034307584",
+		"full_text": ".@MadsPelzel https://t.co/pTlsRbvgDp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MadsPelzel",
+					"name": "Madeleine Pelzel",
+					"id": 532725843,
+					"id_str": "532725843",
+					"indices": [
+						1,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pTlsRbvgDp",
+					"expanded_url": "https://twitter.com/lanegreene/status/1061332713586806785",
+					"display_url": "twitter.com/lanegreene/sta…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 675,
+			"friends_count": 1045,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7254,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1061332713586806800,
+		"quoted_status_id_str": "1061332713586806785",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pTlsRbvgDp",
+			"expanded": "https://twitter.com/lanegreene/status/1061332713586806785",
+			"display": "twitter.com/lanegreene/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 10 19:00:12 +0000 2018",
+			"id": 1061332713586806800,
+			"id_str": "1061332713586806785",
+			"full_text": "First excerpt from TALK ON THE WILD SIDE in @politico , and appropriately political: why George Orwell's rules from \"Politics and the English Language\" didn't save us from Trump and Brexit. In many ways Trump and Nigel Farage obey those rules. https://t.co/WstPgyG8c9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				267
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "politico",
+						"name": "POLITICO",
+						"id": 9300262,
+						"id_str": "9300262",
+						"indices": [
+							44,
+							53
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/WstPgyG8c9",
+						"expanded_url": "https://www.politico.com/magazine/story/2018/11/10/donald-trump-george-orwell-222404",
+						"display_url": "politico.com/magazine/story…",
+						"indices": [
+							244,
+							267
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 49170981,
+				"id_str": "49170981",
+				"name": "Lane Greene",
+				"screen_name": "lanegreene",
+				"location": "London, England",
+				"description": "Language columnist and editor, @TheEconomist. \"Talk on the Wild Side: Why Language Can't be Tamed\" is now out in UK/EU, and coming to N. America on November 6.",
+				"url": "https://t.co/5elNAsHplS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5elNAsHplS",
+								"expanded_url": "http://lanegreene.com",
+								"display_url": "lanegreene.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7390,
+				"friends_count": 1797,
+				"listed_count": 355,
+				"created_at": "Sun Jun 21 00:24:13 +0000 2009",
+				"favourites_count": 849,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6730,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1061932228433887232/6StOrkVG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061932228433887232/6StOrkVG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/49170981/1542019315",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": ".@MadsPelzel https://t.co/pTlsRbvgDp"
+	},
+	{
+		"created_at": "Sun Nov 25 18:49:26 +0000 2018",
+		"id": 1066765821551280100,
+		"id_str": "1066765821551280128",
+		"full_text": ".@MadsPelzel https://t.co/5k6ooFBDIB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MadsPelzel",
+					"name": "Madeleine Pelzel",
+					"id": 532725843,
+					"id_str": "532725843",
+					"indices": [
+						1,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5k6ooFBDIB",
+					"expanded_url": "https://twitter.com/kerathink/status/1061423341016358913",
+					"display_url": "twitter.com/kerathink/stat…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 675,
+			"friends_count": 1045,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7254,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1061423341016358900,
+		"quoted_status_id_str": "1061423341016358913",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5k6ooFBDIB",
+			"expanded": "https://twitter.com/kerathink/status/1061423341016358913",
+			"display": "twitter.com/kerathink/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 11 01:00:19 +0000 2018",
+			"id": 1061423341016358900,
+			"id_str": "1061423341016358913",
+			"full_text": ".@petersagal is the notorious host of @waitwait. But many don't know he's also an avid runner with hundreds of miles under his belt. He shares his journey in his new book, \"The Incomplete Book of Running.\" https://t.co/BseGKIjtsO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				229
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "petersagal",
+						"name": "Peter Sagal",
+						"id": 14985228,
+						"id_str": "14985228",
+						"indices": [
+							1,
+							12
+						]
+					},
+					{
+						"screen_name": "waitwait",
+						"name": "waitwait",
+						"id": 13784322,
+						"id_str": "13784322",
+						"indices": [
+							38,
+							47
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/BseGKIjtsO",
+						"expanded_url": "http://ow.ly/xoMe30mxl1p",
+						"display_url": "ow.ly/xoMe30mxl1p",
+						"indices": [
+							206,
+							229
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18693680,
+				"id_str": "18693680",
+				"name": "Think on KERA",
+				"screen_name": "kerathink",
+				"location": "Dallas, TX",
+				"description": "Award-winning call-in show exploring current affairs, arts, science and more. Airs Mon – Thurs from noon – 2pm CT & Fri from 1-2pm CT on @keratx @keranews.",
+				"url": "https://t.co/ovvMWjDLZS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ovvMWjDLZS",
+								"expanded_url": "http://kera.org/think",
+								"display_url": "kera.org/think",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4153,
+				"friends_count": 732,
+				"listed_count": 63,
+				"created_at": "Tue Jan 06 20:32:10 +0000 2009",
+				"favourites_count": 2980,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8320,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/949412209771229184/k8771VIA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/949412209771229184/k8771VIA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18693680/1483477620",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": ".@MadsPelzel https://t.co/5k6ooFBDIB"
+	},
+	{
+		"created_at": "Sun Nov 25 17:20:25 +0000 2018",
+		"id": 1066743420352372700,
+		"id_str": "1066743420352372736",
+		"full_text": "Hey twitter world, I’ve got 5 hours to kill in an airport (delayed flight) and would love your article / podcast recommendations! Send me your Sunday long-reads :)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 532725843,
+			"id_str": "532725843",
+			"name": "Madeleine Pelzel",
+			"screen_name": "MadsPelzel",
+			"location": "Rice University",
+			"description": "inspired, motivated, and powered by google calendar",
+			"url": "https://t.co/tv9PKU93Q7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tv9PKU93Q7",
+							"expanded_url": "http://madeleinepelzel.com",
+							"display_url": "madeleinepelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 333,
+			"friends_count": 254,
+			"listed_count": 5,
+			"created_at": "Wed Mar 21 23:17:11 +0000 2012",
+			"favourites_count": 2329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2968,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DCF1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057372809427648514/lgnjdzoU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057372809427648514/lgnjdzoU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/532725843/1521498118",
+			"profile_link_color": "0C446F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "1C1C1C",
+			"profile_text_color": "C0DCF1",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hey twitter world, I’ve got 5 hours to kill in an airport (delayed flight) and would love your article / podcast recommendations! Send me your Sunday long-reads :)"
+	},
+	{
+		"created_at": "Wed Nov 21 21:05:00 +0000 2018",
+		"id": 1065350388474351600,
+		"id_str": "1065350388474351617",
+		"full_text": "With the publication of her open-access \"Essentials of Linguistics\" textbook on @pressbooks, @candersHamilton became an \"eTextbook rockstar\" and got a round of applause from her first-year class. | https://t.co/818OUX1aux | @eCampusOntario",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pressbooks",
+					"name": "Pressbooks",
+					"id": 197561927,
+					"id_str": "197561927",
+					"indices": [
+						80,
+						91
+					]
+				},
+				{
+					"screen_name": "candersHamilton",
+					"name": "Catherine Anderson",
+					"id": 2353588993,
+					"id_str": "2353588993",
+					"indices": [
+						93,
+						109
+					]
+				},
+				{
+					"screen_name": "eCampusOntario",
+					"name": "eCampusOntario",
+					"id": 3429881050,
+					"id_str": "3429881050",
+					"indices": [
+						224,
+						239
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/818OUX1aux",
+					"expanded_url": "https://bit.ly/2A9qmI7",
+					"display_url": "bit.ly/2A9qmI7",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 57709461,
+			"id_str": "57709461",
+			"name": "McMaster University",
+			"screen_name": "McMasterU",
+			"location": "Hamilton, ON",
+			"description": "News and updates from McMaster University.",
+			"url": "https://t.co/FL05YYKtCc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FL05YYKtCc",
+							"expanded_url": "http://www.mcmaster.ca",
+							"display_url": "mcmaster.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57560,
+			"friends_count": 307,
+			"listed_count": 598,
+			"created_at": "Fri Jul 17 17:59:36 +0000 2009",
+			"favourites_count": 1918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10712,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/938466689582272512/OjseYn3V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/938466689582272512/OjseYn3V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/57709461/1430764870",
+			"profile_link_color": "990033",
+			"profile_sidebar_border_color": "990033",
+			"profile_sidebar_fill_color": "F0F0F0",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 140,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "With the publication of her open-access \"Essentials of Linguistics\" textbook on @pressbooks, @candersHamilton became an \"eTextbook rockstar\" and got a round of applause from her first-year class. | https://t.co/818OUX1aux | @eCampusOntario"
+	},
+	{
+		"created_at": "Sun Nov 25 03:21:39 +0000 2018",
+		"id": 1066532339814150100,
+		"id_str": "1066532339814150145",
+		"full_text": "Just pulled in to the house in  Grinnell, after 800 mile drive from North Texas ... where it was 75 and sunny today. \n\nWelp, grateful for safe travel at least! https://t.co/pBTmIDNzi1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pBTmIDNzi1",
+					"expanded_url": "https://twitter.com/IAStormChasing/status/1066127924787593216",
+					"display_url": "twitter.com/IAStormChasing…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 675,
+			"friends_count": 1045,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7254,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1066127924787593200,
+		"quoted_status_id_str": "1066127924787593216",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pBTmIDNzi1",
+			"expanded": "https://twitter.com/IAStormChasing/status/1066127924787593216",
+			"display": "twitter.com/IAStormChasing…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 24 00:34:39 +0000 2018",
+			"id": 1066127924787593200,
+			"id_str": "1066127924787593216",
+			"full_text": "Near blizzard conditions will be possible Sunday in #Iowa. More: https://t.co/5pPvBLMelL https://t.co/3dHYBnQ9a2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				88
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Iowa",
+						"indices": [
+							52,
+							57
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5pPvBLMelL",
+						"expanded_url": "http://www.iowachase.com/near-blizzard-conditions-possible-sunday-in-iowa/",
+						"display_url": "iowachase.com/near-blizzard-…",
+						"indices": [
+							65,
+							88
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1066127922224742400,
+						"id_str": "1066127922224742401",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/DsulsllUwAE2fAK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsulsllUwAE2fAK.jpg",
+						"url": "https://t.co/3dHYBnQ9a2",
+						"display_url": "pic.twitter.com/3dHYBnQ9a2",
+						"expanded_url": "https://twitter.com/IAStormChasing/status/1066127924787593216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 605,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 605,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 402,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1066127922224742400,
+						"id_str": "1066127922224742401",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/DsulsllUwAE2fAK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsulsllUwAE2fAK.jpg",
+						"url": "https://t.co/3dHYBnQ9a2",
+						"display_url": "pic.twitter.com/3dHYBnQ9a2",
+						"expanded_url": "https://twitter.com/IAStormChasing/status/1066127924787593216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 605,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 605,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 402,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 128714055,
+				"id_str": "128714055",
+				"name": "Iowa Storm Chasing",
+				"screen_name": "IAStormChasing",
+				"location": "Iowa",
+				"description": "A career of #stormchasing in #Iowa and broadcasting. Now bringing you the best weather coverage devoted only to online viewers #iawx",
+				"url": "https://t.co/tgFqXQLooZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tgFqXQLooZ",
+								"expanded_url": "http://iowachase.com",
+								"display_url": "iowachase.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15817,
+				"friends_count": 3268,
+				"listed_count": 260,
+				"created_at": "Fri Apr 02 00:18:19 +0000 2010",
+				"favourites_count": 3097,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7101,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/458693122302566400/6rziCp1L_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/458693122302566400/6rziCp1L_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/128714055/1543001989",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 53,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just pulled in to the house in  Grinnell, after 800 mile drive from North Texas ... where it was 75 and sunny today. \n\nWelp, grateful for safe travel at least! https://t.co/pBTmIDNzi1"
+	},
+	{
+		"created_at": "Wed Nov 21 22:20:41 +0000 2018",
+		"id": 1065369433982595100,
+		"id_str": "1065369433982595073",
+		"full_text": "Cognitive dissonance is Republican commentators stalking, doctoring, + editing my casual livestreams out of context in order to sow doubt in my intelligence, all while blindly supporting a man who thinks our greatest defense against forest fires is: A Rake\nhttps://t.co/RsfyPT6rGy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RsfyPT6rGy",
+					"expanded_url": "https://www.washingtonpost.com/amphtml/world/2018/11/18/trump-suggests-californians-can-rake-their-forests-prevent-wildfires-he-is-wrong/",
+					"display_url": "washingtonpost.com/amphtml/world/…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 138203134,
+			"id_str": "138203134",
+			"name": "Alexandria Ocasio-Cortez",
+			"screen_name": "Ocasio2018",
+			"location": "Bronx + Queens, NYC",
+			"description": "Congressmember-Elect, NY-14: Bronx + Queens. 100% People-Funded, No Corporate Money. Support the movement: https://t.co/3vr38eqPRQ",
+			"url": "https://t.co/WkxIUgr9EX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WkxIUgr9EX",
+							"expanded_url": "http://www.Ocasio2018.com/donate",
+							"display_url": "Ocasio2018.com/donate",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3vr38eqPRQ",
+							"expanded_url": "http://ocasio2018.com/",
+							"display_url": "ocasio2018.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1332922,
+			"friends_count": 1294,
+			"listed_count": 4964,
+			"created_at": "Wed Apr 28 22:38:40 +0000 2010",
+			"favourites_count": 9106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6073,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/138203134/1511815660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18335,
+		"favorite_count": 87790,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cognitive dissonance is Republican commentators stalking, doctoring, + editing my casual livestreams out of context in order to sow doubt in my intelligence, all while blindly supporting a man who thinks our greatest defense against forest fires is: A Rake\nhttps://t.co/RsfyPT6rGy"
+	},
+	{
 		"created_at": "Wed Nov 21 22:20:41 +0000 2018",
 		"id": 1065369433982595100,
 		"id_str": "1065369433982595073",
