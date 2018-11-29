@@ -1,6 +1,1666 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Wed Nov 28 22:18:55 +0000 2018",
+		"id": 1067905705989062700,
+		"id_str": "1067905705989062657",
+		"full_text": "Annotating As Augmenting? Coming to a Web Near You #augmentintellect https://t.co/TEcNhCknft https://t.co/a2MYMvHj0o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "augmentintellect",
+					"indices": [
+						51,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TEcNhCknft",
+					"expanded_url": "https://cogdogblog.com/2018/11/annotating-as-augmenting/",
+					"display_url": "cogdogblog.com/2018/11/annota…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1067905704298668000,
+					"id_str": "1067905704298668033",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DtH2lH5V4AEfYJo.png",
+					"media_url_https": "https://pbs.twimg.com/media/DtH2lH5V4AEfYJo.png",
+					"url": "https://t.co/a2MYMvHj0o",
+					"display_url": "pic.twitter.com/a2MYMvHj0o",
+					"expanded_url": "https://twitter.com/cogdog/status/1067905705989062657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1067905704298668000,
+					"id_str": "1067905704298668033",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DtH2lH5V4AEfYJo.png",
+					"media_url_https": "https://pbs.twimg.com/media/DtH2lH5V4AEfYJo.png",
+					"url": "https://t.co/a2MYMvHj0o",
+					"display_url": "pic.twitter.com/a2MYMvHj0o",
+					"expanded_url": "https://twitter.com/cogdog/status/1067905705989062657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10378,
+			"friends_count": 1451,
+			"listed_count": 793,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87070,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Annotating As Augmenting? Coming to a Web Near You #augmentintellect https://t.co/TEcNhCknft https://t.co/a2MYMvHj0o"
+	},
+	{
+		"created_at": "Wed Nov 28 18:57:22 +0000 2018",
+		"id": 1067854981859065900,
+		"id_str": "1067854981859065857",
+		"full_text": "cyberfatigue",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://maxbittker.github.io\" rel=\"nofollow\">nyt-newwords</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 838207103852396500,
+			"id_str": "838207103852396544",
+			"name": "New New York Times",
+			"screen_name": "NYT_first_said",
+			"location": "",
+			"description": "Tweets words when they appear in the New York Times for the first time.   🗞 questions & concerns: @maxbittker",
+			"url": "https://t.co/IzV3oIKXXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IzV3oIKXXI",
+							"expanded_url": "http://github.com/MaxBittker/NYT-first-said",
+							"display_url": "github.com/MaxBittker/NYT…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43886,
+			"friends_count": 12,
+			"listed_count": 342,
+			"created_at": "Sun Mar 05 01:58:41 +0000 2017",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12132,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838216867177115648/NbpMB0cI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838216867177115648/NbpMB0cI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/838207103852396544/1488744904",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 106,
+		"favorite_count": 292,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "in",
+		"text": "cyberfatigue"
+	},
+	{
+		"created_at": "Wed Nov 28 21:15:27 +0000 2018",
+		"id": 1067889732573700100,
+		"id_str": "1067889732573700096",
+		"full_text": "What do you think, @MadsPelzel https://t.co/AorvdfUocd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MadsPelzel",
+					"name": "Madeleine Pelzel",
+					"id": 532725843,
+					"id_str": "532725843",
+					"indices": [
+						19,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AorvdfUocd",
+					"expanded_url": "https://twitter.com/googlemaps/status/1067818897804382208",
+					"display_url": "twitter.com/googlemaps/sta…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 673,
+			"friends_count": 1047,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7276,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1067818897804382200,
+		"quoted_status_id_str": "1067818897804382208",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AorvdfUocd",
+			"expanded": "https://twitter.com/googlemaps/status/1067818897804382208",
+			"display": "twitter.com/googlemaps/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 28 16:33:59 +0000 2018",
+			"id": 1067818897804382200,
+			"id_str": "1067818897804382208",
+			"full_text": "Passport? ✔️ Extra snacks? ✔️\n\nMeet Google Fi, a phone plan that lets you travel with your own phone to 170+ countries &amp; territories with no additional data charges &amp; free, unlimited texting &amp; affordable calls. 🌎💯 https://t.co/PXaGJAwAHL\n\nAvailable to US customers only. https://t.co/emlHPX7qcX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				282
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PXaGJAwAHL",
+						"expanded_url": "http://fi.google.com",
+						"display_url": "fi.google.com",
+						"indices": [
+							226,
+							249
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1067818878921830400,
+						"id_str": "1067818878921830401",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DtGnnOKXcAE5xq1.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DtGnnOKXcAE5xq1.jpg",
+						"url": "https://t.co/emlHPX7qcX",
+						"display_url": "pic.twitter.com/emlHPX7qcX",
+						"expanded_url": "https://twitter.com/googlemaps/status/1067818897804382208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 562,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 562,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1067818878921830400,
+						"id_str": "1067818878921830401",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DtGnnOKXcAE5xq1.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DtGnnOKXcAE5xq1.jpg",
+						"url": "https://t.co/emlHPX7qcX",
+						"display_url": "pic.twitter.com/emlHPX7qcX",
+						"expanded_url": "https://twitter.com/googlemaps/status/1067818897804382208/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 562,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 562,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								500,
+								281
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DtGnnOKXcAE5xq1.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31311757,
+				"id_str": "31311757",
+				"name": "Google Maps",
+				"screen_name": "googlemaps",
+				"location": "",
+				"description": "From your block to your next adventure, we’re here to help you discover more.",
+				"url": "http://t.co/xcRgWLTdTi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/xcRgWLTdTi",
+								"expanded_url": "http://maps.google.com",
+								"display_url": "maps.google.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3616306,
+				"friends_count": 120,
+				"listed_count": 17076,
+				"created_at": "Wed Apr 15 02:29:52 +0000 2009",
+				"favourites_count": 3111,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 27607,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/982343386957934592/kQPAXiUH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/982343386957934592/kQPAXiUH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31311757/1506107104",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EDF0FC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 41,
+			"favorite_count": 172,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What do you think, @MadsPelzel https://t.co/AorvdfUocd"
+	},
+	{
+		"created_at": "Wed Nov 28 18:47:20 +0000 2018",
+		"id": 1067852458431406100,
+		"id_str": "1067852458431406080",
+		"full_text": "#annotation was in the web's original vision 30 years ago, is it now unleashed? Find out at #ianno19, the annual conference dedicated to annotation technologies and practices: 22–23 May 2019 at @theAGU's newly refurbished \"net zero\" HQ in Washington DC: https://t.co/lFHlelNAPN https://t.co/06Y7aegSiK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "annotation",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "ianno19",
+					"indices": [
+						92,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theAGU",
+					"name": "Am Geophysical Union",
+					"id": 39530187,
+					"id_str": "39530187",
+					"indices": [
+						194,
+						201
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lFHlelNAPN",
+					"expanded_url": "http://iannotate.org",
+					"display_url": "iannotate.org",
+					"indices": [
+						254,
+						277
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1067852212859154400,
+					"id_str": "1067852212859154432",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/DtHF7gwVsAAmwkB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtHF7gwVsAAmwkB.jpg",
+					"url": "https://t.co/06Y7aegSiK",
+					"display_url": "pic.twitter.com/06Y7aegSiK",
+					"expanded_url": "https://twitter.com/i_annotate/status/1067852458431406080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1067852212859154400,
+					"id_str": "1067852212859154432",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/DtHF7gwVsAAmwkB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtHF7gwVsAAmwkB.jpg",
+					"url": "https://t.co/06Y7aegSiK",
+					"display_url": "pic.twitter.com/06Y7aegSiK",
+					"expanded_url": "https://twitter.com/i_annotate/status/1067852458431406080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1228746852,
+			"id_str": "1228746852",
+			"name": "I Annotate",
+			"screen_name": "i_annotate",
+			"location": "",
+			"description": "Annoto Ergo Sum: The conference dedicated to #annotation technologies and practices.",
+			"url": "http://t.co/019o7drt1P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/019o7drt1P",
+							"expanded_url": "http://iannotate.org",
+							"display_url": "iannotate.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 574,
+			"listed_count": 9,
+			"created_at": "Fri Mar 01 01:31:50 +0000 2013",
+			"favourites_count": 118,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 188,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/431166147539378176/XJdpgn8R_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/431166147539378176/XJdpgn8R_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1228746852/1420243896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#annotation was in the web's original vision 30 years ago, is it now unleashed? Find out at #ianno19, the annual conference dedicated to annotation technologies and practices: 22–23 May 2019 at @theAGU's newly refurbished \"net zero\" HQ in Washington DC: https://t.co/lFHlelNAPN https://t.co/06Y7aegSiK"
+	},
+	{
+		"created_at": "Tue Nov 27 20:48:00 +0000 2018",
+		"id": 1067520436936810500,
+		"id_str": "1067520436936810496",
+		"full_text": "The 28 Best Map Based Strategy Board Games You’ve Probably Never Played https://t.co/b64jjE3G03",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b64jjE3G03",
+					"expanded_url": "https://brilliantmaps.com/strategy-board-games/",
+					"display_url": "brilliantmaps.com/strategy-board…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2751434132,
+			"id_str": "2751434132",
+			"name": "Brilliant Maps",
+			"screen_name": "BrilliantMaps",
+			"location": "London and around the world",
+			"description": "Making Sense Of The World, One Map At A Time. Follow us on Facebook: https://t.co/LoPjmNF7Nn & visit our website for even more great maps!",
+			"url": "http://t.co/bOcAJ4h8Sd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bOcAJ4h8Sd",
+							"expanded_url": "http://brilliantmaps.com",
+							"display_url": "brilliantmaps.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/LoPjmNF7Nn",
+							"expanded_url": "https://www.facebook.com/brilliantmaps",
+							"display_url": "facebook.com/brilliantmaps",
+							"indices": [
+								69,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 83077,
+			"friends_count": 231,
+			"listed_count": 1285,
+			"created_at": "Thu Aug 21 05:59:07 +0000 2014",
+			"favourites_count": 476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4756,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/822110207878819842/Gr1-uv3h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/822110207878819842/Gr1-uv3h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2751434132/1484841304",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 28 Best Map Based Strategy Board Games You’ve Probably Never Played https://t.co/b64jjE3G03"
+	},
+	{
+		"created_at": "Wed Nov 28 01:31:32 +0000 2018",
+		"id": 1067591790696517600,
+		"id_str": "1067591790696517632",
+		"full_text": "@actualham Holy cow! (haha)",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "actualham",
+					"name": "Robin DeRosa",
+					"id": 2182862052,
+					"id_str": "2182862052",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1067591653375057900,
+		"in_reply_to_status_id_str": "1067591653375057920",
+		"in_reply_to_user_id": 2182862052,
+		"in_reply_to_user_id_str": "2182862052",
+		"in_reply_to_screen_name": "actualham",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 673,
+			"friends_count": 1047,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7276,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@actualham Holy cow! (haha)"
+	},
+	{
+		"created_at": "Tue Nov 27 21:50:01 +0000 2018",
+		"id": 1067536042964717600,
+		"id_str": "1067536042964717569",
+		"full_text": "Cats in literature https://t.co/Qhb43TUquD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qhb43TUquD",
+					"expanded_url": "https://buff.ly/2AuVnGj",
+					"display_url": "buff.ly/2AuVnGj",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 89465917,
+			"id_str": "89465917",
+			"name": "Arts & Letters Daily",
+			"screen_name": "aldaily",
+			"location": "",
+			"description": "Ideas. Criticism. Debate. https://t.co/A6fO5L6Ly6",
+			"url": "http://t.co/LkAamagQbi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/LkAamagQbi",
+							"expanded_url": "http://aldaily.com",
+							"display_url": "aldaily.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/A6fO5L6Ly6",
+							"expanded_url": "https://www.facebook.com/aldaily",
+							"display_url": "facebook.com/aldaily",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 75258,
+			"friends_count": 0,
+			"listed_count": 3342,
+			"created_at": "Thu Nov 12 15:13:07 +0000 2009",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8211,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FDF7F1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2289833551/y61hs1s4mw0ksq3kjanr_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2289833551/y61hs1s4mw0ksq3kjanr_normal.jpeg",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cats in literature https://t.co/Qhb43TUquD"
+	},
+	{
+		"created_at": "Tue Nov 27 23:56:38 +0000 2018",
+		"id": 1067567906710446100,
+		"id_str": "1067567906710446080",
+		"full_text": "i love insider crossword lingo like \"natick\" and \"green paint\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5413742,
+			"id_str": "5413742",
+			"name": "anna",
+			"screen_name": "actual_anna",
+			"location": "",
+			"description": "world's oldest millennial",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 249,
+			"friends_count": 373,
+			"listed_count": 5,
+			"created_at": "Sun Apr 22 23:01:20 +0000 2007",
+			"favourites_count": 38616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7205,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/997580828958863360/Xs7kKuWk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/997580828958863360/Xs7kKuWk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5413742/1538619442",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "i love insider crossword lingo like \"natick\" and \"green paint\""
+	},
+	{
+		"created_at": "Wed Nov 28 00:57:06 +0000 2018",
+		"id": 1067583125860028400,
+		"id_str": "1067583125860028416",
+		"full_text": "@actualham I mean, c'mon ... the steers in Texas aren't even that big!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "actualham",
+					"name": "Robin DeRosa",
+					"id": 2182862052,
+					"id_str": "2182862052",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1067581382304690200,
+		"in_reply_to_status_id_str": "1067581382304690176",
+		"in_reply_to_user_id": 2182862052,
+		"in_reply_to_user_id_str": "2182862052",
+		"in_reply_to_screen_name": "actualham",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 673,
+			"friends_count": 1047,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7276,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@actualham I mean, c'mon ... the steers in Texas aren't even that big!"
+	},
+	{
+		"created_at": "Wed Nov 28 00:38:34 +0000 2018",
+		"id": 1067578461315874800,
+		"id_str": "1067578461315874816",
+		"full_text": "There's the beef https://t.co/JEbHPWP4qx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JEbHPWP4qx",
+					"expanded_url": "https://twitter.com/7NewsCQ/status/1067293961822208000",
+					"display_url": "twitter.com/7NewsCQ/status…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 673,
+			"friends_count": 1047,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7276,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1067293961822208000,
+		"quoted_status_id_str": "1067293961822208000",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JEbHPWP4qx",
+			"expanded": "https://twitter.com/7NewsCQ/status/1067293961822208000",
+			"display": "twitter.com/7NewsCQ/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 27 05:48:04 +0000 2018",
+			"id": 1067293961822208000,
+			"id_str": "1067293961822208000",
+			"full_text": "An enormous steer in Western Australia is making headlines. At 194cm 'Knickers' is the largest in his category in Australia. Story: https://t.co/ZI472MBUU4 #7News https://t.co/MDEMwEbD8R",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				162
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "7News",
+						"indices": [
+							156,
+							162
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZI472MBUU4",
+						"expanded_url": "http://bit.ly/2As99K3",
+						"display_url": "bit.ly/2As99K3",
+						"indices": [
+							132,
+							155
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1067293731403948000,
+						"id_str": "1067293731403948032",
+						"indices": [
+							163,
+							186
+						],
+						"media_url": "http://pbs.twimg.com/media/Ds_J_nNVYAAUMZw.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ds_J_nNVYAAUMZw.png",
+						"url": "https://t.co/MDEMwEbD8R",
+						"display_url": "pic.twitter.com/MDEMwEbD8R",
+						"expanded_url": "https://twitter.com/7NewsCQ/status/1067293961822208000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1012,
+								"h": 568,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1012,
+								"h": 568,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						},
+						"source_user_id": 3312051122,
+						"source_user_id_str": "3312051122"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1067293731403948000,
+						"id_str": "1067293731403948032",
+						"indices": [
+							163,
+							186
+						],
+						"media_url": "http://pbs.twimg.com/media/Ds_J_nNVYAAUMZw.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ds_J_nNVYAAUMZw.png",
+						"url": "https://t.co/MDEMwEbD8R",
+						"display_url": "pic.twitter.com/MDEMwEbD8R",
+						"expanded_url": "https://twitter.com/7NewsCQ/status/1067293961822208000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1012,
+								"h": 568,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1012,
+								"h": 568,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						},
+						"source_user_id": 3312051122,
+						"source_user_id_str": "3312051122"
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 492858945,
+				"id_str": "492858945",
+				"name": "7 News Central Queensland",
+				"screen_name": "7NewsCQ",
+				"location": "Central Queensland",
+				"description": "Central Queensland’s leading news network. 6pm weeknights. Got a local news tip? We want your story. Email: newscq@seven.com.au #7News",
+				"url": "https://t.co/7mN5C33br9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7mN5C33br9",
+								"expanded_url": "http://m.me/7NewsCQ",
+								"display_url": "m.me/7NewsCQ",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4269,
+				"friends_count": 126,
+				"listed_count": 102,
+				"created_at": "Wed Feb 15 06:12:32 +0000 2012",
+				"favourites_count": 61,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 14528,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1017654556019195904/8BfNkIPR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017654556019195904/8BfNkIPR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/492858945/1488175629",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7612,
+			"favorite_count": 18803,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There's the beef https://t.co/JEbHPWP4qx"
+	},
+	{
 		"created_at": "Tue Nov 27 21:58:27 +0000 2018",
 		"id": 1067538168654766100,
 		"id_str": "1067538168654766080",
