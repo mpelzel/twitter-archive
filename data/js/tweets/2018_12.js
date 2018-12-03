@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Nov 29 20:06:39 +0000 2018",
+		"id": 1068234806117290000,
+		"id_str": "1068234806117289984",
+		"full_text": "My free chapter from @NielsBr and @ianmilligan1 (eds) new book The SAGE Handbook of Web History.\n\nThis chapter is called “Hypertext before the Web – or, What the Web Could Have Been” https://t.co/t2jWghwrBH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NielsBr",
+					"name": "Niels Brügger",
+					"id": 26476281,
+					"id_str": "26476281",
+					"indices": [
+						21,
+						29
+					]
+				},
+				{
+					"screen_name": "ianmilligan1",
+					"name": "Ian Milligan",
+					"id": 255681367,
+					"id_str": "255681367",
+					"indices": [
+						34,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/t2jWghwrBH",
+					"expanded_url": "https://au.sagepub.com/sites/default/files/upm-binaries/97181_Sample_Chapter_15_from_9781473980051_T.pdf",
+					"display_url": "au.sagepub.com/sites/default/…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47316108,
+			"id_str": "47316108",
+			"name": "Dr Belinda Barnet",
+			"screen_name": "manjusrii",
+			"location": "Melbourne, Victoria",
+			"description": "Snr Lecturer Media @Swinburne Author \"Memory Machines History Hypertext\" @anthempress Geek, opinion-haver. Smells books. New app 4deaf kids. Made @feed_pruner",
+			"url": "https://t.co/pAfstwqwEc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pAfstwqwEc",
+							"expanded_url": "http://www.swinburne.edu.au/health-arts-design/staff/profile/index.php?id=bbarnet",
+							"display_url": "swinburne.edu.au/health-arts-de…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14485,
+			"friends_count": 6687,
+			"listed_count": 320,
+			"created_at": "Mon Jun 15 11:46:46 +0000 2009",
+			"favourites_count": 27291,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 27580,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1049262925603471361/8AlDpak-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049262925603471361/8AlDpak-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47316108/1503827904",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 39,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My free chapter from @NielsBr and @ianmilligan1 (eds) new book The SAGE Handbook of Web History.\n\nThis chapter is called “Hypertext before the Web – or, What the Web Could Have Been” https://t.co/t2jWghwrBH"
+	},
+	{
+		"created_at": "Sat Dec 01 21:28:24 +0000 2018",
+		"id": 1068980155618664400,
+		"id_str": "1068980155618664449",
+		"full_text": "it's about time for another freestyle crossword\n\nhttps://t.co/1ahSPkFU69",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1ahSPkFU69",
+					"expanded_url": "http://arctanxwords.blogspot.com/2018/12/puzzle-83-about-time-freestyle-82.html",
+					"display_url": "arctanxwords.blogspot.com/2018/12/puzzle…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112557090,
+			"id_str": "112557090",
+			"name": "christopher adams",
+			"screen_name": "arctanprime",
+			"location": "Iowa City, IA",
+			"description": "Between my finger and my thumb the squat pen rests. I’ll dig with it.",
+			"url": "https://t.co/gJs5cVRpxn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gJs5cVRpxn",
+							"expanded_url": "http://arctanxwords.blogspot.com/",
+							"display_url": "arctanxwords.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 250,
+			"friends_count": 439,
+			"listed_count": 10,
+			"created_at": "Mon Feb 08 23:03:09 +0000 2010",
+			"favourites_count": 13944,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6623,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000732706760/f44e19e44acc46012df8c1fc91c3b272_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000732706760/f44e19e44acc46012df8c1fc91c3b272_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/112557090/1516927209",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "it's about time for another freestyle crossword\n\nhttps://t.co/1ahSPkFU69"
+	},
+	{
+		"created_at": "Sat Dec 01 19:00:06 +0000 2018",
+		"id": 1068942835242713100,
+		"id_str": "1068942835242713090",
+		"full_text": "We shall soon be in a world in which a man may be howled down for saying that two and two make four, in which people will persecute the heresy of calling a triangle a three-sided figure, and hang a man for maddening a mob with the news that grass is green.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 309970677,
+			"id_str": "309970677",
+			"name": "G. K. Chesterton",
+			"screen_name": "GKCdaily",
+			"location": "",
+			"description": "Writer. Thinker. Poet. (1874-1936)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61498,
+			"friends_count": 66,
+			"listed_count": 780,
+			"created_at": "Fri Jun 03 00:08:16 +0000 2011",
+			"favourites_count": 3452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14125,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1001185133360230401/6bcBjmMe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001185133360230401/6bcBjmMe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/309970677/1516223106",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 720,
+		"favorite_count": 1505,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We shall soon be in a world in which a man may be howled down for saying that two and two make four, in which people will persecute the heresy of calling a triangle a three-sided figure, and hang a man for maddening a mob with the news that grass is green."
+	},
+	{
 		"created_at": "Sat Dec 01 23:50:48 +0000 2018",
 		"id": 1069015993786294300,
 		"id_str": "1069015993786294272",
