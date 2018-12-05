@@ -67,6 +67,531 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 1192,
+			"friends_count": 1058,
+			"listed_count": 52,
+			"created_at": "Sat Aug 18 00:42:02 +0000 2012",
+			"favourites_count": 8883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4517,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1049393723010822144/Wo7-ewik_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049393723010822144/Wo7-ewik_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/764745523/1539029936",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1066043708234219500,
+		"quoted_status_id_str": "1066043708234219520",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hzPAZimukF",
+			"expanded": "https://twitter.com/OERdigest/status/1066043708234219520",
+			"display": "twitter.com/OERdigest/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 23 19:00:00 +0000 2018",
+			"id": 1066043708234219500,
+			"id_str": "1066043708234219520",
+			"full_text": "THIS EDITION: A new survey conducted at American University shows that rising textbook prices affect students at expensive private universities similarly as those attending less expensive, public institutions. #highered #OER https://t.co/h7unJir73i",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				248
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "highered",
+						"indices": [
+							210,
+							219
+						]
+					},
+					{
+						"text": "OER",
+						"indices": [
+							220,
+							224
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/h7unJir73i",
+						"expanded_url": "https://www.infodocket.com/2018/11/15/research-article-are-private-universities-exempt-from-student-concerns-about-textbook-costs-a-survey-of-students-at-american-university/",
+						"display_url": "infodocket.com/2018/11/15/res…",
+						"indices": [
+							225,
+							248
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 773879523465105400,
+				"id_str": "773879523465105408",
+				"name": "OER Digest",
+				"screen_name": "OERdigest",
+				"location": "",
+				"description": "Your bi-weekly newsletter for open education updates, opportunities & reminders | Subscribe at https://t.co/JrGDJEYMOx | Send tips to oerdigest@gmail.com #OER",
+				"url": "https://t.co/fDA2aND4d0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fDA2aND4d0",
+								"expanded_url": "http://oerdigest.org",
+								"display_url": "oerdigest.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/JrGDJEYMOx",
+								"expanded_url": "http://bit.ly/oerdigest",
+								"display_url": "bit.ly/oerdigest",
+								"indices": [
+									95,
+									118
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1007,
+				"friends_count": 414,
+				"listed_count": 24,
+				"created_at": "Thu Sep 08 13:43:51 +0000 2016",
+				"favourites_count": 191,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 985,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/878334879879974917/vSeDEOdM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/878334879879974917/vSeDEOdM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/773879523465105408/1483667390",
+				"profile_link_color": "39C0E6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For those trying to make the case that private lib arts colleges should be involved in the #OER movement... https://t.co/hzPAZimukF"
+	},
+	{
+		"created_at": "Fri Nov 30 15:38:04 +0000 2018",
+		"id": 1068529602069442600,
+		"id_str": "1068529602069442560",
+		"full_text": "Really loved doing this podcast with John Warner @biblioracle on Rethinking Writing Instruction and Schools https://t.co/mei1Gky54W Powerful, insightful conversation. Spread the word! #edchat #engchat https://t.co/1TUciYp0VK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edchat",
+					"indices": [
+						184,
+						191
+					]
+				},
+				{
+					"text": "engchat",
+					"indices": [
+						192,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "biblioracle",
+					"name": "John Warner",
+					"id": 136277952,
+					"id_str": "136277952",
+					"indices": [
+						49,
+						61
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mei1Gky54W",
+					"expanded_url": "https://buff.ly/2U0QA8x",
+					"display_url": "buff.ly/2U0QA8x",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1068529599942967300,
+					"id_str": "1068529599942967296",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/DtQuAoSXQAA3Q7X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtQuAoSXQAA3Q7X.jpg",
+					"url": "https://t.co/1TUciYp0VK",
+					"display_url": "pic.twitter.com/1TUciYp0VK",
+					"expanded_url": "https://twitter.com/willrich45/status/1068529602069442560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 937,
+							"h": 534,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 937,
+							"h": 534,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1068529599942967300,
+					"id_str": "1068529599942967296",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/DtQuAoSXQAA3Q7X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtQuAoSXQAA3Q7X.jpg",
+					"url": "https://t.co/1TUciYp0VK",
+					"display_url": "pic.twitter.com/1TUciYp0VK",
+					"expanded_url": "https://twitter.com/willrich45/status/1068529602069442560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 937,
+							"h": 534,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 937,
+							"h": 534,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1068529597426339800,
+					"id_str": "1068529597426339841",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/DtQuAe6WkAEN6yk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtQuAe6WkAEN6yk.jpg",
+					"url": "https://t.co/1TUciYp0VK",
+					"display_url": "pic.twitter.com/1TUciYp0VK",
+					"expanded_url": "https://twitter.com/willrich45/status/1068529602069442560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 332,
+							"h": 497,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 332,
+							"h": 497,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 332,
+							"h": 497,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1349941,
+			"id_str": "1349941",
+			"name": "Will Richardson - Time to Change School",
+			"screen_name": "willrich45",
+			"location": "Flemington, New Jersey",
+			"description": "Parent, author, speaker, instigator, blogger. Redefining change at https://t.co/u0vb8eeCHf, https://t.co/pDsXj2TTyK and https://t.co/CNh4ibPyUU.",
+			"url": "https://t.co/u0vb8eeCHf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u0vb8eeCHf",
+							"expanded_url": "http://change.school",
+							"display_url": "change.school",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/u0vb8eeCHf",
+							"expanded_url": "http://change.school",
+							"display_url": "change.school",
+							"indices": [
+								67,
+								90
+							]
+						},
+						{
+							"url": "https://t.co/pDsXj2TTyK",
+							"expanded_url": "http://modernlearners.com",
+							"display_url": "modernlearners.com",
+							"indices": [
+								92,
+								115
+							]
+						},
+						{
+							"url": "https://t.co/CNh4ibPyUU",
+							"expanded_url": "http://willrichardson.com",
+							"display_url": "willrichardson.com",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 74771,
+			"friends_count": 2,
+			"listed_count": 3193,
+			"created_at": "Sat Mar 17 12:56:05 +0000 2007",
+			"favourites_count": 2463,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31476,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883675105737539584/-ZV4mu1O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883675105737539584/-ZV4mu1O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1349941/1499520148",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Really loved doing this podcast with John Warner @biblioracle on Rethinking Writing Instruction and Schools https://t.co/mei1Gky54W Powerful, insightful conversation. Spread the word! #edchat #engchat https://t.co/1TUciYp0VK"
+	},
+	{
+		"created_at": "Fri Nov 30 17:09:17 +0000 2018",
+		"id": 1068552557994405900,
+		"id_str": "1068552557994405888",
+		"full_text": "For those trying to make the case that private lib arts colleges should be involved in the #OER movement... https://t.co/hzPAZimukF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OER",
+					"indices": [
+						91,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hzPAZimukF",
+					"expanded_url": "https://twitter.com/OERdigest/status/1066043708234219520",
+					"display_url": "twitter.com/OERdigest/stat…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 764745523,
+			"id_str": "764745523",
+			"name": "Sarah Hare",
+			"screen_name": "SarahEHare",
+			"location": "",
+			"description": "Formerly Sarah Crissinger. Interested in #OER, #openpedagogy, and #scholcomm. All views are my own. she/her/hers.",
+			"url": "https://t.co/FGCCbHzHLl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FGCCbHzHLl",
+							"expanded_url": "http://sarahehare.wordpress.com/",
+							"display_url": "sarahehare.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 1191,
 			"friends_count": 1057,
 			"listed_count": 52,
