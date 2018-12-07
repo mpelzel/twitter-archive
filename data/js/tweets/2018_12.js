@@ -1,6 +1,1330 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 06 14:10:36 +0000 2018",
+		"id": 1070681918264496100,
+		"id_str": "1070681918264496128",
+		"full_text": "This, but for NYT columnists:\n\n“If one of them becomes puffed up by his skillfulness in his craft &amp; feels he is conferring something on the monastery, he is to be removed from practicing ...and not allowed to resume it [until] manifesting his humility” https://t.co/w95yVGwdp9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w95yVGwdp9",
+					"expanded_url": "https://daily.jstor.org/what-monks-can-teach-us-about-managing-our-work-lives/",
+					"display_url": "daily.jstor.org/what-monks-can…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16870668,
+			"id_str": "16870668",
+			"name": "Shawn Fremstad",
+			"screen_name": "inclusionist",
+			"location": "District of Columbia",
+			"description": "Senior Fellow @amprog 💼 Senior Associate @ceprdc 📊 I mostly tweet about the wonders of the social state, immigration & real families.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2299,
+			"friends_count": 1669,
+			"listed_count": 92,
+			"created_at": "Mon Oct 20 17:22:09 +0000 2008",
+			"favourites_count": 26707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27358,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066424469021962246/4c0JOxTV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066424469021962246/4c0JOxTV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16870668/1398606781",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This, but for NYT columnists:\n\n“If one of them becomes puffed up by his skillfulness in his craft &amp; feels he is conferring something on the monastery, he is to be removed from practicing ...and not allowed to resume it [until] manifesting his humility” https://t.co/w95yVGwdp9"
+	},
+	{
+		"created_at": "Thu Dec 06 22:14:23 +0000 2018",
+		"id": 1070803668138643500,
+		"id_str": "1070803668138643456",
+		"full_text": ".@roccopalmo https://t.co/vw78rGcMZ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "roccopalmo",
+					"name": "Rocco Palmo",
+					"id": 173373241,
+					"id_str": "173373241",
+					"indices": [
+						1,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vw78rGcMZ6",
+					"expanded_url": "http://bit.ly/2E5hXZE",
+					"display_url": "bit.ly/2E5hXZE",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 674,
+			"friends_count": 1049,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5995,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7356,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": ".@roccopalmo https://t.co/vw78rGcMZ6"
+	},
+	{
+		"created_at": "Thu Dec 06 21:01:04 +0000 2018",
+		"id": 1070785216216735700,
+		"id_str": "1070785216216735744",
+		"full_text": "It is dangerous to be alive; one very often dies of it.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 309970677,
+			"id_str": "309970677",
+			"name": "G. K. Chesterton",
+			"screen_name": "GKCdaily",
+			"location": "",
+			"description": "Writer. Thinker. Poet. (1874-1936)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62023,
+			"friends_count": 66,
+			"listed_count": 792,
+			"created_at": "Fri Jun 03 00:08:16 +0000 2011",
+			"favourites_count": 3502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14178,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1001185133360230401/6bcBjmMe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001185133360230401/6bcBjmMe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/309970677/1516223106",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 247,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "It is dangerous to be alive; one very often dies of it."
+	},
+	{
+		"created_at": "Thu Dec 06 19:54:42 +0000 2018",
+		"id": 1070768516754739200,
+		"id_str": "1070768516754739202",
+		"full_text": "WordPress 5.0 is here! Want to see a sneak peek at what it looks like before updating? I wrote a post all about the differences between the classic editor and the Gutenberg editor https://t.co/h2KDS3pi2N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h2KDS3pi2N",
+					"expanded_url": "https://meredithfierro.com/messing-around-with-gutenberg/",
+					"display_url": "meredithfierro.com/messing-around…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113149236,
+			"id_str": "113149236",
+			"name": "Meredith Fierro",
+			"screen_name": "meredithfierro",
+			"location": "Fredericksburg, VA",
+			"description": "| @UMaryWash '17 | Customer Support Specialist for @ReclaimHosting & @RockawayHosting | @CoWorkFXBG |",
+			"url": "https://t.co/VYc50EQl0k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VYc50EQl0k",
+							"expanded_url": "http://meredithfierro.com",
+							"display_url": "meredithfierro.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 241,
+			"listed_count": 10,
+			"created_at": "Wed Feb 10 21:36:10 +0000 2010",
+			"favourites_count": 1993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1986,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/862075351601750016/Dqx8xGMV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/862075351601750016/Dqx8xGMV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113149236/1465524115",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WordPress 5.0 is here! Want to see a sneak peek at what it looks like before updating? I wrote a post all about the differences between the classic editor and the Gutenberg editor https://t.co/h2KDS3pi2N"
+	},
+	{
+		"created_at": "Thu Dec 06 19:38:33 +0000 2018",
+		"id": 1070764450549035000,
+		"id_str": "1070764450549035014",
+		"full_text": "Tomorrow @GrinnellCollege ... the annual Digital Liberal Arts Teaching with Technology fair, showcasing the outstanding digital projects of our faculty and students. More info at https://t.co/qaicxZ0UGd  @GrinnellDLAC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GrinnellCollege",
+					"name": "Grinnell College",
+					"id": 17652635,
+					"id_str": "17652635",
+					"indices": [
+						9,
+						25
+					]
+				},
+				{
+					"screen_name": "GrinnellDLAC",
+					"name": "DLAC",
+					"id": 3508641800,
+					"id_str": "3508641800",
+					"indices": [
+						204,
+						217
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qaicxZ0UGd",
+					"expanded_url": "http://bit.ly/2E0uIVp",
+					"display_url": "bit.ly/2E0uIVp",
+					"indices": [
+						179,
+						202
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 674,
+			"friends_count": 1049,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5995,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7356,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tomorrow @GrinnellCollege ... the annual Digital Liberal Arts Teaching with Technology fair, showcasing the outstanding digital projects of our faculty and students. More info at https://t.co/qaicxZ0UGd  @GrinnellDLAC"
+	},
+	{
+		"created_at": "Thu Dec 06 18:50:53 +0000 2018",
+		"id": 1070752455149801500,
+		"id_str": "1070752455149801472",
+		"full_text": "We visited @RiceUniversity and talked to students about their thoughts on free textbooks. Check out the rest of their messages! https://t.co/V4l5UpaCn7 #ForStudentsForever https://t.co/DFWPpMhZSG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ForStudentsForever",
+					"indices": [
+						152,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RiceUniversity",
+					"name": "Rice University",
+					"id": 19720630,
+					"id_str": "19720630",
+					"indices": [
+						11,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/V4l5UpaCn7",
+					"expanded_url": "http://ow.ly/5tt630mTnRA",
+					"display_url": "ow.ly/5tt630mTnRA",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1070751531685707800,
+					"id_str": "1070751531685707776",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/DtwS2FDVAAA8Gdn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtwS2FDVAAA8Gdn.jpg",
+					"url": "https://t.co/DFWPpMhZSG",
+					"display_url": "pic.twitter.com/DFWPpMhZSG",
+					"expanded_url": "https://twitter.com/OpenStax/status/1070752455149801472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 928,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 928,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 583,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1070751531685707800,
+					"id_str": "1070751531685707776",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/DtwS2FDVAAA8Gdn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtwS2FDVAAA8Gdn.jpg",
+					"url": "https://t.co/DFWPpMhZSG",
+					"display_url": "pic.twitter.com/DFWPpMhZSG",
+					"expanded_url": "https://twitter.com/OpenStax/status/1070752455149801472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 928,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 928,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 583,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 435929732,
+			"id_str": "435929732",
+			"name": "OpenStax",
+			"screen_name": "OpenStax",
+			"location": "Houston, TX",
+			"description": "Free, peer-reviewed textbooks that meet scope and sequence requirements for introductory college courses. Simple to use, simple to adopt!",
+			"url": "https://t.co/ucSlVV7zqd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ucSlVV7zqd",
+							"expanded_url": "http://openstax.org",
+							"display_url": "openstax.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6788,
+			"friends_count": 449,
+			"listed_count": 316,
+			"created_at": "Tue Dec 13 16:05:38 +0000 2011",
+			"favourites_count": 2668,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6211,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "79B142",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/461533721493897216/Q-kxGJ-b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/461533721493897216/Q-kxGJ-b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/435929732/1524156019",
+			"profile_link_color": "79B142",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We visited @RiceUniversity and talked to students about their thoughts on free textbooks. Check out the rest of their messages! https://t.co/V4l5UpaCn7 #ForStudentsForever https://t.co/DFWPpMhZSG"
+	},
+	{
+		"created_at": "Thu Dec 06 17:12:59 +0000 2018",
+		"id": 1070727815916597200,
+		"id_str": "1070727815916597248",
+		"full_text": ".@MadsPelzel https://t.co/QFRknGuxZl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MadsPelzel",
+					"name": "Madeleine Pelzel",
+					"id": 532725843,
+					"id_str": "532725843",
+					"indices": [
+						1,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QFRknGuxZl",
+					"expanded_url": "https://twitter.com/peopleforbikes/status/1070709450326110209",
+					"display_url": "twitter.com/peopleforbikes…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 674,
+			"friends_count": 1049,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 5995,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7356,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1070709450326110200,
+		"quoted_status_id_str": "1070709450326110209",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QFRknGuxZl",
+			"expanded": "https://twitter.com/peopleforbikes/status/1070709450326110209",
+			"display": "twitter.com/peopleforbikes…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 06 16:00:00 +0000 2018",
+			"id": 1070709450326110200,
+			"id_str": "1070709450326110209",
+			"full_text": "\"Helping a little girl ride the bike that I fixed made me look for a brighter tomorrow.\" https://t.co/oD4ZlfRhPG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				112
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/oD4ZlfRhPG",
+						"expanded_url": "https://www.outsideonline.com/2362956/idaho-inmates-building-bikes-syrian-refugees",
+						"display_url": "outsideonline.com/2362956/idaho-…",
+						"indices": [
+							89,
+							112
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 93892158,
+				"id_str": "93892158",
+				"name": "PeopleForBikes",
+				"screen_name": "peopleforbikes",
+				"location": "Boulder, CO",
+				"description": "PeopleForBikes is uniting millions of individuals, thousands of businesses and hundreds of communities to make riding better for everyone.",
+				"url": "http://t.co/q14HXpIb0P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/q14HXpIb0P",
+								"expanded_url": "http://www.peopleforbikes.org",
+								"display_url": "peopleforbikes.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 49482,
+				"friends_count": 4091,
+				"listed_count": 1721,
+				"created_at": "Tue Dec 01 16:32:33 +0000 2009",
+				"favourites_count": 3230,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5109,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875400522592698368/n2srqe6P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875400522592698368/n2srqe6P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/93892158/1527779966",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 40,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": ".@MadsPelzel https://t.co/QFRknGuxZl"
+	},
+	{
+		"created_at": "Thu Dec 06 03:27:18 +0000 2018",
+		"id": 1070520028758454300,
+		"id_str": "1070520028758454272",
+		"full_text": "I don’t understand people who become journalists but have no concern about right and wrong. It’s not a well-paying profession. It doesn’t have job security. If you don’t care about conveying the truth of a story, just go be a banker or something. https://t.co/SYQMFBAvR7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1070520019405103100,
+					"id_str": "1070520019405103105",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/DttASSmV4AE4IBt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DttASSmV4AE4IBt.jpg",
+					"url": "https://t.co/SYQMFBAvR7",
+					"display_url": "pic.twitter.com/SYQMFBAvR7",
+					"expanded_url": "https://twitter.com/imillhiser/status/1070520028758454272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 709,
+							"h": 676,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 709,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 648,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1070520019405103100,
+					"id_str": "1070520019405103105",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/DttASSmV4AE4IBt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DttASSmV4AE4IBt.jpg",
+					"url": "https://t.co/SYQMFBAvR7",
+					"display_url": "pic.twitter.com/SYQMFBAvR7",
+					"expanded_url": "https://twitter.com/imillhiser/status/1070520028758454272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 709,
+							"h": 676,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 709,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 648,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26165922,
+			"id_str": "26165922",
+			"name": "Ian Millhiser",
+			"screen_name": "imillhiser",
+			"location": "Washington, DC",
+			"description": "Justice Editor, ThinkProgress. Tweets are my own. Author of Injustices: The Supreme Court's History of Comforting the Comfortable and Afflicting the Afflicted.",
+			"url": "https://t.co/Yj42fk1Ljo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Yj42fk1Ljo",
+							"expanded_url": "https://www.amazon.com/Injustices-Comforting-Comfortable-Afflicting-Afflicted/dp/1568585691/ref=tmm_",
+							"display_url": "amazon.com/Injustices-Com…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67875,
+			"friends_count": 1775,
+			"listed_count": 1680,
+			"created_at": "Tue Mar 24 03:14:52 +0000 2009",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 737,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/757684542266306560/Wjt-reMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/757684542266306560/Wjt-reMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26165922/1482198716",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 176,
+		"favorite_count": 602,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I don’t understand people who become journalists but have no concern about right and wrong. It’s not a well-paying profession. It doesn’t have job security. If you don’t care about conveying the truth of a story, just go be a banker or something. https://t.co/SYQMFBAvR7"
+	},
+	{
+		"created_at": "Mon Dec 03 12:45:41 +0000 2018",
+		"id": 1069573387683536900,
+		"id_str": "1069573387683536899",
+		"full_text": "Worth reading in today’s @WSJ, 50 years ago Doug Engelbart of the Stanford Research Institute delivered #theMotherOfAllDemos https://t.co/F1xkECg2y8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "theMotherOfAllDemos",
+					"indices": [
+						104,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WSJ",
+					"name": "The Wall Street Journal",
+					"id": 3108351,
+					"id_str": "3108351",
+					"indices": [
+						25,
+						29
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1069573342443724800,
+					"id_str": "1069573342443724807",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/DtfjScGV4Actcpk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtfjScGV4Actcpk.jpg",
+					"url": "https://t.co/F1xkECg2y8",
+					"display_url": "pic.twitter.com/F1xkECg2y8",
+					"expanded_url": "https://twitter.com/remoorejr/status/1069573387683536899/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1786,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 593,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1046,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1069573342443724800,
+					"id_str": "1069573342443724807",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/DtfjScGV4Actcpk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtfjScGV4Actcpk.jpg",
+					"url": "https://t.co/F1xkECg2y8",
+					"display_url": "pic.twitter.com/F1xkECg2y8",
+					"expanded_url": "https://twitter.com/remoorejr/status/1069573387683536899/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1786,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 593,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1046,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11146862,
+			"id_str": "11146862",
+			"name": "Robert Moore",
+			"screen_name": "remoorejr",
+			"location": "Boston, MA",
+			"description": "Technologist, entrepreneur, programmer, mobile developer, mechanic, builder, rider, racer, skier, skater, sailor. Founder, Chief Engineer @VRMotionLabs",
+			"url": "https://t.co/cnaNQk7OzM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cnaNQk7OzM",
+							"expanded_url": "http://about.me/remoorejr",
+							"display_url": "about.me/remoorejr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 404,
+			"friends_count": 1030,
+			"listed_count": 61,
+			"created_at": "Fri Dec 14 00:52:22 +0000 2007",
+			"favourites_count": 340,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2965,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/525683449571467265/KBbvyLiM_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/525683449571467265/KBbvyLiM_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11146862/1359175990",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Worth reading in today’s @WSJ, 50 years ago Doug Engelbart of the Stanford Research Institute delivered #theMotherOfAllDemos https://t.co/F1xkECg2y8"
+	},
+	{
 		"created_at": "Wed Dec 05 23:38:31 +0000 2018",
 		"id": 1070462450380750800,
 		"id_str": "1070462450380750849",
@@ -384,7 +1708,7 @@ Grailbird.data.tweets_2018_12 =
 				"name": "Austin Frerick",
 				"screen_name": "AustinFrerick",
 				"location": "Iowa, USA",
-				"description": "Fellow at @OpenMarkets. Heroes: Jane Addams, Grandpa Frerick, RuPaul, & Louis Brandeis. 🌽🏳️‍🌈 #iowaAF",
+				"description": "Fellow at @OpenMarkets. Heroes: Jane Addams, Grandpa Frerick, RuPaul, & Louis Brandeis. 🌽🏳️🌈 #iowaAF",
 				"url": "https://t.co/g7FWHJ9lSp",
 				"entities": {
 					"url": {
