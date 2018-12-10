@@ -1,6 +1,898 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sun Dec 09 17:36:42 +0000 2018",
+		"id": 1071820950344069100,
+		"id_str": "1071820950344069120",
+		"full_text": "The Mother of All Demos was never about tech. It was about new ways to work and we're still figuring it all out. https://t.co/08FrnubmD6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/08FrnubmD6",
+					"expanded_url": "https://www.wired.com/story/50-years-later-we-still-dont-grasp-the-mother-of-all-demos/",
+					"display_url": "wired.com/story/50-years…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3961541,
+			"id_str": "3961541",
+			"name": "Klint Finley",
+			"screen_name": "klintron",
+			"location": "Portland, OR",
+			"description": "Reporter for WIRED. Email: me@klintfinley.com PGP: 0xAB128286 Signal: 5034815311",
+			"url": "https://t.co/3IDeWNDIW9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IDeWNDIW9",
+							"expanded_url": "https://klintfinley.com",
+							"display_url": "klintfinley.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10476,
+			"friends_count": 586,
+			"listed_count": 886,
+			"created_at": "Tue Apr 10 00:57:02 +0000 2007",
+			"favourites_count": 847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/987096328646770688/IufIM6yR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/987096328646770688/IufIM6yR_normal.jpg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Mother of All Demos was never about tech. It was about new ways to work and we're still figuring it all out. https://t.co/08FrnubmD6"
+	},
+	{
+		"created_at": "Sat Sep 22 21:55:04 +0000 2018",
+		"id": 1043619715246055400,
+		"id_str": "1043619715246055424",
+		"full_text": "“The great thing, if one can, is to stop regarding all the unpleasant things as interruptions of one's 'own,' or 'real' life. The truth is of course that what one calls the interruptions are precisely one's real life -- the life God is sending one day by day.”\n#CSLewis",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CSLewis",
+					"indices": [
+						261,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73402979,
+			"id_str": "73402979",
+			"name": "C. S. Lewis",
+			"screen_name": "CSLewisDaily",
+			"location": "Oxford, England",
+			"description": "Inspiring Quotes From C. S. Lewis | Curated by @jamesconlee",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1730300,
+			"friends_count": 1,
+			"listed_count": 12972,
+			"created_at": "Fri Sep 11 14:57:38 +0000 2009",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4861,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/495243954439213056/1TPnB3ps_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/495243954439213056/1TPnB3ps_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73402979/1406750681",
+			"profile_link_color": "B30B0B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "616ba1df27270916",
+			"url": "https://api.twitter.com/1.1/geo/id/616ba1df27270916.json",
+			"place_type": "city",
+			"name": "Oxford",
+			"full_name": "Oxford, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.289608,
+							51.7122668
+						],
+						[
+							-1.1772587,
+							51.7122668
+						],
+						[
+							-1.1772587,
+							51.796305
+						],
+						[
+							-1.289608,
+							51.796305
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2268,
+		"favorite_count": 6660,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "“The great thing, if one can, is to stop regarding all the unpleasant things as interruptions of one's 'own,' or 'real' life. The truth is of course that what one calls the interruptions are precisely one's real life -- the life God is sending one day by day.”\n#CSLewis"
+	},
+	{
+		"created_at": "Sun Dec 09 16:25:02 +0000 2018",
+		"id": 1071802913729773600,
+		"id_str": "1071802913729773569",
+		"full_text": "In 1939 Fr Walter Ciszek, a Polish-American Jesuit serving in Poland was swept up by the Red Army and sent to a labor camp in Russia. When his identity was discovered he was arrested as a spy and confined for 5 years of solitary confinement in Moscow: his “school of prayer.” https://t.co/y4zgh47ICd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1071802907006246900,
+					"id_str": "1071802907006246912",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/Dt_PELVWoAAbzKp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dt_PELVWoAAbzKp.jpg",
+					"url": "https://t.co/y4zgh47ICd",
+					"display_url": "pic.twitter.com/y4zgh47ICd",
+					"expanded_url": "https://twitter.com/RobertEllsberg/status/1071802913729773569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 489,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 489,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 489,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1071802907006246900,
+					"id_str": "1071802907006246912",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/Dt_PELVWoAAbzKp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dt_PELVWoAAbzKp.jpg",
+					"url": "https://t.co/y4zgh47ICd",
+					"display_url": "pic.twitter.com/y4zgh47ICd",
+					"expanded_url": "https://twitter.com/RobertEllsberg/status/1071802913729773569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 489,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 489,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 489,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1071802907006287900,
+					"id_str": "1071802907006287872",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/Dt_PELVXQAA4MW3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dt_PELVXQAA4MW3.jpg",
+					"url": "https://t.co/y4zgh47ICd",
+					"display_url": "pic.twitter.com/y4zgh47ICd",
+					"expanded_url": "https://twitter.com/RobertEllsberg/status/1071802913729773569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 336,
+							"h": 216,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 336,
+							"h": 216,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 336,
+							"h": 216,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 804776629172105200,
+			"id_str": "804776629172105218",
+			"name": "Robert Ellsberg",
+			"screen_name": "RobertEllsberg",
+			"location": "",
+			"description": "Publisher @OrbisBooks, saint-watcher @GiveUsThisDayLP, dog lover. Not the droid you are looking for.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1808,
+			"friends_count": 212,
+			"listed_count": 25,
+			"created_at": "Fri Dec 02 19:57:55 +0000 2016",
+			"favourites_count": 2173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804780943625945088/cNkclQPE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804780943625945088/cNkclQPE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/804776629172105218/1480709785",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 200,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In 1939 Fr Walter Ciszek, a Polish-American Jesuit serving in Poland was swept up by the Red Army and sent to a labor camp in Russia. When his identity was discovered he was arrested as a spy and confined for 5 years of solitary confinement in Moscow: his “school of prayer.” https://t.co/y4zgh47ICd"
+	},
+	{
+		"created_at": "Sun Dec 09 15:18:42 +0000 2018",
+		"id": 1071786221641310200,
+		"id_str": "1071786221641310208",
+		"full_text": "Cognitive psychologist @DTWillingham is one of our best guides to facts vs. fads &amp; fallacies in education &amp; media. Here he insightfully answers the FAQ \"Is Listening to a Book the Same Thing as Reading It?\"  https://t.co/m8XN1aPDW5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DTWillingham",
+					"name": "Daniel Willingham",
+					"id": 84619537,
+					"id_str": "84619537",
+					"indices": [
+						23,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m8XN1aPDW5",
+					"expanded_url": "https://nyti.ms/2zQorZH",
+					"display_url": "nyti.ms/2zQorZH",
+					"indices": [
+						216,
+						239
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 107225267,
+			"id_str": "107225267",
+			"name": "Steven Pinker",
+			"screen_name": "sapinker",
+			"location": "Boston, MA",
+			"description": "Cognitive scientist at Harvard.",
+			"url": "http://t.co/5OVstkPquV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/5OVstkPquV",
+							"expanded_url": "http://pinker.wjh.harvard.edu",
+							"display_url": "pinker.wjh.harvard.edu",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 481736,
+			"friends_count": 43,
+			"listed_count": 8509,
+			"created_at": "Thu Jan 21 22:20:32 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6228,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/953839152511909888/-3EQDjTM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/953839152511909888/-3EQDjTM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/107225267/1517556838",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 185,
+		"favorite_count": 451,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cognitive psychologist @DTWillingham is one of our best guides to facts vs. fads &amp; fallacies in education &amp; media. Here he insightfully answers the FAQ \"Is Listening to a Book the Same Thing as Reading It?\"  https://t.co/m8XN1aPDW5"
+	},
+	{
+		"created_at": "Sun Dec 09 02:14:15 +0000 2018",
+		"id": 1071588808448241700,
+		"id_str": "1071588808448241664",
+		"full_text": "I'm sure some taxpayers would loathe a tax raise. But state lawmakers shouldn't be loath to raise taxes to properly educate our children.\n#CopyEditing https://t.co/vY9v7MRa7E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CopyEditing",
+					"indices": [
+						138,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vY9v7MRa7E",
+					"expanded_url": "https://twitter.com/TexasTribune/status/1071588243408371712",
+					"display_url": "twitter.com/TexasTribune/s…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 674,
+			"friends_count": 1049,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6009,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7380,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1071588243408371700,
+		"quoted_status_id_str": "1071588243408371712",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vY9v7MRa7E",
+			"expanded": "https://twitter.com/TexasTribune/status/1071588243408371712",
+			"display": "twitter.com/TexasTribune/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 09 02:12:01 +0000 2018",
+			"id": 1071588243408371700,
+			"id_str": "1071588243408371712",
+			"full_text": "State lawmakers are loathe to raise taxes. But they need to find money somewhere if they want to give local school property taxpayers a break. At the end of the day, someone in Texas has to pay for this stuff. https://t.co/xiIgcsEdVc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				233
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xiIgcsEdVc",
+						"expanded_url": "https://bit.ly/2Spp8jd",
+						"display_url": "bit.ly/2Spp8jd",
+						"indices": [
+							210,
+							233
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 44513878,
+				"id_str": "44513878",
+				"name": "Texas Tribune",
+				"screen_name": "TexasTribune",
+				"location": "Austin, Texas",
+				"description": "A member-supported, nonpartisan newsroom informing & engaging Texans on state politics & policy. Tweets by @bobbycblanchard. Subscribe: https://t.co/7vzWxFKD0J",
+				"url": "http://t.co/THOyB5XQbo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/THOyB5XQbo",
+								"expanded_url": "http://www.texastribune.org",
+								"display_url": "texastribune.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7vzWxFKD0J",
+								"expanded_url": "http://trib.it/subscribe",
+								"display_url": "trib.it/subscribe",
+								"indices": [
+									136,
+									159
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 179684,
+				"friends_count": 59395,
+				"listed_count": 4781,
+				"created_at": "Thu Jun 04 01:37:46 +0000 2009",
+				"favourites_count": 2975,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 69063,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2E3A58",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/776170850802204672/X0LHxQ54_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/776170850802204672/X0LHxQ54_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44513878/1539218822",
+				"profile_link_color": "F15D5A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF6DD",
+				"profile_text_color": "292929",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 79,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm sure some taxpayers would loathe a tax raise. But state lawmakers shouldn't be loath to raise taxes to properly educate our children.\n#CopyEditing https://t.co/vY9v7MRa7E"
+	},
+	{
+		"created_at": "Sun Dec 09 02:10:26 +0000 2018",
+		"id": 1071587847835185200,
+		"id_str": "1071587847835185167",
+		"full_text": "Currently listening: Gregorian Chant by Monks Of The Abbey Of Notre Dame https://t.co/eGzOGVDwPa #NowPlaying",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NowPlaying",
+					"indices": [
+						97,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eGzOGVDwPa",
+					"expanded_url": "https://open.spotify.com/album/3fZzU3dmEEDPZvZ5pwT3le",
+					"display_url": "open.spotify.com/album/3fZzU3dm…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 674,
+			"friends_count": 1049,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6009,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7380,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Currently listening: Gregorian Chant by Monks Of The Abbey Of Notre Dame https://t.co/eGzOGVDwPa #NowPlaying"
+	},
+	{
 		"created_at": "Sat Dec 08 23:20:59 +0000 2018",
 		"id": 1071545203335553000,
 		"id_str": "1071545203335553024",
