@@ -1,6 +1,1277 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 10 22:59:24 +0000 2018",
+		"id": 1072264546570637300,
+		"id_str": "1072264546570637317",
+		"full_text": "Evelyn Berezin, 93, Dies; Built the First True Word Processor https://t.co/w446b05v1x\n\nRemarkable story. Also: it must be strange to be interviewed for one's own obituary. https://t.co/R5wOa8rMYT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w446b05v1x",
+					"expanded_url": "https://nyti.ms/2GjUypY",
+					"display_url": "nyti.ms/2GjUypY",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1072264529361260500,
+					"id_str": "1072264529361260547",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/DuFy6InUUAMwbt6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuFy6InUUAMwbt6.jpg",
+					"url": "https://t.co/R5wOa8rMYT",
+					"display_url": "pic.twitter.com/R5wOa8rMYT",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1072264546570637317/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 938,
+							"h": 289,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 938,
+							"h": 289,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 210,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072264529361260500,
+					"id_str": "1072264529361260547",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/DuFy6InUUAMwbt6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuFy6InUUAMwbt6.jpg",
+					"url": "https://t.co/R5wOa8rMYT",
+					"display_url": "pic.twitter.com/R5wOa8rMYT",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1072264546570637317/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 938,
+							"h": 289,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 938,
+							"h": 289,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 210,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 674,
+			"friends_count": 1049,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7386,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Evelyn Berezin, 93, Dies; Built the First True Word Processor https://t.co/w446b05v1x\n\nRemarkable story. Also: it must be strange to be interviewed for one's own obituary. https://t.co/R5wOa8rMYT"
+	},
+	{
+		"created_at": "Mon Dec 10 22:41:35 +0000 2018",
+		"id": 1072260061869817900,
+		"id_str": "1072260061869817858",
+		"full_text": "I've just been reading about her in @mkirschenbaum's Track Changes. A remarkable person! RIP indeed. https://t.co/8CkY4zkHyd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mkirschenbaum",
+					"name": "Matthew Kirschenbaum",
+					"id": 13598262,
+					"id_str": "13598262",
+					"indices": [
+						36,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8CkY4zkHyd",
+					"expanded_url": "https://twitter.com/criticalplay/status/1072250948020510721",
+					"display_url": "twitter.com/criticalplay/s…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 276676907,
+			"id_str": "276676907",
+			"name": "Erik Simpson",
+			"screen_name": "ErikTheSimpson",
+			"location": "Grinnell, IA",
+			"description": "English professor, saxophonist, digital humanist. This feed may contain implicit language.",
+			"url": "http://t.co/hcwiHQAvkR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/hcwiHQAvkR",
+							"expanded_url": "http://www.math.grinnell.edu/~simpsone/",
+							"display_url": "math.grinnell.edu/~simpsone/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 460,
+			"friends_count": 434,
+			"listed_count": 18,
+			"created_at": "Sun Apr 03 21:18:36 +0000 2011",
+			"favourites_count": 771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2169,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040326986894327808/WhsdMvjK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040326986894327808/WhsdMvjK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/276676907/1474752215",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1072250948020510700,
+		"quoted_status_id_str": "1072250948020510721",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8CkY4zkHyd",
+			"expanded": "https://twitter.com/criticalplay/status/1072250948020510721",
+			"display": "twitter.com/criticalplay/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 10 22:05:22 +0000 2018",
+			"id": 1072250948020510700,
+			"id_str": "1072250948020510721",
+			"full_text": "The first word processor? RIP Evelyn Berezin, who founded Redactron, maker of word processors https://t.co/En3E9KJLC7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				117
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/En3E9KJLC7",
+						"expanded_url": "http://ow.ly/HzOx30mW4hb",
+						"display_url": "ow.ly/HzOx30mW4hb",
+						"indices": [
+							94,
+							117
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 375499570,
+				"id_str": "375499570",
+				"name": "critical play",
+				"screen_name": "criticalplay",
+				"location": "ethereal mists",
+				"description": "Mary Flanagan: artist/designer/writer/futurista/do-gooder. Leads @Tiltfactor lab @Dartmouth. Author of Critical Play, co-author, Values at Play in Digital Games",
+				"url": "http://www.maryflanagan.com",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://www.maryflanagan.com",
+								"expanded_url": null,
+								"indices": [
+									0,
+									27
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3076,
+				"friends_count": 350,
+				"listed_count": 162,
+				"created_at": "Sun Sep 18 07:22:23 +0000 2011",
+				"favourites_count": 1100,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2262,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1556014879/Mary2010March_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556014879/Mary2010March_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I've just been reading about her in @mkirschenbaum's Track Changes. A remarkable person! RIP indeed. https://t.co/8CkY4zkHyd"
+	},
+	{
+		"created_at": "Mon Dec 10 17:07:38 +0000 2018",
+		"id": 1072176024157384700,
+		"id_str": "1072176024157384704",
+		"full_text": "Finally, as @SarahJPurcell taught me in her History 101 class this fall, the history of #humanrights isn’t linear or pre-determined. It’s what we make it. So happy #humanrightsday. Raise a glass to Eleanor and Frances and Marion and Barbara tonight! 🎉 https://t.co/GGHyvPRiiO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "humanrights",
+					"indices": [
+						88,
+						100
+					]
+				},
+				{
+					"text": "humanrightsday",
+					"indices": [
+						164,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarahJPurcell",
+					"name": "Sarah J. Purcell",
+					"id": 386185407,
+					"id_str": "386185407",
+					"indices": [
+						12,
+						26
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1072176018884984800,
+					"id_str": "1072176018884984833",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/DuEiaJZVAAEot6B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuEiaJZVAAEot6B.jpg",
+					"url": "https://t.co/GGHyvPRiiO",
+					"display_url": "pic.twitter.com/GGHyvPRiiO",
+					"expanded_url": "https://twitter.com/SarahLabo/status/1072176024157384704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 575,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 575,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072176018884984800,
+					"id_str": "1072176018884984833",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/DuEiaJZVAAEot6B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuEiaJZVAAEot6B.jpg",
+					"url": "https://t.co/GGHyvPRiiO",
+					"display_url": "pic.twitter.com/GGHyvPRiiO",
+					"expanded_url": "https://twitter.com/SarahLabo/status/1072176024157384704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 575,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 575,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1072175100156358700,
+		"in_reply_to_status_id_str": "1072175100156358656",
+		"in_reply_to_user_id": 82354515,
+		"in_reply_to_user_id_str": "82354515",
+		"in_reply_to_screen_name": "SarahLabo",
+		"user": {
+			"id": 82354515,
+			"id_str": "82354515",
+			"name": "Sarah Labowitz",
+			"screen_name": "SarahLabo",
+			"location": "Houston, TX",
+			"description": "#humanrights + #workersrights advocate, wonk. Former @NYUStern @StateDept, now working on a fair recovery from #Harvey in #Houston",
+			"url": "https://t.co/4oYrA5Opno",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4oYrA5Opno",
+							"expanded_url": "http://sarahlabowitz.com",
+							"display_url": "sarahlabowitz.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2420,
+			"friends_count": 1731,
+			"listed_count": 101,
+			"created_at": "Wed Oct 14 13:07:57 +0000 2009",
+			"favourites_count": 2761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2709,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932232479003389952/hqtZI6CL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932232479003389952/hqtZI6CL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/82354515/1511096679",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Finally, as @SarahJPurcell taught me in her History 101 class this fall, the history of #humanrights isn’t linear or pre-determined. It’s what we make it. So happy #humanrightsday. Raise a glass to Eleanor and Frances and Marion and Barbara tonight! 🎉 https://t.co/GGHyvPRiiO"
+	},
+	{
+		"created_at": "Mon Dec 10 15:29:38 +0000 2018",
+		"id": 1072151361054236700,
+		"id_str": "1072151361054236672",
+		"full_text": "Karl Barth and Thomas Merton died the same day, 50 years ago today. Mark Van Doren wrote Merton’s obituary for @americamag https://t.co/YniWhAnh3D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "americamag",
+					"name": "America Magazine",
+					"id": 17372204,
+					"id_str": "17372204",
+					"indices": [
+						111,
+						122
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1072151356235022300,
+					"id_str": "1072151356235022341",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/DuEL-l3XgAUkaOS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuEL-l3XgAUkaOS.jpg",
+					"url": "https://t.co/YniWhAnh3D",
+					"display_url": "pic.twitter.com/YniWhAnh3D",
+					"expanded_url": "https://twitter.com/jamestkeane/status/1072151361054236672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1464,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 858,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072151356235022300,
+					"id_str": "1072151356235022341",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/DuEL-l3XgAUkaOS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuEL-l3XgAUkaOS.jpg",
+					"url": "https://t.co/YniWhAnh3D",
+					"display_url": "pic.twitter.com/YniWhAnh3D",
+					"expanded_url": "https://twitter.com/jamestkeane/status/1072151361054236672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1464,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 858,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 477209122,
+			"id_str": "477209122",
+			"name": "Jim Keane",
+			"screen_name": "jamestkeane",
+			"location": "Riverdale, NY",
+			"description": "Senior Editor at @americamag in New York.",
+			"url": "https://t.co/BvLgiLiJFK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BvLgiLiJFK",
+							"expanded_url": "http://americamagazine.org/users/james-t-keane",
+							"display_url": "americamagazine.org/users/james-t-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1506,
+			"friends_count": 558,
+			"listed_count": 29,
+			"created_at": "Sat Jan 28 23:27:00 +0000 2012",
+			"favourites_count": 1947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 739,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/900354501474963456/44-5VbYL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/900354501474963456/44-5VbYL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/477209122/1362703046",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 101,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Karl Barth and Thomas Merton died the same day, 50 years ago today. Mark Van Doren wrote Merton’s obituary for @americamag https://t.co/YniWhAnh3D"
+	},
+	{
+		"created_at": "Mon Dec 10 05:07:53 +0000 2018",
+		"id": 1071994892686123000,
+		"id_str": "1071994892686123008",
+		"full_text": "“Augmentation is fundamentally a matter of organization” - happy 50th anniversary to mother of all demos #douglasengelbart #motherofalldemos #thedemoat50 https://t.co/2HuozjIM9o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "douglasengelbart",
+					"indices": [
+						105,
+						122
+					]
+				},
+				{
+					"text": "motherofalldemos",
+					"indices": [
+						123,
+						140
+					]
+				},
+				{
+					"text": "thedemoat50",
+					"indices": [
+						141,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1071994866828304400,
+					"id_str": "1071994866828304384",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/DuB9ptZX4AAAXWM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuB9ptZX4AAAXWM.jpg",
+					"url": "https://t.co/2HuozjIM9o",
+					"display_url": "pic.twitter.com/2HuozjIM9o",
+					"expanded_url": "https://twitter.com/yeahsnos/status/1071994892686123008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 624,
+							"h": 789,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 624,
+							"h": 789,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 538,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1071994866828304400,
+					"id_str": "1071994866828304384",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/DuB9ptZX4AAAXWM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuB9ptZX4AAAXWM.jpg",
+					"url": "https://t.co/2HuozjIM9o",
+					"display_url": "pic.twitter.com/2HuozjIM9o",
+					"expanded_url": "https://twitter.com/yeahsnos/status/1071994892686123008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 624,
+							"h": 789,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 624,
+							"h": 789,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 538,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 72757108,
+			"id_str": "72757108",
+			"name": "Yasaman Sheri",
+			"screen_name": "yeahsnos",
+			"location": "Boston, MA",
+			"description": "Designer + Director #augmentation #nature #sensing | Currently @ginkgoo | Faculty @CIIDnews @RISD | Prev @Hololens @theteamatX @mozilla",
+			"url": "https://t.co/GJ7mdIxUJd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GJ7mdIxUJd",
+							"expanded_url": "http://yeahsnos.com",
+							"display_url": "yeahsnos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1873,
+			"friends_count": 537,
+			"listed_count": 81,
+			"created_at": "Wed Sep 09 03:50:35 +0000 2009",
+			"favourites_count": 3338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2767,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1056886075090784257/bNCS0q-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1056886075090784257/bNCS0q-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/72757108/1544045210",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "7D7D7D",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Augmentation is fundamentally a matter of organization” - happy 50th anniversary to mother of all demos #douglasengelbart #motherofalldemos #thedemoat50 https://t.co/2HuozjIM9o"
+	},
+	{
+		"created_at": "Fri Dec 07 20:59:30 +0000 2018",
+		"id": 1071147208433578000,
+		"id_str": "1071147208433577984",
+		"full_text": "The 306 words Trump has written about Rex Tillerson on twitter: https://t.co/doiMBiDwRx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1071147201844236300,
+					"id_str": "1071147201844236288",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/Dt16tHQUUAApfvO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dt16tHQUUAApfvO.jpg",
+					"url": "https://t.co/doiMBiDwRx",
+					"display_url": "pic.twitter.com/doiMBiDwRx",
+					"expanded_url": "https://twitter.com/zunguzungu/status/1071147208433577984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 949,
+							"h": 514,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 949,
+							"h": 514,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1071147201844236300,
+					"id_str": "1071147201844236288",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/Dt16tHQUUAApfvO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dt16tHQUUAApfvO.jpg",
+					"url": "https://t.co/doiMBiDwRx",
+					"display_url": "pic.twitter.com/doiMBiDwRx",
+					"expanded_url": "https://twitter.com/zunguzungu/status/1071147208433577984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 949,
+							"h": 514,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 949,
+							"h": 514,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47951511,
+			"id_str": "47951511",
+			"name": "Aaron Bady",
+			"screen_name": "zunguzungu",
+			"location": "zunguzungu@gmail.com",
+			"description": "A packaged bundle of content, services, and a polar vortex of meat blood full of bees. Writer and editor at Popula dot com.",
+			"url": "https://t.co/0UCs9T4vcQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0UCs9T4vcQ",
+							"expanded_url": "http://aaronbady.com",
+							"display_url": "aaronbady.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15348,
+			"friends_count": 4066,
+			"listed_count": 678,
+			"created_at": "Wed Jun 17 12:59:43 +0000 2009",
+			"favourites_count": 27820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 124203,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/735932222637637632/4R2gKBBA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/735932222637637632/4R2gKBBA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47951511/1417917237",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3369,
+		"favorite_count": 6460,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 306 words Trump has written about Rex Tillerson on twitter: https://t.co/doiMBiDwRx"
+	},
+	{
+		"created_at": "Sun Dec 09 17:36:42 +0000 2018",
+		"id": 1071820950344069100,
+		"id_str": "1071820950344069120",
+		"full_text": "The Mother of All Demos was never about tech. It was about new ways to work and we're still figuring it all out. https://t.co/08FrnubmD6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/08FrnubmD6",
+					"expanded_url": "https://www.wired.com/story/50-years-later-we-still-dont-grasp-the-mother-of-all-demos/",
+					"display_url": "wired.com/story/50-years…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3961541,
+			"id_str": "3961541",
+			"name": "Klint Finley",
+			"screen_name": "klintron",
+			"location": "Portland, OR",
+			"description": "Reporter for WIRED. Email: me@klintfinley.com PGP: 0xAB128286 Signal: 5034815311",
+			"url": "https://t.co/3IDeWNDIW9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IDeWNDIW9",
+							"expanded_url": "https://klintfinley.com",
+							"display_url": "klintfinley.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10476,
+			"friends_count": 586,
+			"listed_count": 887,
+			"created_at": "Tue Apr 10 00:57:02 +0000 2007",
+			"favourites_count": 847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/987096328646770688/IufIM6yR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/987096328646770688/IufIM6yR_normal.jpg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Mother of All Demos was never about tech. It was about new ways to work and we're still figuring it all out. https://t.co/08FrnubmD6"
+	},
+	{
 		"created_at": "Sun Dec 09 17:36:42 +0000 2018",
 		"id": 1071820950344069100,
 		"id_str": "1071820950344069120",
