@@ -1,6 +1,668 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 11 12:55:00 +0000 2018",
+		"id": 1072474832544051200,
+		"id_str": "1072474832544051200",
+		"full_text": "Episode 46: @JuliaFeerrar talks about the cross-campus efforts at @virginia_tech to develop a framework for digital literacy. #edtech https://t.co/zPjAuhNrJT https://t.co/HXj3KOMGDo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						126,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JuliaFeerrar",
+					"name": "Julia Feerrar",
+					"id": 774920204,
+					"id_str": "774920204",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "virginia_tech",
+					"name": "Virginia Tech",
+					"id": 17416707,
+					"id_str": "17416707",
+					"indices": [
+						66,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zPjAuhNrJT",
+					"expanded_url": "http://leadinglinespod.com/episodes/episode-46julia-feerrar/",
+					"display_url": "leadinglinespod.com/episodes/episo…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1059469328817496000,
+					"id_str": "1059469328817496064",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/DrP9vcKWoAA2i6I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrP9vcKWoAA2i6I.jpg",
+					"url": "https://t.co/HXj3KOMGDo",
+					"display_url": "pic.twitter.com/HXj3KOMGDo",
+					"expanded_url": "https://twitter.com/leadinglinespod/status/1072474832544051200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1059469328817496000,
+					"id_str": "1059469328817496064",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/DrP9vcKWoAA2i6I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrP9vcKWoAA2i6I.jpg",
+					"url": "https://t.co/HXj3KOMGDo",
+					"display_url": "pic.twitter.com/HXj3KOMGDo",
+					"expanded_url": "https://twitter.com/leadinglinespod/status/1072474832544051200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 756232587400667100,
+			"id_str": "756232587400667136",
+			"name": "Leading Lines",
+			"screen_name": "leadinglinespod",
+			"location": "Nashville, TN",
+			"description": "A podcast on creative, intentional, and effective uses of technology to enhance  student learning, produced at Vanderbilt University",
+			"url": "https://t.co/zBsraGXUqB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zBsraGXUqB",
+							"expanded_url": "http://leadinglinespod.com/",
+							"display_url": "leadinglinespod.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 167,
+			"listed_count": 21,
+			"created_at": "Thu Jul 21 21:01:13 +0000 2016",
+			"favourites_count": 136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 219,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875780659121442820/uNe38YIU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875780659121442820/uNe38YIU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/756232587400667136/1469636538",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Episode 46: @JuliaFeerrar talks about the cross-campus efforts at @virginia_tech to develop a framework for digital literacy. #edtech https://t.co/zPjAuhNrJT https://t.co/HXj3KOMGDo"
+	},
+	{
+		"created_at": "Mon Dec 10 02:03:38 +0000 2018",
+		"id": 1071948522243702800,
+		"id_str": "1071948522243702784",
+		"full_text": "news from Cedar Rapids Iowa where the unemployment rate is 2.1%: employers are paying for recent immigrants to learn english so they can hire them https://t.co/N9Vqr29lwG @DanMikaTweets https://t.co/k7g5DqEtOf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DanMikaTweets",
+					"name": "Dan Mika",
+					"id": 629616624,
+					"id_str": "629616624",
+					"indices": [
+						171,
+						185
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/N9Vqr29lwG",
+					"expanded_url": "https://www.thegazette.com/subject/news/business/reducing-the-language-barrier-20181209",
+					"display_url": "thegazette.com/subject/news/b…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1071948258442993700,
+					"id_str": "1071948258442993664",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/DuBTQvoX4AA_ZvR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuBTQvoX4AA_ZvR.jpg",
+					"url": "https://t.co/k7g5DqEtOf",
+					"display_url": "pic.twitter.com/k7g5DqEtOf",
+					"expanded_url": "https://twitter.com/sam_a_bell/status/1071948522243702784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 337,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 861,
+							"h": 427,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 861,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1071948258442993700,
+					"id_str": "1071948258442993664",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/DuBTQvoX4AA_ZvR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuBTQvoX4AA_ZvR.jpg",
+					"url": "https://t.co/k7g5DqEtOf",
+					"display_url": "pic.twitter.com/k7g5DqEtOf",
+					"expanded_url": "https://twitter.com/sam_a_bell/status/1071948522243702784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 337,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 861,
+							"h": 427,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 861,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55840043,
+			"id_str": "55840043",
+			"name": "Sam Bell",
+			"screen_name": "sam_a_bell",
+			"location": "Washington, DC",
+			"description": "consulting for @open_phil to chase the dream of lasting full employment...\"keep refilling the punch bowl until the guests have all arrived\" - Janet Yellen",
+			"url": "https://t.co/XBS5i1AXLE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XBS5i1AXLE",
+							"expanded_url": "https://medium.com/@sam_a_bell",
+							"display_url": "medium.com/@sam_a_bell",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2966,
+			"friends_count": 981,
+			"listed_count": 152,
+			"created_at": "Sat Jul 11 14:21:27 +0000 2009",
+			"favourites_count": 5410,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9439,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848172469315936260/cmm7BYcU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848172469315936260/cmm7BYcU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55840043/1529012391",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 98,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "news from Cedar Rapids Iowa where the unemployment rate is 2.1%: employers are paying for recent immigrants to learn english so they can hire them https://t.co/N9Vqr29lwG @DanMikaTweets https://t.co/k7g5DqEtOf"
+	},
+	{
+		"created_at": "Tue Dec 11 12:22:14 +0000 2018",
+		"id": 1072466587356196900,
+		"id_str": "1072466587356196865",
+		"full_text": "On Dec 11 1981, Salvadoran troops, part of the elite US-trained Atlacatl Battalion occupied the village of El Mozote, swollen with refugees, and systematically massacred everyone—as many as 1000, as the U.N. Truth Commission later confirmed. https://t.co/mR7ijLKojD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1072466582599856100,
+					"id_str": "1072466582599856129",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/DuIqrLlXcAEuaKj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuIqrLlXcAEuaKj.jpg",
+					"url": "https://t.co/mR7ijLKojD",
+					"display_url": "pic.twitter.com/mR7ijLKojD",
+					"expanded_url": "https://twitter.com/RobertEllsberg/status/1072466587356196865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 534,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 534,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072466582599856100,
+					"id_str": "1072466582599856129",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/DuIqrLlXcAEuaKj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuIqrLlXcAEuaKj.jpg",
+					"url": "https://t.co/mR7ijLKojD",
+					"display_url": "pic.twitter.com/mR7ijLKojD",
+					"expanded_url": "https://twitter.com/RobertEllsberg/status/1072466587356196865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 534,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 534,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 804776629172105200,
+			"id_str": "804776629172105218",
+			"name": "Robert Ellsberg",
+			"screen_name": "RobertEllsberg",
+			"location": "",
+			"description": "Publisher @OrbisBooks, saint-watcher @GiveUsThisDayLP, dog lover. Not the droid you are looking for.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1824,
+			"friends_count": 212,
+			"listed_count": 25,
+			"created_at": "Fri Dec 02 19:57:55 +0000 2016",
+			"favourites_count": 2178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2124,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804780943625945088/cNkclQPE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804780943625945088/cNkclQPE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/804776629172105218/1480709785",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On Dec 11 1981, Salvadoran troops, part of the elite US-trained Atlacatl Battalion occupied the village of El Mozote, swollen with refugees, and systematically massacred everyone—as many as 1000, as the U.N. Truth Commission later confirmed. https://t.co/mR7ijLKojD"
+	},
+	{
+		"created_at": "Mon Dec 10 22:42:49 +0000 2018",
+		"id": 1072260375389892600,
+		"id_str": "1072260375389892608",
+		"full_text": "GOP senator: ‘I don’t care’ if Trump broke the law https://t.co/8dvNt8whhy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8dvNt8whhy",
+					"expanded_url": "https://ift.tt/2RRszzq",
+					"display_url": "ift.tt/2RRszzq",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1381088924,
+			"id_str": "1381088924",
+			"name": "#TheResistance",
+			"screen_name": "SocialPowerOne1",
+			"location": "United States",
+			"description": "One person CAN make a difference #FBR #TheResistance #TrumpRussia #Resist #p2 #Voteblue2020 #Uniteblue #StillWithHer #BlackLivesMatter #Fashion #EDM",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148751,
+			"friends_count": 114629,
+			"listed_count": 962,
+			"created_at": "Fri Apr 26 04:49:26 +0000 2013",
+			"favourites_count": 12871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 249354,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/499778021193048064/eCPbrnvH_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/499778021193048064/eCPbrnvH_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1381088924/1465551945",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2193,
+		"favorite_count": 2303,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "GOP senator: ‘I don’t care’ if Trump broke the law https://t.co/8dvNt8whhy"
+	},
+	{
 		"created_at": "Mon Dec 10 22:59:24 +0000 2018",
 		"id": 1072264546570637300,
 		"id_str": "1072264546570637317",
