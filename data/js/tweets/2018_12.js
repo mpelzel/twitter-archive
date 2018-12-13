@@ -1,6 +1,1281 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 12 21:17:45 +0000 2018",
+		"id": 1072963744093720600,
+		"id_str": "1072963744093720576",
+		"full_text": "It's a big day for @hypothes_is! The LMS app has launched, with auto-provisioning of users and course groups in Canvas, Blackboard Learn, D2L Brightspace, Moodle, and Sakai. \n\nhttps://t.co/MNSIH0r5su",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hypothes_is",
+					"name": "Hypothesis",
+					"id": 325100970,
+					"id_str": "325100970",
+					"indices": [
+						19,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MNSIH0r5su",
+					"expanded_url": "https://web.hypothes.is/blog/hypothesis-launches-lms-app/",
+					"display_url": "web.hypothes.is/blog/hypothesi…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2937071,
+			"id_str": "2937071",
+			"name": "Jon Udell",
+			"screen_name": "judell",
+			"location": "Santa Rosa, CA",
+			"description": "https://t.co/ZiC4fjc1t7",
+			"url": "http://t.co/HMQKfTVjJr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/HMQKfTVjJr",
+							"expanded_url": "http://blog.jonudell.net",
+							"display_url": "blog.jonudell.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZiC4fjc1t7",
+							"expanded_url": "http://jonudell.net/bio.html",
+							"display_url": "jonudell.net/bio.html",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5581,
+			"friends_count": 2320,
+			"listed_count": 479,
+			"created_at": "Fri Mar 30 04:52:58 +0000 2007",
+			"favourites_count": 888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5241,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/630462864403267584/maaHx7Ta_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/630462864403267584/maaHx7Ta_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's a big day for @hypothes_is! The LMS app has launched, with auto-provisioning of users and course groups in Canvas, Blackboard Learn, D2L Brightspace, Moodle, and Sakai. \n\nhttps://t.co/MNSIH0r5su"
+	},
+	{
+		"created_at": "Wed Dec 12 17:58:08 +0000 2018",
+		"id": 1072913507987980300,
+		"id_str": "1072913507987980290",
+		"full_text": "Heads up here for @KWaldenPhD and @letsshall ... regular #DH newsletter/updates https://t.co/vM3opPFJmn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DH",
+					"indices": [
+						57,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KWaldenPhD",
+					"name": "Katherine W.",
+					"id": 495562702,
+					"id_str": "495562702",
+					"indices": [
+						18,
+						29
+					]
+				},
+				{
+					"screen_name": "letsshall",
+					"name": "Dr. Liz Rodrigues",
+					"id": 7268482,
+					"id_str": "7268482",
+					"indices": [
+						34,
+						44
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vM3opPFJmn",
+					"expanded_url": "https://twitter.com/MIThyperstudio/status/1072659716478767105",
+					"display_url": "twitter.com/MIThyperstudio…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 674,
+			"friends_count": 1051,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7393,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1072659716478767100,
+		"quoted_status_id_str": "1072659716478767105",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vM3opPFJmn",
+			"expanded": "https://twitter.com/MIThyperstudio/status/1072659716478767105",
+			"display": "twitter.com/MIThyperstudio…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 12 01:09:40 +0000 2018",
+			"id": 1072659716478767100,
+			"id_str": "1072659716478767105",
+			"full_text": "Check out this week's edition of the h + d insights newsletter with focus \"Art, Archives, and the Digital,\" featuring work by @leahsandals, @artcrimeprof, @tchoi8, @thistimeitsmimi, @hollyherndon, @matdryhurst and @Jlin_P:\nhttps://t.co/PgXRYZW5GV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				246
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "leahsandals",
+						"name": "Leah Sandals",
+						"id": 18873656,
+						"id_str": "18873656",
+						"indices": [
+							126,
+							138
+						]
+					},
+					{
+						"screen_name": "artcrimeprof",
+						"name": "Erin L. Thompson",
+						"id": 3166870696,
+						"id_str": "3166870696",
+						"indices": [
+							140,
+							153
+						]
+					},
+					{
+						"screen_name": "tchoi8",
+						"name": "Taeyoon Choi",
+						"id": 58558405,
+						"id_str": "58558405",
+						"indices": [
+							155,
+							162
+						]
+					},
+					{
+						"screen_name": "thistimeitsmimi",
+						"name": "Mimi Onuoha",
+						"id": 1226179488,
+						"id_str": "1226179488",
+						"indices": [
+							164,
+							180
+						]
+					},
+					{
+						"screen_name": "hollyherndon",
+						"name": "Holly Herndon",
+						"id": 15156227,
+						"id_str": "15156227",
+						"indices": [
+							182,
+							195
+						]
+					},
+					{
+						"screen_name": "matdryhurst",
+						"name": "Mat Dryhurst",
+						"id": 15156181,
+						"id_str": "15156181",
+						"indices": [
+							197,
+							209
+						]
+					},
+					{
+						"screen_name": "Jlin_P",
+						"name": "Jlin the Innovator",
+						"id": 314055370,
+						"id_str": "314055370",
+						"indices": [
+							214,
+							221
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/PgXRYZW5GV",
+						"expanded_url": "https://mailchi.mp/4aa908d1865d/this-weeks-digital-humanities-news-on-hd-insights-3165561",
+						"display_url": "mailchi.mp/4aa908d1865d/t…",
+						"indices": [
+							223,
+							246
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 122477531,
+				"id_str": "122477531",
+				"name": "MIT HyperStudio",
+				"screen_name": "MIThyperstudio",
+				"location": "Cambridge, MA",
+				"description": "MIT's Digital Humanities lab",
+				"url": "http://t.co/4lfFjeWMho",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/4lfFjeWMho",
+								"expanded_url": "http://hyperstudio.mit.edu",
+								"display_url": "hyperstudio.mit.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2430,
+				"friends_count": 613,
+				"listed_count": 197,
+				"created_at": "Fri Mar 12 21:17:24 +0000 2010",
+				"favourites_count": 387,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1074,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/449189089426698241/jvbmOot1_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/449189089426698241/jvbmOot1_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/122477531/1395930077",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Heads up here for @KWaldenPhD and @letsshall ... regular #DH newsletter/updates https://t.co/vM3opPFJmn"
+	},
+	{
+		"created_at": "Wed Dec 12 13:31:00 +0000 2018",
+		"id": 1072846280081104900,
+		"id_str": "1072846280081104896",
+		"full_text": "We're excited to announce @hypothes_is #annotation now integrates with all major Learning Management Systems through the @LearningImpact LTI standard. Install in Blackboard @Bb_Learn, D2L @Brightspace, @CanvasLMS, @moodle, or @sakaiproject today! https://t.co/e7BLlSoOcb https://t.co/c2uosuj1OF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "annotation",
+					"indices": [
+						39,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hypothes_is",
+					"name": "Hypothesis",
+					"id": 325100970,
+					"id_str": "325100970",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "LearningImpact",
+					"name": "IMS Global Learning",
+					"id": 146316919,
+					"id_str": "146316919",
+					"indices": [
+						121,
+						136
+					]
+				},
+				{
+					"screen_name": "Bb_Learn",
+					"name": "Blackboard Learn",
+					"id": 245530605,
+					"id_str": "245530605",
+					"indices": [
+						173,
+						182
+					]
+				},
+				{
+					"screen_name": "Brightspace",
+					"name": "Brightspace by D2L",
+					"id": 2176714218,
+					"id_str": "2176714218",
+					"indices": [
+						188,
+						200
+					]
+				},
+				{
+					"screen_name": "CanvasLMS",
+					"name": "Canvas LMS",
+					"id": 41847236,
+					"id_str": "41847236",
+					"indices": [
+						202,
+						212
+					]
+				},
+				{
+					"screen_name": "moodle",
+					"name": "Moodle",
+					"id": 3948971,
+					"id_str": "3948971",
+					"indices": [
+						214,
+						221
+					]
+				},
+				{
+					"screen_name": "sakaiproject",
+					"name": "Sakai Project",
+					"id": 10768892,
+					"id_str": "10768892",
+					"indices": [
+						226,
+						239
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/e7BLlSoOcb",
+					"expanded_url": "https://web.hypothes.is/blog/hypothesis-launches-lms-app/",
+					"display_url": "web.hypothes.is/blog/hypothesi…",
+					"indices": [
+						247,
+						270
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1072708243221209100,
+					"id_str": "1072708243221209088",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/DuMGdrjVYAACspn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuMGdrjVYAACspn.jpg",
+					"url": "https://t.co/c2uosuj1OF",
+					"display_url": "pic.twitter.com/c2uosuj1OF",
+					"expanded_url": "https://twitter.com/hypothes_is/status/1072846280081104896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072708243221209100,
+					"id_str": "1072708243221209088",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/DuMGdrjVYAACspn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuMGdrjVYAACspn.jpg",
+					"url": "https://t.co/c2uosuj1OF",
+					"display_url": "pic.twitter.com/c2uosuj1OF",
+					"expanded_url": "https://twitter.com/hypothes_is/status/1072846280081104896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 325100970,
+			"id_str": "325100970",
+			"name": "Hypothesis",
+			"screen_name": "hypothes_is",
+			"location": "San Francisco, CA USA",
+			"description": "All knowledge, annotated.",
+			"url": "http://t.co/vNZZ2YDTUa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/vNZZ2YDTUa",
+							"expanded_url": "http://hypothes.is",
+							"display_url": "hypothes.is",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7406,
+			"friends_count": 4118,
+			"listed_count": 402,
+			"created_at": "Mon Jun 27 18:52:36 +0000 2011",
+			"favourites_count": 4469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3559,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060590184436137984/CK0VrQHt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060590184436137984/CK0VrQHt_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're excited to announce @hypothes_is #annotation now integrates with all major Learning Management Systems through the @LearningImpact LTI standard. Install in Blackboard @Bb_Learn, D2L @Brightspace, @CanvasLMS, @moodle, or @sakaiproject today! https://t.co/e7BLlSoOcb https://t.co/c2uosuj1OF"
+	},
+	{
+		"created_at": "Tue Dec 11 12:55:00 +0000 2018",
+		"id": 1072474832544051200,
+		"id_str": "1072474832544051200",
+		"full_text": "Episode 46: @JuliaFeerrar talks about the cross-campus efforts at @virginia_tech to develop a framework for digital literacy. #edtech https://t.co/zPjAuhNrJT https://t.co/HXj3KOMGDo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						126,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JuliaFeerrar",
+					"name": "Julia Feerrar",
+					"id": 774920204,
+					"id_str": "774920204",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "virginia_tech",
+					"name": "Virginia Tech",
+					"id": 17416707,
+					"id_str": "17416707",
+					"indices": [
+						66,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zPjAuhNrJT",
+					"expanded_url": "http://leadinglinespod.com/episodes/episode-46julia-feerrar/",
+					"display_url": "leadinglinespod.com/episodes/episo…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1059469328817496000,
+					"id_str": "1059469328817496064",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/DrP9vcKWoAA2i6I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrP9vcKWoAA2i6I.jpg",
+					"url": "https://t.co/HXj3KOMGDo",
+					"display_url": "pic.twitter.com/HXj3KOMGDo",
+					"expanded_url": "https://twitter.com/leadinglinespod/status/1072474832544051200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1059469328817496000,
+					"id_str": "1059469328817496064",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/DrP9vcKWoAA2i6I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrP9vcKWoAA2i6I.jpg",
+					"url": "https://t.co/HXj3KOMGDo",
+					"display_url": "pic.twitter.com/HXj3KOMGDo",
+					"expanded_url": "https://twitter.com/leadinglinespod/status/1072474832544051200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 756232587400667100,
+			"id_str": "756232587400667136",
+			"name": "Leading Lines",
+			"screen_name": "leadinglinespod",
+			"location": "Nashville, TN",
+			"description": "A podcast on creative, intentional, and effective uses of technology to enhance  student learning, produced at Vanderbilt University",
+			"url": "https://t.co/zBsraGXUqB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zBsraGXUqB",
+							"expanded_url": "http://leadinglinespod.com/",
+							"display_url": "leadinglinespod.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 167,
+			"listed_count": 21,
+			"created_at": "Thu Jul 21 21:01:13 +0000 2016",
+			"favourites_count": 136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 219,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875780659121442820/uNe38YIU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875780659121442820/uNe38YIU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/756232587400667136/1469636538",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Episode 46: @JuliaFeerrar talks about the cross-campus efforts at @virginia_tech to develop a framework for digital literacy. #edtech https://t.co/zPjAuhNrJT https://t.co/HXj3KOMGDo"
+	},
+	{
+		"created_at": "Mon Dec 10 02:03:38 +0000 2018",
+		"id": 1071948522243702800,
+		"id_str": "1071948522243702784",
+		"full_text": "news from Cedar Rapids Iowa where the unemployment rate is 2.1%: employers are paying for recent immigrants to learn english so they can hire them https://t.co/N9Vqr29lwG @DanMikaTweets https://t.co/k7g5DqEtOf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DanMikaTweets",
+					"name": "Dan Mika",
+					"id": 629616624,
+					"id_str": "629616624",
+					"indices": [
+						171,
+						185
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/N9Vqr29lwG",
+					"expanded_url": "https://www.thegazette.com/subject/news/business/reducing-the-language-barrier-20181209",
+					"display_url": "thegazette.com/subject/news/b…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1071948258442993700,
+					"id_str": "1071948258442993664",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/DuBTQvoX4AA_ZvR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuBTQvoX4AA_ZvR.jpg",
+					"url": "https://t.co/k7g5DqEtOf",
+					"display_url": "pic.twitter.com/k7g5DqEtOf",
+					"expanded_url": "https://twitter.com/sam_a_bell/status/1071948522243702784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 337,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 861,
+							"h": 427,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 861,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1071948258442993700,
+					"id_str": "1071948258442993664",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/DuBTQvoX4AA_ZvR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuBTQvoX4AA_ZvR.jpg",
+					"url": "https://t.co/k7g5DqEtOf",
+					"display_url": "pic.twitter.com/k7g5DqEtOf",
+					"expanded_url": "https://twitter.com/sam_a_bell/status/1071948522243702784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 337,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 861,
+							"h": 427,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 861,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55840043,
+			"id_str": "55840043",
+			"name": "Sam Bell",
+			"screen_name": "sam_a_bell",
+			"location": "Washington, DC",
+			"description": "consulting for @open_phil to chase the dream of lasting full employment...\"keep refilling the punch bowl until the guests have all arrived\" - Janet Yellen",
+			"url": "https://t.co/XBS5i1AXLE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XBS5i1AXLE",
+							"expanded_url": "https://medium.com/@sam_a_bell",
+							"display_url": "medium.com/@sam_a_bell",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2969,
+			"friends_count": 983,
+			"listed_count": 152,
+			"created_at": "Sat Jul 11 14:21:27 +0000 2009",
+			"favourites_count": 5431,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9456,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848172469315936260/cmm7BYcU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848172469315936260/cmm7BYcU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55840043/1529012391",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "news from Cedar Rapids Iowa where the unemployment rate is 2.1%: employers are paying for recent immigrants to learn english so they can hire them https://t.co/N9Vqr29lwG @DanMikaTweets https://t.co/k7g5DqEtOf"
+	},
+	{
+		"created_at": "Tue Dec 11 12:22:14 +0000 2018",
+		"id": 1072466587356196900,
+		"id_str": "1072466587356196865",
+		"full_text": "On Dec 11 1981, Salvadoran troops, part of the elite US-trained Atlacatl Battalion occupied the village of El Mozote, swollen with refugees, and systematically massacred everyone—as many as 1000, as the U.N. Truth Commission later confirmed. https://t.co/mR7ijLKojD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1072466582599856100,
+					"id_str": "1072466582599856129",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/DuIqrLlXcAEuaKj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuIqrLlXcAEuaKj.jpg",
+					"url": "https://t.co/mR7ijLKojD",
+					"display_url": "pic.twitter.com/mR7ijLKojD",
+					"expanded_url": "https://twitter.com/RobertEllsberg/status/1072466587356196865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 534,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 534,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072466582599856100,
+					"id_str": "1072466582599856129",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/DuIqrLlXcAEuaKj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuIqrLlXcAEuaKj.jpg",
+					"url": "https://t.co/mR7ijLKojD",
+					"display_url": "pic.twitter.com/mR7ijLKojD",
+					"expanded_url": "https://twitter.com/RobertEllsberg/status/1072466587356196865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 534,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 534,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 804776629172105200,
+			"id_str": "804776629172105218",
+			"name": "Robert Ellsberg",
+			"screen_name": "RobertEllsberg",
+			"location": "",
+			"description": "Publisher @OrbisBooks, saint-watcher @GiveUsThisDayLP, dog lover. Not the droid you are looking for.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1827,
+			"friends_count": 212,
+			"listed_count": 26,
+			"created_at": "Fri Dec 02 19:57:55 +0000 2016",
+			"favourites_count": 2181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804780943625945088/cNkclQPE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804780943625945088/cNkclQPE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/804776629172105218/1480709785",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On Dec 11 1981, Salvadoran troops, part of the elite US-trained Atlacatl Battalion occupied the village of El Mozote, swollen with refugees, and systematically massacred everyone—as many as 1000, as the U.N. Truth Commission later confirmed. https://t.co/mR7ijLKojD"
+	},
+	{
 		"created_at": "Tue Dec 11 12:55:00 +0000 2018",
 		"id": 1072474832544051200,
 		"id_str": "1072474832544051200",
