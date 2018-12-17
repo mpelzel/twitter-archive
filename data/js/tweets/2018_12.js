@@ -1,6 +1,712 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sun Dec 16 14:44:00 +0000 2018",
+		"id": 1074314203484315600,
+		"id_str": "1074314203484315654",
+		"full_text": "Advent Day 16: from \"Anthem\" by Leonard Cohen \n\nRing the bells that still can ring\nForget your perfect offering \nThere is a crack in everything\nThat's how the light gets in\n\nhttps://t.co/DXn7ddEZpR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DXn7ddEZpR",
+					"expanded_url": "https://buff.ly/2G75Nlz",
+					"display_url": "buff.ly/2G75Nlz",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22770131,
+			"id_str": "22770131",
+			"name": "Commonweal Magazine",
+			"screen_name": "commonwealmag",
+			"location": "New York, NY",
+			"description": "A review of religion, politics, and culture since 1924.  @DominicPreziosi, @MatthewSitman, @gehringdc, @MassimoFaggioli, @tonydomestico, @paulbmoses. @bdmcclay",
+			"url": "http://t.co/DZd7CxB3yM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/DZd7CxB3yM",
+							"expanded_url": "http://www.commonwealmagazine.org",
+							"display_url": "commonwealmagazine.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15105,
+			"friends_count": 461,
+			"listed_count": 446,
+			"created_at": "Wed Mar 04 13:32:22 +0000 2009",
+			"favourites_count": 2042,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13321,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004408476939046913/nSbcnf4g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004408476939046913/nSbcnf4g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22770131/1543938763",
+			"profile_link_color": "6A90CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCE1FF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Advent Day 16: from \"Anthem\" by Leonard Cohen \n\nRing the bells that still can ring\nForget your perfect offering \nThere is a crack in everything\nThat's how the light gets in\n\nhttps://t.co/DXn7ddEZpR"
+	},
+	{
+		"created_at": "Sun Dec 16 22:22:49 +0000 2018",
+		"id": 1074429667984064500,
+		"id_str": "1074429667984064513",
+		"full_text": "From the “MAGNIFICAT” Desk – while Fort Worth paper remains oblivious to +Olson’s call to Rome (https://t.co/TfOKbPKcQq ), with embattled prelate scrambling to respond to years of questionable moves (https://t.co/ecvTtHfYtA ), today’s Metroplex A1 adds to a sense of “Memphis II”: https://t.co/qKk7lb5gWa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TfOKbPKcQq",
+					"expanded_url": "https://twitter.com/roccopalmo/status/1071014005127430150",
+					"display_url": "twitter.com/roccopalmo/sta…",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/ecvTtHfYtA",
+					"expanded_url": "http://bit.ly/2SMm7K2",
+					"display_url": "bit.ly/2SMm7K2",
+					"indices": [
+						200,
+						223
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1074429147638751200,
+					"id_str": "1074429147638751232",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/DukjngFVYAAg0Jm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DukjngFVYAAg0Jm.jpg",
+					"url": "https://t.co/qKk7lb5gWa",
+					"display_url": "pic.twitter.com/qKk7lb5gWa",
+					"expanded_url": "https://twitter.com/roccopalmo/status/1074429667984064513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 695,
+							"h": 797,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 593,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 695,
+							"h": 797,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1074429147638751200,
+					"id_str": "1074429147638751232",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/DukjngFVYAAg0Jm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DukjngFVYAAg0Jm.jpg",
+					"url": "https://t.co/qKk7lb5gWa",
+					"display_url": "pic.twitter.com/qKk7lb5gWa",
+					"expanded_url": "https://twitter.com/roccopalmo/status/1074429667984064513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 695,
+							"h": 797,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 593,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 695,
+							"h": 797,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 173373241,
+			"id_str": "173373241",
+			"name": "Rocco Palmo",
+			"screen_name": "roccopalmo",
+			"location": "Philadelphia, PA",
+			"description": "",
+			"url": "https://t.co/ZdRJG7TvzA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZdRJG7TvzA",
+							"expanded_url": "http://theloggia.org",
+							"display_url": "theloggia.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26372,
+			"friends_count": 870,
+			"listed_count": 690,
+			"created_at": "Sun Aug 01 06:20:54 +0000 2010",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22850,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092843050/cardinal_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092843050/cardinal_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1071014005127430100,
+		"quoted_status_id_str": "1071014005127430150",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TfOKbPKcQq",
+			"expanded": "https://twitter.com/roccopalmo/status/1071014005127430150",
+			"display": "twitter.com/roccopalmo/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 07 12:10:11 +0000 2018",
+			"id": 1071014005127430100,
+			"id_str": "1071014005127430150",
+			"full_text": "While Fort Worth paper spotlights new petition seeking Vatican probe of +Olson following years of contentious moves (https://t.co/EHKUeGjuvP ), Whispers ops relay that outspoken Texas prelate has spent this week in Rome, reportedly due to fallout of clashes with his priests.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EHKUeGjuvP",
+						"expanded_url": "http://bit.ly/2Qkidew",
+						"display_url": "bit.ly/2Qkidew",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 173373241,
+				"id_str": "173373241",
+				"name": "Rocco Palmo",
+				"screen_name": "roccopalmo",
+				"location": "Philadelphia, PA",
+				"description": "",
+				"url": "https://t.co/ZdRJG7TvzA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZdRJG7TvzA",
+								"expanded_url": "http://theloggia.org",
+								"display_url": "theloggia.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26372,
+				"friends_count": 870,
+				"listed_count": 690,
+				"created_at": "Sun Aug 01 06:20:54 +0000 2010",
+				"favourites_count": 16,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22850,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1092843050/cardinal_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092843050/cardinal_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From the “MAGNIFICAT” Desk – while Fort Worth paper remains oblivious to +Olson’s call to Rome (https://t.co/TfOKbPKcQq ), with embattled prelate scrambling to respond to years of questionable moves (https://t.co/ecvTtHfYtA ), today’s Metroplex A1 adds to a sense of “Memphis II”: https://t.co/qKk7lb5gWa"
+	},
+	{
+		"created_at": "Sun Dec 16 19:44:13 +0000 2018",
+		"id": 1074389755259949000,
+		"id_str": "1074389755259949056",
+		"full_text": "Gaudete! Rejoice! And the plural is intentional\nHe saves us as a body, not just a individual",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2249008987,
+			"id_str": "2249008987",
+			"name": "🍐 Augustine of Hiphop 🙏🏾",
+			"screen_name": "hiphopaugustine",
+			"location": "Africa (north side)",
+			"description": "love God, love neighbor, yo — that's my motto / rhymes so good they work ex opere operato",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23067,
+			"friends_count": 989,
+			"listed_count": 259,
+			"created_at": "Mon Dec 16 16:42:46 +0000 2013",
+			"favourites_count": 1588,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/412624527768563713/Vd_URruj_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/412624527768563713/Vd_URruj_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2249008987/1387449096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 122,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Gaudete! Rejoice! And the plural is intentional\nHe saves us as a body, not just a individual"
+	},
+	{
+		"created_at": "Sun Dec 16 18:57:11 +0000 2018",
+		"id": 1074377917881376800,
+		"id_str": "1074377917881376769",
+		"full_text": "Truly a joy... #GaudeteSunday https://t.co/pROD3ynUtD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GaudeteSunday",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pROD3ynUtD",
+					"expanded_url": "https://twitter.com/vboykis/status/1074138338574168064",
+					"display_url": "twitter.com/vboykis/status…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 675,
+			"friends_count": 1051,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6063,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7410,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1074138338574168000,
+		"quoted_status_id_str": "1074138338574168064",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pROD3ynUtD",
+			"expanded": "https://twitter.com/vboykis/status/1074138338574168064",
+			"display": "twitter.com/vboykis/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 16 03:05:11 +0000 2018",
+			"id": 1074138338574168000,
+			"id_str": "1074138338574168064",
+			"full_text": "One of my greatest weird little joys in life is stripping the UTM parameters in links before I send them to other people.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				121
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19304217,
+				"id_str": "19304217",
+				"name": "Vicki Boykis",
+				"screen_name": "vboykis",
+				"location": "Philadelphia, PA",
+				"description": "Born: Jewish in Russia. Raised: guilty in America. My days: Building data products using Python, ML, and magic. Privacy. Open internet.  #devart | @sovietartbot",
+				"url": "https://t.co/yZJ5XlxbmR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yZJ5XlxbmR",
+								"expanded_url": "http://www.vickiboykis.com",
+								"display_url": "vickiboykis.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9961,
+				"friends_count": 649,
+				"listed_count": 334,
+				"created_at": "Wed Jan 21 20:04:22 +0000 2009",
+				"favourites_count": 28233,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 45794,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/463852826435674115/yjewjpOI_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/463852826435674115/yjewjpOI_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19304217/1407807190",
+				"profile_link_color": "7D107D",
+				"profile_sidebar_border_color": "D8D8D8",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "0E73AD",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 47,
+			"favorite_count": 659,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Truly a joy... #GaudeteSunday https://t.co/pROD3ynUtD"
+	},
+	{
 		"created_at": "Sat Dec 15 22:50:49 +0000 2018",
 		"id": 1074074325488189400,
 		"id_str": "1074074325488189441",
