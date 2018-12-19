@@ -1,6 +1,765 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 18 15:23:57 +0000 2018",
+		"id": 1075049032546955300,
+		"id_str": "1075049032546955264",
+		"full_text": "Climate change leading to water shortage in Andes, Himalayas. Citizens of Peru and India could be drastically affected. https://t.co/sezcjJYDqf via @physorg_com",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "physorg_com",
+					"name": "Phys.org",
+					"id": 17248121,
+					"id_str": "17248121",
+					"indices": [
+						148,
+						160
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sezcjJYDqf",
+					"expanded_url": "https://phys.org/news/2018-12-climate-shortage-andes-himalayas.html",
+					"display_url": "phys.org/news/2018-12-c…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 373601107,
+			"id_str": "373601107",
+			"name": "OU WaTER Center",
+			"screen_name": "OUWaTERCenter",
+			"location": "University of Oklahoma",
+			"description": "Our Goal: Solve #waterandsanitation challenges for developing countries through teaching, research and networking.\n\nShare our vision.",
+			"url": "http://t.co/B3ZTekEM7A",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/B3ZTekEM7A",
+							"expanded_url": "http://water.ou.edu",
+							"display_url": "water.ou.edu",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 405,
+			"friends_count": 441,
+			"listed_count": 9,
+			"created_at": "Wed Sep 14 22:00:07 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 457,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1795694975/icon_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1795694975/icon_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/373601107/1354160231",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Climate change leading to water shortage in Andes, Himalayas. Citizens of Peru and India could be drastically affected. https://t.co/sezcjJYDqf via @physorg_com"
+	},
+	{
+		"created_at": "Tue Dec 18 20:13:57 +0000 2018",
+		"id": 1075122013436563500,
+		"id_str": "1075122013436563456",
+		"full_text": "@annieree22 @MagisterLudi16 @roccopalmo But great copy for the newspaper :)",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "annieree22",
+					"name": "Joann Messina",
+					"id": 924452414471770100,
+					"id_str": "924452414471770113",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "MagisterLudi16",
+					"name": "Dennis Hogan",
+					"id": 833705348792012800,
+					"id_str": "833705348792012802",
+					"indices": [
+						12,
+						27
+					]
+				},
+				{
+					"screen_name": "roccopalmo",
+					"name": "Rocco Palmo",
+					"id": 173373241,
+					"id_str": "173373241",
+					"indices": [
+						28,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1075117978742612000,
+		"in_reply_to_status_id_str": "1075117978742611974",
+		"in_reply_to_user_id": 924452414471770100,
+		"in_reply_to_user_id_str": "924452414471770113",
+		"in_reply_to_screen_name": "annieree22",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 677,
+			"friends_count": 1059,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7425,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@annieree22 @MagisterLudi16 @roccopalmo But great copy for the newspaper :)"
+	},
+	{
+		"created_at": "Tue Dec 18 15:28:49 +0000 2018",
+		"id": 1075050258114203600,
+		"id_str": "1075050258114203650",
+		"full_text": "@SarahJPurcell How could it be fun without you?!?",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarahJPurcell",
+					"name": "Sarah J. Purcell",
+					"id": 386185407,
+					"id_str": "386185407",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1075050108234985500,
+		"in_reply_to_status_id_str": "1075050108234985474",
+		"in_reply_to_user_id": 386185407,
+		"in_reply_to_user_id_str": "386185407",
+		"in_reply_to_screen_name": "SarahJPurcell",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 677,
+			"friends_count": 1059,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7425,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SarahJPurcell How could it be fun without you?!?"
+	},
+	{
+		"created_at": "Tue Dec 18 00:37:06 +0000 2018",
+		"id": 1074825849214550000,
+		"id_str": "1074825849214550016",
+		"full_text": "Kudos to all! #DLAC @GrinnellCollege https://t.co/sHnaf9JhKj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DLAC",
+					"indices": [
+						14,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GrinnellCollege",
+					"name": "Grinnell College",
+					"id": 17652635,
+					"id_str": "17652635",
+					"indices": [
+						20,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sHnaf9JhKj",
+					"expanded_url": "https://twitter.com/KWaldenPhD/status/1074824139842695170",
+					"display_url": "twitter.com/KWaldenPhD/sta…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 677,
+			"friends_count": 1059,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7425,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1074824139842695200,
+		"quoted_status_id_str": "1074824139842695170",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sHnaf9JhKj",
+			"expanded": "https://twitter.com/KWaldenPhD/status/1074824139842695170",
+			"display": "twitter.com/KWaldenPhD/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 18 00:30:18 +0000 2018",
+			"id": 1074824139842695200,
+			"id_str": "1074824139842695170",
+			"full_text": "Final projects are rolling in for @SarahJPurcell’s #HIS295, and my gosh they’re pretty darn fantastic.\n\nTo learn more about the #HIS295 course, including experimental labs and tutorials, check out https://t.co/ehmNh3i5Z1. 1/",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				224
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HIS295",
+						"indices": [
+							51,
+							58
+						]
+					},
+					{
+						"text": "HIS295",
+						"indices": [
+							128,
+							135
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SarahJPurcell",
+						"name": "Sarah J. Purcell",
+						"id": 386185407,
+						"id_str": "386185407",
+						"indices": [
+							34,
+							48
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ehmNh3i5Z1",
+						"expanded_url": "http://sarahjpurcell.sites.grinnell.edu/digital_methods",
+						"display_url": "sarahjpurcell.sites.grinnell.edu/digital_methods",
+						"indices": [
+							197,
+							220
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 495562702,
+				"id_str": "495562702",
+				"name": "Katherine W.",
+				"screen_name": "KWaldenPhD",
+				"location": "Grinnell, IA",
+				"description": "Dig Lib Arts Specialist @GrinnellDLAC. American-Sport Studies (almost) PhD + MLIS @uiowa. Fmr @VanderbiltU, @baseballhall, @librarycongress.  ⚾️ fan+scholar.",
+				"url": "https://t.co/3Vk8MiQ37C",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3Vk8MiQ37C",
+								"expanded_url": "https://kwaldenpond.com/",
+								"display_url": "kwaldenpond.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 560,
+				"friends_count": 1064,
+				"listed_count": 17,
+				"created_at": "Sat Feb 18 03:09:25 +0000 2012",
+				"favourites_count": 13240,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8017,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1000168344547479552/lkDb2u25_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000168344547479552/lkDb2u25_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/495562702/1527293954",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "Kudos to all! #DLAC @GrinnellCollege https://t.co/sHnaf9JhKj"
+	},
+	{
+		"created_at": "Mon Dec 17 23:49:00 +0000 2018",
+		"id": 1074813745409462300,
+		"id_str": "1074813745409462272",
+		"full_text": "Be sure to tune in live tomorrow at 7 pm EST for a conversation on civility on campus with @CornelWest and @McCormickProf at the @SheenCenter, moderated by @Americaeditor \nhttps://t.co/0MNaGUu5CX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CornelWest",
+					"name": "Cornel West",
+					"id": 36743910,
+					"id_str": "36743910",
+					"indices": [
+						91,
+						102
+					]
+				},
+				{
+					"screen_name": "McCormickProf",
+					"name": "Robert P. George",
+					"id": 1969097227,
+					"id_str": "1969097227",
+					"indices": [
+						107,
+						121
+					]
+				},
+				{
+					"screen_name": "SheenCenter",
+					"name": "The Sheen Center For Thought & Culture",
+					"id": 552749882,
+					"id_str": "552749882",
+					"indices": [
+						129,
+						141
+					]
+				},
+				{
+					"screen_name": "Americaeditor",
+					"name": "Matt Malone, S.J.",
+					"id": 829323654,
+					"id_str": "829323654",
+					"indices": [
+						156,
+						170
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0MNaGUu5CX",
+					"expanded_url": "https://www.sheencenter.org/shows/campus/",
+					"display_url": "sheencenter.org/shows/campus/",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17372204,
+			"id_str": "17372204",
+			"name": "America Magazine",
+			"screen_name": "americamag",
+			"location": "",
+			"description": "The Jesuit Review of Faith and Culture",
+			"url": "https://t.co/oa7owxzsNV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oa7owxzsNV",
+							"expanded_url": "http://www.americamagazine.org",
+							"display_url": "americamagazine.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53830,
+			"friends_count": 376,
+			"listed_count": 1084,
+			"created_at": "Thu Nov 13 19:28:03 +0000 2008",
+			"favourites_count": 1466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 43628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EAECF0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/823506014548951041/pt6Tnc3z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/823506014548951041/pt6Tnc3z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17372204/1485174139",
+			"profile_link_color": "0044B4",
+			"profile_sidebar_border_color": "181E15",
+			"profile_sidebar_fill_color": "CCFFF7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Be sure to tune in live tomorrow at 7 pm EST for a conversation on civility on campus with @CornelWest and @McCormickProf at the @SheenCenter, moderated by @Americaeditor \nhttps://t.co/0MNaGUu5CX"
+	},
+	{
 		"created_at": "Mon Dec 17 23:49:00 +0000 2018",
 		"id": 1074813745409462300,
 		"id_str": "1074813745409462272",
