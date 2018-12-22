@@ -1,6 +1,320 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 13 11:18:48 +0000 2018",
+		"id": 1073175398077382700,
+		"id_str": "1073175398077382656",
+		"full_text": "In '60 two schools of thought influenced our profession. One aimed to \"replace\" the human being with computers (AI), another to \"augment\" human capabilities using the computer. (1/3) #theDemoat50",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "theDemoat50",
+					"indices": [
+						183,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 31232693,
+			"id_str": "31232693",
+			"name": "Hernan Wilkinson",
+			"screen_name": "HernanWilkinson",
+			"location": "",
+			"description": "Software developer & coach. OO lover. Co-founder of @10Pines and FAST",
+			"url": "http://t.co/3pv5YWwUbK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/3pv5YWwUbK",
+							"expanded_url": "http://www.10pines.com/",
+							"display_url": "10pines.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1784,
+			"friends_count": 337,
+			"listed_count": 77,
+			"created_at": "Tue Apr 14 21:32:27 +0000 2009",
+			"favourites_count": 2029,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6063,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732186773967736832/368QR9TP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732186773967736832/368QR9TP_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "In '60 two schools of thought influenced our profession. One aimed to \"replace\" the human being with computers (AI), another to \"augment\" human capabilities using the computer. (1/3) #theDemoat50"
+	},
+	{
+		"created_at": "Wed Dec 19 23:35:01 +0000 2018",
+		"id": 1075535001196863500,
+		"id_str": "1075535001196863489",
+		"full_text": "On liberal education surviving the 21st century:\nhttps://t.co/2LYRi635LM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2LYRi635LM",
+					"expanded_url": "https://bryanalexander.org/future-of-education/on-liberal-education-surviving-the-21st-century/",
+					"display_url": "bryanalexander.org/future-of-educ…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755991,
+			"id_str": "755991",
+			"name": "Bryan Alexander",
+			"screen_name": "BryanAlexander",
+			"location": "ÜT: 44.010713,-73.164997",
+			"description": "\"The Ax-Wielding Futurist\" - Ozy",
+			"url": "https://t.co/StHAJPH0k7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/StHAJPH0k7",
+							"expanded_url": "http://futureofeducation.us",
+							"display_url": "futureofeducation.us",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11789,
+			"friends_count": 2314,
+			"listed_count": 899,
+			"created_at": "Wed Feb 07 13:52:20 +0000 2007",
+			"favourites_count": 9020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48120,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/816375738295316481/1l6naDl-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/816375738295316481/1l6naDl-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755991/1516673547",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On liberal education surviving the 21st century:\nhttps://t.co/2LYRi635LM"
+	},
+	{
+		"created_at": "Fri Dec 21 00:40:05 +0000 2018",
+		"id": 1075913764887818200,
+		"id_str": "1075913764887818241",
+		"full_text": "I'm trying to think through how colleges will respond to this new University of Mary Washington federal appeals court decision:\n\nhttps://t.co/evblfIhk1x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/evblfIhk1x",
+					"expanded_url": "https://www.washingtonpost.com/local/legal-issues/u-of-mary-washington-could-have-done-more-to-protect-students-from-harassment-judges-find/2018/12/19/4978105a-03ae-11e9-9122-82e98f91ee6f_story.html?utm_term=.2cf59c650239",
+					"display_url": "washingtonpost.com/local/legal-is…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755991,
+			"id_str": "755991",
+			"name": "Bryan Alexander",
+			"screen_name": "BryanAlexander",
+			"location": "ÜT: 44.010713,-73.164997",
+			"description": "\"The Ax-Wielding Futurist\" - Ozy",
+			"url": "https://t.co/StHAJPH0k7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/StHAJPH0k7",
+							"expanded_url": "http://futureofeducation.us",
+							"display_url": "futureofeducation.us",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11789,
+			"friends_count": 2314,
+			"listed_count": 899,
+			"created_at": "Wed Feb 07 13:52:20 +0000 2007",
+			"favourites_count": 9020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48120,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/816375738295316481/1l6naDl-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/816375738295316481/1l6naDl-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755991/1516673547",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm trying to think through how colleges will respond to this new University of Mary Washington federal appeals court decision:\n\nhttps://t.co/evblfIhk1x"
+	},
+	{
 		"created_at": "Thu Dec 20 22:49:50 +0000 2018",
 		"id": 1075886017046040600,
 		"id_str": "1075886017046040578",
