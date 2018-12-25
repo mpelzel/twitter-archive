@@ -1,6 +1,1930 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 24 22:30:00 +0000 2018",
+		"id": 1077330578310074400,
+		"id_str": "1077330578310074369",
+		"full_text": "By contemplating God, who became a child, radiating light from the humility of the crib, we can also become witnesses to humility, tenderness and goodness. #Christmas",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Christmas",
+					"indices": [
+						156,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 500704345,
+			"id_str": "500704345",
+			"name": "Pope Francis",
+			"screen_name": "Pontifex",
+			"location": "Vatican City",
+			"description": "Welcome to the official Twitter page of His Holiness Pope Francis",
+			"url": "https://t.co/yRhGwps83P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yRhGwps83P",
+							"expanded_url": "http://www.vaticannews.va",
+							"display_url": "vaticannews.va",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17799545,
+			"friends_count": 8,
+			"listed_count": 26163,
+			"created_at": "Thu Feb 23 11:38:07 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1803,
+			"lang": "it",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/507818066814590976/KNG-IkT9_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/507818066814590976/KNG-IkT9_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/500704345/1409908226",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2526,
+		"favorite_count": 8795,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "By contemplating God, who became a child, radiating light from the humility of the crib, we can also become witnesses to humility, tenderness and goodness. #Christmas"
+	},
+	{
+		"created_at": "Mon Dec 24 20:12:11 +0000 2018",
+		"id": 1077295896809926700,
+		"id_str": "1077295896809926656",
+		"full_text": "From Non-Midnight – 9.30pm Rome/3.30pm US Eastern – livefeed of Pope’s Christmas Mass: https://t.co/dmJ7GdPFgG /Program: https://t.co/RrE2c8Jg7W #BuonNatale 🎄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BuonNatale",
+					"indices": [
+						145,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dmJ7GdPFgG",
+					"expanded_url": "https://youtu.be/SaV36dKiN3s",
+					"display_url": "youtu.be/SaV36dKiN3s",
+					"indices": [
+						87,
+						110
+					]
+				},
+				{
+					"url": "https://t.co/RrE2c8Jg7W",
+					"expanded_url": "http://bit.ly/2CyOjuV",
+					"display_url": "bit.ly/2CyOjuV",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 173373241,
+			"id_str": "173373241",
+			"name": "Rocco Palmo",
+			"screen_name": "roccopalmo",
+			"location": "Philadelphia, PA",
+			"description": "",
+			"url": "https://t.co/ZdRJG7TvzA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZdRJG7TvzA",
+							"expanded_url": "http://theloggia.org",
+							"display_url": "theloggia.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26407,
+			"friends_count": 870,
+			"listed_count": 691,
+			"created_at": "Sun Aug 01 06:20:54 +0000 2010",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22882,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092843050/cardinal_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092843050/cardinal_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From Non-Midnight – 9.30pm Rome/3.30pm US Eastern – livefeed of Pope’s Christmas Mass: https://t.co/dmJ7GdPFgG /Program: https://t.co/RrE2c8Jg7W #BuonNatale 🎄"
+	},
+	{
+		"created_at": "Mon Dec 24 16:07:11 +0000 2018",
+		"id": 1077234240075505700,
+		"id_str": "1077234240075505665",
+		"full_text": "A medieval friar's cheery carol for the end of Advent: 'Farewell Advent, Christmas is come!' https://t.co/X3eT0CHyHD https://t.co/jOGeYkx5Nv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X3eT0CHyHD",
+					"expanded_url": "https://aclerkofoxford.blogspot.com/2011/12/farewell-advent-christmas-is-come.html",
+					"display_url": "aclerkofoxford.blogspot.com/2011/12/farewe…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1077234219422752800,
+					"id_str": "1077234219422752770",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DvMa0KyWoAI9Dwk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvMa0KyWoAI9Dwk.jpg",
+					"url": "https://t.co/jOGeYkx5Nv",
+					"display_url": "pic.twitter.com/jOGeYkx5Nv",
+					"expanded_url": "https://twitter.com/ClerkofOxford/status/1077234240075505665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 499,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1005,
+							"h": 737,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1005,
+							"h": 737,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077234219422752800,
+					"id_str": "1077234219422752770",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DvMa0KyWoAI9Dwk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvMa0KyWoAI9Dwk.jpg",
+					"url": "https://t.co/jOGeYkx5Nv",
+					"display_url": "pic.twitter.com/jOGeYkx5Nv",
+					"expanded_url": "https://twitter.com/ClerkofOxford/status/1077234240075505665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 499,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1005,
+							"h": 737,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1005,
+							"h": 737,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1077217293686526000,
+		"in_reply_to_status_id_str": "1077217293686525952",
+		"in_reply_to_user_id": 1058994655,
+		"in_reply_to_user_id_str": "1058994655",
+		"in_reply_to_screen_name": "ClerkofOxford",
+		"user": {
+			"id": 1058994655,
+			"id_str": "1058994655",
+			"name": "Eleanor Parker",
+			"screen_name": "ClerkofOxford",
+			"location": "",
+			"description": "Medievalist and @HistoryToday columnist. I tweet about medieval English literature, saints, Vikings, and folklore.",
+			"url": "https://t.co/XqCZvqUfhH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XqCZvqUfhH",
+							"expanded_url": "http://www.aclerkofoxford.blogspot.co.uk/",
+							"display_url": "aclerkofoxford.blogspot.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20907,
+			"friends_count": 694,
+			"listed_count": 559,
+			"created_at": "Thu Jan 03 22:53:30 +0000 2013",
+			"favourites_count": 7398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13164,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891345341479604224/h-nI34OS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891345341479604224/h-nI34OS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1058994655/1401349749",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A medieval friar's cheery carol for the end of Advent: 'Farewell Advent, Christmas is come!' https://t.co/X3eT0CHyHD https://t.co/jOGeYkx5Nv"
+	},
+	{
+		"created_at": "Mon Dec 24 19:04:21 +0000 2018",
+		"id": 1077278825812279300,
+		"id_str": "1077278825812279296",
+		"full_text": "Now this is the kind of year end review I can get into @NewYorker #crosswords https://t.co/tsBXtmRdRq https://t.co/Dsf2hGI5o5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "crosswords",
+					"indices": [
+						66,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewYorker",
+					"name": "The New Yorker",
+					"id": 14677919,
+					"id_str": "14677919",
+					"indices": [
+						55,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tsBXtmRdRq",
+					"expanded_url": "http://bit.ly/2GBsteg",
+					"display_url": "bit.ly/2GBsteg",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1077278810041573400,
+					"id_str": "1077278810041573376",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNDXryVYAAcLRP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNDXryVYAAcLRP.jpg",
+					"url": "https://t.co/Dsf2hGI5o5",
+					"display_url": "pic.twitter.com/Dsf2hGI5o5",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1077278825812279296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 762,
+							"h": 370,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 330,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 762,
+							"h": 370,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077278810041573400,
+					"id_str": "1077278810041573376",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DvNDXryVYAAcLRP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvNDXryVYAAcLRP.jpg",
+					"url": "https://t.co/Dsf2hGI5o5",
+					"display_url": "pic.twitter.com/Dsf2hGI5o5",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1077278825812279296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 762,
+							"h": 370,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 330,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 762,
+							"h": 370,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 679,
+			"friends_count": 1065,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7465,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Now this is the kind of year end review I can get into @NewYorker #crosswords https://t.co/tsBXtmRdRq https://t.co/Dsf2hGI5o5"
+	},
+	{
+		"created_at": "Mon Dec 24 18:45:06 +0000 2018",
+		"id": 1077273981953163300,
+		"id_str": "1077273981953163264",
+		"full_text": "Blue Bell is the best https://t.co/9YBlWCtQLo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9YBlWCtQLo",
+					"expanded_url": "https://twitter.com/CillizzaCNN/status/1077272036781842433",
+					"display_url": "twitter.com/CillizzaCNN/st…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 679,
+			"friends_count": 1065,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7465,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1077272036781842400,
+		"quoted_status_id_str": "1077272036781842433",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9YBlWCtQLo",
+			"expanded": "https://twitter.com/CillizzaCNN/status/1077272036781842433",
+			"display": "twitter.com/CillizzaCNN/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 24 18:37:22 +0000 2018",
+			"id": 1077272036781842400,
+			"id_str": "1077272036781842433",
+			"full_text": "Texas forever https://t.co/dzahqysDI5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				13
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1077272030922170400,
+						"id_str": "1077272030922170370",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/media/DvM9NFmUYAI3cGI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvM9NFmUYAI3cGI.jpg",
+						"url": "https://t.co/dzahqysDI5",
+						"display_url": "pic.twitter.com/dzahqysDI5",
+						"expanded_url": "https://twitter.com/CillizzaCNN/status/1077272036781842433/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1077272030922170400,
+						"id_str": "1077272030922170370",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/media/DvM9NFmUYAI3cGI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvM9NFmUYAI3cGI.jpg",
+						"url": "https://t.co/dzahqysDI5",
+						"display_url": "pic.twitter.com/dzahqysDI5",
+						"expanded_url": "https://twitter.com/CillizzaCNN/status/1077272036781842433/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14412533,
+				"id_str": "14412533",
+				"name": "Chris Cillizza",
+				"screen_name": "CillizzaCNN",
+				"location": "Washington, D.C.",
+				"description": "\"One of the dumber and least respected of the political pundits.\" -- Donald Trump; \"A f*!-ing mouth breather.\" -- Roseanne Barr",
+				"url": "https://t.co/VM2JQsQH6X",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VM2JQsQH6X",
+								"expanded_url": "http://CNN.com/ThePoint",
+								"display_url": "CNN.com/ThePoint",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 666250,
+				"friends_count": 3264,
+				"listed_count": 9903,
+				"created_at": "Wed Apr 16 20:34:24 +0000 2008",
+				"favourites_count": 188,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 126976,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/918126286610018305/0LVMCwOV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/918126286610018305/0LVMCwOV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14412533/1498647512",
+				"profile_link_color": "A81B1B",
+				"profile_sidebar_border_color": "5E8B9C",
+				"profile_sidebar_fill_color": "8EA5BF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 215,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Blue Bell is the best https://t.co/9YBlWCtQLo"
+	},
+	{
+		"created_at": "Mon Dec 24 15:58:44 +0000 2018",
+		"id": 1077232112930050000,
+		"id_str": "1077232112930050050",
+		"full_text": "On Christmas Eve, thinking of the families who've been torn apart by the deportation machine, of the DREAMers facing another year of pain and uncertainty, of the thousands of kids alone in detention centers.\n\nThis is all done in our names and with our tax dollars.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 149626146,
+			"id_str": "149626146",
+			"name": "Leah Greenberg",
+			"screen_name": "Leahgreenb",
+			"location": "",
+			"description": "Co-Executive Director, @IndivisibleTeam. I came here to make friends.",
+			"url": "https://t.co/JENZ9MAQ9K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JENZ9MAQ9K",
+							"expanded_url": "http://www.indivisibleguide.com",
+							"display_url": "indivisibleguide.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27016,
+			"friends_count": 1811,
+			"listed_count": 328,
+			"created_at": "Sat May 29 19:43:40 +0000 2010",
+			"favourites_count": 4478,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11846,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051579965957754880/gu7VC9YB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051579965957754880/gu7VC9YB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/149626146/1500225586",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 220,
+		"favorite_count": 478,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "On Christmas Eve, thinking of the families who've been torn apart by the deportation machine, of the DREAMers facing another year of pain and uncertainty, of the thousands of kids alone in detention centers.\n\nThis is all done in our names and with our tax dollars."
+	},
+	{
+		"created_at": "Mon Dec 24 15:40:47 +0000 2018",
+		"id": 1077227594305675300,
+		"id_str": "1077227594305675264",
+		"full_text": "Frohe, gesegnete Weihnachten! https://t.co/RW6NF7nQHF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077227583983575000,
+					"id_str": "1077227583983575040",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/DvMUx72X4AAVeA1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvMUx72X4AAVeA1.jpg",
+					"url": "https://t.co/RW6NF7nQHF",
+					"display_url": "pic.twitter.com/RW6NF7nQHF",
+					"expanded_url": "https://twitter.com/Crescentia333/status/1077227594305675264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 774,
+							"h": 782,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 774,
+							"h": 782,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 673,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077227583983575000,
+					"id_str": "1077227583983575040",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/DvMUx72X4AAVeA1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvMUx72X4AAVeA1.jpg",
+					"url": "https://t.co/RW6NF7nQHF",
+					"display_url": "pic.twitter.com/RW6NF7nQHF",
+					"expanded_url": "https://twitter.com/Crescentia333/status/1077227594305675264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 774,
+							"h": 782,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 774,
+							"h": 782,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 673,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 941788469914894300,
+			"id_str": "941788469914894338",
+			"name": "Crescentia Michaela Benedicta",
+			"screen_name": "Crescentia333",
+			"location": "",
+			"description": "Studentin, Bloggerin, erzkatholisch (so eine, die jeden Sonntag in die Kirche springt!!). Ich will zurück ins Mittelalter.",
+			"url": "https://t.co/oAvHje9zSr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAvHje9zSr",
+							"expanded_url": "http://nolitetimereweb.wordpress.com",
+							"display_url": "nolitetimereweb.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 368,
+			"friends_count": 640,
+			"listed_count": 6,
+			"created_at": "Fri Dec 15 21:54:03 +0000 2017",
+			"favourites_count": 8116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9426,
+			"lang": "de",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957402340134408193/rpoDcRUG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957402340134408193/rpoDcRUG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/941788469914894338/1544672266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Frohe, gesegnete Weihnachten! https://t.co/RW6NF7nQHF"
+	},
+	{
+		"created_at": "Mon Dec 24 18:22:17 +0000 2018",
+		"id": 1077268239233794000,
+		"id_str": "1077268239233794053",
+		"full_text": "Puzzle fans: We've rolled out a special week of @NewYorker #crosswords.  Please join in the cruciverbal fun!  https://t.co/CFT769cNW6 https://t.co/LvC6ItsiAp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "crosswords",
+					"indices": [
+						59,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewYorker",
+					"name": "The New Yorker",
+					"id": 14677919,
+					"id_str": "14677919",
+					"indices": [
+						48,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CFT769cNW6",
+					"expanded_url": "https://www.newyorker.com/crossword/puzzles-dept/2018-in-language?fbclid=IwAR3Wvwj5HqKV1x4_-8hlVH8jCBZDmetuW3qtHOplNpPhhq8l5jmOSDQ7ysc",
+					"display_url": "newyorker.com/crossword/puzz…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1077268124515352600,
+					"id_str": "1077268124515352577",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/DvM5ptGWwAEeViV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvM5ptGWwAEeViV.jpg",
+					"url": "https://t.co/LvC6ItsiAp",
+					"display_url": "pic.twitter.com/LvC6ItsiAp",
+					"expanded_url": "https://twitter.com/CrosswordNation/status/1077268239233794053/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1212,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 402,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 710,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077268124515352600,
+					"id_str": "1077268124515352577",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/DvM5ptGWwAEeViV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvM5ptGWwAEeViV.jpg",
+					"url": "https://t.co/LvC6ItsiAp",
+					"display_url": "pic.twitter.com/LvC6ItsiAp",
+					"expanded_url": "https://twitter.com/CrosswordNation/status/1077268239233794053/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1212,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 402,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 710,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217852227,
+			"id_str": "217852227",
+			"name": "Elizabeth C. Gorski",
+			"screen_name": "CrosswordNation",
+			"location": "New York City",
+			"description": "Crossword Contributor, The New Yorker magazine.  Managing Editor, Crossword Nation. Perennial calligraphy student.",
+			"url": "http://t.co/0VUkn7dbhi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/0VUkn7dbhi",
+							"expanded_url": "http://www.crosswordnation.com",
+							"display_url": "crosswordnation.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 917,
+			"friends_count": 414,
+			"listed_count": 21,
+			"created_at": "Sat Nov 20 18:27:59 +0000 2010",
+			"favourites_count": 38,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 415,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1001250601412407296/5oMEg_S2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001250601412407296/5oMEg_S2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217852227/1544565684",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Puzzle fans: We've rolled out a special week of @NewYorker #crosswords.  Please join in the cruciverbal fun!  https://t.co/CFT769cNW6 https://t.co/LvC6ItsiAp"
+	},
+	{
+		"created_at": "Mon Dec 24 16:37:56 +0000 2018",
+		"id": 1077241979988295700,
+		"id_str": "1077241979988295683",
+		"full_text": "As a Muslim educated in a Christian school, I associate Jesus and Christmas with Christ's radical love. It's especially hard this year to watch Trump-supporting Christians exchange that for nativism and fear. By @WajahatAli https://t.co/sEHsgXDaEd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WajahatAli",
+					"name": "Wajahat Ali",
+					"id": 21733692,
+					"id_str": "21733692",
+					"indices": [
+						212,
+						223
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sEHsgXDaEd",
+					"expanded_url": "https://www.nytimes.com/2018/12/22/opinion/muslim-christian-trump-supporters.html?smtyp=cur&smid=tw-nytopinion",
+					"display_url": "nytimes.com/2018/12/22/opi…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 262325462,
+			"id_str": "262325462",
+			"name": "Michelle Boorstein",
+			"screen_name": "mboorstein",
+			"location": "Washington, D.C.",
+			"description": "I cover religion (and other words for meaning-making) for The Washington Post. I like to share stuff on religion and journalism",
+			"url": "https://t.co/KlbgoYG13e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KlbgoYG13e",
+							"expanded_url": "http://wapo.st/9Us0Pn",
+							"display_url": "wapo.st/9Us0Pn",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17879,
+			"friends_count": 998,
+			"listed_count": 620,
+			"created_at": "Mon Mar 07 20:52:07 +0000 2011",
+			"favourites_count": 1008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/962019818948866048/m8djfC9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/962019818948866048/m8djfC9X_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As a Muslim educated in a Christian school, I associate Jesus and Christmas with Christ's radical love. It's especially hard this year to watch Trump-supporting Christians exchange that for nativism and fear. By @WajahatAli https://t.co/sEHsgXDaEd"
+	},
+	{
+		"created_at": "Mon Dec 24 16:40:59 +0000 2018",
+		"id": 1077242744534388700,
+		"id_str": "1077242744534388736",
+		"full_text": "@rexparker Dude, you're still in the accumulation phase ... you should be rooting for a big downturn so you can get more shares for the buck... https://t.co/9EJGukxNjb",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rexparker",
+					"name": "Rex Parker🏹🏹🏹",
+					"id": 14230012,
+					"id_str": "14230012",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9EJGukxNjb",
+					"expanded_url": "http://bit.ly/2RjAaJW",
+					"display_url": "bit.ly/2RjAaJW",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1077232425829392400,
+		"in_reply_to_status_id_str": "1077232425829392384",
+		"in_reply_to_user_id": 14230012,
+		"in_reply_to_user_id_str": "14230012",
+		"in_reply_to_screen_name": "rexparker",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 679,
+			"friends_count": 1065,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7465,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rexparker Dude, you're still in the accumulation phase ... you should be rooting for a big downturn so you can get more shares for the buck... https://t.co/9EJGukxNjb"
+	},
+	{
+		"created_at": "Mon Dec 24 16:04:05 +0000 2018",
+		"id": 1077233460727697400,
+		"id_str": "1077233460727697408",
+		"full_text": "Want a tex-mex dish for your holiday feast? We have a recipe for some delicious Austin Diner-Style Queso up on our site, from @homesicktexan's \"Queso!\" cookbook. Check it out here: https://t.co/rOm600IPjl | 📷 by @aubriepick https://t.co/WcTe0gR9th",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "homesicktexan",
+					"name": "Lisa Fain",
+					"id": 10978362,
+					"id_str": "10978362",
+					"indices": [
+						126,
+						140
+					]
+				},
+				{
+					"screen_name": "aubriepick",
+					"name": "aubrie pick",
+					"id": 321739476,
+					"id_str": "321739476",
+					"indices": [
+						212,
+						223
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rOm600IPjl",
+					"expanded_url": "https://buff.ly/2V1uIue",
+					"display_url": "buff.ly/2V1uIue",
+					"indices": [
+						181,
+						204
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1077233457296744400,
+					"id_str": "1077233457296744448",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/DvMaHzpWoAAlPh7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvMaHzpWoAAlPh7.jpg",
+					"url": "https://t.co/WcTe0gR9th",
+					"display_url": "pic.twitter.com/WcTe0gR9th",
+					"expanded_url": "https://twitter.com/edibleaustin/status/1077233460727697408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 1086,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 676,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1086,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077233457296744400,
+					"id_str": "1077233457296744448",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/DvMaHzpWoAAlPh7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvMaHzpWoAAlPh7.jpg",
+					"url": "https://t.co/WcTe0gR9th",
+					"display_url": "pic.twitter.com/WcTe0gR9th",
+					"expanded_url": "https://twitter.com/edibleaustin/status/1077233460727697408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 1086,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 676,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1086,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16208467,
+			"id_str": "16208467",
+			"name": "Edible Austin",
+			"screen_name": "edibleaustin",
+			"location": "Austin, TX",
+			"description": "We celebrate Central Texas culture, season by season. | Join our newsletter: https://t.co/dwOBnGVvpZ",
+			"url": "https://t.co/QEhiyAUPne",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QEhiyAUPne",
+							"expanded_url": "http://www.edibleaustin.com",
+							"display_url": "edibleaustin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dwOBnGVvpZ",
+							"expanded_url": "http://ow.ly/rORlw",
+							"display_url": "ow.ly/rORlw",
+							"indices": [
+								77,
+								100
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 32380,
+			"friends_count": 2386,
+			"listed_count": 983,
+			"created_at": "Tue Sep 09 19:26:22 +0000 2008",
+			"favourites_count": 2310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5900,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/441340019597258753/PoFt2c7O_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/441340019597258753/PoFt2c7O_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16208467/1467407226",
+			"profile_link_color": "758A62",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF4DA",
+			"profile_text_color": "2B2B2B",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Want a tex-mex dish for your holiday feast? We have a recipe for some delicious Austin Diner-Style Queso up on our site, from @homesicktexan's \"Queso!\" cookbook. Check it out here: https://t.co/rOm600IPjl | 📷 by @aubriepick https://t.co/WcTe0gR9th"
+	},
+	{
+		"created_at": "Wed Dec 19 22:49:27 +0000 2018",
+		"id": 1075523535446179800,
+		"id_str": "1075523535446179840",
+		"full_text": "My personal blog is 20 years old this year, and it’s immeasurably improved my life for the better and never betrayed me. One part of remaking the web has to be bringing back personal websites. https://t.co/MFBhFW2aXW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MFBhFW2aXW",
+					"expanded_url": "https://motherboard.vice.com/en_us/article/vbanny/we-should-replace-facebook-with-personal-websites",
+					"display_url": "motherboard.vice.com/en_us/article/…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36823,
+			"id_str": "36823",
+			"name": "Anil Dash 🥭",
+			"screen_name": "anildash",
+			"location": "NYC",
+			"description": "CEO of 🎏@Glitch, where everyone can create & share the coolest apps on the web. Host of @podcastfunction. I 💜 ethical tech, mangoes, funk, transit & justice.",
+			"url": "https://t.co/IYfhqu0kNE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IYfhqu0kNE",
+							"expanded_url": "http://anildash.com/about/",
+							"display_url": "anildash.com/about/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 590352,
+			"friends_count": 462,
+			"listed_count": 9008,
+			"created_at": "Sat Dec 02 09:15:15 +0000 2006",
+			"favourites_count": 603387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 183343,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040592282032984071/RC8We7BG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040592282032984071/RC8We7BG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36823/1530683410",
+			"profile_link_color": "800080",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 774,
+		"favorite_count": 3317,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My personal blog is 20 years old this year, and it’s immeasurably improved my life for the better and never betrayed me. One part of remaking the web has to be bringing back personal websites. https://t.co/MFBhFW2aXW"
+	},
+	{
 		"created_at": "Sun Dec 23 19:40:25 +0000 2018",
 		"id": 1076925514722541600,
 		"id_str": "1076925514722541568",
