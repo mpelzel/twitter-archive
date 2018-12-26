@@ -1,6 +1,523 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 25 04:20:29 +0000 2018",
+		"id": 1077418780798652400,
+		"id_str": "1077418780798652416",
+		"full_text": "@BetoORourke @BobMooreNews .@vgescobar said the plan is to place the migrants, who were released on the streets without a warning to local officials, in hotel rooms across El Paso.\n\nThe cost will be borne by Annunciation House, a nonprofit that has cared for migrants for decades. https://t.co/5tcM3yDn6Z",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			304
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BetoORourke",
+					"name": "Beto O'Rourke",
+					"id": 342863309,
+					"id_str": "342863309",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "BobMooreNews",
+					"name": "Bob Moore",
+					"id": 19160709,
+					"id_str": "19160709",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "vgescobar",
+					"name": "Veronica Escobar",
+					"id": 38960144,
+					"id_str": "38960144",
+					"indices": [
+						28,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5tcM3yDn6Z",
+					"expanded_url": "https://www.texasmonthly.com/news/hundreds-asylum-seekers-released-el-paso-streets-christmas/?utm_source=Twitter&utm_medium=Social&utm_campaign=Web%20Social&utm_content=elpaso",
+					"display_url": "texasmonthly.com/news/hundreds-…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1077416736020983800,
+		"in_reply_to_status_id_str": "1077416736020983813",
+		"in_reply_to_user_id": 16365305,
+		"in_reply_to_user_id_str": "16365305",
+		"in_reply_to_screen_name": "TexasMonthly",
+		"user": {
+			"id": 16365305,
+			"id_str": "16365305",
+			"name": "Texas Monthly",
+			"screen_name": "TexasMonthly",
+			"location": "Austin, TX",
+			"description": "Covering Texas news, politics, food, culture, travel, and more. RTs not endorsements. Tweets by @regmack_.",
+			"url": "https://t.co/nZv2cCoax9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nZv2cCoax9",
+							"expanded_url": "http://www.texasmonthly.com/",
+							"display_url": "texasmonthly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 181949,
+			"friends_count": 724,
+			"listed_count": 3464,
+			"created_at": "Fri Sep 19 16:18:28 +0000 2008",
+			"favourites_count": 3292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30759,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956215816193638400/4PR8ZTr9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956215816193638400/4PR8ZTr9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16365305/1542662110",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@BetoORourke @BobMooreNews .@vgescobar said the plan is to place the migrants, who were released on the streets without a warning to local officials, in hotel rooms across El Paso.\n\nThe cost will be borne by Annunciation House, a nonprofit that has cared for migrants for decades. https://t.co/5tcM3yDn6Z"
+	},
+	{
+		"created_at": "Tue Dec 25 04:22:51 +0000 2018",
+		"id": 1077419376444354600,
+		"id_str": "1077419376444354560",
+		"full_text": "A Christmas message: Fear not https://t.co/kjy2GNG5Qm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kjy2GNG5Qm",
+					"expanded_url": "https://wapo.st/2ELBNdz?tid=ss_tw&utm_term=.6b8e5e54441a",
+					"display_url": "wapo.st/2ELBNdz?tid=ss…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 679,
+			"friends_count": 1065,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7467,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A Christmas message: Fear not https://t.co/kjy2GNG5Qm"
+	},
+	{
+		"created_at": "Tue Dec 25 01:09:42 +0000 2018",
+		"id": 1077370767921344500,
+		"id_str": "1077370767921344513",
+		"full_text": "Merry Christmas y'all https://t.co/CZV8fIycd7 https://t.co/sbEMZkSR8N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CZV8fIycd7",
+					"expanded_url": "https://www.washingtonpost.com/opinions/the-catholic-church-scandal-casts-a-shadow-over-the-season-but-christmas-is-a-time-for-hope/2018/12/24/61bce5ce-0795-11e9-a3f0-71c95106d96a_story.html?utm_term=.864764c41461",
+					"display_url": "washingtonpost.com/opinions/the-c…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1077370759956312000,
+					"id_str": "1077370759956312064",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DvOW_36WsAA5Yq9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvOW_36WsAA5Yq9.jpg",
+					"url": "https://t.co/sbEMZkSR8N",
+					"display_url": "pic.twitter.com/sbEMZkSR8N",
+					"expanded_url": "https://twitter.com/ebruenig/status/1077370767921344513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 218,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 212,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 218,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077370759956312000,
+					"id_str": "1077370759956312064",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DvOW_36WsAA5Yq9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvOW_36WsAA5Yq9.jpg",
+					"url": "https://t.co/sbEMZkSR8N",
+					"display_url": "pic.twitter.com/sbEMZkSR8N",
+					"expanded_url": "https://twitter.com/ebruenig/status/1077370767921344513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 218,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 212,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 218,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1471542956,
+			"id_str": "1471542956",
+			"name": "christmas cheer liz bruenig",
+			"screen_name": "ebruenig",
+			"location": "elizabeth.bruenig@washpost.com",
+			"description": "Opinion columnist at @WashingtonPost. Christian. Mama. Into ideas, jokes, birds. Email: Elizabeth.Bruenig@washpost.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91015,
+			"friends_count": 3846,
+			"listed_count": 1474,
+			"created_at": "Fri May 31 07:06:34 +0000 2013",
+			"favourites_count": 208552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 172,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAF6DA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1001990060256804864/vYjMs3R5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001990060256804864/vYjMs3R5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1471542956/1442437177",
+			"profile_link_color": "A3A395",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCCCCA",
+			"profile_text_color": "82C2B9",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "Merry Christmas y'all https://t.co/CZV8fIycd7 https://t.co/sbEMZkSR8N"
+	},
+	{
+		"created_at": "Mon Dec 24 22:30:00 +0000 2018",
+		"id": 1077330578310074400,
+		"id_str": "1077330578310074369",
+		"full_text": "By contemplating God, who became a child, radiating light from the humility of the crib, we can also become witnesses to humility, tenderness and goodness. #Christmas",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Christmas",
+					"indices": [
+						156,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 500704345,
+			"id_str": "500704345",
+			"name": "Pope Francis",
+			"screen_name": "Pontifex",
+			"location": "Vatican City",
+			"description": "Welcome to the official Twitter page of His Holiness Pope Francis",
+			"url": "https://t.co/yRhGwps83P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yRhGwps83P",
+							"expanded_url": "http://www.vaticannews.va",
+							"display_url": "vaticannews.va",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17802181,
+			"friends_count": 8,
+			"listed_count": 26170,
+			"created_at": "Thu Feb 23 11:38:07 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1804,
+			"lang": "it",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/507818066814590976/KNG-IkT9_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/507818066814590976/KNG-IkT9_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/500704345/1409908226",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8633,
+		"favorite_count": 32576,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "By contemplating God, who became a child, radiating light from the humility of the crib, we can also become witnesses to humility, tenderness and goodness. #Christmas"
+	},
+	{
 		"created_at": "Mon Dec 24 22:30:00 +0000 2018",
 		"id": 1077330578310074400,
 		"id_str": "1077330578310074369",
