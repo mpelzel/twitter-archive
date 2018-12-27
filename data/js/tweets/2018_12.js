@@ -1,6 +1,556 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 26 19:57:07 +0000 2018",
+		"id": 1078016881351643100,
+		"id_str": "1078016881351643137",
+		"full_text": "theolatry",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://maxbittker.github.io\" rel=\"nofollow\">nyt-newwords</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 838207103852396500,
+			"id_str": "838207103852396544",
+			"name": "New New York Times",
+			"screen_name": "NYT_first_said",
+			"location": "",
+			"description": "Tweets words when they appear in the New York Times for the first time.   🗞 questions & concerns: @maxbittker",
+			"url": "https://t.co/IzV3oIKXXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IzV3oIKXXI",
+							"expanded_url": "http://github.com/MaxBittker/NYT-first-said",
+							"display_url": "github.com/MaxBittker/NYT…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45095,
+			"friends_count": 12,
+			"listed_count": 344,
+			"created_at": "Sun Mar 05 01:58:41 +0000 2017",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12241,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838216867177115648/NbpMB0cI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838216867177115648/NbpMB0cI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/838207103852396544/1488744904",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "theolatry"
+	},
+	{
+		"created_at": "Mon Nov 26 13:38:30 +0000 2018",
+		"id": 1067049963815911400,
+		"id_str": "1067049963815911424",
+		"full_text": "\"What I saw at the border was far worse than I imagined, not only because of what these families experienced, but because of what had happened to the American workers guarding them.\" \nAn extraordinary account of American cruelty, from Claudia Kolker https://t.co/QY8medqnEC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QY8medqnEC",
+					"expanded_url": "https://www.houstonchronicle.com/opinion/outlook/article/When-we-hurt-migrants-we-hurt-Americans-Opinion-13418679.php?utm_campaign=twitter-premium&utm_source=CMS%20Sharing%20Button&utm_medium=social",
+					"display_url": "houstonchronicle.com/opinion/outloo…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 297100174,
+			"id_str": "297100174",
+			"name": "Anne Applebaum",
+			"screen_name": "anneapplebaum",
+			"location": "Warsaw, London, Washington",
+			"description": "author of RED FAMINE, GULAG and IRON CURTAIN. Washington Post columnist. Professor of practice, @LSEIGA and co-director,ARENA",
+			"url": "https://t.co/Ud3gNhXsSX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ud3gNhXsSX",
+							"expanded_url": "http://www.anneapplebaum.com",
+							"display_url": "anneapplebaum.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 210019,
+			"friends_count": 248,
+			"listed_count": 3677,
+			"created_at": "Wed May 11 23:00:23 +0000 2011",
+			"favourites_count": 654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15429,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349728837/fashion_pix_four_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349728837/fashion_pix_four_normal.JPG",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/297100174/1529934939",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4005,
+		"favorite_count": 4607,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"What I saw at the border was far worse than I imagined, not only because of what these families experienced, but because of what had happened to the American workers guarding them.\" \nAn extraordinary account of American cruelty, from Claudia Kolker https://t.co/QY8medqnEC"
+	},
+	{
+		"created_at": "Wed Dec 26 15:59:15 +0000 2018",
+		"id": 1077957019670179800,
+		"id_str": "1077957019670179840",
+		"full_text": "After Privatization, Iowa’s Medicaid Cost Has Nearly Tripled Per Member\n\nhttps://t.co/V080npgSID",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V080npgSID",
+					"expanded_url": "http://bit.ly/2GE1nTu",
+					"display_url": "bit.ly/2GE1nTu",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 32671625,
+			"id_str": "32671625",
+			"name": "Derek Cressman",
+			"screen_name": "DerekCressman",
+			"location": "Sacramento, CA",
+			"description": "Hell bent on overturning Citizens United and resisting authoritarianism. $$≠free speech. Sacramento based author and editor at The People's Rule",
+			"url": "https://t.co/mxNK6n1WTz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mxNK6n1WTz",
+							"expanded_url": "http://www.ThePeoplesRule.com",
+							"display_url": "ThePeoplesRule.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 184281,
+			"friends_count": 144149,
+			"listed_count": 1250,
+			"created_at": "Fri Apr 17 23:57:13 +0000 2009",
+			"favourites_count": 5388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14708,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/972238259840458752/K2E4yumf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/972238259840458752/K2E4yumf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/32671625/1403567714",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 444,
+		"favorite_count": 289,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "After Privatization, Iowa’s Medicaid Cost Has Nearly Tripled Per Member\n\nhttps://t.co/V080npgSID"
+	},
+	{
+		"created_at": "Tue Dec 25 04:20:29 +0000 2018",
+		"id": 1077418780798652400,
+		"id_str": "1077418780798652416",
+		"full_text": "@BetoORourke @BobMooreNews .@vgescobar said the plan is to place the migrants, who were released on the streets without a warning to local officials, in hotel rooms across El Paso.\n\nThe cost will be borne by Annunciation House, a nonprofit that has cared for migrants for decades. https://t.co/5tcM3yDn6Z",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			304
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BetoORourke",
+					"name": "Beto O'Rourke",
+					"id": 342863309,
+					"id_str": "342863309",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "BobMooreNews",
+					"name": "Bob Moore",
+					"id": 19160709,
+					"id_str": "19160709",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "vgescobar",
+					"name": "Veronica Escobar",
+					"id": 38960144,
+					"id_str": "38960144",
+					"indices": [
+						28,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5tcM3yDn6Z",
+					"expanded_url": "https://www.texasmonthly.com/news/hundreds-asylum-seekers-released-el-paso-streets-christmas/?utm_source=Twitter&utm_medium=Social&utm_campaign=Web%20Social&utm_content=elpaso",
+					"display_url": "texasmonthly.com/news/hundreds-…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1077416736020983800,
+		"in_reply_to_status_id_str": "1077416736020983813",
+		"in_reply_to_user_id": 16365305,
+		"in_reply_to_user_id_str": "16365305",
+		"in_reply_to_screen_name": "TexasMonthly",
+		"user": {
+			"id": 16365305,
+			"id_str": "16365305",
+			"name": "Texas Monthly",
+			"screen_name": "TexasMonthly",
+			"location": "Austin, TX",
+			"description": "Covering Texas news, politics, food, culture, travel, and more. RTs not endorsements. Tweets by @regmack_.",
+			"url": "https://t.co/nZv2cCoax9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nZv2cCoax9",
+							"expanded_url": "http://www.texasmonthly.com/",
+							"display_url": "texasmonthly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 181965,
+			"friends_count": 724,
+			"listed_count": 3464,
+			"created_at": "Fri Sep 19 16:18:28 +0000 2008",
+			"favourites_count": 3296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30770,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956215816193638400/4PR8ZTr9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956215816193638400/4PR8ZTr9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16365305/1542662110",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@BetoORourke @BobMooreNews .@vgescobar said the plan is to place the migrants, who were released on the streets without a warning to local officials, in hotel rooms across El Paso.\n\nThe cost will be borne by Annunciation House, a nonprofit that has cared for migrants for decades. https://t.co/5tcM3yDn6Z"
+	},
+	{
+		"created_at": "Tue Dec 25 04:22:51 +0000 2018",
+		"id": 1077419376444354600,
+		"id_str": "1077419376444354560",
+		"full_text": "A Christmas message: Fear not https://t.co/kjy2GNG5Qm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kjy2GNG5Qm",
+					"expanded_url": "https://wapo.st/2ELBNdz?tid=ss_tw&utm_term=.6b8e5e54441a",
+					"display_url": "wapo.st/2ELBNdz?tid=ss…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 680,
+			"friends_count": 1066,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7469,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A Christmas message: Fear not https://t.co/kjy2GNG5Qm"
+	},
+	{
 		"created_at": "Tue Dec 25 04:20:29 +0000 2018",
 		"id": 1077418780798652400,
 		"id_str": "1077418780798652416",
