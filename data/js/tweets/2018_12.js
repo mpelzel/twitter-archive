@@ -49,6 +49,101 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
+			"followers_count": 45149,
+			"friends_count": 12,
+			"listed_count": 344,
+			"created_at": "Sun Mar 05 01:58:41 +0000 2017",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838216867177115648/NbpMB0cI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838216867177115648/NbpMB0cI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/838207103852396544/1488744904",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "theolatry"
+	},
+	{
+		"created_at": "Wed Dec 26 19:57:07 +0000 2018",
+		"id": 1078016881351643100,
+		"id_str": "1078016881351643137",
+		"full_text": "theolatry",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://maxbittker.github.io\" rel=\"nofollow\">nyt-newwords</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 838207103852396500,
+			"id_str": "838207103852396544",
+			"name": "New New York Times",
+			"screen_name": "NYT_first_said",
+			"location": "",
+			"description": "Tweets words when they appear in the New York Times for the first time.   🗞 questions & concerns: @maxbittker",
+			"url": "https://t.co/IzV3oIKXXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IzV3oIKXXI",
+							"expanded_url": "http://github.com/MaxBittker/NYT-first-said",
+							"display_url": "github.com/MaxBittker/NYT…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 45095,
 			"friends_count": 12,
 			"listed_count": 344,
