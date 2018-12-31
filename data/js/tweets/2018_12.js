@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 28 16:20:42 +0000 2018",
+		"id": 1078687190891352000,
+		"id_str": "1078687190891352064",
+		"full_text": "Incredible story from @erinfjordan about a mother and son who traveled with the migrant caravan and landed in Iowa City.\n\nhttps://t.co/0K1yC0DwAC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erinfjordan",
+					"name": "Erin Jordan",
+					"id": 28598848,
+					"id_str": "28598848",
+					"indices": [
+						22,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0K1yC0DwAC",
+					"expanded_url": "https://www.thegazette.com/subject/news/government/migrant-caravan-honduras-iowa-city-asylum-seekers-tijuana-20181227",
+					"display_url": "thegazette.com/subject/news/g…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 364076523,
+			"id_str": "364076523",
+			"name": "Molly Duffy",
+			"screen_name": "duffy_mj",
+			"location": "Cedar Rapids, Iowa",
+			"description": "Journalist covering PK-12 education news for the @gazettedotcom.  @Mizzou alumna. I love bad television and my cat, Peaches.",
+			"url": "https://t.co/1pDTyF3l9U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1pDTyF3l9U",
+							"expanded_url": "http://thegazette.com/mollyduffy",
+							"display_url": "thegazette.com/mollyduffy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 877,
+			"friends_count": 1808,
+			"listed_count": 37,
+			"created_at": "Mon Aug 29 04:37:37 +0000 2011",
+			"favourites_count": 6136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2515,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1033033965446344704/JazNyhr4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033033965446344704/JazNyhr4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/364076523/1545255022",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Incredible story from @erinfjordan about a mother and son who traveled with the migrant caravan and landed in Iowa City.\n\nhttps://t.co/0K1yC0DwAC"
+	},
+	{
+		"created_at": "Sun Dec 30 16:39:49 +0000 2018",
+		"id": 1079416780890796000,
+		"id_str": "1079416780890796032",
+		"full_text": "'Ingenious': 👩‍🔬 marked by originality, resourcefulness, and cleverness\n'Ingenuous': 😺 showing innocent or childlike simplicity and candidness\nhttps://t.co/Dpp2rS2BbU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dpp2rS2BbU",
+					"expanded_url": "https://www.merriam-webster.com/words-at-play/ingenious-ingenuous-usage-difference",
+					"display_url": "merriam-webster.com/words-at-play/…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 97040343,
+			"id_str": "97040343",
+			"name": "Merriam-Webster",
+			"screen_name": "MerriamWebster",
+			"location": "Springfield, MA",
+			"description": "Word of the Day, facts and observations on language, lookup trends, and wordplay from the editors at Merriam-Webster Dictionary.",
+			"url": "https://t.co/vQxcT3e4Iq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vQxcT3e4Iq",
+							"expanded_url": "http://Merriam-Webster.com",
+							"display_url": "Merriam-Webster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 752474,
+			"friends_count": 694,
+			"listed_count": 5893,
+			"created_at": "Tue Dec 15 19:07:56 +0000 2009",
+			"favourites_count": 9418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20852,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "355185",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/677210982616195072/DWj4oUuT_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/677210982616195072/DWj4oUuT_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/97040343/1535382063",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 164,
+		"favorite_count": 444,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Ingenious': 👩‍🔬 marked by originality, resourcefulness, and cleverness\n'Ingenuous': 😺 showing innocent or childlike simplicity and candidness\nhttps://t.co/Dpp2rS2BbU"
+	},
+	{
+		"created_at": "Sat Dec 29 11:57:01 +0000 2018",
+		"id": 1078983223231811600,
+		"id_str": "1078983223231811584",
+		"full_text": "@NYT_first_said \"In “Finnegans Wake,” James Joyce used the word “ disemvowelled” in a section that includes this excha…\" occurred in: https://t.co/bNcKLJwESI",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NYT_first_said",
+					"name": "New New York Times",
+					"id": 838207103852396500,
+					"id_str": "838207103852396544",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bNcKLJwESI",
+					"expanded_url": "http://www.nytimes.com/2018/12/29/style/vowels-no-more.html",
+					"display_url": "nytimes.com/2018/12/29/sty…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://github.com/maxbittker/newsdiffs\" rel=\"nofollow\">nyt_said_where</a>",
+		"in_reply_to_status_id": 1078983222405619700,
+		"in_reply_to_status_id_str": "1078983222405619712",
+		"in_reply_to_user_id": 838207103852396500,
+		"in_reply_to_user_id_str": "838207103852396544",
+		"in_reply_to_screen_name": "NYT_first_said",
+		"user": {
+			"id": 924409988520349700,
+			"id_str": "924409988520349696",
+			"name": "NYTfirstsaid Context",
+			"screen_name": "NYT_said_where",
+			"location": "",
+			"description": "I reply to @NYT_first_said with links to the articles a word appeared in! 📰🔍 Questions / Concerns @maxbittker",
+			"url": "https://t.co/W2k4PkSqAB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W2k4PkSqAB",
+							"expanded_url": "http://github.com/maxbittker/nyt-first-said",
+							"display_url": "github.com/maxbittker/nyt…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2696,
+			"friends_count": 5,
+			"listed_count": 42,
+			"created_at": "Sat Oct 28 22:58:10 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924413097355354113/pfCbK0Tp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924413097355354113/pfCbK0Tp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924409988520349696/1509233002",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NYT_first_said \"In “Finnegans Wake,” James Joyce used the word “ disemvowelled” in a section that includes this excha…\" occurred in: https://t.co/bNcKLJwESI"
+	},
+	{
 		"created_at": "Sun Dec 30 00:18:11 +0000 2018",
 		"id": 1079169744186630100,
 		"id_str": "1079169744186630145",
