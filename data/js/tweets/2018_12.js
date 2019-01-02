@@ -69,6 +69,353 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
+			"followers_count": 16797,
+			"friends_count": 108,
+			"listed_count": 230,
+			"created_at": "Thu Aug 16 21:19:49 +0000 2012",
+			"favourites_count": 1814,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1324,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/552884696812503041/zhh9Rd9A_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/552884696812503041/zhh9Rd9A_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/762354433/1510598861",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1079790792179249200,
+		"quoted_status_id_str": "1079790792179249152",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UBYhtdabIP",
+			"expanded": "https://twitter.com/HomeboyInd/status/1079790792179249152",
+			"display": "twitter.com/HomeboyInd/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 31 17:26:01 +0000 2018",
+			"id": 1079790792179249200,
+			"id_str": "1079790792179249152",
+			"full_text": "We hope your holiday season has been filled to the brim with kinship and hope. There is still time to shine YOUR light this 2018 and give hope to thousands of men and women looking to transform their lives. Help us ring in 2019 strong and donate TODAY at https://t.co/JVWkVP1af2 https://t.co/JnmawDachF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JVWkVP1af2",
+						"expanded_url": "http://bit.ly/HBIShineLight",
+						"display_url": "bit.ly/HBIShineLight",
+						"indices": [
+							255,
+							278
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1079790268084179000,
+						"id_str": "1079790268084178947",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1079790268084178947/pu/img/Givswxy4TkGdhoQh.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1079790268084178947/pu/img/Givswxy4TkGdhoQh.jpg",
+						"url": "https://t.co/JnmawDachF",
+						"display_url": "pic.twitter.com/JnmawDachF",
+						"expanded_url": "https://twitter.com/HomeboyInd/status/1079790792179249152/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1079790268084179000,
+						"id_str": "1079790268084178947",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1079790268084178947/pu/img/Givswxy4TkGdhoQh.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1079790268084178947/pu/img/Givswxy4TkGdhoQh.jpg",
+						"url": "https://t.co/JnmawDachF",
+						"display_url": "pic.twitter.com/JnmawDachF",
+						"expanded_url": "https://twitter.com/HomeboyInd/status/1079790792179249152/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 45837,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1079790268084178947/pu/vid/640x360/HJXPSMXHQhjp2_rw.mp4?tag=6"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1079790268084178947/pu/vid/1280x720/Cs9YExiXS6vPZZWO.mp4?tag=6"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1079790268084178947/pu/vid/320x180/IMDCHIosGridTvXb.mp4?tag=6"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1079790268084178947/pu/pl/9-9hiriFLCJfP06T.m3u8?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 40054239,
+				"id_str": "40054239",
+				"name": "Homeboy Industries",
+				"screen_name": "HomeboyInd",
+				"location": "Los Angeles, CA",
+				"description": "OFFICIAL page of the world's largest gang rehab & re-entry program. Celebrating 30 yrs of #RadicalKinship. To Support CLICK: https://t.co/C0VFrHX4db",
+				"url": "https://t.co/xbxwod1z5s",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xbxwod1z5s",
+								"expanded_url": "http://homeboyindustries.org",
+								"display_url": "homeboyindustries.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/C0VFrHX4db",
+								"expanded_url": "http://bit.ly/HBIShineLight",
+								"display_url": "bit.ly/HBIShineLight",
+								"indices": [
+									125,
+									148
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 21995,
+				"friends_count": 2779,
+				"listed_count": 511,
+				"created_at": "Thu May 14 18:30:37 +0000 2009",
+				"favourites_count": 7813,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10218,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FA6900",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/983396945346551808/ce7vJ2wq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/983396945346551808/ce7vJ2wq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40054239/1542669852",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CE880F",
+				"profile_text_color": "0C0C0C",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 106,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 29,
+		"favorite_count": 258,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From our Homeboy Family to yours, Happy New Year. https://t.co/UBYhtdabIP"
+	},
+	{
+		"created_at": "Mon Dec 31 17:33:45 +0000 2018",
+		"id": 1079792741842735100,
+		"id_str": "1079792741842735104",
+		"full_text": "From our Homeboy Family to yours, Happy New Year. https://t.co/UBYhtdabIP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UBYhtdabIP",
+					"expanded_url": "https://twitter.com/HomeboyInd/status/1079790792179249152",
+					"display_url": "twitter.com/HomeboyInd/sta…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 762354433,
+			"id_str": "762354433",
+			"name": "Father Gregory Boyle",
+			"screen_name": "FrGregBoyle",
+			"location": "Los Angeles, CA",
+			"description": "OFFICIAL. Founder of @HomeboyInd. Author. Speaker. Jesuit priest. Gang expert. \nAuthored Tweets Signed -G. \nTo Support CLICK: https://t.co/C0VFrHX4db",
+			"url": "https://t.co/SldlVNePGW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SldlVNePGW",
+							"expanded_url": "http://www.homeboyindustries.org/fatherg",
+							"display_url": "homeboyindustries.org/fatherg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/C0VFrHX4db",
+							"expanded_url": "http://bit.ly/HBIShineLight",
+							"display_url": "bit.ly/HBIShineLight",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
 			"followers_count": 16764,
 			"friends_count": 108,
 			"listed_count": 231,
@@ -998,7 +1345,7 @@ Grailbird.data.tweets_2018_12 =
 		"created_at": "Sun Dec 30 16:39:49 +0000 2018",
 		"id": 1079416780890796000,
 		"id_str": "1079416780890796032",
-		"full_text": "'Ingenious': 👩‍🔬 marked by originality, resourcefulness, and cleverness\n'Ingenuous': 😺 showing innocent or childlike simplicity and candidness\nhttps://t.co/Dpp2rS2BbU",
+		"full_text": "'Ingenious': 👩🔬 marked by originality, resourcefulness, and cleverness\n'Ingenuous': 😺 showing innocent or childlike simplicity and candidness\nhttps://t.co/Dpp2rS2BbU",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1098,7 +1445,7 @@ Grailbird.data.tweets_2018_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "'Ingenious': 👩‍🔬 marked by originality, resourcefulness, and cleverness\n'Ingenuous': 😺 showing innocent or childlike simplicity and candidness\nhttps://t.co/Dpp2rS2BbU"
+		"text": "'Ingenious': 👩🔬 marked by originality, resourcefulness, and cleverness\n'Ingenuous': 😺 showing innocent or childlike simplicity and candidness\nhttps://t.co/Dpp2rS2BbU"
 	},
 	{
 		"created_at": "Sat Dec 29 11:57:01 +0000 2018",
