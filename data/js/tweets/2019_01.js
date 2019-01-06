@@ -1,6 +1,1207 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 05 21:21:50 +0000 2019",
+		"id": 1081662077725491200,
+		"id_str": "1081662077725491205",
+		"full_text": "Found an old email from Merl Reagle and it is... humbling. And inspiring. You wanna see how the mind of a constructing genius *and* an unparalleled editor works, just behold. He worked so hard to make such effortless-seeming, amazingly funny crosswords. I miss him so much. https://t.co/DQlKua5PVt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1081661757184270300,
+					"id_str": "1081661757184270341",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/DwLVoyQX4AUbZm0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwLVoyQX4AUbZm0.jpg",
+					"url": "https://t.co/DQlKua5PVt",
+					"display_url": "pic.twitter.com/DQlKua5PVt",
+					"expanded_url": "https://twitter.com/rexparker/status/1081662077725491205/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 587,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 584,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 587,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081661757184270300,
+					"id_str": "1081661757184270341",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/DwLVoyQX4AUbZm0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwLVoyQX4AUbZm0.jpg",
+					"url": "https://t.co/DQlKua5PVt",
+					"display_url": "pic.twitter.com/DQlKua5PVt",
+					"expanded_url": "https://twitter.com/rexparker/status/1081662077725491205/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 587,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 584,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 587,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1081661772455649300,
+					"id_str": "1081661772455649283",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/DwLVprJWoAMq02C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwLVprJWoAMq02C.jpg",
+					"url": "https://t.co/DQlKua5PVt",
+					"display_url": "pic.twitter.com/DQlKua5PVt",
+					"expanded_url": "https://twitter.com/rexparker/status/1081662077725491205/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 565,
+							"h": 629,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 565,
+							"h": 629,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 565,
+							"h": 629,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14230012,
+			"id_str": "14230012",
+			"name": "Rex Parker🏹🏹🏹",
+			"screen_name": "rexparker",
+			"location": "Binghamton, NY",
+			"description": "Tossword Critter // I married a Kiwi // he him His Highness // #NYTXW //  All Hail OOXTEPLERNON!",
+			"url": "https://t.co/lL1n14Xuv4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lL1n14Xuv4",
+							"expanded_url": "http://rexwordpuzzle.blogspot.com",
+							"display_url": "rexwordpuzzle.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7169,
+			"friends_count": 247,
+			"listed_count": 152,
+			"created_at": "Wed Mar 26 21:33:58 +0000 2008",
+			"favourites_count": 46809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76086,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/977249006060531715/kD3wMl50_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/977249006060531715/kD3wMl50_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14230012/1524625527",
+			"profile_link_color": "D10404",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Found an old email from Merl Reagle and it is... humbling. And inspiring. You wanna see how the mind of a constructing genius *and* an unparalleled editor works, just behold. He worked so hard to make such effortless-seeming, amazingly funny crosswords. I miss him so much. https://t.co/DQlKua5PVt"
+	},
+	{
+		"created_at": "Sat Jan 05 22:12:38 +0000 2019",
+		"id": 1081674861443993600,
+		"id_str": "1081674861443993601",
+		"full_text": "I know the odds are slim, but ... an all-Texas Super Bowl would be awesome. Let's get it started. Also: reserving the right to delete this tweet as needed. https://t.co/7sxk2sEQSE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7sxk2sEQSE",
+					"expanded_url": "https://twitter.com/FiveThirtyEight/status/1081662874676678656",
+					"display_url": "twitter.com/FiveThirtyEigh…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 679,
+			"friends_count": 1070,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7513,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1081662874676678700,
+		"quoted_status_id_str": "1081662874676678656",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7sxk2sEQSE",
+			"expanded": "https://twitter.com/FiveThirtyEight/status/1081662874676678656",
+			"display": "twitter.com/FiveThirtyEigh…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 05 21:25:00 +0000 2019",
+			"id": 1081662874676678700,
+			"id_str": "1081662874676678656",
+			"full_text": "https://t.co/VpuJwThfjg https://t.co/dBKwVm8prS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				23
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VpuJwThfjg",
+						"expanded_url": "http://53eig.ht/NFL",
+						"display_url": "53eig.ht/NFL",
+						"indices": [
+							0,
+							23
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1081597602590871600,
+						"id_str": "1081597602590871552",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DwKbSfxX0AA3g4_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwKbSfxX0AA3g4_.jpg",
+						"url": "https://t.co/dBKwVm8prS",
+						"display_url": "pic.twitter.com/dBKwVm8prS",
+						"expanded_url": "https://twitter.com/FiveThirtyEight/status/1081662874676678656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 668,
+								"h": 424,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 668,
+								"h": 424,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 668,
+								"h": 424,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1081597602590871600,
+						"id_str": "1081597602590871552",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DwKbSfxX0AA3g4_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwKbSfxX0AA3g4_.jpg",
+						"url": "https://t.co/dBKwVm8prS",
+						"display_url": "pic.twitter.com/dBKwVm8prS",
+						"expanded_url": "https://twitter.com/FiveThirtyEight/status/1081662874676678656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 668,
+								"h": 424,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 668,
+								"h": 424,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 668,
+								"h": 424,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2303751216,
+				"id_str": "2303751216",
+				"name": "FiveThirtyEight",
+				"screen_name": "FiveThirtyEight",
+				"location": "New York, NY",
+				"description": "The home of Nate Silver's FiveThirtyEight on Twitter. Politics, Economics, Science, Life, Sports.",
+				"url": "https://t.co/BDdsHpm7og",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BDdsHpm7og",
+								"expanded_url": "http://www.fivethirtyeight.com",
+								"display_url": "fivethirtyeight.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1021271,
+				"friends_count": 261,
+				"listed_count": 15284,
+				"created_at": "Tue Jan 21 21:39:32 +0000 2014",
+				"favourites_count": 1176,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 61599,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875426588061573121/lpQG3W6i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875426588061573121/lpQG3W6i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2303751216/1481815429",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I know the odds are slim, but ... an all-Texas Super Bowl would be awesome. Let's get it started. Also: reserving the right to delete this tweet as needed. https://t.co/7sxk2sEQSE"
+	},
+	{
+		"created_at": "Sat Jan 05 18:44:09 +0000 2019",
+		"id": 1081622397286080500,
+		"id_str": "1081622397286080512",
+		"full_text": "They stood up for their neighbors when they could have cashed-in on their land, but will the choice cost them? #CountryNoMorePBS - Monday, January 7. \nhttps://t.co/gCn9oNCfBt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CountryNoMorePBS",
+					"indices": [
+						111,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gCn9oNCfBt",
+					"expanded_url": "https://to.pbs.org/2RqkTmY",
+					"display_url": "to.pbs.org/2RqkTmY",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15471824,
+			"id_str": "15471824",
+			"name": "Independent Lens|PBS",
+			"screen_name": "IndependentLens",
+			"location": "San Francisco",
+			"description": "Award-winning independent documentaries on PBS. Tweeting tasty morsels for your indie pleasure.",
+			"url": "https://t.co/jps6G8naRr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jps6G8naRr",
+							"expanded_url": "http://www.pbs.org/independentlens/",
+							"display_url": "pbs.org/independentlen…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58812,
+			"friends_count": 2400,
+			"listed_count": 1945,
+			"created_at": "Thu Jul 17 18:41:23 +0000 2008",
+			"favourites_count": 20804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15681,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051934805443534848/RZO5tX1-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051934805443534848/RZO5tX1-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15471824/1546541592",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "They stood up for their neighbors when they could have cashed-in on their land, but will the choice cost them? #CountryNoMorePBS - Monday, January 7. \nhttps://t.co/gCn9oNCfBt"
+	},
+	{
+		"created_at": "Sat Jan 05 17:40:41 +0000 2019",
+		"id": 1081606423824470000,
+		"id_str": "1081606423824470016",
+		"full_text": "Ocasio-Cortez’s 70 Percent Top Tax Rate Is a Moderate, Evidence-Based Policy https://t.co/9x8gkO1yNP via @intelligencer",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "intelligencer",
+					"name": "Intelligencer",
+					"id": 45565185,
+					"id_str": "45565185",
+					"indices": [
+						105,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9x8gkO1yNP",
+					"expanded_url": "http://nymag.com/intelligencer/2019/01/alexandria-ocasio-cortez-70-top-tax-rate-60-minutes-green-new-deal.html?utm_source=tw",
+					"display_url": "nymag.com/intelligencer/…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21655506,
+			"id_str": "21655506",
+			"name": "elizabeth brentzel",
+			"screen_name": "elizabolt",
+			"location": "Sherman, Texas",
+			"description": "performing arts photographer. associate registrar. chocolate milk enthusiast. certified thinker. spills coffee a lot.",
+			"url": "https://t.co/j59cTkzdsD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j59cTkzdsD",
+							"expanded_url": "http://elizabetholtmanphotography.com",
+							"display_url": "elizabetholtmanphotography.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 374,
+			"friends_count": 248,
+			"listed_count": 23,
+			"created_at": "Mon Feb 23 14:23:40 +0000 2009",
+			"favourites_count": 3763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10062,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1E613A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1015967520635879424/l4ur5WOs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015967520635879424/l4ur5WOs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21655506/1449521275",
+			"profile_link_color": "12804F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "BADFCD",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ocasio-Cortez’s 70 Percent Top Tax Rate Is a Moderate, Evidence-Based Policy https://t.co/9x8gkO1yNP via @intelligencer"
+	},
+	{
+		"created_at": "Sat Jan 05 02:16:59 +0000 2019",
+		"id": 1081373967536087000,
+		"id_str": "1081373967536087041",
+		"full_text": "\"Tender-age shelter\" is the lexical item that captures the zeitgeist of 2018. @AllanMetcalf wrote about it for #LinguaFranca, and we nominated it, back in September: https://t.co/Cpi2F4B7S1 via @chronicle https://t.co/HT6KxuIj8X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LinguaFranca",
+					"indices": [
+						111,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AllanMetcalf",
+					"name": "Allan Metcalf",
+					"id": 23331733,
+					"id_str": "23331733",
+					"indices": [
+						78,
+						91
+					]
+				},
+				{
+					"screen_name": "chronicle",
+					"name": "The Chronicle of Higher Education",
+					"id": 12413032,
+					"id_str": "12413032",
+					"indices": [
+						194,
+						204
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Cpi2F4B7S1",
+					"expanded_url": "https://bit.ly/2vmVBxx",
+					"display_url": "bit.ly/2vmVBxx",
+					"indices": [
+						166,
+						189
+					]
+				},
+				{
+					"url": "https://t.co/HT6KxuIj8X",
+					"expanded_url": "https://twitter.com/americandialect/status/1081332949365215232",
+					"display_url": "twitter.com/americandialec…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174370026,
+			"id_str": "174370026",
+			"name": "Heidi Landecker",
+			"screen_name": "heidilande",
+			"location": "Washington, D.C.",
+			"description": "DME (Copy), The Chronicle of Higher Education; editor, Lingua Franca blog; occasional writer",
+			"url": "http://t.co/LSO4TouIWP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/LSO4TouIWP",
+							"expanded_url": "http://chronicle.com",
+							"display_url": "chronicle.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3268,
+			"friends_count": 3645,
+			"listed_count": 41,
+			"created_at": "Tue Aug 03 19:29:25 +0000 2010",
+			"favourites_count": 24,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3517,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1516064604/photo_2598_portrait_wide_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1516064604/photo_2598_portrait_wide_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174370026/1417818688",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1081332949365215200,
+		"quoted_status_id_str": "1081332949365215232",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HT6KxuIj8X",
+			"expanded": "https://twitter.com/americandialect/status/1081332949365215232",
+			"display": "twitter.com/americandialec…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 04 23:33:59 +0000 2019",
+			"id": 1081332949365215200,
+			"id_str": "1081332949365215232",
+			"full_text": "The 2018 Word of the Year is: \ntender-age shelter \n\n#woty18",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				59
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "woty18",
+						"indices": [
+							52,
+							59
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 227748811,
+				"id_str": "227748811",
+				"name": "Am. Dialect Society",
+				"screen_name": "americandialect",
+				"location": "",
+				"description": "The American Dialect Society is dedicated to the study of English in North America. We are academics, amateurs, linguists, lexicographers, teachers, and more.",
+				"url": "http://t.co/qXLBV5qmmg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/qXLBV5qmmg",
+								"expanded_url": "http://americandialect.org",
+								"display_url": "americandialect.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10792,
+				"friends_count": 367,
+				"listed_count": 429,
+				"created_at": "Fri Dec 17 18:07:25 +0000 2010",
+				"favourites_count": 299,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3232,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1192841119/ADS_FINAL-logo-abbrev-only_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192841119/ADS_FINAL-logo-abbrev-only_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Tender-age shelter\" is the lexical item that captures the zeitgeist of 2018. @AllanMetcalf wrote about it for #LinguaFranca, and we nominated it, back in September: https://t.co/Cpi2F4B7S1 via @chronicle https://t.co/HT6KxuIj8X"
+	},
+	{
+		"created_at": "Sat Jan 05 03:57:04 +0000 2019",
+		"id": 1081399153312350200,
+		"id_str": "1081399153312350208",
+		"full_text": "@JonMalesic When I stopped doing theology full time, I donated twenty boxes of books to our parish library. They were thrilled to get sets such as the TDNT, Rahner's Theological Investigations, etc. I was happy knowing they could be more widely read, and I could still consult them if needed.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			292
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JonMalesic",
+					"name": "Jonathan Malesic",
+					"id": 113129441,
+					"id_str": "113129441",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1081394626068664300,
+		"in_reply_to_status_id_str": "1081394626068664321",
+		"in_reply_to_user_id": 113129441,
+		"in_reply_to_user_id_str": "113129441",
+		"in_reply_to_screen_name": "JonMalesic",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 679,
+			"friends_count": 1070,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7513,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JonMalesic When I stopped doing theology full time, I donated twenty boxes of books to our parish library. They were thrilled to get sets such as the TDNT, Rahner's Theological Investigations, etc. I was happy knowing they could be more widely read, and I could still consult them if needed."
+	},
+	{
+		"created_at": "Sat Jan 05 03:53:50 +0000 2019",
+		"id": 1081398339319578600,
+		"id_str": "1081398339319578624",
+		"full_text": "@JonMalesic Even better: don't buy books to begin with. Or buy a carefully curated small number of them. Get most of your books from the library and interlibrary loan.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JonMalesic",
+					"name": "Jonathan Malesic",
+					"id": 113129441,
+					"id_str": "113129441",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1081394175751479300,
+		"in_reply_to_status_id_str": "1081394175751479301",
+		"in_reply_to_user_id": 113129441,
+		"in_reply_to_user_id_str": "113129441",
+		"in_reply_to_screen_name": "JonMalesic",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 679,
+			"friends_count": 1070,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7513,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JonMalesic Even better: don't buy books to begin with. Or buy a carefully curated small number of them. Get most of your books from the library and interlibrary loan."
+	},
+	{
 		"created_at": "Fri Jan 04 23:29:14 +0000 2019",
 		"id": 1081331751576838100,
 		"id_str": "1081331751576838144",
