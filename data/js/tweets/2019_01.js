@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 07 21:16:49 +0000 2019",
+		"id": 1082385593735266300,
+		"id_str": "1082385593735266310",
+		"full_text": "#elizabethwarren #iowacaucuses #ruralvoters The Washington Post published my column on Elizabeth Warren’s campaign launch in Storm Lake. Can a Democrat attract rural voters? https://t.co/2FSbxcstfL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "elizabethwarren",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "iowacaucuses",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"text": "ruralvoters",
+					"indices": [
+						31,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2FSbxcstfL",
+					"expanded_url": "https://www.washingtonpost.com/opinions/2019/01/07/left-or-right-populism-sells-iowa/?tid=ss_tw&utm_term=.52ace4742f93",
+					"display_url": "washingtonpost.com/opinions/2019/…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1074096082475499500,
+			"id_str": "1074096082475499521",
+			"name": "Art Cullen",
+			"screen_name": "cullen_art",
+			"location": "Storm Lake Iowa",
+			"description": "Editor The Storm Lake Times, author of the book “Storm Lake: A Chronicle of Change, Resilience, and Hope from a Heartland Newspaper”. Pulitzer Prize winner.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 109,
+			"listed_count": 1,
+			"created_at": "Sun Dec 16 00:17:16 +0000 2018",
+			"favourites_count": 111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074103634818826241/cr6LVQMi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074103634818826241/cr6LVQMi_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#elizabethwarren #iowacaucuses #ruralvoters The Washington Post published my column on Elizabeth Warren’s campaign launch in Storm Lake. Can a Democrat attract rural voters? https://t.co/2FSbxcstfL"
+	},
+	{
 		"created_at": "Sun Jan 06 22:03:46 +0000 2019",
 		"id": 1082035020578152400,
 		"id_str": "1082035020578152449",
