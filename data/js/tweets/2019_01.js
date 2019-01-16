@@ -1,6 +1,464 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 15 13:57:30 +0000 2019",
+		"id": 1085174139076427800,
+		"id_str": "1085293936283959297",
+		"full_text": "Did you know? We share a birthday with @Wikipedia! \nOn January 15, 2001, we registered our website – the same day @Wikipedia was established.\nHappy 18th to us! Should we get matching tattoos?\n#HappyBirthdayWikipedia #BirthdayBuddies #GreatMindsThinkOpen #CoincidenceIThinkNot",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HappyBirthdayWikipedia",
+					"indices": [
+						192,
+						215
+					]
+				},
+				{
+					"text": "BirthdayBuddies",
+					"indices": [
+						216,
+						232
+					]
+				},
+				{
+					"text": "GreatMindsThinkOpen",
+					"indices": [
+						233,
+						253
+					]
+				},
+				{
+					"text": "CoincidenceIThinkNot",
+					"indices": [
+						254,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Wikipedia",
+					"name": "Wikipedia",
+					"id": 86390214,
+					"id_str": "86390214",
+					"indices": [
+						39,
+						49
+					]
+				},
+				{
+					"screen_name": "Wikipedia",
+					"name": "Wikipedia",
+					"id": 86390214,
+					"id_str": "86390214",
+					"indices": [
+						114,
+						124
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17462723,
+			"id_str": "17462723",
+			"name": "Creative Commons",
+			"screen_name": "creativecommons",
+			"location": "Everywhere",
+			"description": "Empowering the world to share through 6 simple licenses + a global community of advocates for open. Join us today.",
+			"url": "https://t.co/AqqagUyLew",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AqqagUyLew",
+							"expanded_url": "https://creativecommons.org",
+							"display_url": "creativecommons.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 562784,
+			"friends_count": 1857,
+			"listed_count": 10018,
+			"created_at": "Tue Nov 18 11:54:02 +0000 2008",
+			"favourites_count": 4062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12685,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "21547B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/525970164341153792/vbReKnbf_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/525970164341153792/vbReKnbf_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17462723/1544128295",
+			"profile_link_color": "5783A5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F0F0F0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 110,
+		"favorite_count": 196,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Did you know? We share a birthday with @Wikipedia! \nOn January 15, 2001, we registered our website – the same day @Wikipedia was established.\nHappy 18th to us! Should we get matching tattoos?\n#HappyBirthdayWikipedia #BirthdayBuddies #GreatMindsThinkOpen #CoincidenceIThinkNot"
+	},
+	{
+		"created_at": "Tue Jan 15 21:22:58 +0000 2019",
+		"id": 1085286242269515800,
+		"id_str": "1085286242269515776",
+		"full_text": "@Bishopoftyler Detraction and calumny are offenses against the truth (CCC, nn. 2477-79).",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bishopoftyler",
+					"name": "Bishop J. Strickland",
+					"id": 1558028102,
+					"id_str": "1558028102",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1084279884124348400,
+		"in_reply_to_status_id_str": "1084279884124348417",
+		"in_reply_to_user_id": 1558028102,
+		"in_reply_to_user_id_str": "1558028102",
+		"in_reply_to_screen_name": "Bishopoftyler",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 682,
+			"friends_count": 1079,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7559,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Bishopoftyler Detraction and calumny are offenses against the truth (CCC, nn. 2477-79)."
+	},
+	{
+		"created_at": "Tue Jan 15 18:51:47 +0000 2019",
+		"id": 1085248196081791000,
+		"id_str": "1085248196081790976",
+		"full_text": "The stupidity and duplicity of this is staggering. https://t.co/FbSp5PyTQN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FbSp5PyTQN",
+					"expanded_url": "https://twitter.com/ScottWalker/status/1085199713463422981",
+					"display_url": "twitter.com/ScottWalker/st…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 682,
+			"friends_count": 1079,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7559,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1085199713463423000,
+		"quoted_status_id_str": "1085199713463422981",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FbSp5PyTQN",
+			"expanded": "https://twitter.com/ScottWalker/status/1085199713463422981",
+			"display": "twitter.com/ScottWalker/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 15 15:39:08 +0000 2019",
+			"id": 1085199713463423000,
+			"id_str": "1085199713463422981",
+			"full_text": "Explaining tax rates before Reagan to 5th graders: “Imagine if you did chores for your grandma and she gave you $10.  When you got home, your parents took $7 from you.”  The students said: “That’s not fair!” Even 5th graders get it.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				232
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 33750798,
+				"id_str": "33750798",
+				"name": "Scott Walker",
+				"screen_name": "ScottWalker",
+				"location": "Wisconsin, USA",
+				"description": "Husband, father of two, 45th Governor of Wisconsin, reformer, leader & principled conservative.",
+				"url": "https://t.co/6ymo6WqnGg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6ymo6WqnGg",
+								"expanded_url": "http://ScottWalker.com",
+								"display_url": "ScottWalker.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 282542,
+				"friends_count": 197,
+				"listed_count": 3797,
+				"created_at": "Tue Apr 21 01:15:16 +0000 2009",
+				"favourites_count": 16,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14256,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "061D32",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1054000246592696320/dE9AKF4U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054000246592696320/dE9AKF4U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33750798/1541989241",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E4ECF0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 979,
+			"favorite_count": 4804,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The stupidity and duplicity of this is staggering. https://t.co/FbSp5PyTQN"
+	},
+	{
 		"created_at": "Mon Jan 14 13:42:52 +0000 2019",
 		"id": 1084808066296627200,
 		"id_str": "1084905939365433350",
