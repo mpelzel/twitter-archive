@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 16 16:00:00 +0000 2019",
+		"id": 1085567352240894000,
+		"id_str": "1085568486955536384",
+		"full_text": "TODAY: How American immigration policy has evolved and led to the current debates over border security. @NPR correspondent @tgjelten's book is 'A Nation of Nations.'",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NPR",
+					"name": "NPR",
+					"id": 5392522,
+					"id_str": "5392522",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"screen_name": "tgjelten",
+					"name": "Tom Gjelten",
+					"id": 223923589,
+					"id_str": "223923589",
+					"indices": [
+						123,
+						132
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13783772,
+			"id_str": "13783772",
+			"name": "Fresh Air",
+			"screen_name": "nprfreshair",
+			"location": "Philadelphia, PA",
+			"description": "Fresh Air with Terry Gross. Peabody Award-winning interviews on arts & issues. Tweets by Associate Producer for Digital Media, Molly Seavy-Nesper @Nindoonjibaa",
+			"url": "http://t.co/1KPuygTMBy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1KPuygTMBy",
+							"expanded_url": "http://freshair.npr.org",
+							"display_url": "freshair.npr.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271779,
+			"friends_count": 1502,
+			"listed_count": 6084,
+			"created_at": "Thu Feb 21 19:20:58 +0000 2008",
+			"favourites_count": 13005,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25084,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921394261957988353/DTHVGlMw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921394261957988353/DTHVGlMw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13783772/1529091156",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "TODAY: How American immigration policy has evolved and led to the current debates over border security. @NPR correspondent @tgjelten's book is 'A Nation of Nations.'"
+	},
+	{
 		"created_at": "Tue Jan 15 13:57:30 +0000 2019",
 		"id": 1085174139076427800,
 		"id_str": "1085293936283959297",
