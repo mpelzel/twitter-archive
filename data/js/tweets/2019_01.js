@@ -1,6 +1,1472 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 19 22:08:18 +0000 2019",
+		"id": 1086747201118920700,
+		"id_str": "1086747201118920705",
+		"full_text": "@I_MacFarlane @EtownCollege Good to see you still using your Domain of One's Own! #DoOO",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DoOO",
+					"indices": [
+						82,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "I_MacFarlane",
+					"name": "Ian MacFarlane",
+					"id": 2197051358,
+					"id_str": "2197051358",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "EtownCollege",
+					"name": "E-town College",
+					"id": 191940502,
+					"id_str": "191940502",
+					"indices": [
+						14,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1086725783840792600,
+		"in_reply_to_status_id_str": "1086725783840792577",
+		"in_reply_to_user_id": 2197051358,
+		"in_reply_to_user_id_str": "2197051358",
+		"in_reply_to_screen_name": "I_MacFarlane",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 684,
+			"friends_count": 1083,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7602,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@I_MacFarlane @EtownCollege Good to see you still using your Domain of One's Own! #DoOO"
+	},
+	{
+		"created_at": "Sat Jan 19 20:03:00 +0000 2019",
+		"id": 1086715668915863600,
+		"id_str": "1086715809337094145",
+		"full_text": "Dozens of Rice students are designing their own class and teaching their fellow Owls for course credit. \n\nNotable courses include: \n-Houston Microbreweries\n-Cantonese Language &amp; Culture\n-Blockchain Beyond Bitcoin\n-Hawaii: Beyond the Brochure\n\nLearn more: https://t.co/fR03gJSSUj https://t.co/cM3VeRcifj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fR03gJSSUj",
+					"expanded_url": "http://bit.ly/2TYu3bU",
+					"display_url": "bit.ly/2TYu3bU",
+					"indices": [
+						259,
+						282
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1086302996424622100,
+					"id_str": "1086302996424622085",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/DxNS0dxVAAUP-t5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxNS0dxVAAUP-t5.jpg",
+					"url": "https://t.co/cM3VeRcifj",
+					"display_url": "pic.twitter.com/cM3VeRcifj",
+					"expanded_url": "https://twitter.com/RiceUniversity/status/1086715668915863552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086302996424622100,
+					"id_str": "1086302996424622085",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/DxNS0dxVAAUP-t5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxNS0dxVAAUP-t5.jpg",
+					"url": "https://t.co/cM3VeRcifj",
+					"display_url": "pic.twitter.com/cM3VeRcifj",
+					"expanded_url": "https://twitter.com/RiceUniversity/status/1086715668915863552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1086303004402151400,
+					"id_str": "1086303004402151424",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/DxNS07fUcAAoc4t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxNS07fUcAAoc4t.jpg",
+					"url": "https://t.co/cM3VeRcifj",
+					"display_url": "pic.twitter.com/cM3VeRcifj",
+					"expanded_url": "https://twitter.com/RiceUniversity/status/1086715668915863552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1502,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19720630,
+			"id_str": "19720630",
+			"name": "Rice University",
+			"screen_name": "RiceUniversity",
+			"location": "Houston, Texas",
+			"description": "Rice University fosters diversity & an intellectual environment that produces the next generation of leaders & advances tomorrow’s thinking.",
+			"url": "https://t.co/byTCvcMfDS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/byTCvcMfDS",
+							"expanded_url": "http://www.rice.edu",
+							"display_url": "rice.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32214,
+			"friends_count": 1168,
+			"listed_count": 715,
+			"created_at": "Thu Jan 29 17:07:54 +0000 2009",
+			"favourites_count": 3038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19680,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1012320236333355010/sLSWR8fX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012320236333355010/sLSWR8fX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19720630/1531511524",
+			"profile_link_color": "0A3B73",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "2B2828",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dozens of Rice students are designing their own class and teaching their fellow Owls for course credit. \n\nNotable courses include: \n-Houston Microbreweries\n-Cantonese Language &amp; Culture\n-Blockchain Beyond Bitcoin\n-Hawaii: Beyond the Brochure\n\nLearn more: https://t.co/fR03gJSSUj https://t.co/cM3VeRcifj"
+	},
+	{
+		"created_at": "Sat Jan 19 18:48:11 +0000 2019",
+		"id": 1086696840198848500,
+		"id_str": "1086696840198848519",
+		"full_text": "@rexparker https://t.co/polhe9AFLm",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rexparker",
+					"name": "Rex Parker🏹🏹🏹",
+					"id": 14230012,
+					"id_str": "14230012",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/polhe9AFLm",
+					"expanded_url": "http://bit.ly/2HiJ5aV",
+					"display_url": "bit.ly/2HiJ5aV",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1086696619364499500,
+		"in_reply_to_status_id_str": "1086696619364499456",
+		"in_reply_to_user_id": 14230012,
+		"in_reply_to_user_id_str": "14230012",
+		"in_reply_to_screen_name": "rexparker",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 684,
+			"friends_count": 1083,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7602,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@rexparker https://t.co/polhe9AFLm"
+	},
+	{
+		"created_at": "Sat Jan 19 18:46:50 +0000 2019",
+		"id": 1086696501542379500,
+		"id_str": "1086696501542379520",
+		"full_text": "@cljennings Well for me, @homesicktexan would be a start!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cljennings",
+					"name": "Cindy Jennings",
+					"id": 14954268,
+					"id_str": "14954268",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "homesicktexan",
+					"name": "Lisa Fain",
+					"id": 10978362,
+					"id_str": "10978362",
+					"indices": [
+						25,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1086696085211484200,
+		"in_reply_to_status_id_str": "1086696085211484160",
+		"in_reply_to_user_id": 14954268,
+		"in_reply_to_user_id_str": "14954268",
+		"in_reply_to_screen_name": "cljennings",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 684,
+			"friends_count": 1083,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7602,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cljennings Well for me, @homesicktexan would be a start!"
+	},
+	{
+		"created_at": "Sat Jan 19 16:56:36 +0000 2019",
+		"id": 1086668759039905800,
+		"id_str": "1086668953605324802",
+		"full_text": "“The #border is incredibly secure. And you can count that in a lot of ways,\" said Gil Kerlikowske, who is now a fellow at the @BakerInstitute. \"Not only compared to other borders (around the world) but compared to what it was.\" https://t.co/VGfC3DyeXR #BorderSecurity #BorderWall",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "border",
+					"indices": [
+						5,
+						12
+					]
+				},
+				{
+					"text": "BorderSecurity",
+					"indices": [
+						252,
+						267
+					]
+				},
+				{
+					"text": "BorderWall",
+					"indices": [
+						268,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BakerInstitute",
+					"name": "Baker Institute",
+					"id": 59218882,
+					"id_str": "59218882",
+					"indices": [
+						126,
+						141
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VGfC3DyeXR",
+					"expanded_url": "https://www.expressnews.com/news/local/article/the-U-S-Mexico-border-locked-in-distress-13544116.php",
+					"display_url": "expressnews.com/news/local/art…",
+					"indices": [
+						228,
+						251
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 353324665,
+			"id_str": "353324665",
+			"name": "Rice University News",
+			"screen_name": "RiceUNews",
+			"location": "Houston, TX",
+			"description": "Official Twitter account for Rice News and Media Relations.",
+			"url": "http://t.co/KO9jDtIcaT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/KO9jDtIcaT",
+							"expanded_url": "http://news.rice.edu",
+							"display_url": "news.rice.edu",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6257,
+			"friends_count": 675,
+			"listed_count": 144,
+			"created_at": "Thu Aug 11 22:13:27 +0000 2011",
+			"favourites_count": 825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10523,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0C2E52",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1508204497/ricenews_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1508204497/ricenews_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/353324665/1537990362",
+			"profile_link_color": "206396",
+			"profile_sidebar_border_color": "CDD0D1",
+			"profile_sidebar_fill_color": "EDEFF0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1c69a67ad480e1b1",
+			"url": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json",
+			"place_type": "city",
+			"name": "Houston",
+			"full_name": "Houston, TX",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-95.823268,
+							29.522325
+						],
+						[
+							-95.069705,
+							29.522325
+						],
+						[
+							-95.069705,
+							30.1546646
+						],
+						[
+							-95.823268,
+							30.1546646
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“The #border is incredibly secure. And you can count that in a lot of ways,\" said Gil Kerlikowske, who is now a fellow at the @BakerInstitute. \"Not only compared to other borders (around the world) but compared to what it was.\" https://t.co/VGfC3DyeXR #BorderSecurity #BorderWall"
+	},
+	{
+		"created_at": "Sat Jan 19 16:56:56 +0000 2019",
+		"id": 1086668845371347000,
+		"id_str": "1086668845371346944",
+		"full_text": "Wise words from Wendell Berry... https://t.co/ThP6rk8Xbr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1086668826685640700,
+					"id_str": "1086668826685640708",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DxSfilsWkAQOiEa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxSfilsWkAQOiEa.jpg",
+					"url": "https://t.co/ThP6rk8Xbr",
+					"display_url": "pic.twitter.com/ThP6rk8Xbr",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1086668845371346944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 885,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 501,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086668826685640700,
+					"id_str": "1086668826685640708",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DxSfilsWkAQOiEa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxSfilsWkAQOiEa.jpg",
+					"url": "https://t.co/ThP6rk8Xbr",
+					"display_url": "pic.twitter.com/ThP6rk8Xbr",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1086668845371346944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 885,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 501,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 684,
+			"friends_count": 1083,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7602,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wise words from Wendell Berry... https://t.co/ThP6rk8Xbr"
+	},
+	{
+		"created_at": "Sat Jan 19 11:20:12 +0000 2019",
+		"id": 1086584101220610000,
+		"id_str": "1086667607766454275",
+		"full_text": "The Future of Wind Turbines? No Blades | WIRED https://t.co/jbAEFIEaeZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jbAEFIEaeZ",
+					"expanded_url": "https://wired.trib.al/bknpTW7",
+					"display_url": "wired.trib.al/bknpTW7",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1344951,
+			"id_str": "1344951",
+			"name": "WIRED",
+			"screen_name": "WIRED",
+			"location": "San Francisco/New York",
+			"description": "WIRED is where tomorrow is realized.",
+			"url": "https://t.co/KT14PZrouQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KT14PZrouQ",
+							"expanded_url": "http://WIRED.com",
+							"display_url": "WIRED.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10350735,
+			"friends_count": 347,
+			"listed_count": 91493,
+			"created_at": "Sat Mar 17 09:57:25 +0000 2007",
+			"favourites_count": 1955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 99248,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615598832726970372/jsK-gBSt_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615598832726970372/jsK-gBSt_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1344951/1547561262",
+			"profile_link_color": "99DCF0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 130,
+		"favorite_count": 349,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Future of Wind Turbines? No Blades | WIRED https://t.co/jbAEFIEaeZ"
+	},
+	{
+		"created_at": "Sat Jan 19 15:37:18 +0000 2019",
+		"id": 1086648803061649400,
+		"id_str": "1086656936387530753",
+		"full_text": "In this weekend's @WSJ Review section: Thanks to \"Kondo-ing,\" @MarieKondo joins the eponymous ranks of Bowdler, Boycott, and Bork. https://t.co/T5duORnLHz https://t.co/HQtOGIJO6w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WSJ",
+					"name": "The Wall Street Journal",
+					"id": 3108351,
+					"id_str": "3108351",
+					"indices": [
+						18,
+						22
+					]
+				},
+				{
+					"screen_name": "MarieKondo",
+					"name": "Marie Kondo",
+					"id": 2949131574,
+					"id_str": "2949131574",
+					"indices": [
+						62,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/T5duORnLHz",
+					"expanded_url": "http://bit.ly/kondobz",
+					"display_url": "bit.ly/kondobz",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1086648789803454500,
+					"id_str": "1086648789803454464",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/DxSNUSfX0AArMTL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxSNUSfX0AArMTL.jpg",
+					"url": "https://t.co/HQtOGIJO6w",
+					"display_url": "pic.twitter.com/HQtOGIJO6w",
+					"expanded_url": "https://twitter.com/bgzimmer/status/1086648803061649409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1379,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 808,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086648789803454500,
+					"id_str": "1086648789803454464",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/DxSNUSfX0AArMTL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxSNUSfX0AArMTL.jpg",
+					"url": "https://t.co/HQtOGIJO6w",
+					"display_url": "pic.twitter.com/HQtOGIJO6w",
+					"expanded_url": "https://twitter.com/bgzimmer/status/1086648803061649409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1379,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 808,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15104164,
+			"id_str": "15104164",
+			"name": "Ben Zimmer",
+			"screen_name": "bgzimmer",
+			"location": "Jersey City, NJ",
+			"description": "Linguist / lexicographer / @WSJ columnist / @TheAtlantic contributing editor / all-around word nut.",
+			"url": "http://t.co/1m2ix6t5Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1m2ix6t5Jo",
+							"expanded_url": "http://benzimmer.com/",
+							"display_url": "benzimmer.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29990,
+			"friends_count": 2368,
+			"listed_count": 1194,
+			"created_at": "Fri Jun 13 04:18:14 +0000 2008",
+			"favourites_count": 13775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 22472,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/510517460773007360/UKfBppaU_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/510517460773007360/UKfBppaU_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15104164/1348634413",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In this weekend's @WSJ Review section: Thanks to \"Kondo-ing,\" @MarieKondo joins the eponymous ranks of Bowdler, Boycott, and Bork. https://t.co/T5duORnLHz https://t.co/HQtOGIJO6w"
+	},
+	{
+		"created_at": "Sat Jan 19 05:33:29 +0000 2019",
+		"id": 1086496849035518000,
+		"id_str": "1086496849035517953",
+		"full_text": "@jamesfkeating @MassimoFaggioli This is exactly the kind of blatant political statement (MAGA hashtag, \"un-American\" party, etc.) that a priest has no business making as a public representative of the Church.",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jamesfkeating",
+					"name": "James Keating",
+					"id": 946523539162697700,
+					"id_str": "946523539162697728",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "MassimoFaggioli",
+					"name": "Massimo Faggioli",
+					"id": 430741049,
+					"id_str": "430741049",
+					"indices": [
+						15,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1086494992791674900,
+		"in_reply_to_status_id_str": "1086494992791674880",
+		"in_reply_to_user_id": 33972737,
+		"in_reply_to_user_id_str": "33972737",
+		"in_reply_to_screen_name": "MorrisPelzel",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 684,
+			"friends_count": 1083,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7602,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jamesfkeating @MassimoFaggioli This is exactly the kind of blatant political statement (MAGA hashtag, \"un-American\" party, etc.) that a priest has no business making as a public representative of the Church."
+	},
+	{
+		"created_at": "Sat Jan 19 05:26:07 +0000 2019",
+		"id": 1086494992791674900,
+		"id_str": "1086494992791674880",
+		"full_text": "@jamesfkeating @MassimoFaggioli Confusing dogma and politics is exactly what Pavone has repeatedly done and is doing here. Which may be why Cardinal Dolan has said that Pavone's organization is not Catholic and that he wants nothing to do with it.",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jamesfkeating",
+					"name": "James Keating",
+					"id": 946523539162697700,
+					"id_str": "946523539162697728",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "MassimoFaggioli",
+					"name": "Massimo Faggioli",
+					"id": 430741049,
+					"id_str": "430741049",
+					"indices": [
+						15,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1086488793245536300,
+		"in_reply_to_status_id_str": "1086488793245536256",
+		"in_reply_to_user_id": 946523539162697700,
+		"in_reply_to_user_id_str": "946523539162697728",
+		"in_reply_to_screen_name": "jamesfkeating",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 684,
+			"friends_count": 1083,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7602,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jamesfkeating @MassimoFaggioli Confusing dogma and politics is exactly what Pavone has repeatedly done and is doing here. Which may be why Cardinal Dolan has said that Pavone's organization is not Catholic and that he wants nothing to do with it."
+	},
+	{
 		"created_at": "Fri Jan 18 23:53:18 +0000 2019",
 		"id": 1086411239687946200,
 		"id_str": "1086411239687946241",
