@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 21 18:34:34 +0000 2019",
+		"id": 1087418190253248500,
+		"id_str": "1087462784185651201",
+		"full_text": "Reading: Even Though He Is Revered Today, MLK Was Widely Disliked by the American Public When He Was Killed https://t.co/91luh3Gcwg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/91luh3Gcwg",
+					"expanded_url": "http://bit.ly/2ANNTiS",
+					"display_url": "bit.ly/2ANNTiS",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20346471,
+			"id_str": "20346471",
+			"name": "Fred Haas",
+			"screen_name": "akh003",
+			"location": "",
+			"description": "EdTech Teacher, Seeker, Iconoclast, Creator, & Provocateur | Regular Writer for @ReadLiverpoolFC",
+			"url": "https://t.co/MaPSWW0I19",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MaPSWW0I19",
+							"expanded_url": "http://haaslearning.wordpress.com",
+							"display_url": "haaslearning.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1000,
+			"friends_count": 2074,
+			"listed_count": 98,
+			"created_at": "Sun Feb 08 01:58:29 +0000 2009",
+			"favourites_count": 536,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12076,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/477765306111119362/ea7hwaZk_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/477765306111119362/ea7hwaZk_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20346471/1462403448",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Reading: Even Though He Is Revered Today, MLK Was Widely Disliked by the American Public When He Was Killed https://t.co/91luh3Gcwg"
+	},
+	{
 		"created_at": "Sun Jan 20 03:16:12 +0000 2019",
 		"id": 1086824686821011500,
 		"id_str": "1086824686821011457",
