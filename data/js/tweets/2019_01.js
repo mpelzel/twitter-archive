@@ -1,6 +1,943 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 23 20:14:45 +0000 2019",
+		"id": 1088168176385437700,
+		"id_str": "1088168176385437696",
+		"full_text": "@SarahJPurcell Me too! https://t.co/ADX5AQxzit",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarahJPurcell",
+					"name": "Sarah J. Purcell",
+					"id": 386185407,
+					"id_str": "386185407",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088168163827564500,
+					"id_str": "1088168163827564544",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/DxnzLfzUwAAEXIG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxnzLfzUwAAEXIG.jpg",
+					"url": "https://t.co/ADX5AQxzit",
+					"display_url": "pic.twitter.com/ADX5AQxzit",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1088168176385437696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088168163827564500,
+					"id_str": "1088168163827564544",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/DxnzLfzUwAAEXIG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxnzLfzUwAAEXIG.jpg",
+					"url": "https://t.co/ADX5AQxzit",
+					"display_url": "pic.twitter.com/ADX5AQxzit",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1088168176385437696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1088140121885605900,
+		"in_reply_to_status_id_str": "1088140121885605888",
+		"in_reply_to_user_id": 386185407,
+		"in_reply_to_user_id_str": "386185407",
+		"in_reply_to_screen_name": "SarahJPurcell",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 684,
+			"friends_count": 1083,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7618,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@SarahJPurcell Me too! https://t.co/ADX5AQxzit"
+	},
+	{
+		"created_at": "Wed Jan 23 16:14:03 +0000 2019",
+		"id": 1088107603014705200,
+		"id_str": "1088108173830033408",
+		"full_text": "Have you upgraded to Wordpress 5? If so, check out this “block” for using JuxtaposeJS (thanks @mkaz !) https://t.co/cHRol3kzO1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mkaz",
+					"name": "Marcus Kazmierczak",
+					"id": 9515072,
+					"id_str": "9515072",
+					"indices": [
+						94,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cHRol3kzO1",
+					"expanded_url": "https://twitter.com/mkaz/status/1088067030949851136",
+					"display_url": "twitter.com/mkaz/status/10…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1088067030949851100,
+		"in_reply_to_status_id_str": "1088067030949851136",
+		"in_reply_to_user_id": 9515072,
+		"in_reply_to_user_id_str": "9515072",
+		"in_reply_to_screen_name": "mkaz",
+		"user": {
+			"id": 246532340,
+			"id_str": "246532340",
+			"name": "NU Knight Lab",
+			"screen_name": "knightlab",
+			"location": "Chicago / Evanston",
+			"description": "Northwestern University Knight Lab is working on experiments designed to push journalism into new spaces. 🏚 to TimelineJS, StoryMapJS, SoundCite, & JuxtaposeJS",
+			"url": "http://t.co/e6JOBJSNAe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/e6JOBJSNAe",
+							"expanded_url": "http://knightlab.northwestern.edu",
+							"display_url": "knightlab.northwestern.edu",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9408,
+			"friends_count": 824,
+			"listed_count": 747,
+			"created_at": "Wed Feb 02 23:36:36 +0000 2011",
+			"favourites_count": 2266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4615,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EFEFEF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925054221237370880/lbvbFtwu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925054221237370880/lbvbFtwu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/246532340/1509385537",
+			"profile_link_color": "E55925",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "241D24",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1088067030949851100,
+		"quoted_status_id_str": "1088067030949851136",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cHRol3kzO1",
+			"expanded": "https://twitter.com/mkaz/status/1088067030949851136",
+			"display": "twitter.com/mkaz/status/10…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 23 13:32:50 +0000 2019",
+			"id": 1088067030949851100,
+			"id_str": "1088067030949851136",
+			"full_text": "Check out the Juxtapose block I created for #Gutenberg it allows you to create before/after image comparisons. Uses the JuxtaposeJS library from @knightlab \nhttps://t.co/DzfREydwKX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				180
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Gutenberg",
+						"indices": [
+							44,
+							54
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "knightlab",
+						"name": "NU Knight Lab",
+						"id": 246532340,
+						"id_str": "246532340",
+						"indices": [
+							145,
+							155
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/DzfREydwKX",
+						"expanded_url": "https://github.com/mkaz/juxtapose-block",
+						"display_url": "github.com/mkaz/juxtapose…",
+						"indices": [
+							157,
+							180
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9515072,
+				"id_str": "9515072",
+				"name": "Marcus Kazmierczak",
+				"screen_name": "mkaz",
+				"location": "San Francisco, CA",
+				"description": "Works @Automattic. 🚀\nAll tweets will be pruned.",
+				"url": "https://t.co/PnT57wYx9U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PnT57wYx9U",
+								"expanded_url": "https://mkaz.blog/",
+								"display_url": "mkaz.blog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 781,
+				"friends_count": 317,
+				"listed_count": 50,
+				"created_at": "Thu Oct 18 05:00:39 +0000 2007",
+				"favourites_count": 710,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 83,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/857405961270693888/zMIkMR_1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/857405961270693888/zMIkMR_1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9515072/1475586592",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have you upgraded to Wordpress 5? If so, check out this “block” for using JuxtaposeJS (thanks @mkaz !) https://t.co/cHRol3kzO1"
+	},
+	{
+		"created_at": "Wed Jan 23 16:03:28 +0000 2019",
+		"id": 1088104942613790700,
+		"id_str": "1088104942613790722",
+		"full_text": "\"Here comes the sun, and I say\nIt's all right.\" \nhttps://t.co/TquJd0FAnk\n@SarahJPurcell https://t.co/sRc6P5NAxZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarahJPurcell",
+					"name": "Sarah J. Purcell",
+					"id": 386185407,
+					"id_str": "386185407",
+					"indices": [
+						73,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TquJd0FAnk",
+					"expanded_url": "http://bit.ly/2soKJNP",
+					"display_url": "bit.ly/2soKJNP",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1088104715332845600,
+					"id_str": "1088104715332845569",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxm5eTvXgAE_RtS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxm5eTvXgAE_RtS.jpg",
+					"url": "https://t.co/sRc6P5NAxZ",
+					"display_url": "pic.twitter.com/sRc6P5NAxZ",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1088104942613790722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088104715332845600,
+					"id_str": "1088104715332845569",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxm5eTvXgAE_RtS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxm5eTvXgAE_RtS.jpg",
+					"url": "https://t.co/sRc6P5NAxZ",
+					"display_url": "pic.twitter.com/sRc6P5NAxZ",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1088104942613790722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 684,
+			"friends_count": 1083,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7618,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Here comes the sun, and I say\nIt's all right.\" \nhttps://t.co/TquJd0FAnk\n@SarahJPurcell https://t.co/sRc6P5NAxZ"
+	},
+	{
+		"created_at": "Wed Jan 23 15:04:37 +0000 2019",
+		"id": 1088090130894721000,
+		"id_str": "1088090130894721024",
+		"full_text": "@SarahJPurcell @CiotaRebecca Just got my driveway mostly clear, but Oakridge Drive out of Oakland Acres looks pretty dicey...especially since I have to start out with an uphill run...",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarahJPurcell",
+					"name": "Sarah J. Purcell",
+					"id": 386185407,
+					"id_str": "386185407",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "CiotaRebecca",
+					"name": "Rebecca Ciota",
+					"id": 3258137575,
+					"id_str": "3258137575",
+					"indices": [
+						15,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1088087029534126100,
+		"in_reply_to_status_id_str": "1088087029534126080",
+		"in_reply_to_user_id": 386185407,
+		"in_reply_to_user_id_str": "386185407",
+		"in_reply_to_screen_name": "SarahJPurcell",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 684,
+			"friends_count": 1083,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7618,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SarahJPurcell @CiotaRebecca Just got my driveway mostly clear, but Oakridge Drive out of Oakland Acres looks pretty dicey...especially since I have to start out with an uphill run..."
+	},
+	{
+		"created_at": "Tue Jan 22 14:31:05 +0000 2019",
+		"id": 1087719303770722300,
+		"id_str": "1088071058714955776",
+		"full_text": "What's this? A keynote? Yes! A keynote!\n#pressEDconf19 are proud to announce Martha Burtis (@mburtis) as the 1st of our keynotes. Martha is Director of the Digital Knowledge Center at the University of Mary Washington and has pretty much written the book on WordPress and Pedagogy https://t.co/yLGad5uaJn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pressEDconf19",
+					"indices": [
+						40,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mburtis",
+					"name": "martha",
+					"id": 744533,
+					"id_str": "744533",
+					"indices": [
+						92,
+						100
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1087717421186719700,
+					"id_str": "1087717421186719747",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/DxhZO0nWoAM3H6l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxhZO0nWoAM3H6l.jpg",
+					"url": "https://t.co/yLGad5uaJn",
+					"display_url": "pic.twitter.com/yLGad5uaJn",
+					"expanded_url": "https://twitter.com/pressedconf/status/1087719303770722305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 587,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1042,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1042,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087717421186719700,
+					"id_str": "1087717421186719747",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/DxhZO0nWoAM3H6l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxhZO0nWoAM3H6l.jpg",
+					"url": "https://t.co/yLGad5uaJn",
+					"display_url": "pic.twitter.com/yLGad5uaJn",
+					"expanded_url": "https://twitter.com/pressedconf/status/1087719303770722305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 587,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1042,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1042,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 950354717212897300,
+			"id_str": "950354717212897280",
+			"name": "PressED Conf - A tweeting WordPress conference",
+			"screen_name": "pressedconf",
+			"location": "on twitter",
+			"description": "A WordPress Twitter Conference on all things education, pedagogy and research. #pressEDconf19 is on April 18th. Organisers @nlafferty and @pgogy",
+			"url": "https://t.co/PEDIaTNi6H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PEDIaTNi6H",
+							"expanded_url": "http://2019.pressedconf.org",
+							"display_url": "2019.pressedconf.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 644,
+			"friends_count": 1113,
+			"listed_count": 5,
+			"created_at": "Mon Jan 08 13:13:16 +0000 2018",
+			"favourites_count": 568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1302,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/950872787018756096/unqqOc3z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/950872787018756096/unqqOc3z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/950354717212897280/1547021544",
+			"profile_link_color": "00FFFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What's this? A keynote? Yes! A keynote!\n#pressEDconf19 are proud to announce Martha Burtis (@mburtis) as the 1st of our keynotes. Martha is Director of the Digital Knowledge Center at the University of Mary Washington and has pretty much written the book on WordPress and Pedagogy https://t.co/yLGad5uaJn"
+	},
+	{
 		"created_at": "Wed Jan 23 00:07:57 +0000 2019",
 		"id": 1087864476030914600,
 		"id_str": "1087864476030914560",
