@@ -1,6 +1,428 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 25 19:38:27 +0000 2019",
+		"id": 1088883818453454800,
+		"id_str": "1088883818453454848",
+		"full_text": "@KeithAnliker @heynicolesheets @danielbowmanjr @KarlAnliker @RevJerbi @KVVanney Theologically spot on! https://t.co/I3EfuTBuEM",
+		"truncated": false,
+		"display_text_range": [
+			80,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KeithAnliker",
+					"name": "Keith Anliker",
+					"id": 4827459431,
+					"id_str": "4827459431",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "heynicolesheets",
+					"name": "Nicole Sheets",
+					"id": 409028703,
+					"id_str": "409028703",
+					"indices": [
+						14,
+						30
+					]
+				},
+				{
+					"screen_name": "danielbowmanjr",
+					"name": "Daniel Bowman Jr.",
+					"id": 67897015,
+					"id_str": "67897015",
+					"indices": [
+						31,
+						46
+					]
+				},
+				{
+					"screen_name": "KarlAnliker",
+					"name": "Karl Anliker",
+					"id": 4521205997,
+					"id_str": "4521205997",
+					"indices": [
+						47,
+						59
+					]
+				},
+				{
+					"screen_name": "RevJerbi",
+					"name": "Rev. Resist",
+					"id": 2340673819,
+					"id_str": "2340673819",
+					"indices": [
+						60,
+						69
+					]
+				},
+				{
+					"screen_name": "KVVanney",
+					"name": "Kate Van Valkenburg",
+					"id": 118302018,
+					"id_str": "118302018",
+					"indices": [
+						70,
+						79
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088883730339422200,
+					"id_str": "1088883730339422208",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dxx9-8yVYAA5YCT.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dxx9-8yVYAA5YCT.jpg",
+					"url": "https://t.co/I3EfuTBuEM",
+					"display_url": "pic.twitter.com/I3EfuTBuEM",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1088883818453454848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088883730339422200,
+					"id_str": "1088883730339422208",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dxx9-8yVYAA5YCT.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dxx9-8yVYAA5YCT.jpg",
+					"url": "https://t.co/I3EfuTBuEM",
+					"display_url": "pic.twitter.com/I3EfuTBuEM",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1088883818453454848/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dxx9-8yVYAA5YCT.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1088878963311685600,
+		"in_reply_to_status_id_str": "1088878963311685632",
+		"in_reply_to_user_id": 4827459431,
+		"in_reply_to_user_id_str": "4827459431",
+		"in_reply_to_screen_name": "KeithAnliker",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 687,
+			"friends_count": 1089,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7625,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@KeithAnliker @heynicolesheets @danielbowmanjr @KarlAnliker @RevJerbi @KVVanney Theologically spot on! https://t.co/I3EfuTBuEM"
+	},
+	{
+		"created_at": "Fri Jan 25 13:19:06 +0000 2019",
+		"id": 1088788353682718700,
+		"id_str": "1088788353682718721",
+		"full_text": "Good morning! https://t.co/F1vPd74sS5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088788346875330600,
+					"id_str": "1088788346875330560",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/DxwnO5sWwAAMJ2v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxwnO5sWwAAMJ2v.jpg",
+					"url": "https://t.co/F1vPd74sS5",
+					"display_url": "pic.twitter.com/F1vPd74sS5",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1088788353682718721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 707,
+							"h": 324,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 312,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 707,
+							"h": 324,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088788346875330600,
+					"id_str": "1088788346875330560",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/DxwnO5sWwAAMJ2v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxwnO5sWwAAMJ2v.jpg",
+					"url": "https://t.co/F1vPd74sS5",
+					"display_url": "pic.twitter.com/F1vPd74sS5",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1088788353682718721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 707,
+							"h": 324,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 312,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 707,
+							"h": 324,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 687,
+			"friends_count": 1089,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7625,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good morning! https://t.co/F1vPd74sS5"
+	},
+	{
 		"created_at": "Thu Jan 24 22:12:16 +0000 2019",
 		"id": 1088560139215482900,
 		"id_str": "1088568162185035779",
