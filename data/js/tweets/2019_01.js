@@ -1,6 +1,1808 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 28 00:14:28 +0000 2019",
+		"id": 1089678055818383400,
+		"id_str": "1089678055818383365",
+		"full_text": "@SaRoseCav This report, for example, seems to suggest that perspective ... https://t.co/dzvuDnI8w3",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SaRoseCav",
+					"name": "Sarah Rose Cavanagh",
+					"id": 141328091,
+					"id_str": "141328091",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dzvuDnI8w3",
+					"expanded_url": "http://bit.ly/2Sbnq8J",
+					"display_url": "bit.ly/2Sbnq8J",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1089674277346000900,
+		"in_reply_to_status_id_str": "1089674277346000897",
+		"in_reply_to_user_id": 141328091,
+		"in_reply_to_user_id_str": "141328091",
+		"in_reply_to_screen_name": "SaRoseCav",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 686,
+			"friends_count": 1091,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6340,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7636,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@SaRoseCav This report, for example, seems to suggest that perspective ... https://t.co/dzvuDnI8w3"
+	},
+	{
+		"created_at": "Mon Jan 28 00:11:46 +0000 2019",
+		"id": 1089677376483717100,
+		"id_str": "1089677376483717121",
+		"full_text": "Like Mary, be ‘influencers’ for God, pope urges at World Youth Day vigil https://t.co/BUKQBQa3fk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BUKQBQa3fk",
+					"expanded_url": "https://www.americamagazine.org/faith/2019/01/26/mary-be-influencers-god-pope-urges-world-youth-day-vigil",
+					"display_url": "americamagazine.org/faith/2019/01/…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 686,
+			"friends_count": 1091,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6340,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7636,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Like Mary, be ‘influencers’ for God, pope urges at World Youth Day vigil https://t.co/BUKQBQa3fk"
+	},
+	{
+		"created_at": "Sun Jan 27 23:45:53 +0000 2019",
+		"id": 1089670863547445200,
+		"id_str": "1089670863547445249",
+		"full_text": "@SaRoseCav Tough, but fair. Would be interesting to know how it played with the World Youth Day audience. Personally though, I did not find it inappropriate from his office. I read it more as a critique of the very elements that you mention.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SaRoseCav",
+					"name": "Sarah Rose Cavanagh",
+					"id": 141328091,
+					"id_str": "141328091",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1089666197757542400,
+		"in_reply_to_status_id_str": "1089666197757542400",
+		"in_reply_to_user_id": 141328091,
+		"in_reply_to_user_id_str": "141328091",
+		"in_reply_to_screen_name": "SaRoseCav",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 686,
+			"friends_count": 1091,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6340,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7636,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SaRoseCav Tough, but fair. Would be interesting to know how it played with the World Youth Day audience. Personally though, I did not find it inappropriate from his office. I read it more as a critique of the very elements that you mention."
+	},
+	{
+		"created_at": "Sun Jan 27 23:23:04 +0000 2019",
+		"id": 1089665119787847700,
+		"id_str": "1089665119787847680",
+		"full_text": "@SaRoseCav Why is \"what\" happening? Just curious...",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SaRoseCav",
+					"name": "Sarah Rose Cavanagh",
+					"id": 141328091,
+					"id_str": "141328091",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1089346495831310300,
+		"in_reply_to_status_id_str": "1089346495831310336",
+		"in_reply_to_user_id": 141328091,
+		"in_reply_to_user_id_str": "141328091",
+		"in_reply_to_screen_name": "SaRoseCav",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 686,
+			"friends_count": 1091,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6340,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7636,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SaRoseCav Why is \"what\" happening? Just curious..."
+	},
+	{
+		"created_at": "Sun Jan 27 23:21:55 +0000 2019",
+		"id": 1089664832855511000,
+		"id_str": "1089664832855511046",
+		"full_text": "Kudos to @bgzimmer for the screenshots to his \"Word on the Street\" column ... for those of us without subscriptions to the WSJ https://t.co/jpVkygpgaZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bgzimmer",
+					"name": "Ben Zimmer",
+					"id": 15104164,
+					"id_str": "15104164",
+					"indices": [
+						9,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jpVkygpgaZ",
+					"expanded_url": "https://twitter.com/bgzimmer/status/1089362099959152640",
+					"display_url": "twitter.com/bgzimmer/statu…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 686,
+			"friends_count": 1091,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6340,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7636,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1089362099959152600,
+		"quoted_status_id_str": "1089362099959152640",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jpVkygpgaZ",
+			"expanded": "https://twitter.com/bgzimmer/status/1089362099959152640",
+			"display": "twitter.com/bgzimmer/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 27 03:18:58 +0000 2019",
+			"id": 1089362099959152600,
+			"id_str": "1089362099959152640",
+			"full_text": "In this weekend's @WSJ Review section: how \"spam\" transformed from meat in a can to unwanted messages, with an assist from Monty Python. https://t.co/tSzqeEckOy https://t.co/291MIPTqwk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WSJ",
+						"name": "The Wall Street Journal",
+						"id": 3108351,
+						"id_str": "3108351",
+						"indices": [
+							18,
+							22
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/tSzqeEckOy",
+						"expanded_url": "http://bit.ly/spambz",
+						"display_url": "bit.ly/spambz",
+						"indices": [
+							137,
+							160
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1089361997349748700,
+						"id_str": "1089361997349748747",
+						"indices": [
+							161,
+							184
+						],
+						"media_url": "http://pbs.twimg.com/media/Dx4w9wPXgAsrirN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dx4w9wPXgAsrirN.jpg",
+						"url": "https://t.co/291MIPTqwk",
+						"display_url": "pic.twitter.com/291MIPTqwk",
+						"expanded_url": "https://twitter.com/bgzimmer/status/1089362099959152640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 784,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 444,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1338,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1089361997349748700,
+						"id_str": "1089361997349748747",
+						"indices": [
+							161,
+							184
+						],
+						"media_url": "http://pbs.twimg.com/media/Dx4w9wPXgAsrirN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dx4w9wPXgAsrirN.jpg",
+						"url": "https://t.co/291MIPTqwk",
+						"display_url": "pic.twitter.com/291MIPTqwk",
+						"expanded_url": "https://twitter.com/bgzimmer/status/1089362099959152640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 784,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 444,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1338,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15104164,
+				"id_str": "15104164",
+				"name": "Ben Zimmer",
+				"screen_name": "bgzimmer",
+				"location": "Jersey City, NJ",
+				"description": "Linguist / lexicographer / @WSJ columnist / @TheAtlantic contributing editor / all-around word nut.",
+				"url": "http://t.co/1m2ix6t5Jo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/1m2ix6t5Jo",
+								"expanded_url": "http://benzimmer.com/",
+								"display_url": "benzimmer.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 30057,
+				"friends_count": 2370,
+				"listed_count": 1199,
+				"created_at": "Fri Jun 13 04:18:14 +0000 2008",
+				"favourites_count": 13838,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22493,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/510517460773007360/UKfBppaU_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/510517460773007360/UKfBppaU_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15104164/1348634413",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kudos to @bgzimmer for the screenshots to his \"Word on the Street\" column ... for those of us without subscriptions to the WSJ https://t.co/jpVkygpgaZ"
+	},
+	{
+		"created_at": "Sun Jan 27 22:07:45 +0000 2019",
+		"id": 1089646166004904000,
+		"id_str": "1089648265677688833",
+		"full_text": "Coldest snap in more than 20 years across Iowa this week. LIFE-THREATENING cold is forecast. Please take this seriously! #iowaweather https://t.co/87YzyXE6SP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iowaweather",
+					"indices": [
+						121,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1089646164633362400,
+					"id_str": "1089646164633362432",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx8zad3WoAAtaHW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx8zad3WoAAtaHW.jpg",
+					"url": "https://t.co/87YzyXE6SP",
+					"display_url": "pic.twitter.com/87YzyXE6SP",
+					"expanded_url": "https://twitter.com/NWSDesMoines/status/1089646166004903936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 515,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 909,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1268,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089646164633362400,
+					"id_str": "1089646164633362432",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx8zad3WoAAtaHW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx8zad3WoAAtaHW.jpg",
+					"url": "https://t.co/87YzyXE6SP",
+					"display_url": "pic.twitter.com/87YzyXE6SP",
+					"expanded_url": "https://twitter.com/NWSDesMoines/status/1089646166004903936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 515,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 909,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1268,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://nwschat.weather.gov/nwsbotfaq.php\" rel=\"nofollow\">NWSBot</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 601283082,
+			"id_str": "601283082",
+			"name": "NWS Des Moines",
+			"screen_name": "NWSDesMoines",
+			"location": "Johnston, Iowa",
+			"description": "Official Twitter account for the National Weather Service Des Moines. Details: http://t.co/KKTK7cZlhK.",
+			"url": "http://t.co/x7FasNkgS6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/x7FasNkgS6",
+							"expanded_url": "http://weather.gov/desmoines",
+							"display_url": "weather.gov/desmoines",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/KKTK7cZlhK",
+							"expanded_url": "http://weather.gov/twitter",
+							"display_url": "weather.gov/twitter",
+							"indices": [
+								79,
+								101
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23962,
+			"friends_count": 733,
+			"listed_count": 614,
+			"created_at": "Wed Jun 06 18:53:19 +0000 2012",
+			"favourites_count": 9804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23727,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877037326286954496/1cz62iOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877037326286954496/1cz62iOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/601283082/1548392850",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Coldest snap in more than 20 years across Iowa this week. LIFE-THREATENING cold is forecast. Please take this seriously! #iowaweather https://t.co/87YzyXE6SP"
+	},
+	{
+		"created_at": "Sun Jan 27 21:07:08 +0000 2019",
+		"id": 1089630913112277000,
+		"id_str": "1089636140129419264",
+		"full_text": "Crossword lovers! @XWORDS aka Peter Gordon's phenomenal Fireball Newsflash series only needs another $200 by 10 pm EST to continue it in 2019! The ingenuity that goes into this is quite startling. Don't hesitate! https://t.co/A2hisST30U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "XWORDS",
+					"name": "Peter Gordon",
+					"id": 29905013,
+					"id_str": "29905013",
+					"indices": [
+						18,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/A2hisST30U",
+					"expanded_url": "https://twitter.com/XWORDS/status/1089519788001542144",
+					"display_url": "twitter.com/XWORDS/status/…",
+					"indices": [
+						213,
+						236
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8559872,
+			"id_str": "8559872",
+			"name": "Evidence-based Wen",
+			"screen_name": "estivator",
+			"location": "Lancaster, PA",
+			"description": "Seasoned PR practitioner interested in sustainability, social justice and all things music",
+			"url": "https://t.co/hUYGdBHX2s",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hUYGdBHX2s",
+							"expanded_url": "http://estivator.blogspot.com",
+							"display_url": "estivator.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 917,
+			"listed_count": 14,
+			"created_at": "Fri Aug 31 15:01:21 +0000 2007",
+			"favourites_count": 1952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2479,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/592723040892497920/Zn9kBKBa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/592723040892497920/Zn9kBKBa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8559872/1419898583",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1089519788001542100,
+		"quoted_status_id_str": "1089519788001542144",
+		"quoted_status_permalink": {
+			"url": "https://t.co/A2hisST30U",
+			"expanded": "https://twitter.com/XWORDS/status/1089519788001542144",
+			"display": "twitter.com/XWORDS/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 27 13:45:34 +0000 2019",
+			"id": 1089519788001542100,
+			"id_str": "1089519788001542144",
+			"full_text": "My Kickstarter campaign for 2019-20 Fireball Newsflash Crosswords ends tonight at 10 p.m. Eastern time. https://t.co/CZwOds4Aac … #AllTheNewsThatFitsSymmetrically",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				162
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AllTheNewsThatFitsSymmetrically",
+						"indices": [
+							130,
+							162
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CZwOds4Aac",
+						"expanded_url": "https://www.kickstarter.com/projects/1900602681/2019-20-fireball-newsflash-crosswords",
+						"display_url": "kickstarter.com/projects/19006…",
+						"indices": [
+							104,
+							127
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29905013,
+				"id_str": "29905013",
+				"name": "Peter Gordon",
+				"screen_name": "XWORDS",
+				"location": "",
+				"description": "Portrait: Ben Kirchner / Heart Agency",
+				"url": "http://t.co/upuxOLleVS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/upuxOLleVS",
+								"expanded_url": "http://www.FireballCrosswords.com",
+								"display_url": "FireballCrosswords.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 826,
+				"friends_count": 25,
+				"listed_count": 28,
+				"created_at": "Thu Apr 09 03:06:22 +0000 2009",
+				"favourites_count": 78,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 167,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1073354714639683584/D-6dEfo9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073354714639683584/D-6dEfo9_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Crossword lovers! @XWORDS aka Peter Gordon's phenomenal Fireball Newsflash series only needs another $200 by 10 pm EST to continue it in 2019! The ingenuity that goes into this is quite startling. Don't hesitate! https://t.co/A2hisST30U"
+	},
+	{
+		"created_at": "Sun Jan 27 21:24:32 +0000 2019",
+		"id": 1089635291424542700,
+		"id_str": "1089635732908470272",
+		"full_text": "On Holocaust Remembrance Day, consider reading \"The Hell of Treblinka\" by the great journalist and novelist Vasily Grossman, an early eyewitness when the camp was liberated.  He later incorporated some of what he saw in his novel \"Life and Fate.\"\n\nhttps://t.co/74PQCg9qtG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/74PQCg9qtG",
+					"expanded_url": "https://www.facinghistory.org/holocaust-human-behavior/hell-of-treblinka-vasily-grossman",
+					"display_url": "facinghistory.org/holocaust-huma…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 89043072,
+			"id_str": "89043072",
+			"name": "Jason Zweig",
+			"screen_name": "jasonzweigwsj",
+			"location": "The Wall Street Journal",
+			"description": "Investing columnist for @WSJ. Editor, Benjamin Graham's *The Intelligent Investor.* Author, *Your Money and Your Brain* and *The Devil's Financial Dictionary.*",
+			"url": "http://t.co/DzIEJ4CvA7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/DzIEJ4CvA7",
+							"expanded_url": "http://www.jasonzweig.com",
+							"display_url": "jasonzweig.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148380,
+			"friends_count": 1830,
+			"listed_count": 2499,
+			"created_at": "Tue Nov 10 22:44:00 +0000 2009",
+			"favourites_count": 2159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15004,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/855548242/Zweig_hedcut_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/855548242/Zweig_hedcut_normal.JPG",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/89043072/1454188752",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On Holocaust Remembrance Day, consider reading \"The Hell of Treblinka\" by the great journalist and novelist Vasily Grossman, an early eyewitness when the camp was liberated.  He later incorporated some of what he saw in his novel \"Life and Fate.\"\n\nhttps://t.co/74PQCg9qtG"
+	},
+	{
+		"created_at": "Sun Jan 27 06:05:03 +0000 2019",
+		"id": 1089403895670063100,
+		"id_str": "1089567404009684999",
+		"full_text": "The #Holocaust began with words, but with education and knowledge we can counter hate speech and help prevent genocide.\n\n27 January is International #HolocaustRemembrance Day\n\nℹ️ https://t.co/41dxzOZfJT https://t.co/KUERXdcvRX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Holocaust",
+					"indices": [
+						4,
+						14
+					]
+				},
+				{
+					"text": "HolocaustRemembrance",
+					"indices": [
+						149,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/41dxzOZfJT",
+					"expanded_url": "https://on.unesco.org/2B5Um8Q",
+					"display_url": "on.unesco.org/2B5Um8Q",
+					"indices": [
+						179,
+						202
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1089403893354848300,
+					"id_str": "1089403893354848257",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx5XEbBX4AEnhLC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx5XEbBX4AEnhLC.jpg",
+					"url": "https://t.co/KUERXdcvRX",
+					"display_url": "pic.twitter.com/KUERXdcvRX",
+					"expanded_url": "https://twitter.com/UNESCO/status/1089403895670063104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089403893354848300,
+					"id_str": "1089403893354848257",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx5XEbBX4AEnhLC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx5XEbBX4AEnhLC.jpg",
+					"url": "https://t.co/KUERXdcvRX",
+					"display_url": "pic.twitter.com/KUERXdcvRX",
+					"expanded_url": "https://twitter.com/UNESCO/status/1089403895670063104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20646711,
+			"id_str": "20646711",
+			"name": "UNESCO",
+			"screen_name": "UNESCO",
+			"location": "",
+			"description": "Building peace where it starts - in the minds of men & women. #RightToEducation",
+			"url": "https://t.co/BChdPGRroe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BChdPGRroe",
+							"expanded_url": "https://en.unesco.org",
+							"display_url": "en.unesco.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3004150,
+			"friends_count": 1638,
+			"listed_count": 9072,
+			"created_at": "Thu Feb 12 01:46:13 +0000 2009",
+			"favourites_count": 14432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21400,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004384526511067136/8oMIrJoY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004384526511067136/8oMIrJoY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20646711/1542207871",
+			"profile_link_color": "0077D4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1371,
+		"favorite_count": 2084,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #Holocaust began with words, but with education and knowledge we can counter hate speech and help prevent genocide.\n\n27 January is International #HolocaustRemembrance Day\n\nℹ️ https://t.co/41dxzOZfJT https://t.co/KUERXdcvRX"
+	},
+	{
+		"created_at": "Sun Jan 27 12:08:40 +0000 2019",
+		"id": 1089495403635052500,
+		"id_str": "1089556686505947136",
+		"full_text": "Life-Threatening cold temperatures coming to #Iowa this week!!! PREPARE NOW!!! Please RT. #IowaWeather https://t.co/HJsZawec1X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Iowa",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "IowaWeather",
+					"indices": [
+						90,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1089495402376847400,
+					"id_str": "1089495402376847360",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx6qS8sX4AAZ755.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx6qS8sX4AAZ755.jpg",
+					"url": "https://t.co/HJsZawec1X",
+					"display_url": "pic.twitter.com/HJsZawec1X",
+					"expanded_url": "https://twitter.com/NWSDesMoines/status/1089495403635052544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 1268,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 515,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 909,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089495402376847400,
+					"id_str": "1089495402376847360",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx6qS8sX4AAZ755.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx6qS8sX4AAZ755.jpg",
+					"url": "https://t.co/HJsZawec1X",
+					"display_url": "pic.twitter.com/HJsZawec1X",
+					"expanded_url": "https://twitter.com/NWSDesMoines/status/1089495403635052544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 1268,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 515,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 909,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://nwschat.weather.gov/nwsbotfaq.php\" rel=\"nofollow\">NWSBot</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 601283082,
+			"id_str": "601283082",
+			"name": "NWS Des Moines",
+			"screen_name": "NWSDesMoines",
+			"location": "Johnston, Iowa",
+			"description": "Official Twitter account for the National Weather Service Des Moines. Details: http://t.co/KKTK7cZlhK.",
+			"url": "http://t.co/x7FasNkgS6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/x7FasNkgS6",
+							"expanded_url": "http://weather.gov/desmoines",
+							"display_url": "weather.gov/desmoines",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/KKTK7cZlhK",
+							"expanded_url": "http://weather.gov/twitter",
+							"display_url": "weather.gov/twitter",
+							"indices": [
+								79,
+								101
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23962,
+			"friends_count": 733,
+			"listed_count": 614,
+			"created_at": "Wed Jun 06 18:53:19 +0000 2012",
+			"favourites_count": 9804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23727,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877037326286954496/1cz62iOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877037326286954496/1cz62iOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/601283082/1548392850",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Life-Threatening cold temperatures coming to #Iowa this week!!! PREPARE NOW!!! Please RT. #IowaWeather https://t.co/HJsZawec1X"
+	},
+	{
+		"created_at": "Sun Jan 27 16:01:05 +0000 2019",
+		"id": 1089553891602165800,
+		"id_str": "1089554317076500481",
+		"full_text": "“I think a lot about regionalism and what makes Texas unique. The reason why Texans feel the way they do is a product of our landscape.” \n\n@jaybsauceda’s new aerial photo series documents 3,822 miles of Texas borders from out of the window of a plane. https://t.co/gfkEgR36F3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaybsauceda",
+					"name": "Jay B Sauceda",
+					"id": 10511402,
+					"id_str": "10511402",
+					"indices": [
+						139,
+						151
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gfkEgR36F3",
+					"expanded_url": "https://www.texasmonthly.com/the-culture/photography-texas-from-above-jay-b-sauceda/?utm_source=Twitter&utm_medium=Social&utm_campaign=Web%20Social&utm_content=jaybsauceda",
+					"display_url": "texasmonthly.com/the-culture/ph…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://coschedule.com\" rel=\"nofollow\">CoSchedule</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16365305,
+			"id_str": "16365305",
+			"name": "Texas Monthly",
+			"screen_name": "TexasMonthly",
+			"location": "Austin, TX",
+			"description": "Covering Texas news, politics, food, culture, travel, and more. RTs not endorsements. Tweets by @regmack_.",
+			"url": "https://t.co/nZv2cCoax9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nZv2cCoax9",
+							"expanded_url": "http://www.texasmonthly.com/",
+							"display_url": "texasmonthly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183050,
+			"friends_count": 723,
+			"listed_count": 3481,
+			"created_at": "Fri Sep 19 16:18:28 +0000 2008",
+			"favourites_count": 3330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 31211,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956215816193638400/4PR8ZTr9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956215816193638400/4PR8ZTr9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16365305/1546459916",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 82,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“I think a lot about regionalism and what makes Texas unique. The reason why Texans feel the way they do is a product of our landscape.” \n\n@jaybsauceda’s new aerial photo series documents 3,822 miles of Texas borders from out of the window of a plane. https://t.co/gfkEgR36F3"
+	},
+	{
 		"created_at": "Sat Jan 26 16:26:07 +0000 2019",
 		"id": 1089197806265475100,
 		"id_str": "1089261425242136578",
