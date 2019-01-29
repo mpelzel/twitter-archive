@@ -1,6 +1,1620 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 28 23:09:32 +0000 2019",
+		"id": 1090024102126075900,
+		"id_str": "1090024397103087617",
+		"full_text": "These monks in the New Mexico desert were early web designers. Their digital scriptorium had an abundance of orders. It was good work.\n\nThen they quit. \n\nWhy? How does work put your soul at risk? \n\nI went to the desert to find out. #longreads\n\nhttps://t.co/Q7SpQjCJWp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "longreads",
+					"indices": [
+						232,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q7SpQjCJWp",
+					"expanded_url": "https://www.commonwealmagazine.org/taming-demon",
+					"display_url": "commonwealmagazine.org/taming-demon",
+					"indices": [
+						244,
+						267
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113129441,
+			"id_str": "113129441",
+			"name": "Jonathan Malesic",
+			"screen_name": "JonMalesic",
+			"location": "Dallas, TX",
+			"description": "Ethicist & essayist, trying to help us get over the American work ethic. Former prof & parking lot attendant. jonathanmalesic at gmail.",
+			"url": "https://t.co/WppOeCzZ8d",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WppOeCzZ8d",
+							"expanded_url": "http://jonmalesic.com",
+							"display_url": "jonmalesic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1742,
+			"friends_count": 534,
+			"listed_count": 42,
+			"created_at": "Wed Feb 10 20:14:47 +0000 2010",
+			"favourites_count": 17122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 619,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/959079461298696194/e9SNUMXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/959079461298696194/e9SNUMXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113129441/1475603604",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These monks in the New Mexico desert were early web designers. Their digital scriptorium had an abundance of orders. It was good work.\n\nThen they quit. \n\nWhy? How does work put your soul at risk? \n\nI went to the desert to find out. #longreads\n\nhttps://t.co/Q7SpQjCJWp"
+	},
+	{
+		"created_at": "Mon Jan 28 21:51:26 +0000 2019",
+		"id": 1090004446988386300,
+		"id_str": "1090004865860976642",
+		"full_text": "“In an attention economy, information is not scarce, but our attention is.” -\nAssociate Provost of Digital Learning, Amy Collier (@amcollier) talking #misinformation, #disinformation, &amp; #informationenvironmentalism this afternoon @DavidsonCTL. https://t.co/PRd3RWAWLU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "misinformation",
+					"indices": [
+						150,
+						165
+					]
+				},
+				{
+					"text": "disinformation",
+					"indices": [
+						167,
+						182
+					]
+				},
+				{
+					"text": "informationenvironmentalism",
+					"indices": [
+						190,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amcollier",
+					"name": "Anne of Green Mountains",
+					"id": 17300374,
+					"id_str": "17300374",
+					"indices": [
+						130,
+						140
+					]
+				},
+				{
+					"screen_name": "DavidsonCTL",
+					"name": "DavidsonCTL",
+					"id": 331130681,
+					"id_str": "331130681",
+					"indices": [
+						234,
+						246
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1090004440961220600,
+					"id_str": "1090004440961220608",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/DyB5Q5MXgAALvlN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyB5Q5MXgAALvlN.jpg",
+					"url": "https://t.co/PRd3RWAWLU",
+					"display_url": "pic.twitter.com/PRd3RWAWLU",
+					"expanded_url": "https://twitter.com/ariannamc18/status/1090004446988386304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1090004440961220600,
+					"id_str": "1090004440961220608",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/DyB5Q5MXgAALvlN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyB5Q5MXgAALvlN.jpg",
+					"url": "https://t.co/PRd3RWAWLU",
+					"display_url": "pic.twitter.com/PRd3RWAWLU",
+					"expanded_url": "https://twitter.com/ariannamc18/status/1090004446988386304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 779777819039502300,
+			"id_str": "779777819039502336",
+			"name": "Arianna Montero-Colbert",
+			"screen_name": "ariannamc18",
+			"location": "Washington DC",
+			"description": "just a moving body, thinking talking feeling • affiliated @TechChange & @DavidsonCollege • enchanted by board games, karaoke, & critical pedagogy",
+			"url": "https://t.co/7VdMAY2eWJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7VdMAY2eWJ",
+							"expanded_url": "http://linkedin.com/in/arianna-montero-colbert",
+							"display_url": "linkedin.com/in/arianna-mon…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 277,
+			"friends_count": 746,
+			"listed_count": 4,
+			"created_at": "Sat Sep 24 20:21:34 +0000 2016",
+			"favourites_count": 4041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 879,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058940254294601728/4WCftaeY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058940254294601728/4WCftaeY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/779777819039502336/1520090883",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9d2a6ffc86000",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9d2a6ffc86000.json",
+			"place_type": "poi",
+			"name": "E.H. Little Library",
+			"full_name": "E.H. Little Library",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-80.844022,
+							35.499745
+						],
+						[
+							-80.844022,
+							35.499745
+						],
+						[
+							-80.844022,
+							35.499745
+						],
+						[
+							-80.844022,
+							35.499745
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“In an attention economy, information is not scarce, but our attention is.” -\nAssociate Provost of Digital Learning, Amy Collier (@amcollier) talking #misinformation, #disinformation, &amp; #informationenvironmentalism this afternoon @DavidsonCTL. https://t.co/PRd3RWAWLU"
+	},
+	{
+		"created_at": "Mon Jan 28 20:32:55 +0000 2019",
+		"id": 1089984689845256200,
+		"id_str": "1089984689845256193",
+		"full_text": "@rexparker Also, regular in the sense of once a year or so ... packets of cryptics from Patrick Berry https://t.co/TEaWeOQX4g",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rexparker",
+					"name": "Rex Parker🏹🏹🏹",
+					"id": 14230012,
+					"id_str": "14230012",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TEaWeOQX4g",
+					"expanded_url": "http://bit.ly/2Gajoat",
+					"display_url": "bit.ly/2Gajoat",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1089979942643867600,
+		"in_reply_to_status_id_str": "1089979942643867648",
+		"in_reply_to_user_id": 14230012,
+		"in_reply_to_user_id_str": "14230012",
+		"in_reply_to_screen_name": "rexparker",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 686,
+			"friends_count": 1091,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6347,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7646,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rexparker Also, regular in the sense of once a year or so ... packets of cryptics from Patrick Berry https://t.co/TEaWeOQX4g"
+	},
+	{
+		"created_at": "Mon Jan 28 20:23:18 +0000 2019",
+		"id": 1089982267211083800,
+		"id_str": "1089982267211083781",
+		"full_text": "@rexparker Also not to be missed is the monthly cryptic by Cox/Rathvon in the WSJ ... @CrosswordButler picks it up https://t.co/A0H894L69F",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rexparker",
+					"name": "Rex Parker🏹🏹🏹",
+					"id": 14230012,
+					"id_str": "14230012",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "CrosswordButler",
+					"name": "Crossword Butler",
+					"id": 4447060814,
+					"id_str": "4447060814",
+					"indices": [
+						86,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/A0H894L69F",
+					"expanded_url": "https://twitter.com/CrosswordButler/status/1088906193995747328",
+					"display_url": "twitter.com/CrosswordButle…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1089979942643867600,
+		"in_reply_to_status_id_str": "1089979942643867648",
+		"in_reply_to_user_id": 14230012,
+		"in_reply_to_user_id_str": "14230012",
+		"in_reply_to_screen_name": "rexparker",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 686,
+			"friends_count": 1091,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6347,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7646,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1088906193995747300,
+		"quoted_status_id_str": "1088906193995747328",
+		"quoted_status_permalink": {
+			"url": "https://t.co/A0H894L69F",
+			"expanded": "https://twitter.com/CrosswordButler/status/1088906193995747328",
+			"display": "twitter.com/CrosswordButle…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 25 21:07:22 +0000 2019",
+			"id": 1088906193995747300,
+			"id_str": "1088906193995747328",
+			"full_text": "New from the WSJ: Notification (Saturday Puzzle, January 26) https://t.co/zjAWjxcS5E",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				84
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zjAWjxcS5E",
+						"expanded_url": "https://on.wsj.com/2S98YhB",
+						"display_url": "on.wsj.com/2S98YhB",
+						"indices": [
+							61,
+							84
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4447060814,
+				"id_str": "4447060814",
+				"name": "Crossword Butler",
+				"screen_name": "CrosswordButler",
+				"location": "",
+				"description": "Tweeting new crosswords as they appear.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 510,
+				"friends_count": 12,
+				"listed_count": 10,
+				"created_at": "Thu Dec 03 23:57:14 +0000 2015",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2801,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/672566226359484416/ugsGwl7L_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/672566226359484416/ugsGwl7L_normal.png",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rexparker Also not to be missed is the monthly cryptic by Cox/Rathvon in the WSJ ... @CrosswordButler picks it up https://t.co/A0H894L69F"
+	},
+	{
+		"created_at": "Mon Jan 28 20:11:26 +0000 2019",
+		"id": 1089979282036789200,
+		"id_str": "1089979282036789248",
+		"full_text": "The only reason that things exist is because God loves them... https://t.co/cxmTjXqIK5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cxmTjXqIK5",
+					"expanded_url": "https://twitter.com/frjoshTX/status/1089977719276879872",
+					"display_url": "twitter.com/frjoshTX/statu…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 686,
+			"friends_count": 1091,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6347,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7646,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1089977719276879900,
+		"quoted_status_id_str": "1089977719276879872",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cxmTjXqIK5",
+			"expanded": "https://twitter.com/frjoshTX/status/1089977719276879872",
+			"display": "twitter.com/frjoshTX/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 28 20:05:13 +0000 2019",
+			"id": 1089977719276879900,
+			"id_str": "1089977719276879872",
+			"full_text": "“God loves all existing things.”\n-St. Thomas Aquinas",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				52
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1292786593,
+				"id_str": "1292786593",
+				"name": "Fr. Joshua J. Whitfield",
+				"screen_name": "frjoshTX",
+				"location": "Dallas, Texas",
+				"description": "Catholic Priest @StRitaDallas + Author, Pilgrim Holiness @wipfandstock & The Crisis of Bad Preaching, out 2019 from @avemariapress. Oft a writer @dallasnews.",
+				"url": "https://t.co/VV27ttYTt7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VV27ttYTt7",
+								"expanded_url": "https://www.avemariapress.com/product/1-59471-835-0/The-Crisis-of-Bad-Preaching/#description_tab",
+								"display_url": "avemariapress.com/product/1-5947…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2327,
+				"friends_count": 1062,
+				"listed_count": 45,
+				"created_at": "Sat Mar 23 23:03:55 +0000 2013",
+				"favourites_count": 2961,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5463,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/644831426936877056/tro8UUlM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/644831426936877056/tro8UUlM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1292786593/1494022385",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "18810aa5b43e76c7",
+				"url": "https://api.twitter.com/1.1/geo/id/18810aa5b43e76c7.json",
+				"place_type": "city",
+				"name": "Dallas",
+				"full_name": "Dallas, TX",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-96.977527,
+								32.620678
+							],
+							[
+								-96.54598,
+								32.620678
+							],
+							[
+								-96.54598,
+								33.019039
+							],
+							[
+								-96.977527,
+								33.019039
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The only reason that things exist is because God loves them... https://t.co/cxmTjXqIK5"
+	},
+	{
+		"created_at": "Sun Jan 27 19:20:44 +0000 2019",
+		"id": 1089604134146314200,
+		"id_str": "1089970513076781057",
+		"full_text": "\"we'll look back on our digital devices the way we do at cigarettes.\" something like that. &amp; how will we look back at the enormous number of promoters, apologists,  \"nuanced\" &amp; \"critics are Luddites\" writers inside &amp; outside the academy, one wonders https://t.co/J5ggMEvnks",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			285
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J5ggMEvnks",
+					"expanded_url": "https://www.gq.com/story/cal-newport-digital-minimalism?verso=true",
+					"display_url": "gq.com/story/cal-newp…",
+					"indices": [
+						262,
+						285
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14304930,
+			"id_str": "14304930",
+			"name": "David Golumbia",
+			"screen_name": "dgolumbia",
+			"location": "Richmond, VA",
+			"description": "spent 45 minutes last night, parallel crease pow",
+			"url": "https://t.co/rafPG1kAbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rafPG1kAbR",
+							"expanded_url": "http://www.uncomputing.org",
+							"display_url": "uncomputing.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4683,
+			"friends_count": 2726,
+			"listed_count": 335,
+			"created_at": "Fri Apr 04 18:12:53 +0000 2008",
+			"favourites_count": 39842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59634,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/637295698107432960/1RZZEsx2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/637295698107432960/1RZZEsx2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14304930/1368896624",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 94,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"we'll look back on our digital devices the way we do at cigarettes.\" something like that. &amp; how will we look back at the enormous number of promoters, apologists,  \"nuanced\" &amp; \"critics are Luddites\" writers inside &amp; outside the academy, one wonders https://t.co/J5ggMEvnks"
+	},
+	{
+		"created_at": "Mon Jan 28 19:20:47 +0000 2019",
+		"id": 1089966534376767500,
+		"id_str": "1089969593802723328",
+		"full_text": "The University of Iowa @uiowa is cancelling classes due to the inclement weather.  I wonder if other academic institutions in Iowa are following suit ... 🤔#iowa #whyowa #iceowa https://t.co/p1WwyQakOC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iowa",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "whyowa",
+					"indices": [
+						161,
+						168
+					]
+				},
+				{
+					"text": "iceowa",
+					"indices": [
+						169,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "uiowa",
+					"name": "University of Iowa",
+					"id": 14534931,
+					"id_str": "14534931",
+					"indices": [
+						23,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/p1WwyQakOC",
+					"expanded_url": "https://twitter.com/uiowa/status/1089961772239462401",
+					"display_url": "twitter.com/uiowa/status/1…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1038098888966717400,
+			"id_str": "1038098888966717440",
+			"name": "Jarren Santos",
+			"screen_name": "dasil_jarren",
+			"location": "Grinnell, IA",
+			"description": "Data Scientist @ DASIL https://t.co/4R5H0A2Smc; I'm known for my socially inquisitive personality and my #dadjokes",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4R5H0A2Smc",
+							"expanded_url": "https://dasil.sites.grinnell.edu/",
+							"display_url": "dasil.sites.grinnell.edu",
+							"indices": [
+								23,
+								46
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 28,
+			"friends_count": 82,
+			"listed_count": 1,
+			"created_at": "Fri Sep 07 16:17:16 +0000 2018",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 141,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1042851505571655680/vnYohksI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042851505571655680/vnYohksI_normal.jpg",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1089961772239462400,
+		"quoted_status_id_str": "1089961772239462401",
+		"quoted_status_permalink": {
+			"url": "https://t.co/p1WwyQakOC",
+			"expanded": "https://twitter.com/uiowa/status/1089961772239462401",
+			"display": "twitter.com/uiowa/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 28 19:01:51 +0000 2019",
+			"id": 1089961772239462400,
+			"id_str": "1089961772239462401",
+			"full_text": "Class cancellations will include:\nTuesday: all evening classes beginning at 5 p.m. or later.\nWednesday: all classes.\nThursday: all morning classes. Classes resume at 12:00 p.m. (noon). https://t.co/SwWlMySczA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				184
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SwWlMySczA",
+						"expanded_url": "https://twitter.com/uiowa/status/1089961587153256449",
+						"display_url": "twitter.com/uiowa/status/1…",
+						"indices": [
+							185,
+							208
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14534931,
+				"id_str": "14534931",
+				"name": "University of Iowa",
+				"screen_name": "uiowa",
+				"location": "Iowa City, IA",
+				"description": "Official University of Iowa account. With more than 200 areas of study, the University of Iowa enrolls 30,000+ students and offers many top-ranked programs.",
+				"url": "https://t.co/zHjesDb3ER",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zHjesDb3ER",
+								"expanded_url": "http://www.uiowa.edu",
+								"display_url": "uiowa.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 108862,
+				"friends_count": 688,
+				"listed_count": 1094,
+				"created_at": "Fri Apr 25 21:39:13 +0000 2008",
+				"favourites_count": 17622,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16298,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "100F0F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/969237436969639939/2E1R4Qy__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/969237436969639939/2E1R4Qy__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14534931/1548282876",
+				"profile_link_color": "FCD116",
+				"profile_sidebar_border_color": "5E5555",
+				"profile_sidebar_fill_color": "FFE100",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1089961587153256400,
+			"quoted_status_id_str": "1089961587153256449",
+			"quoted_status_permalink": {
+				"url": "https://t.co/SwWlMySczA",
+				"expanded": "https://twitter.com/uiowa/status/1089961587153256449",
+				"display": "twitter.com/uiowa/status/1…"
+			},
+			"retweet_count": 232,
+			"favorite_count": 838,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The University of Iowa @uiowa is cancelling classes due to the inclement weather.  I wonder if other academic institutions in Iowa are following suit ... 🤔#iowa #whyowa #iceowa https://t.co/p1WwyQakOC"
+	},
+	{
+		"created_at": "Mon Jan 28 15:49:48 +0000 2019",
+		"id": 1089913439059918800,
+		"id_str": "1089945088376090624",
+		"full_text": "Going to #ELI2019? Striving to get a digital competencies initiative going on your campus? There's still room in the pre-conference workshop Local &amp; Global Decisions: Development &amp; Assessment of Digital Competency Initiatives!\nhttps://t.co/rD9yqlY8Hg https://t.co/9DpTNqHGxT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELI2019",
+					"indices": [
+						9,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rD9yqlY8Hg",
+					"expanded_url": "https://events.educause.edu/eli/annual-meeting/2019/agenda/local-and-global-decisions-development-and-assessment-of-digital-competency-initiatives",
+					"display_url": "events.educause.edu/eli/annual-mee…",
+					"indices": [
+						235,
+						258
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1089913426628018200,
+					"id_str": "1089913426628018176",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/DyAmfKYXgAAS4ZU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyAmfKYXgAAS4ZU.jpg",
+					"url": "https://t.co/9DpTNqHGxT",
+					"display_url": "pic.twitter.com/9DpTNqHGxT",
+					"expanded_url": "https://twitter.com/sendelbach/status/1089913439059918849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 347,
+							"h": 101,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 101,
+							"h": 101,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 347,
+							"h": 101,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 347,
+							"h": 101,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089913426628018200,
+					"id_str": "1089913426628018176",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/DyAmfKYXgAAS4ZU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyAmfKYXgAAS4ZU.jpg",
+					"url": "https://t.co/9DpTNqHGxT",
+					"display_url": "pic.twitter.com/9DpTNqHGxT",
+					"expanded_url": "https://twitter.com/sendelbach/status/1089913439059918849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 347,
+							"h": 101,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 101,
+							"h": 101,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 347,
+							"h": 101,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 347,
+							"h": 101,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14239350,
+			"id_str": "14239350",
+			"name": "Donnie Sendelbach",
+			"screen_name": "sendelbach",
+			"location": "Columbus, OH",
+			"description": "instructional technologist, digital humanist, educator, academic leader, innovator, explorer, Russianist, gardener, wine taster, Grinnell alum, tweets my own",
+			"url": "https://t.co/E0aDDJaGDX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/E0aDDJaGDX",
+							"expanded_url": "http://www.linkedin.com/pub/donnie-sendelbach/13/6b2/1b7",
+							"display_url": "linkedin.com/pub/donnie-sen…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 375,
+			"friends_count": 305,
+			"listed_count": 59,
+			"created_at": "Thu Mar 27 22:30:13 +0000 2008",
+			"favourites_count": 6214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7488,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/774792146155106304/8DrXLrq8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/774792146155106304/8DrXLrq8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14239350/1402001513",
+			"profile_link_color": "3BC8DB",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Going to #ELI2019? Striving to get a digital competencies initiative going on your campus? There's still room in the pre-conference workshop Local &amp; Global Decisions: Development &amp; Assessment of Digital Competency Initiatives!\nhttps://t.co/rD9yqlY8Hg https://t.co/9DpTNqHGxT"
+	},
+	{
+		"created_at": "Mon Jan 28 15:58:23 +0000 2019",
+		"id": 1089915602267979800,
+		"id_str": "1089921039042297857",
+		"full_text": "Receive large files from anyone directly into your Google Drive https://t.co/JtRxRbM4c5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JtRxRbM4c5",
+					"expanded_url": "https://www.youtube.com/watch?v=unaDRVKy_uA",
+					"display_url": "youtube.com/watch?v=unaDRV…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 724473,
+			"id_str": "724473",
+			"name": "Amit Agarwal",
+			"screen_name": "labnol",
+			"location": "Email: amit@labnol.org",
+			"description": "Web Geek, Computer Science Engineer (IIT), Google Apps Script developer and founder of https://t.co/qKUw0htMI8, a popular tech howto website since 2004 \n🇮🇳",
+			"url": "https://t.co/dBNrxq2qhD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dBNrxq2qhD",
+							"expanded_url": "https://digitalinspiration.com",
+							"display_url": "digitalinspiration.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/qKUw0htMI8",
+							"expanded_url": "https://www.labnol.org",
+							"display_url": "labnol.org",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 95272,
+			"friends_count": 248,
+			"listed_count": 2821,
+			"created_at": "Mon Jan 29 07:56:35 +0000 2007",
+			"favourites_count": 5321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12239,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "00ABF0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039044051717238792/A2vhr28V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039044051717238792/A2vhr28V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/724473/1536562508",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "7B8894",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Receive large files from anyone directly into your Google Drive https://t.co/JtRxRbM4c5"
+	},
+	{
 		"created_at": "Mon Jan 28 00:14:28 +0000 2019",
 		"id": 1089678055818383400,
 		"id_str": "1089678055818383365",
