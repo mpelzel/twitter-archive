@@ -1,6 +1,1472 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 29 21:56:02 +0000 2019",
+		"id": 1090367993023004700,
+		"id_str": "1090367993023004675",
+		"full_text": "@SarahJPurcell @GrinnellCollege Hooray!",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarahJPurcell",
+					"name": "Sarah J. Purcell",
+					"id": 386185407,
+					"id_str": "386185407",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "GrinnellCollege",
+					"name": "Grinnell College",
+					"id": 17652635,
+					"id_str": "17652635",
+					"indices": [
+						15,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1090362906196222000,
+		"in_reply_to_status_id_str": "1090362906196221954",
+		"in_reply_to_user_id": 386185407,
+		"in_reply_to_user_id_str": "386185407",
+		"in_reply_to_screen_name": "SarahJPurcell",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 686,
+			"friends_count": 1095,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7656,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SarahJPurcell @GrinnellCollege Hooray!"
+	},
+	{
+		"created_at": "Tue Jan 29 21:23:14 +0000 2019",
+		"id": 1090359740369121300,
+		"id_str": "1090359895512231936",
+		"full_text": "Grinnell College UPDATE\n\nDue to dangerously low temperatures, Grinnell College will remain closed until noon on Thursday, Jan. 31 (instead of 8 a.m. Thursday, Jan. 31). Campus will be closed beginning at 5 p.m. this evening. All classes are cancelled... https://t.co/8SqNCQoAQ3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8SqNCQoAQ3",
+					"expanded_url": "http://www.grinnell.edu/",
+					"display_url": "grinnell.edu",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90937590,
+			"id_str": "90937590",
+			"name": "ourgrinnell",
+			"screen_name": "ourgrinnell",
+			"location": "Grinnell",
+			"description": "A current source for news, events and all things Grinnell. It's yours and mine - it's OurGrinnell.",
+			"url": "http://t.co/f9HXWfIeso",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/f9HXWfIeso",
+							"expanded_url": "http://www.ourgrinnell.com",
+							"display_url": "ourgrinnell.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 728,
+			"friends_count": 446,
+			"listed_count": 17,
+			"created_at": "Wed Nov 18 19:18:04 +0000 2009",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3273,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4A8C51",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102982887/oglogogreen5_copy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102982887/oglogogreen5_copy_normal.jpg",
+			"profile_link_color": "FFA200",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "FAECD5",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Grinnell College UPDATE\n\nDue to dangerously low temperatures, Grinnell College will remain closed until noon on Thursday, Jan. 31 (instead of 8 a.m. Thursday, Jan. 31). Campus will be closed beginning at 5 p.m. this evening. All classes are cancelled... https://t.co/8SqNCQoAQ3"
+	},
+	{
+		"created_at": "Tue Jan 29 21:17:37 +0000 2019",
+		"id": 1090358325911437300,
+		"id_str": "1090358558955319296",
+		"full_text": "Cold Hard Facts About the Polar Vortex   via @NYTimes https://t.co/kLPcJtPuLz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						45,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kLPcJtPuLz",
+					"expanded_url": "https://nyti.ms/2HB4Fr5?smid=nytcore-ios-share",
+					"display_url": "nyti.ms/2HB4Fr5?smid=n…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 386185407,
+			"id_str": "386185407",
+			"name": "Sarah J. Purcell",
+			"screen_name": "SarahJPurcell",
+			"location": "Grinnell, IA",
+			"description": "Historian. Teacher. Writer. Amateur baker. Far too many meetings...",
+			"url": "https://t.co/3argZ5h0p5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3argZ5h0p5",
+							"expanded_url": "http://www.grinnell.edu/users/purcelsj#profile-person",
+							"display_url": "grinnell.edu/users/purcelsj…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2106,
+			"friends_count": 2991,
+			"listed_count": 112,
+			"created_at": "Thu Oct 06 20:20:16 +0000 2011",
+			"favourites_count": 9942,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16854,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/899711966133927936/dYax2mPk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/899711966133927936/dYax2mPk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/386185407/1398354374",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cold Hard Facts About the Polar Vortex   via @NYTimes https://t.co/kLPcJtPuLz"
+	},
+	{
+		"created_at": "Tue Jan 29 21:18:27 +0000 2019",
+		"id": 1090358534548672500,
+		"id_str": "1090358534548672518",
+		"full_text": "@SarahJPurcell @GrinnellCollege I've just been directed by my supervisor to head home now ... reports are that conditions on Hwy 6 are deteriorating. Be safe!",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarahJPurcell",
+					"name": "Sarah J. Purcell",
+					"id": 386185407,
+					"id_str": "386185407",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "GrinnellCollege",
+					"name": "Grinnell College",
+					"id": 17652635,
+					"id_str": "17652635",
+					"indices": [
+						15,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1090336676570980400,
+		"in_reply_to_status_id_str": "1090336676570980355",
+		"in_reply_to_user_id": 386185407,
+		"in_reply_to_user_id_str": "386185407",
+		"in_reply_to_screen_name": "SarahJPurcell",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 686,
+			"friends_count": 1095,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7656,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SarahJPurcell @GrinnellCollege I've just been directed by my supervisor to head home now ... reports are that conditions on Hwy 6 are deteriorating. Be safe!"
+	},
+	{
+		"created_at": "Tue Jan 29 20:59:47 +0000 2019",
+		"id": 1090353839956525000,
+		"id_str": "1090353839956525058",
+		"full_text": ".@NYT_first_said seems almost as much a copy editor or spellchecker as anything... https://t.co/cgjZSCBKg3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NYT_first_said",
+					"name": "New New York Times",
+					"id": 838207103852396500,
+					"id_str": "838207103852396544",
+					"indices": [
+						1,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cgjZSCBKg3",
+					"expanded_url": "https://twitter.com/NYT_first_said/status/1090353149628555264",
+					"display_url": "twitter.com/NYT_first_said…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 686,
+			"friends_count": 1095,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7656,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1090353149628555300,
+		"quoted_status_id_str": "1090353149628555264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cgjZSCBKg3",
+			"expanded": "https://twitter.com/NYT_first_said/status/1090353149628555264",
+			"display": "twitter.com/NYT_first_said…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 29 20:57:03 +0000 2019",
+			"id": 1090353149628555300,
+			"id_str": "1090353149628555264",
+			"full_text": "funelled",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				8
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://maxbittker.github.io\" rel=\"nofollow\">nyt-newwords</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 838207103852396500,
+				"id_str": "838207103852396544",
+				"name": "New New York Times",
+				"screen_name": "NYT_first_said",
+				"location": "",
+				"description": "Tweets words when they appear in the New York Times for the first time.   🗞 questions & concerns: @maxbittker",
+				"url": "https://t.co/IzV3oIKXXI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IzV3oIKXXI",
+								"expanded_url": "http://github.com/MaxBittker/NYT-first-said",
+								"display_url": "github.com/MaxBittker/NYT…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 46240,
+				"friends_count": 12,
+				"listed_count": 359,
+				"created_at": "Sun Mar 05 01:58:41 +0000 2017",
+				"favourites_count": 12,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12361,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/838216867177115648/NbpMB0cI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/838216867177115648/NbpMB0cI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/838207103852396544/1488744904",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@NYT_first_said seems almost as much a copy editor or spellchecker as anything... https://t.co/cgjZSCBKg3"
+	},
+	{
+		"created_at": "Sun Jan 27 20:10:04 +0000 2019",
+		"id": 1089616550787760100,
+		"id_str": "1090345948449001472",
+		"full_text": "The @NWSDesMoines regarding the upcoming cold in the Upper Midwst and Great Lakes: \"This is the coldest air many of us will have ever experienced.\" https://t.co/OykrGHmgoU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NWSDesMoines",
+					"name": "NWS Des Moines",
+					"id": 601283082,
+					"id_str": "601283082",
+					"indices": [
+						4,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OykrGHmgoU",
+					"expanded_url": "https://wapo.st/2G165ZD",
+					"display_url": "wapo.st/2G165ZD",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15309804,
+			"id_str": "15309804",
+			"name": "Capital Weather Gang",
+			"screen_name": "capitalweather",
+			"location": "Washington, D.C.",
+			"description": "D.C.-area and worldwide weather news from the Washington Post | contact: weather@washpost.com",
+			"url": "https://t.co/8kQb979xh9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8kQb979xh9",
+							"expanded_url": "http://www.washingtonpost.com/news/capital-weather-gang/",
+							"display_url": "washingtonpost.com/news/capital-w…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1072855,
+			"friends_count": 1492,
+			"listed_count": 5495,
+			"created_at": "Thu Jul 03 16:18:31 +0000 2008",
+			"favourites_count": 21033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 83605,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/690370402997125120/z108UqEi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/690370402997125120/z108UqEi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15309804/1541379607",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @NWSDesMoines regarding the upcoming cold in the Upper Midwst and Great Lakes: \"This is the coldest air many of us will have ever experienced.\" https://t.co/OykrGHmgoU"
+	},
+	{
+		"created_at": "Tue Jan 29 19:51:35 +0000 2019",
+		"id": 1090336676570980400,
+		"id_str": "1090343012981489665",
+		"full_text": "Haven’t ever seen @GrinnellCollege close in advance or for more than one day, but I’m glad we are this week for the BLISTERING cold. Stay warm!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GrinnellCollege",
+					"name": "Grinnell College",
+					"id": 17652635,
+					"id_str": "17652635",
+					"indices": [
+						18,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 386185407,
+			"id_str": "386185407",
+			"name": "Sarah J. Purcell",
+			"screen_name": "SarahJPurcell",
+			"location": "Grinnell, IA",
+			"description": "Historian. Teacher. Writer. Amateur baker. Far too many meetings...",
+			"url": "https://t.co/3argZ5h0p5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3argZ5h0p5",
+							"expanded_url": "http://www.grinnell.edu/users/purcelsj#profile-person",
+							"display_url": "grinnell.edu/users/purcelsj…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2106,
+			"friends_count": 2991,
+			"listed_count": 112,
+			"created_at": "Thu Oct 06 20:20:16 +0000 2011",
+			"favourites_count": 9942,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16854,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/899711966133927936/dYax2mPk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/899711966133927936/dYax2mPk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/386185407/1398354374",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Haven’t ever seen @GrinnellCollege close in advance or for more than one day, but I’m glad we are this week for the BLISTERING cold. Stay warm!"
+	},
+	{
+		"created_at": "Tue Jan 29 17:34:06 +0000 2019",
+		"id": 1090302076222083100,
+		"id_str": "1090302076222083073",
+		"full_text": "On the power of collaborative knowledge building, hyperlinks and ... the wiki game https://t.co/JjB8gcPw36 https://t.co/MRHF7Mj350",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JjB8gcPw36",
+					"expanded_url": "http://bit.ly/2G9e5I1",
+					"display_url": "bit.ly/2G9e5I1",
+					"indices": [
+						83,
+						106
+					]
+				},
+				{
+					"url": "https://t.co/MRHF7Mj350",
+					"expanded_url": "https://twitter.com/harrisonstephen/status/1090010026092253185",
+					"display_url": "twitter.com/harrisonstephe…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 686,
+			"friends_count": 1095,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7656,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1090010026092253200,
+		"quoted_status_id_str": "1090010026092253185",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MRHF7Mj350",
+			"expanded": "https://twitter.com/harrisonstephen/status/1090010026092253185",
+			"display": "twitter.com/harrisonstephe…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 28 22:13:36 +0000 2019",
+			"id": 1090010026092253200,
+			"id_str": "1090010026092253185",
+			"full_text": "Proud to announce: Starting a new regular column for @Slate. SOURCE NOTES will explore @Wikipedia, digital knowledge, and the search for a fact-based world. Here's the first entry:\n\nhttps://t.co/Vym1Tg0plB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				205
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Slate",
+						"name": "Slate",
+						"id": 15164565,
+						"id_str": "15164565",
+						"indices": [
+							53,
+							59
+						]
+					},
+					{
+						"screen_name": "Wikipedia",
+						"name": "Wikipedia",
+						"id": 86390214,
+						"id_str": "86390214",
+						"indices": [
+							87,
+							97
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Vym1Tg0plB",
+						"expanded_url": "https://slate.com/technology/2019/01/wikipedia-doctors-medical-knowledge-study.html",
+						"display_url": "slate.com/technology/201…",
+						"indices": [
+							182,
+							205
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 87345997,
+				"id_str": "87345997",
+				"name": "Stephen Harrison",
+				"screen_name": "harrisonstephen",
+				"location": "",
+				"description": "SOURCE NOTES columnist for @Slate. Bylines: @NYTimes, @WashingtonPost, & @TheAtlantic. Probably writing about Wikipedia right now.",
+				"url": "https://t.co/5l3k33bpiR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5l3k33bpiR",
+								"expanded_url": "http://stephenharrison.com",
+								"display_url": "stephenharrison.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1099,
+				"friends_count": 1160,
+				"listed_count": 34,
+				"created_at": "Wed Nov 04 02:38:55 +0000 2009",
+				"favourites_count": 1591,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 958,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/991372835326078977/zGvltP6Y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/991372835326078977/zGvltP6Y_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 71,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On the power of collaborative knowledge building, hyperlinks and ... the wiki game https://t.co/JjB8gcPw36 https://t.co/MRHF7Mj350"
+	},
+	{
+		"created_at": "Mon Jan 28 21:22:10 +0000 2019",
+		"id": 1089997085045411800,
+		"id_str": "1090089885531279360",
+		"full_text": "#Stormlake, the most diverse city in Iowa, is a pretty safe place despite presidential invective about #immigration. So says our police chief. Read about it in The @SLTimes. https://t.co/YtEdh9QK9n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Stormlake",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "immigration",
+					"indices": [
+						103,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SLTimes",
+					"name": "The Storm Lake Times",
+					"id": 42892765,
+					"id_str": "42892765",
+					"indices": [
+						164,
+						172
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YtEdh9QK9n",
+					"expanded_url": "https://twitter.com/mpross1/status/1089988778469539843",
+					"display_url": "twitter.com/mpross1/status…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1074096082475499500,
+			"id_str": "1074096082475499521",
+			"name": "Art Cullen",
+			"screen_name": "cullen_art",
+			"location": "Storm Lake Iowa",
+			"description": "Editor The Storm Lake Times, author of the book “Storm Lake: A Chronicle of Change, Resilience, and Hope from a Heartland Newspaper”. Pulitzer Prize winner.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 649,
+			"friends_count": 190,
+			"listed_count": 7,
+			"created_at": "Sun Dec 16 00:17:16 +0000 2018",
+			"favourites_count": 331,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 175,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074103634818826241/cr6LVQMi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074103634818826241/cr6LVQMi_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1089988778469539800,
+		"quoted_status_id_str": "1089988778469539843",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YtEdh9QK9n",
+			"expanded": "https://twitter.com/mpross1/status/1089988778469539843",
+			"display": "twitter.com/mpross1/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 28 20:49:10 +0000 2019",
+			"id": 1089988778469539800,
+			"id_str": "1089988778469539843",
+			"full_text": "Some say a wall will reduce crime\nIn Storm Lake, IA we prefer to build bridges\nSL is more diverse than ever\n25-30 languages spoken in a community of 14k\nSerious crime down 21.5% from 2017\nSerious crime at 27 year low \n#StormLakeProud @NatImmForum @anoorani @Storm_Lake https://t.co/PCfPp71fGy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				268
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "StormLakeProud",
+						"indices": [
+							218,
+							233
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NatImmForum",
+						"name": "National Immigration Forum",
+						"id": 16801671,
+						"id_str": "16801671",
+						"indices": [
+							234,
+							246
+						]
+					},
+					{
+						"screen_name": "anoorani",
+						"name": "Ali Noorani",
+						"id": 14197213,
+						"id_str": "14197213",
+						"indices": [
+							247,
+							256
+						]
+					},
+					{
+						"screen_name": "Storm_Lake",
+						"name": "City of Storm Lake",
+						"id": 77778679,
+						"id_str": "77778679",
+						"indices": [
+							257,
+							268
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1089988768449192000,
+						"id_str": "1089988768449191936",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/media/DyBrAoiUYAAVUYj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DyBrAoiUYAAVUYj.jpg",
+						"url": "https://t.co/PCfPp71fGy",
+						"display_url": "pic.twitter.com/PCfPp71fGy",
+						"expanded_url": "https://twitter.com/mpross1/status/1089988778469539843/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1089988768449192000,
+						"id_str": "1089988768449191936",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/media/DyBrAoiUYAAVUYj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DyBrAoiUYAAVUYj.jpg",
+						"url": "https://t.co/PCfPp71fGy",
+						"display_url": "pic.twitter.com/PCfPp71fGy",
+						"expanded_url": "https://twitter.com/mpross1/status/1089988778469539843/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 55021451,
+				"id_str": "55021451",
+				"name": "Mark Prosser",
+				"screen_name": "mpross1",
+				"location": "Storm Lake, Iowa",
+				"description": "Storm Lake Public Safety Director / Police Chief  (Tweets are my own)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 245,
+				"friends_count": 403,
+				"listed_count": 0,
+				"created_at": "Wed Jul 08 20:40:18 +0000 2009",
+				"favourites_count": 8541,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2347,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/930523636116619265/UUArhfMU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/930523636116619265/UUArhfMU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/55021451/1441763081",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 67,
+			"favorite_count": 259,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 83,
+		"favorite_count": 313,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Stormlake, the most diverse city in Iowa, is a pretty safe place despite presidential invective about #immigration. So says our police chief. Read about it in The @SLTimes. https://t.co/YtEdh9QK9n"
+	},
+	{
 		"created_at": "Mon Jan 28 23:09:32 +0000 2019",
 		"id": 1090024102126075900,
 		"id_str": "1090024397103087617",
