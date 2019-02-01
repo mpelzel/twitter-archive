@@ -1,6 +1,714 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 31 22:41:58 +0000 2019",
+		"id": 1091104327748538400,
+		"id_str": "1091104327748538368",
+		"full_text": "Pretty cool that snow plow trucks in Iowa have cams that let you see what your road is looking like ... this is Hwy 6 near the turnoff for my house. https://t.co/hjn4mAeGxz https://t.co/tEgzJN0SHk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hjn4mAeGxz",
+					"expanded_url": "http://bit.ly/2GbDpNG",
+					"display_url": "bit.ly/2GbDpNG",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1091104317858168800,
+					"id_str": "1091104317858168832",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/DyRhmJ7UwAAoDSN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyRhmJ7UwAAoDSN.jpg",
+					"url": "https://t.co/tEgzJN0SHk",
+					"display_url": "pic.twitter.com/tEgzJN0SHk",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1091104327748538368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 326,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 575,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1631,
+							"h": 782,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1091104317858168800,
+					"id_str": "1091104317858168832",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/DyRhmJ7UwAAoDSN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyRhmJ7UwAAoDSN.jpg",
+					"url": "https://t.co/tEgzJN0SHk",
+					"display_url": "pic.twitter.com/tEgzJN0SHk",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1091104327748538368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 326,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 575,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1631,
+							"h": 782,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 688,
+			"friends_count": 1098,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6372,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7677,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pretty cool that snow plow trucks in Iowa have cams that let you see what your road is looking like ... this is Hwy 6 near the turnoff for my house. https://t.co/hjn4mAeGxz https://t.co/tEgzJN0SHk"
+	},
+	{
+		"created_at": "Thu Jan 31 17:54:57 +0000 2019",
+		"id": 1091032100059471900,
+		"id_str": "1091032100059471882",
+		"full_text": ".@cljennings https://t.co/PlzBftmlmd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cljennings",
+					"name": "Cindy Jennings",
+					"id": 14954268,
+					"id_str": "14954268",
+					"indices": [
+						1,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PlzBftmlmd",
+					"expanded_url": "https://twitter.com/NotEvenPast/status/1091001459611709440",
+					"display_url": "twitter.com/NotEvenPast/st…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 688,
+			"friends_count": 1098,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6372,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7677,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1091001459611709400,
+		"quoted_status_id_str": "1091001459611709440",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PlzBftmlmd",
+			"expanded": "https://twitter.com/NotEvenPast/status/1091001459611709440",
+			"display": "twitter.com/NotEvenPast/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 31 15:53:12 +0000 2019",
+			"id": 1091001459611709400,
+			"id_str": "1091001459611709440",
+			"full_text": "In her archive \"Food Migrations: Texas Czech Culinary Traditions,\" Tracy Heim digitized Czech cookbooks, offering a tasty lens to study and think about immigration histories. @UT_HistDept #dighist #publichistory @BriscoeCenter https://t.co/cFXBnd7MBW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				250
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "dighist",
+						"indices": [
+							188,
+							196
+						]
+					},
+					{
+						"text": "publichistory",
+						"indices": [
+							197,
+							211
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UT_HistDept",
+						"name": "UT History Department",
+						"id": 717055881569960000,
+						"id_str": "717055881569959936",
+						"indices": [
+							175,
+							187
+						]
+					},
+					{
+						"screen_name": "BriscoeCenter",
+						"name": "Briscoe Center",
+						"id": 871859544,
+						"id_str": "871859544",
+						"indices": [
+							212,
+							226
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/cFXBnd7MBW",
+						"expanded_url": "http://scalar.usc.edu/works/food-migrations/index",
+						"display_url": "scalar.usc.edu/works/food-mig…",
+						"indices": [
+							227,
+							250
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 193744840,
+				"id_str": "193744840",
+				"name": "Not Even Past",
+				"screen_name": "NotEvenPast",
+				"location": "Austin, Texas",
+				"description": "Bringing History to the Public. Books, films, fun archival finds, videos. From the faculty & grad students of the UT Austin Dept of History.",
+				"url": "http://t.co/FxVBhRUbW6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/FxVBhRUbW6",
+								"expanded_url": "http://notevenpast.org",
+								"display_url": "notevenpast.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2789,
+				"friends_count": 1379,
+				"listed_count": 165,
+				"created_at": "Wed Sep 22 15:53:05 +0000 2010",
+				"favourites_count": 1268,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3337,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "251810",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/999475375657762817/01OZoAzn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/999475375657762817/01OZoAzn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/193744840/1527128141",
+				"profile_link_color": "00B8C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "242224",
+				"profile_text_color": "E0CCB6",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": ".@cljennings https://t.co/PlzBftmlmd"
+	},
+	{
+		"created_at": "Thu Jan 31 15:35:13 +0000 2019",
+		"id": 1090996935564120000,
+		"id_str": "1090997063456837634",
+		"full_text": "ICYMI from various sources: Lovely evolution-of-the-alphabet chart https://t.co/viQEYKrP8g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/viQEYKrP8g",
+					"expanded_url": "https://mymodernmet.com/history-of-the-alphabet-usefulcharts/",
+					"display_url": "mymodernmet.com/history-of-the…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43074937,
+			"id_str": "43074937",
+			"name": "Jesse Sheidlower",
+			"screen_name": "jessesheidlower",
+			"location": "New York",
+			"description": "Porphyricomic lexicographer & Threesome Tollbooth bar manager. Adjunct Prof @Columbia. Past Pres, Amer. Dialect Soc. Ex-@OED. The F-Word. Barbells; Perl, Python",
+			"url": "https://t.co/x3Pv0gHwIs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x3Pv0gHwIs",
+							"expanded_url": "http://www.jessesword.com",
+							"display_url": "jessesword.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7024,
+			"friends_count": 595,
+			"listed_count": 353,
+			"created_at": "Thu May 28 08:45:38 +0000 2009",
+			"favourites_count": 2405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9574,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/251332486/jestercaricature_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/251332486/jestercaricature_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43074937/1469034310",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ICYMI from various sources: Lovely evolution-of-the-alphabet chart https://t.co/viQEYKrP8g"
+	},
+	{
+		"created_at": "Thu Jan 31 14:25:06 +0000 2019",
+		"id": 1090979289951076400,
+		"id_str": "1090979887278669826",
+		"full_text": "Up next for #WPCampus Online (Room 1) at 9 am CST: \"Customizing Gutenberg: Lessons learned at Georgetown\" with @jonihalabi. #WordPress #HigherEd #EdTech #Accessibility https://t.co/CyWIa3OMPG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WPCampus",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"text": "WordPress",
+					"indices": [
+						124,
+						134
+					]
+				},
+				{
+					"text": "HigherEd",
+					"indices": [
+						135,
+						144
+					]
+				},
+				{
+					"text": "EdTech",
+					"indices": [
+						145,
+						152
+					]
+				},
+				{
+					"text": "Accessibility",
+					"indices": [
+						153,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jonihalabi",
+					"name": "Joni Halabi",
+					"id": 20656257,
+					"id_str": "20656257",
+					"indices": [
+						111,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CyWIa3OMPG",
+					"expanded_url": "https://online.wpcampus.org/schedule/customizing-gutenberg-lessons-learned-at-georgetown/",
+					"display_url": "online.wpcampus.org/schedule/custo…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3693311536,
+			"id_str": "3693311536",
+			"name": "WPCampus",
+			"screen_name": "wpcampusorg",
+			"location": "The Internet",
+			"description": "A community and conferences for #WordPress in #HigherEd. Join us January 31, 2019 for our annual virtual conference.",
+			"url": "https://t.co/9bjvOB1via",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9bjvOB1via",
+							"expanded_url": "https://wpcampus.org/",
+							"display_url": "wpcampus.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1859,
+			"friends_count": 451,
+			"listed_count": 199,
+			"created_at": "Fri Sep 18 05:20:14 +0000 2015",
+			"favourites_count": 2217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3802,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/646541604229148674/lkxlqkVS_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/646541604229148674/lkxlqkVS_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3693311536/1442982325",
+			"profile_link_color": "1159BD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Up next for #WPCampus Online (Room 1) at 9 am CST: \"Customizing Gutenberg: Lessons learned at Georgetown\" with @jonihalabi. #WordPress #HigherEd #EdTech #Accessibility https://t.co/CyWIa3OMPG"
+	},
+	{
 		"created_at": "Thu Jan 31 00:15:40 +0000 2019",
 		"id": 1090765520117420000,
 		"id_str": "1090766325419511808",
