@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 02 18:48:08 +0000 2019",
+		"id": 1091770257868501000,
+		"id_str": "1091770257868500994",
+		"full_text": "@roddreher C'mon, man, this is really petty. Metaphors and imagery of healing are abundant in the history of the Christian theology of grace ... gratia sanans, etc.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "roddreher",
+					"name": "Rod Dreher",
+					"id": 257145200,
+					"id_str": "257145200",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1091745095806791700,
+		"in_reply_to_status_id_str": "1091745095806791680",
+		"in_reply_to_user_id": 257145200,
+		"in_reply_to_user_id_str": "257145200",
+		"in_reply_to_screen_name": "roddreher",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 689,
+			"friends_count": 1099,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7687,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@roddreher C'mon, man, this is really petty. Metaphors and imagery of healing are abundant in the history of the Christian theology of grace ... gratia sanans, etc."
+	},
+	{
+		"created_at": "Fri Feb 01 23:07:15 +0000 2019",
+		"id": 1091473079203741700,
+		"id_str": "1091719693675778050",
+		"full_text": "First-ever @washingtonpost Super Bowl spot will highlight the importance of newsgathering and the dangers journalists can face.  https://t.co/8xBob165b9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "washingtonpost",
+					"name": "The Washington Post",
+					"id": 2467791,
+					"id_str": "2467791",
+					"indices": [
+						11,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8xBob165b9",
+					"expanded_url": "https://wapo.st/2GjpLbl?tid=ss_tw&utm_term=.92460b96b6f1",
+					"display_url": "wapo.st/2GjpLbl?tid=ss…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 232235048,
+			"id_str": "232235048",
+			"name": "Marty Baron",
+			"screen_name": "PostBaron",
+			"location": "Washington, D.C.",
+			"description": "Executive Editor, The Washington Post. Oversee news and features coverage, not Opinions department.",
+			"url": "https://t.co/fJMCeIYylK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fJMCeIYylK",
+							"expanded_url": "http://www.washingtonpost.com",
+							"display_url": "washingtonpost.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 70879,
+			"friends_count": 527,
+			"listed_count": 1627,
+			"created_at": "Thu Dec 30 16:09:00 +0000 2010",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2202,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1599567859/baronphotoupdate_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1599567859/baronphotoupdate_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1564,
+		"favorite_count": 4278,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "First-ever @washingtonpost Super Bowl spot will highlight the importance of newsgathering and the dangers journalists can face.  https://t.co/8xBob165b9"
+	},
+	{
+		"created_at": "Sat Feb 02 14:58:02 +0000 2019",
+		"id": 1091712350397349900,
+		"id_str": "1091717810768789505",
+		"full_text": "Worth reading to the end of this article for the story of the “oleo” controversy of 1943: \nSuppression of academic freedom (about margarine) drove 15 professors to leave ISU, including two who went on to win the Nobel prize at other schools. https://t.co/VoSJiu9Fg5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VoSJiu9Fg5",
+					"expanded_url": "https://www.radioiowa.com/2019/01/31/142445/",
+					"display_url": "radioiowa.com/2019/01/31/142…",
+					"indices": [
+						242,
+						265
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18567583,
+			"id_str": "18567583",
+			"name": "James Schnable",
+			"screen_name": "szintri",
+			"location": "Lincoln, NE",
+			"description": "Plant biologist and computer geek.",
+			"url": "http://t.co/q6mnmlffAt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/q6mnmlffAt",
+							"expanded_url": "http://www.schnablelab.org/",
+							"display_url": "schnablelab.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2111,
+			"friends_count": 420,
+			"listed_count": 54,
+			"created_at": "Fri Jan 02 23:42:41 +0000 2009",
+			"favourites_count": 4227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9254,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711964761970253824/2YYewHjw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711964761970253824/2YYewHjw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18567583/1532892303",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Worth reading to the end of this article for the story of the “oleo” controversy of 1943: \nSuppression of academic freedom (about margarine) drove 15 professors to leave ISU, including two who went on to win the Nobel prize at other schools. https://t.co/VoSJiu9Fg5"
+	},
+	{
 		"created_at": "Fri Feb 01 23:16:22 +0000 2019",
 		"id": 1091475373961797600,
 		"id_str": "1091476176017809408",
