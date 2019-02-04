@@ -1,6 +1,617 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 04 00:04:05 +0000 2019",
+		"id": 1092212157230579700,
+		"id_str": "1092212157230579718",
+		"full_text": "@KWaldenPhD May you get a small measure of revenge this evening...",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KWaldenPhD",
+					"name": "Katherine W.",
+					"id": 495562702,
+					"id_str": "495562702",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1092210884909432800,
+		"in_reply_to_status_id_str": "1092210884909432832",
+		"in_reply_to_user_id": 495562702,
+		"in_reply_to_user_id_str": "495562702",
+		"in_reply_to_screen_name": "KWaldenPhD",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 689,
+			"friends_count": 1099,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7692,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KWaldenPhD May you get a small measure of revenge this evening..."
+	},
+	{
+		"created_at": "Sun Feb 03 00:42:46 +0000 2019",
+		"id": 1091859505057595400,
+		"id_str": "1092128670955773952",
+		"full_text": "Racism doesn’t just look like a white man in blackface or a Klan hood. Sometimes, it looks like a @senatemajldr calling increased ballot access a “power grab.” My latest for @RollingStone, on Mitch McConnell, persisting nevertheless with voter suppression. https://t.co/8Y70FqhJY6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "senatemajldr",
+					"name": "Leader McConnell",
+					"id": 1249982359,
+					"id_str": "1249982359",
+					"indices": [
+						98,
+						111
+					]
+				},
+				{
+					"screen_name": "RollingStone",
+					"name": "Rolling Stone",
+					"id": 14780915,
+					"id_str": "14780915",
+					"indices": [
+						174,
+						187
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8Y70FqhJY6",
+					"expanded_url": "https://trib.al/RToiqQS",
+					"display_url": "trib.al/RToiqQS",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46213956,
+			"id_str": "46213956",
+			"name": "Jamil Smith",
+			"screen_name": "JamilSmith",
+			"location": "Los Angeles, CA",
+			"description": "Senior Writer, @RollingStone.",
+			"url": "https://t.co/Fkm4fuYZtY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Fkm4fuYZtY",
+							"expanded_url": "http://about.me/JamilSmith",
+							"display_url": "about.me/JamilSmith",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 198674,
+			"friends_count": 1056,
+			"listed_count": 4010,
+			"created_at": "Wed Jun 10 20:18:48 +0000 2009",
+			"favourites_count": 184403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 87034,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1015133464847437824/8YT_RL1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015133464847437824/8YT_RL1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46213956/1497682855",
+			"profile_link_color": "78C0C0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "3D707A",
+			"profile_text_color": "613920",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15782,
+		"favorite_count": 44108,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Racism doesn’t just look like a white man in blackface or a Klan hood. Sometimes, it looks like a @senatemajldr calling increased ballot access a “power grab.” My latest for @RollingStone, on Mitch McConnell, persisting nevertheless with voter suppression. https://t.co/8Y70FqhJY6"
+	},
+	{
+		"created_at": "Sun Feb 03 16:11:50 +0000 2019",
+		"id": 1092093314290073600,
+		"id_str": "1092094139305345024",
+		"full_text": "Happy Superb Owl Sunday! 🦉\n\n#superbowl https://t.co/i3pyVK6qQN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "superbowl",
+					"indices": [
+						28,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092093300801101800,
+					"id_str": "1092093300801101825",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DyflEifVYAE1qGu.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DyflEifVYAE1qGu.jpg",
+					"url": "https://t.co/i3pyVK6qQN",
+					"display_url": "pic.twitter.com/i3pyVK6qQN",
+					"expanded_url": "https://twitter.com/RiceUniversity/status/1092093314290073600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 266,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 266,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 266,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092093300801101800,
+					"id_str": "1092093300801101825",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DyflEifVYAE1qGu.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DyflEifVYAE1qGu.jpg",
+					"url": "https://t.co/i3pyVK6qQN",
+					"display_url": "pic.twitter.com/i3pyVK6qQN",
+					"expanded_url": "https://twitter.com/RiceUniversity/status/1092093314290073600/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 266,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 266,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 266,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							133
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DyflEifVYAE1qGu.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19720630,
+			"id_str": "19720630",
+			"name": "Rice University",
+			"screen_name": "RiceUniversity",
+			"location": "Houston, Texas",
+			"description": "Rice University fosters diversity & an intellectual environment that produces the next generation of leaders & advances tomorrow’s thinking.",
+			"url": "https://t.co/byTCvcMfDS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/byTCvcMfDS",
+							"expanded_url": "http://www.rice.edu",
+							"display_url": "rice.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32358,
+			"friends_count": 1172,
+			"listed_count": 716,
+			"created_at": "Thu Jan 29 17:07:54 +0000 2009",
+			"favourites_count": 3218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19776,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1012320236333355010/sLSWR8fX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012320236333355010/sLSWR8fX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19720630/1531511524",
+			"profile_link_color": "0A3B73",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "2B2828",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1c69a67ad480e1b1",
+			"url": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json",
+			"place_type": "city",
+			"name": "Houston",
+			"full_name": "Houston, TX",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-95.823268,
+							29.522325
+						],
+						[
+							-95.069705,
+							29.522325
+						],
+						[
+							-95.069705,
+							30.1546646
+						],
+						[
+							-95.823268,
+							30.1546646
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy Superb Owl Sunday! 🦉\n\n#superbowl https://t.co/i3pyVK6qQN"
+	},
+	{
+		"created_at": "Sun Feb 03 16:01:06 +0000 2019",
+		"id": 1092090611233099800,
+		"id_str": "1092090777092702211",
+		"full_text": "Today marks 60 years since Buddy Holly, the four-eyed country boy from Lubbock, became the first martyr of American pop culture. @mikehalltexas traveled to Iowa in 2009 to figure out what happened on the night the music died. https://t.co/q0uzYXVYTE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mikehalltexas",
+					"name": "Michael Hall",
+					"id": 238570676,
+					"id_str": "238570676",
+					"indices": [
+						129,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/q0uzYXVYTE",
+					"expanded_url": "https://www.texasmonthly.com/articles/the-night-the-music-died/?utm_source=Twitter&utm_medium=Social&utm_campaign=Archive%20Social&utm_content=thenightmusicdied",
+					"display_url": "texasmonthly.com/articles/the-n…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://coschedule.com\" rel=\"nofollow\">CoSchedule</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16365305,
+			"id_str": "16365305",
+			"name": "Texas Monthly",
+			"screen_name": "TexasMonthly",
+			"location": "Austin, TX",
+			"description": "Covering Texas news, politics, food, culture, travel, and more. RTs not endorsements. Tweets by @regmack_.",
+			"url": "https://t.co/nZv2cCoax9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nZv2cCoax9",
+							"expanded_url": "http://www.texasmonthly.com/",
+							"display_url": "texasmonthly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183264,
+			"friends_count": 725,
+			"listed_count": 3485,
+			"created_at": "Fri Sep 19 16:18:28 +0000 2008",
+			"favourites_count": 3380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 31317,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090363468434337792/J7wJX6hs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090363468434337792/J7wJX6hs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16365305/1546459916",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 148,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today marks 60 years since Buddy Holly, the four-eyed country boy from Lubbock, became the first martyr of American pop culture. @mikehalltexas traveled to Iowa in 2009 to figure out what happened on the night the music died. https://t.co/q0uzYXVYTE"
+	},
+	{
 		"created_at": "Sat Feb 02 18:48:08 +0000 2019",
 		"id": 1091770257868501000,
 		"id_str": "1091770257868500994",
