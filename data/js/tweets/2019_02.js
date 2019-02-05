@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 04 16:18:25 +0000 2019",
+		"id": 1092457358972866600,
+		"id_str": "1092461153937174530",
+		"full_text": "As photos of questionable-looking queso trend on Twitter, here's how to make some that's actually good, via @paulaforbes: https://t.co/pg6iknc9Kh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paulaforbes",
+					"name": "Paula Forbes",
+					"id": 16159644,
+					"id_str": "16159644",
+					"indices": [
+						108,
+						120
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pg6iknc9Kh",
+					"expanded_url": "https://www.texasmonthly.com/food/recipe-instant-pot-queso-with-beef/?utm_source=Twitter&utm_medium=Social&utm_campaign=Web%20Social&utm_content=instantpotqueso",
+					"display_url": "texasmonthly.com/food/recipe-in…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://coschedule.com\" rel=\"nofollow\">CoSchedule</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16365305,
+			"id_str": "16365305",
+			"name": "Texas Monthly",
+			"screen_name": "TexasMonthly",
+			"location": "Austin, TX",
+			"description": "Covering Texas news, politics, food, culture, travel, and more. RTs not endorsements. Tweets by @regmack_.",
+			"url": "https://t.co/nZv2cCoax9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nZv2cCoax9",
+							"expanded_url": "http://www.texasmonthly.com/",
+							"display_url": "texasmonthly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183287,
+			"friends_count": 725,
+			"listed_count": 3487,
+			"created_at": "Fri Sep 19 16:18:28 +0000 2008",
+			"favourites_count": 3381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 31332,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090363468434337792/J7wJX6hs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090363468434337792/J7wJX6hs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16365305/1546459916",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As photos of questionable-looking queso trend on Twitter, here's how to make some that's actually good, via @paulaforbes: https://t.co/pg6iknc9Kh"
+	},
+	{
+		"created_at": "Mon Feb 04 15:34:54 +0000 2019",
+		"id": 1092446404688130000,
+		"id_str": "1092446404688130049",
+		"full_text": "New post-doc position in the #DigitalLiberalArts (11 months, renewable) at @Macalester. Application deadline is March 1. https://t.co/rPVor4n1Iz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigitalLiberalArts",
+					"indices": [
+						29,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Macalester",
+					"name": "Macalester College",
+					"id": 27706377,
+					"id_str": "27706377",
+					"indices": [
+						75,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rPVor4n1Iz",
+					"expanded_url": "http://bit.ly/2GmWCMA",
+					"display_url": "bit.ly/2GmWCMA",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 688,
+			"friends_count": 1099,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6393,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7695,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New post-doc position in the #DigitalLiberalArts (11 months, renewable) at @Macalester. Application deadline is March 1. https://t.co/rPVor4n1Iz"
+	},
+	{
 		"created_at": "Mon Feb 04 00:04:05 +0000 2019",
 		"id": 1092212157230579700,
 		"id_str": "1092212157230579718",
