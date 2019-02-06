@@ -1,6 +1,847 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 05 20:01:51 +0000 2019",
+		"id": 1092875975300390900,
+		"id_str": "1092881663317721089",
+		"full_text": "I forgot how much I love teaching Intro to Digital Publishing. Information Architecture! Remediation! Skeuomorphs! Thanks for geeking out with me @StevensonU ENG 256 students. Here is the syllabus for those interested: https://t.co/6jLFdDRHML",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StevensonU",
+					"name": "Stevenson University",
+					"id": 18167298,
+					"id_str": "18167298",
+					"indices": [
+						146,
+						157
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6jLFdDRHML",
+					"expanded_url": "http://stevensonenglish.org/eng256-om1s-licastro19/",
+					"display_url": "stevensonenglish.org/eng256-om1s-li…",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49960538,
+			"id_str": "49960538",
+			"name": "Dr. Amanda Licastro",
+			"screen_name": "amandalicastro",
+			"location": "Baltimore, MD",
+			"description": "Assistant Professor of Digital Rhetoric at Stevenson University.  Co-founder of https://t.co/VDm8YsmpnP. DH, Comp/Rhet, Book History, and VR.",
+			"url": "https://t.co/9GnuwXH0Dn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9GnuwXH0Dn",
+							"expanded_url": "http://digitocentrism.com/",
+							"display_url": "digitocentrism.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VDm8YsmpnP",
+							"expanded_url": "http://writingstudiestree.org",
+							"display_url": "writingstudiestree.org",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2156,
+			"friends_count": 2251,
+			"listed_count": 123,
+			"created_at": "Tue Jun 23 12:23:08 +0000 2009",
+			"favourites_count": 3299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7420,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1645479503/photoshoot2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1645479503/photoshoot2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49960538/1537373847",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I forgot how much I love teaching Intro to Digital Publishing. Information Architecture! Remediation! Skeuomorphs! Thanks for geeking out with me @StevensonU ENG 256 students. Here is the syllabus for those interested: https://t.co/6jLFdDRHML"
+	},
+	{
+		"created_at": "Tue Feb 05 18:05:42 +0000 2019",
+		"id": 1092846745673969700,
+		"id_str": "1092846944903483392",
+		"full_text": "Or as I like to say, \"If it's possible to cut a word, cut it.\" \n\nI kid! I kid because I love! https://t.co/n7JQsiW5zz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n7JQsiW5zz",
+					"expanded_url": "https://twitter.com/TheOrwellPrize/status/1092841283524141056",
+					"display_url": "twitter.com/TheOrwellPrize…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 398146813,
+			"id_str": "398146813",
+			"name": "Benjamin Dreyer",
+			"screen_name": "BCDreyer",
+			"location": "NYC",
+			"description": "Copy chief, @randomhouse. Author of Dreyer's English. \"Just persnickety enough.\" —The New Yorker #CopyeditingProTip",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37031,
+			"friends_count": 3467,
+			"listed_count": 486,
+			"created_at": "Tue Oct 25 16:59:01 +0000 2011",
+			"favourites_count": 285507,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88014,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071848977719574529/17htr0-1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071848977719574529/17htr0-1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/398146813/1544464675",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1092841283524141000,
+		"quoted_status_id_str": "1092841283524141056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/n7JQsiW5zz",
+			"expanded": "https://twitter.com/TheOrwellPrize/status/1092841283524141056",
+			"display": "twitter.com/TheOrwellPrize…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 05 17:44:00 +0000 2019",
+			"id": 1092841283524141000,
+			"id_str": "1092841283524141056",
+			"full_text": "As Orwell said, \"if it is possible to cut a word out, always cut it out\"... one to read alongside 'Politics and the English Language' | The Most Redundant Words to Delete From Your Writing by @BCDreyer https://t.co/XWpI40tS8K",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				225
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BCDreyer",
+						"name": "Benjamin Dreyer",
+						"id": 398146813,
+						"id_str": "398146813",
+						"indices": [
+							192,
+							201
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/XWpI40tS8K",
+						"expanded_url": "https://link.medium.com/IIrSCjQ1JT",
+						"display_url": "link.medium.com/IIrSCjQ1JT",
+						"indices": [
+							202,
+							225
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19651183,
+				"id_str": "19651183",
+				"name": "The Orwell Foundation",
+				"screen_name": "TheOrwellPrize",
+				"location": "London, England",
+				"description": "Promoting honest writing and reporting, confronting uncomfortable truths, uncovering unheard voices | Awards The Orwell Prizes | Twts frm Steph, Robyn & Jeremy",
+				"url": "https://t.co/rTYCzuJC6W",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rTYCzuJC6W",
+								"expanded_url": "http://www.orwellfoundation.com",
+								"display_url": "orwellfoundation.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14365,
+				"friends_count": 1453,
+				"listed_count": 439,
+				"created_at": "Wed Jan 28 13:28:50 +0000 2009",
+				"favourites_count": 1442,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10993,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1080791289782767616/DwSix80y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080791289782767616/DwSix80y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19651183/1540460924",
+				"profile_link_color": "D2232A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D71923",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 54,
+		"favorite_count": 517,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Or as I like to say, \"If it's possible to cut a word, cut it.\" \n\nI kid! I kid because I love! https://t.co/n7JQsiW5zz"
+	},
+	{
+		"created_at": "Tue Feb 05 15:22:16 +0000 2019",
+		"id": 1092805615368499200,
+		"id_str": "1092808737771933696",
+		"full_text": "Save the date! Dr. Heather Richards-Rissetto from @CDRH_UNL &amp; @ANTH_UNL will visit @GrinnellCollege on 14-15 February to present on 3D/#VR visualizations of ancient Mayan architecture and landscapes (short video: https://t.co/dQIrVmEGps). See attached flyer for workshop info. https://t.co/Ovf9TWFtCK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VR",
+					"indices": [
+						139,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CDRH_UNL",
+					"name": "CDRH",
+					"id": 67690199,
+					"id_str": "67690199",
+					"indices": [
+						50,
+						59
+					]
+				},
+				{
+					"screen_name": "ANTH_UNL",
+					"name": "Nebraska Anthro",
+					"id": 2343533544,
+					"id_str": "2343533544",
+					"indices": [
+						66,
+						75
+					]
+				},
+				{
+					"screen_name": "GrinnellCollege",
+					"name": "Grinnell College",
+					"id": 17652635,
+					"id_str": "17652635",
+					"indices": [
+						87,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dQIrVmEGps",
+					"expanded_url": "https://go.unl.edu/ynk4",
+					"display_url": "go.unl.edu/ynk4",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1092802384567431200,
+					"id_str": "1092802384567431169",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Dypp-pXXcAEJ9xZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dypp-pXXcAEJ9xZ.jpg",
+					"url": "https://t.co/Ovf9TWFtCK",
+					"display_url": "pic.twitter.com/Ovf9TWFtCK",
+					"expanded_url": "https://twitter.com/GrinnellCIEL/status/1092805615368499202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 586,
+							"h": 909,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 438,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 586,
+							"h": 909,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092802384567431200,
+					"id_str": "1092802384567431169",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Dypp-pXXcAEJ9xZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dypp-pXXcAEJ9xZ.jpg",
+					"url": "https://t.co/Ovf9TWFtCK",
+					"display_url": "pic.twitter.com/Ovf9TWFtCK",
+					"expanded_url": "https://twitter.com/GrinnellCIEL/status/1092805615368499202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 586,
+							"h": 909,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 438,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 586,
+							"h": 909,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 950748055233540100,
+			"id_str": "950748055233540102",
+			"name": "Grinnell College Immersive Experiences Lab (GCIEL)",
+			"screen_name": "GrinnellCIEL",
+			"location": "Grinnell, IA",
+			"description": "Exploring new ways to approach the liberal arts @GrinnellCollege through 3D, VR, and AR technologies. Tweets by #GCIEL students, faculty, and staff.",
+			"url": "https://t.co/azx7VVrUyj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/azx7VVrUyj",
+							"expanded_url": "http://gciel.sites.grinnell.edu",
+							"display_url": "gciel.sites.grinnell.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 92,
+			"friends_count": 116,
+			"listed_count": 1,
+			"created_at": "Tue Jan 09 15:16:15 +0000 2018",
+			"favourites_count": 334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 376,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/950761846713143297/t1yZqMXr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/950761846713143297/t1yZqMXr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/950748055233540102/1516897180",
+			"profile_link_color": "E03C2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Save the date! Dr. Heather Richards-Rissetto from @CDRH_UNL &amp; @ANTH_UNL will visit @GrinnellCollege on 14-15 February to present on 3D/#VR visualizations of ancient Mayan architecture and landscapes (short video: https://t.co/dQIrVmEGps). See attached flyer for workshop info. https://t.co/Ovf9TWFtCK"
+	},
+	{
+		"created_at": "Tue Feb 05 00:55:13 +0000 2019",
+		"id": 1092587414911139800,
+		"id_str": "1092602947022872578",
+		"full_text": "Orientation week has begun! Engelbart Framework Project description here: https://t.co/8PNcZCbeny. Welcome from @cogdog &amp; me: https://t.co/eUshCrHZRy . New to @hypothes_is ? Start here: https://t.co/wMiKgKY1vU . Join us! #augmentintellect #frameworkproject",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "augmentintellect",
+					"indices": [
+						225,
+						242
+					]
+				},
+				{
+					"text": "frameworkproject",
+					"indices": [
+						243,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"screen_name": "hypothes_is",
+					"name": "Hypothesis",
+					"id": 325100970,
+					"id_str": "325100970",
+					"indices": [
+						163,
+						175
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8PNcZCbeny",
+					"expanded_url": "https://framework.thoughtvectors.net/about/",
+					"display_url": "framework.thoughtvectors.net/about/",
+					"indices": [
+						74,
+						97
+					]
+				},
+				{
+					"url": "https://t.co/eUshCrHZRy",
+					"expanded_url": "https://youtu.be/4aKOAuKDb6I",
+					"display_url": "youtu.be/4aKOAuKDb6I",
+					"indices": [
+						130,
+						153
+					]
+				},
+				{
+					"url": "https://t.co/wMiKgKY1vU",
+					"expanded_url": "https://framework.thoughtvectors.net/annotate/",
+					"display_url": "framework.thoughtvectors.net/annotate/",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 782931,
+			"id_str": "782931",
+			"name": "Gardner Campbell",
+			"screen_name": "GardnerCampbell",
+			"location": "Virginia",
+			"description": "Somebody else's favorite song. I speak for myself only. Retweets, favorites mean many things.",
+			"url": "http://t.co/W30RpFRyh9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/W30RpFRyh9",
+							"expanded_url": "http://www.gardnercampbell.net/blog1",
+							"display_url": "gardnercampbell.net/blog1",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6299,
+			"friends_count": 5747,
+			"listed_count": 439,
+			"created_at": "Tue Feb 20 12:02:22 +0000 2007",
+			"favourites_count": 12370,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25627,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/448479095249051649/VCU6dhSU_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/448479095249051649/VCU6dhSU_normal.jpeg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Orientation week has begun! Engelbart Framework Project description here: https://t.co/8PNcZCbeny. Welcome from @cogdog &amp; me: https://t.co/eUshCrHZRy . New to @hypothes_is ? Start here: https://t.co/wMiKgKY1vU . Join us! #augmentintellect #frameworkproject"
+	},
+	{
+		"created_at": "Mon Feb 04 15:58:07 +0000 2019",
+		"id": 1092452249157144600,
+		"id_str": "1092583941293461504",
+		"full_text": "\"These late-term abortion bills do more than reveal Democratic radicalism. They draw back the veil of euphemism to expose abortion for what it is: At every stage of pregnancy, it is the taking of a human life.\" @xan_desanctis in her first at The Atlantic:\nhttps://t.co/EFWGZxpc81",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xan_desanctis",
+					"name": "Alexandra DeSanctis",
+					"id": 520497278,
+					"id_str": "520497278",
+					"indices": [
+						211,
+						225
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EFWGZxpc81",
+					"expanded_url": "https://www.theatlantic.com/ideas/archive/2019/02/new-york-and-virginia-push-expand-abortion-rights/581959/",
+					"display_url": "theatlantic.com/ideas/archive/…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1511299686,
+			"id_str": "1511299686",
+			"name": "Emma Green",
+			"screen_name": "emmaogreen",
+			"location": "America",
+			"description": "Writer + troublemaker @TheAtlantic. Stories on religion, culture, politics, &c.",
+			"url": "http://t.co/VuGz1mN8i6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VuGz1mN8i6",
+							"expanded_url": "http://www.theatlantic.com/emma-green/",
+							"display_url": "theatlantic.com/emma-green/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25125,
+			"friends_count": 1315,
+			"listed_count": 637,
+			"created_at": "Wed Jun 12 18:51:29 +0000 2013",
+			"favourites_count": 9247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7365,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/722256305596014592/ZwtFSSNV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/722256305596014592/ZwtFSSNV_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 601,
+		"favorite_count": 1847,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"These late-term abortion bills do more than reveal Democratic radicalism. They draw back the veil of euphemism to expose abortion for what it is: At every stage of pregnancy, it is the taking of a human life.\" @xan_desanctis in her first at The Atlantic:\nhttps://t.co/EFWGZxpc81"
+	},
+	{
 		"created_at": "Mon Feb 04 16:18:25 +0000 2019",
 		"id": 1092457358972866600,
 		"id_str": "1092461153937174530",
