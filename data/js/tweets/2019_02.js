@@ -1,6 +1,1522 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 05 04:29:21 +0000 2019",
+		"id": 1092641304402710500,
+		"id_str": "1093234515651235843",
+		"full_text": "Under 100 million people watched the Super Bowl. 10 million in-game, plus 60 million viewers of this Fortnite concert. A lesson in designing social presence in online environments, for certain. We're planning a brown bag to demo Twitch, etc. for educators. What should they know? https://t.co/Xzmke3Z4Vy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xzmke3Z4Vy",
+					"expanded_url": "https://twitter.com/djriddler/status/1092233282224377856",
+					"display_url": "twitter.com/djriddler/stat…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18892030,
+			"id_str": "18892030",
+			"name": "Tim C",
+			"screen_name": "floatingtim",
+			"location": "philly burbs",
+			"description": "instructional designer. librarian. #DoOO tub-thumper. #OER #OEP #Pressbooks. #digped lab 2016 & 2017 & 2018. #WMUH listener. #DitchLibraryFines he/him",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 486,
+			"friends_count": 1558,
+			"listed_count": 27,
+			"created_at": "Mon Jan 12 05:03:11 +0000 2009",
+			"favourites_count": 2324,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 818,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/943610960186617862/HwwcdGeR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/943610960186617862/HwwcdGeR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18892030/1486688275",
+			"profile_link_color": "792F32",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1092233282224377900,
+		"quoted_status_id_str": "1092233282224377856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Xzmke3Z4Vy",
+			"expanded": "https://twitter.com/djriddler/status/1092233282224377856",
+			"display": "twitter.com/djriddler/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 04 01:28:01 +0000 2019",
+			"id": 1092233282224377900,
+			"id_str": "1092233282224377856",
+			"full_text": "More people watched @marshmellomusic @FortniteGame Concert than the #Superbowl Halftime show. Let that sink in for a minute",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				123
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Superbowl",
+						"indices": [
+							68,
+							78
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "marshmellomusic",
+						"name": "marshmello",
+						"id": 2987922767,
+						"id_str": "2987922767",
+						"indices": [
+							20,
+							36
+						]
+					},
+					{
+						"screen_name": "FortniteGame",
+						"name": "Fortnite",
+						"id": 425871040,
+						"id_str": "425871040",
+						"indices": [
+							37,
+							50
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17466714,
+				"id_str": "17466714",
+				"name": "djriddler",
+				"screen_name": "djriddler",
+				"location": "Houston, TX",
+				"description": "Producer/Remixer APD/MD/On-Air Personality Workdays 10am to 2pm @radionowhouston @clehouston @thespireclub Resident DJ Instagram: @djriddler",
+				"url": "https://t.co/XvERQfOggF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XvERQfOggF",
+								"expanded_url": "http://www.djriddler.com",
+								"display_url": "djriddler.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9884,
+				"friends_count": 1749,
+				"listed_count": 233,
+				"created_at": "Tue Nov 18 17:53:39 +0000 2008",
+				"favourites_count": 4710,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 27042,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/941320837222760448/rFeh4Z6k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/941320837222760448/rFeh4Z6k_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17466714/1520096733",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "1c69a67ad480e1b1",
+				"url": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json",
+				"place_type": "city",
+				"name": "Houston",
+				"full_name": "Houston, TX",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-95.823268,
+								29.522325
+							],
+							[
+								-95.069705,
+								29.522325
+							],
+							[
+								-95.069705,
+								30.1546646
+							],
+							[
+								-95.823268,
+								30.1546646
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 792,
+			"favorite_count": 4463,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Under 100 million people watched the Super Bowl. 10 million in-game, plus 60 million viewers of this Fortnite concert. A lesson in designing social presence in online environments, for certain. We're planning a brown bag to demo Twitch, etc. for educators. What should they know? https://t.co/Xzmke3Z4Vy"
+	},
+	{
+		"created_at": "Wed Feb 06 19:11:43 +0000 2019",
+		"id": 1093225744019247100,
+		"id_str": "1093226946664771584",
+		"full_text": "Learn about Doug Engelbart's most seminal work \"Augmenting Human Intellect: A Conceptual Framework.\" from Professor @GardnerCampbell presentation at the recent Engelbart Symposium  | #thedemoat50 #thoughtvectors #augmentintellect | https://t.co/X5x79cMpD4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "thedemoat50",
+					"indices": [
+						183,
+						195
+					]
+				},
+				{
+					"text": "thoughtvectors",
+					"indices": [
+						196,
+						211
+					]
+				},
+				{
+					"text": "augmentintellect",
+					"indices": [
+						212,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GardnerCampbell",
+					"name": "Gardner Campbell",
+					"id": 782931,
+					"id_str": "782931",
+					"indices": [
+						116,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/X5x79cMpD4",
+					"expanded_url": "http://youtu.be/OU1qskMNxIM?start=5&rel=0",
+					"display_url": "youtu.be/OU1qskMNxIM?st…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 75575150,
+			"id_str": "75575150",
+			"name": "Christina Engelbart",
+			"screen_name": "ChristinaDEI",
+			"location": "San Francisco, CA",
+			"description": "Posting news and musings from Doug Engelbart Institute: augmenting human intellect, bootstrapping brilliance, and great moments in tech history",
+			"url": "http://t.co/Aw2LlzHvJH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Aw2LlzHvJH",
+							"expanded_url": "http://dougengelbart.org",
+							"display_url": "dougengelbart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 676,
+			"friends_count": 56,
+			"listed_count": 46,
+			"created_at": "Sat Sep 19 15:40:15 +0000 2009",
+			"favourites_count": 176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 727,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/674228459602776064/4Yl1ArRq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/674228459602776064/4Yl1ArRq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/75575150/1449584557",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Learn about Doug Engelbart's most seminal work \"Augmenting Human Intellect: A Conceptual Framework.\" from Professor @GardnerCampbell presentation at the recent Engelbart Symposium  | #thedemoat50 #thoughtvectors #augmentintellect | https://t.co/X5x79cMpD4"
+	},
+	{
+		"created_at": "Wed Feb 06 17:56:02 +0000 2019",
+		"id": 1093206697802387500,
+		"id_str": "1093206697802387461",
+		"full_text": ".@MadsPelzel https://t.co/etvrlBwWTM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MadsPelzel",
+					"name": "Madeleine Pelzel",
+					"id": 532725843,
+					"id_str": "532725843",
+					"indices": [
+						1,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/etvrlBwWTM",
+					"expanded_url": "https://twitter.com/RiceUNews/status/1093205559132807168",
+					"display_url": "twitter.com/RiceUNews/stat…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 688,
+			"friends_count": 1099,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7710,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093205559132807200,
+		"quoted_status_id_str": "1093205559132807168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/etvrlBwWTM",
+			"expanded": "https://twitter.com/RiceUNews/status/1093205559132807168",
+			"display": "twitter.com/RiceUNews/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 06 17:51:30 +0000 2019",
+			"id": 1093205559132807200,
+			"id_str": "1093205559132807168",
+			"full_text": "#Houston is facing an #affordablehousing crisis—and @RiceUniversity students hope to help craft public policy solutions to this pressing issue.\n\nRead more about @RiceCCL's upcoming Houston Centered Policy (HCP) Challenge on Feb. 21 here: https://t.co/LxTmtSRKnY https://t.co/glbv0gfrfK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				261
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Houston",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"text": "affordablehousing",
+						"indices": [
+							22,
+							40
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RiceUniversity",
+						"name": "Rice University",
+						"id": 19720630,
+						"id_str": "19720630",
+						"indices": [
+							52,
+							67
+						]
+					},
+					{
+						"screen_name": "RiceCCL",
+						"name": "Rice University CCL",
+						"id": 250738808,
+						"id_str": "250738808",
+						"indices": [
+							161,
+							169
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/LxTmtSRKnY",
+						"expanded_url": "https://news.rice.edu/2019/02/06/rice-students-to-reckon-with-houstons-affordable-housing-challenges/",
+						"display_url": "news.rice.edu/2019/02/06/ric…",
+						"indices": [
+							238,
+							261
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1093205527411142700,
+						"id_str": "1093205527411142656",
+						"indices": [
+							262,
+							285
+						],
+						"media_url": "http://pbs.twimg.com/media/DyvYopfVsAAop-d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DyvYopfVsAAop-d.jpg",
+						"url": "https://t.co/glbv0gfrfK",
+						"display_url": "pic.twitter.com/glbv0gfrfK",
+						"expanded_url": "https://twitter.com/RiceUNews/status/1093205559132807168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1199,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2046,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 679,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1093205527411142700,
+						"id_str": "1093205527411142656",
+						"indices": [
+							262,
+							285
+						],
+						"media_url": "http://pbs.twimg.com/media/DyvYopfVsAAop-d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DyvYopfVsAAop-d.jpg",
+						"url": "https://t.co/glbv0gfrfK",
+						"display_url": "pic.twitter.com/glbv0gfrfK",
+						"expanded_url": "https://twitter.com/RiceUNews/status/1093205559132807168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1199,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2046,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 679,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 353324665,
+				"id_str": "353324665",
+				"name": "Rice University News",
+				"screen_name": "RiceUNews",
+				"location": "Houston, TX",
+				"description": "Official Twitter account for Rice News and Media Relations.",
+				"url": "http://t.co/KO9jDtIcaT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/KO9jDtIcaT",
+								"expanded_url": "http://news.rice.edu",
+								"display_url": "news.rice.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6314,
+				"friends_count": 710,
+				"listed_count": 144,
+				"created_at": "Thu Aug 11 22:13:27 +0000 2011",
+				"favourites_count": 902,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10669,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0C2E52",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1508204497/ricenews_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1508204497/ricenews_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/353324665/1537990362",
+				"profile_link_color": "206396",
+				"profile_sidebar_border_color": "CDD0D1",
+				"profile_sidebar_fill_color": "EDEFF0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": ".@MadsPelzel https://t.co/etvrlBwWTM"
+	},
+	{
+		"created_at": "Wed Feb 06 16:35:31 +0000 2019",
+		"id": 1093186437737009200,
+		"id_str": "1093186728146407426",
+		"full_text": "How bad are things in farm country? U.S. farm households had a median income in 2018 of negative $1,548 as trade disputes add pain to low crop prices.     \n\nhttps://t.co/hZ3cMAuaqQ via @WSJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WSJ",
+					"name": "The Wall Street Journal",
+					"id": 3108351,
+					"id_str": "3108351",
+					"indices": [
+						185,
+						189
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hZ3cMAuaqQ",
+					"expanded_url": "https://www.wsj.com/articles/this-one-here-is-gonna-kick-my-buttfarm-belt-bankruptcies-are-soaring-11549468759",
+					"display_url": "wsj.com/articles/this-…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 89043072,
+			"id_str": "89043072",
+			"name": "Jason Zweig",
+			"screen_name": "jasonzweigwsj",
+			"location": "The Wall Street Journal",
+			"description": "Investing columnist for @WSJ. Editor, Benjamin Graham's *The Intelligent Investor.* Author, *Your Money and Your Brain* and *The Devil's Financial Dictionary.*",
+			"url": "http://t.co/DzIEJ4CvA7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/DzIEJ4CvA7",
+							"expanded_url": "http://www.jasonzweig.com",
+							"display_url": "jasonzweig.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148631,
+			"friends_count": 1831,
+			"listed_count": 2511,
+			"created_at": "Tue Nov 10 22:44:00 +0000 2009",
+			"favourites_count": 2197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15076,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/855548242/Zweig_hedcut_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/855548242/Zweig_hedcut_normal.JPG",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/89043072/1454188752",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How bad are things in farm country? U.S. farm households had a median income in 2018 of negative $1,548 as trade disputes add pain to low crop prices.     \n\nhttps://t.co/hZ3cMAuaqQ via @WSJ"
+	},
+	{
+		"created_at": "Wed Feb 06 16:20:48 +0000 2019",
+		"id": 1093182734518964200,
+		"id_str": "1093182734518964231",
+		"full_text": "\"One of the privileges of white privilege is the privilege to deny white privilege\"\nUniversity of Iowa pressured to cancel spring workshops on the topic. https://t.co/vSI5ZNZtNm via @DMRegister",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DMRegister",
+					"name": "Des Moines Register",
+					"id": 13657922,
+					"id_str": "13657922",
+					"indices": [
+						182,
+						193
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vSI5ZNZtNm",
+					"expanded_url": "https://www.desmoinesregister.com/story/opinion/columnists/iowa-view/2019/02/06/opinion-refusing-talk-white-privilege-helps-maintain-university-iowa-racism/2778979002/",
+					"display_url": "desmoinesregister.com/story/opinion/…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 688,
+			"friends_count": 1099,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7710,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"One of the privileges of white privilege is the privilege to deny white privilege\"\nUniversity of Iowa pressured to cancel spring workshops on the topic. https://t.co/vSI5ZNZtNm via @DMRegister"
+	},
+	{
+		"created_at": "Wed Feb 06 15:54:45 +0000 2019",
+		"id": 1093176175151718400,
+		"id_str": "1093176175151718400",
+		"full_text": "\"It is incumbent on us then to grow philosophical while we can still be startled, for philosophy, if Aristotle can be trusted, begins in wonder, and, as Heraclitus suggests, ‘One should not act or speak as if asleep.’” https://t.co/Hpm2fAr2cV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Hpm2fAr2cV",
+					"expanded_url": "https://twitter.com/LMSacasas/status/1089723218309599232",
+					"display_url": "twitter.com/LMSacasas/stat…",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 688,
+			"friends_count": 1099,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7710,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1089723218309599200,
+		"quoted_status_id_str": "1089723218309599232",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Hpm2fAr2cV",
+			"expanded": "https://twitter.com/LMSacasas/status/1089723218309599232",
+			"display": "twitter.com/LMSacasas/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 28 03:13:55 +0000 2019",
+			"id": 1089723218309599200,
+			"id_str": "1089723218309599232",
+			"full_text": "Listening To Those At The Hinges https://t.co/fW2XLIxdkT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				56
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fW2XLIxdkT",
+						"expanded_url": "https://thefrailestthing.com/2019/01/27/listening-to-those-at-the-hinges/",
+						"display_url": "thefrailestthing.com/2019/01/27/lis…",
+						"indices": [
+							33,
+							56
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 268328453,
+				"id_str": "268328453",
+				"name": "LM Sacasas",
+				"screen_name": "LMSacasas",
+				"location": "status viatoris",
+				"description": "Writer | Philosophy/Ethics of Technology | Director of @CSEandT | Blog: https://t.co/W5ELOEFZ8x | Newsletter: https://t.co/BFBZIN9bM8",
+				"url": "http://t.co/SRFMzQHeqx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/SRFMzQHeqx",
+								"expanded_url": "http://thefrailestthing.com",
+								"display_url": "thefrailestthing.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/W5ELOEFZ8x",
+								"expanded_url": "http://thefrailestthing.com",
+								"display_url": "thefrailestthing.com",
+								"indices": [
+									72,
+									95
+								]
+							},
+							{
+								"url": "https://t.co/BFBZIN9bM8",
+								"expanded_url": "https://tinyletter.com/lmsacasas",
+								"display_url": "tinyletter.com/lmsacasas",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2552,
+				"friends_count": 542,
+				"listed_count": 165,
+				"created_at": "Fri Mar 18 15:09:24 +0000 2011",
+				"favourites_count": 3425,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8969,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/924841400436322304/r1c8Zi3P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/924841400436322304/r1c8Zi3P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/268328453/1383880840",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"It is incumbent on us then to grow philosophical while we can still be startled, for philosophy, if Aristotle can be trusted, begins in wonder, and, as Heraclitus suggests, ‘One should not act or speak as if asleep.’” https://t.co/Hpm2fAr2cV"
+	},
+	{
+		"created_at": "Wed Feb 06 15:37:12 +0000 2019",
+		"id": 1093171758788763600,
+		"id_str": "1093171903441838080",
+		"full_text": "I’d clean a great line editor’s toilets for years: “They tighten sentences when clarity is missing..give sentences breath when constrained..excise a writer’s mannered constructions...help sentences build into paragraphs, and paragraphs flow into pages” https://t.co/8dTwKZFLDk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8dTwKZFLDk",
+					"expanded_url": "https://lithub.com/is-line-editing-a-lost-art/",
+					"display_url": "lithub.com/is-line-editin…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49507898,
+			"id_str": "49507898",
+			"name": "chad wellmon",
+			"screen_name": "cwellmon",
+			"location": "",
+			"description": "teaches and writes on German literature and philosophy and the history of technology and education at the University of Virginia",
+			"url": "http://t.co/wIdIGWcUBF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/wIdIGWcUBF",
+							"expanded_url": "http://chadwellmon.com",
+							"display_url": "chadwellmon.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1578,
+			"friends_count": 293,
+			"listed_count": 44,
+			"created_at": "Mon Jun 22 02:27:26 +0000 2009",
+			"favourites_count": 2081,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7406,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/663889082972434432/XcRr-muI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/663889082972434432/XcRr-muI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49507898/1447119604",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’d clean a great line editor’s toilets for years: “They tighten sentences when clarity is missing..give sentences breath when constrained..excise a writer’s mannered constructions...help sentences build into paragraphs, and paragraphs flow into pages” https://t.co/8dTwKZFLDk"
+	},
+	{
+		"created_at": "Wed Feb 06 13:57:05 +0000 2019",
+		"id": 1093146563466223600,
+		"id_str": "1093157548637724673",
+		"full_text": "skeetered",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://maxbittker.github.io\" rel=\"nofollow\">nyt-newwords</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 838207103852396500,
+			"id_str": "838207103852396544",
+			"name": "New New York Times",
+			"screen_name": "NYT_first_said",
+			"location": "",
+			"description": "Tweets words when they appear in the New York Times for the first time.   🗞 questions & concerns: @maxbittker",
+			"url": "https://t.co/IzV3oIKXXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IzV3oIKXXI",
+							"expanded_url": "http://github.com/MaxBittker/NYT-first-said",
+							"display_url": "github.com/MaxBittker/NYT…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46354,
+			"friends_count": 12,
+			"listed_count": 361,
+			"created_at": "Sun Mar 05 01:58:41 +0000 2017",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12400,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838216867177115648/NbpMB0cI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838216867177115648/NbpMB0cI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/838207103852396544/1488744904",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "skeetered"
+	},
+	{
+		"created_at": "Wed Feb 06 14:00:50 +0000 2019",
+		"id": 1093147506932965400,
+		"id_str": "1093156985124589569",
+		"full_text": "The 🇺🇸 meat industry is now more concentrated than when Upton Sinclair wrote “The Jungle.” And it keeps getting worse.\n\nTyson's wants to buy Foster Farms. It also just bought Keystone Foods (McDonald's meat supplier). https://t.co/U5UuQOyys9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U5UuQOyys9",
+					"expanded_url": "https://www.cnbc.com/2019/02/05/tyson-foods-in-talks-to-buy-foster-farms-for-2-billion.html?dlbk&te=1&nl=dealbook&emc=edit_dk_20190206",
+					"display_url": "cnbc.com/2019/02/05/tys…",
+					"indices": [
+						218,
+						241
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3336901401,
+			"id_str": "3336901401",
+			"name": "Austin Frerick",
+			"screen_name": "AustinFrerick",
+			"location": "CID/DCA",
+			"description": "Fellow at @OpenMarkets. Heroes: Jane Addams, Grandpa Frerick, RuPaul, & Louis Brandeis. 🌽🏳️‍🌈 #iowaAF",
+			"url": "https://t.co/g7FWHJ9lSp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/g7FWHJ9lSp",
+							"expanded_url": "http://www.austinfrerick.com/",
+							"display_url": "austinfrerick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10159,
+			"friends_count": 557,
+			"listed_count": 101,
+			"created_at": "Sat Jun 20 14:05:20 +0000 2015",
+			"favourites_count": 7513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6627,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/882775313536634881/OcE8V-09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/882775313536634881/OcE8V-09_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3336901401/1521293847",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 134,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 🇺🇸 meat industry is now more concentrated than when Upton Sinclair wrote “The Jungle.” And it keeps getting worse.\n\nTyson's wants to buy Foster Farms. It also just bought Keystone Foods (McDonald's meat supplier). https://t.co/U5UuQOyys9"
+	},
+	{
 		"created_at": "Tue Feb 05 20:01:51 +0000 2019",
 		"id": 1092875975300390900,
 		"id_str": "1092881663317721089",
