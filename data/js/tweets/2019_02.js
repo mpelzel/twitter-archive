@@ -1,6 +1,1531 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 08 22:37:23 +0000 2019",
+		"id": 1094002277948497900,
+		"id_str": "1094003376084451328",
+		"full_text": "Engelbart Framework Project podcast 1 https://t.co/waZxvC9kEQ https://t.co/UpC6CMaFcR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/waZxvC9kEQ",
+					"expanded_url": "http://www.gardnercampbell.net/blog1/?p=2885",
+					"display_url": "gardnercampbell.net/blog1/?p=2885",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1094002275696074800,
+					"id_str": "1094002275696074752",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy6tRgJVYAAKYge.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy6tRgJVYAAKYge.jpg",
+					"url": "https://t.co/UpC6CMaFcR",
+					"display_url": "pic.twitter.com/UpC6CMaFcR",
+					"expanded_url": "https://twitter.com/GardnerCampbell/status/1094002277948497920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 497,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 564,
+							"h": 771,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 564,
+							"h": 771,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094002275696074800,
+					"id_str": "1094002275696074752",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy6tRgJVYAAKYge.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy6tRgJVYAAKYge.jpg",
+					"url": "https://t.co/UpC6CMaFcR",
+					"display_url": "pic.twitter.com/UpC6CMaFcR",
+					"expanded_url": "https://twitter.com/GardnerCampbell/status/1094002277948497920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 497,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 564,
+							"h": 771,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 564,
+							"h": 771,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 782931,
+			"id_str": "782931",
+			"name": "Gardner Campbell",
+			"screen_name": "GardnerCampbell",
+			"location": "Virginia",
+			"description": "Somebody else's favorite song. I speak for myself only. Retweets, favorites mean many things.",
+			"url": "http://t.co/W30RpFRyh9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/W30RpFRyh9",
+							"expanded_url": "http://www.gardnercampbell.net/blog1",
+							"display_url": "gardnercampbell.net/blog1",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6307,
+			"friends_count": 5748,
+			"listed_count": 441,
+			"created_at": "Tue Feb 20 12:02:22 +0000 2007",
+			"favourites_count": 12391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25637,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/448479095249051649/VCU6dhSU_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/448479095249051649/VCU6dhSU_normal.jpeg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Engelbart Framework Project podcast 1 https://t.co/waZxvC9kEQ https://t.co/UpC6CMaFcR"
+	},
+	{
+		"created_at": "Fri Feb 08 22:16:51 +0000 2019",
+		"id": 1093997111102881800,
+		"id_str": "1093997111102881792",
+		"full_text": "Fantastic opportunity here, folks! And ... she's #NotABossyBoss https://t.co/HGTUaPEP6o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NotABossyBoss",
+					"indices": [
+						49,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HGTUaPEP6o",
+					"expanded_url": "https://twitter.com/actualham/status/1093985363406798850",
+					"display_url": "twitter.com/actualham/stat…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 686,
+			"friends_count": 1101,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7742,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093985363406798800,
+		"quoted_status_id_str": "1093985363406798850",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HGTUaPEP6o",
+			"expanded": "https://twitter.com/actualham/status/1093985363406798850",
+			"display": "twitter.com/actualham/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 08 21:30:10 +0000 2019",
+			"id": 1093985363406798800,
+			"id_str": "1093985363406798850",
+			"full_text": "I'm hiring someone to work with me in the new lab we're creating @PlymouthState to support engaged pedagogies! Please share this listing with your best instructional designers &amp; pedagogues, esp. those with passion for interdisciplinarity &amp; open education! https://t.co/15BeQJOtg0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				287
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PlymouthState",
+						"name": "Plymouth State",
+						"id": 25019277,
+						"id_str": "25019277",
+						"indices": [
+							65,
+							79
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/15BeQJOtg0",
+						"expanded_url": "https://jobs.usnh.edu/postings/31996",
+						"display_url": "jobs.usnh.edu/postings/31996",
+						"indices": [
+							264,
+							287
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2182862052,
+				"id_str": "2182862052",
+				"name": "Robin DeRosa",
+				"screen_name": "actualham",
+				"location": "New Hampshire, USA",
+				"description": "Director, @PSUOpenCoLab; Interdisciplinary Prof; Ed @HybridPed; #OpenPed #OER #OA; public university/community college missions; cherish outliers",
+				"url": "https://t.co/SeO0KU15y5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SeO0KU15y5",
+								"expanded_url": "http://robinderosa.net",
+								"display_url": "robinderosa.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6656,
+				"friends_count": 1445,
+				"listed_count": 380,
+				"created_at": "Fri Nov 08 20:13:27 +0000 2013",
+				"favourites_count": 42673,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11471,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030A09",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1079572911369998342/JWZPPVZp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079572911369998342/JWZPPVZp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2182862052/1544568902",
+				"profile_link_color": "C94410",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 44,
+			"favorite_count": 61,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fantastic opportunity here, folks! And ... she's #NotABossyBoss https://t.co/HGTUaPEP6o"
+	},
+	{
+		"created_at": "Fri Feb 08 19:55:01 +0000 2019",
+		"id": 1093961419677147100,
+		"id_str": "1093978720589791235",
+		"full_text": "#ELIKeyIssues #1: Enabling faculty to craft #ActiveLearning engagements that achieve learning objectives. Read more:  https://t.co/8eEVIJKoru https://t.co/ht7gs5m0cE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELIKeyIssues",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "ActiveLearning",
+					"indices": [
+						44,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8eEVIJKoru",
+					"expanded_url": "https://www.educause.edu/eli/initiatives/key-issues-in-teaching-and-learning",
+					"display_url": "educause.edu/eli/initiative…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1093961417236144100,
+					"id_str": "1093961417236144128",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy6IHOhX4AA1_Od.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy6IHOhX4AA1_Od.jpg",
+					"url": "https://t.co/ht7gs5m0cE",
+					"display_url": "pic.twitter.com/ht7gs5m0cE",
+					"expanded_url": "https://twitter.com/educause/status/1093961419677147142/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093961417236144100,
+					"id_str": "1093961417236144128",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy6IHOhX4AA1_Od.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy6IHOhX4AA1_Od.jpg",
+					"url": "https://t.co/ht7gs5m0cE",
+					"display_url": "pic.twitter.com/ht7gs5m0cE",
+					"expanded_url": "https://twitter.com/educause/status/1093961419677147142/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15237481,
+			"id_str": "15237481",
+			"name": "EDUCAUSE",
+			"screen_name": "educause",
+			"location": "",
+			"description": "Nonprofit association helping #highered optimize the impact of IT.",
+			"url": "https://t.co/Im4lPvqvfj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Im4lPvqvfj",
+							"expanded_url": "http://www.educause.edu",
+							"display_url": "educause.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53513,
+			"friends_count": 13313,
+			"listed_count": 2725,
+			"created_at": "Wed Jun 25 22:37:04 +0000 2008",
+			"favourites_count": 6836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11502,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B30838",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/793121077438222336/A6b_7cFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/793121077438222336/A6b_7cFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15237481/1549043743",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ELIKeyIssues #1: Enabling faculty to craft #ActiveLearning engagements that achieve learning objectives. Read more:  https://t.co/8eEVIJKoru https://t.co/ht7gs5m0cE"
+	},
+	{
+		"created_at": "Fri Feb 08 18:35:56 +0000 2019",
+		"id": 1093941514454081500,
+		"id_str": "1093966695574786050",
+		"full_text": "I wrote about Immanuel Christian controversy (where Karen Pence teaches), the decision my daughter’s school made not to play them in basketball, &amp; how progressives can bring grace &amp; goodwill to navigating spaces where there is disagreement. @commonwealmag https://t.co/rqthADz7sf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			287
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "commonwealmag",
+					"name": "Commonweal Magazine",
+					"id": 22770131,
+					"id_str": "22770131",
+					"indices": [
+						249,
+						263
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rqthADz7sf",
+					"expanded_url": "https://www.commonwealmagazine.org/agreeing-disagree",
+					"display_url": "commonwealmagazine.org/agreeing-disag…",
+					"indices": [
+						264,
+						287
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 279314819,
+			"id_str": "279314819",
+			"name": "John Gehring",
+			"screen_name": "gehringdc",
+			"location": "Washington, DC",
+			"description": "Catholic Program Director, Faith in Public Life. @FaithPublicLife Author, The Francis Effect. Contributing editor, Commonweal. @commonwealmag @RNS @NCRonline",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4892,
+			"friends_count": 1992,
+			"listed_count": 165,
+			"created_at": "Sat Apr 09 01:20:51 +0000 2011",
+			"favourites_count": 8765,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27690,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/525024994015723521/Zta0Ftwl_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/525024994015723521/Zta0Ftwl_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wrote about Immanuel Christian controversy (where Karen Pence teaches), the decision my daughter’s school made not to play them in basketball, &amp; how progressives can bring grace &amp; goodwill to navigating spaces where there is disagreement. @commonwealmag https://t.co/rqthADz7sf"
+	},
+	{
+		"created_at": "Fri Feb 08 19:18:00 +0000 2019",
+		"id": 1093952101829361700,
+		"id_str": "1093965660294705158",
+		"full_text": "there's a new issue of Logodaedaly, Wordnik's word games newsletter—now with a new crossword puzzle from @fheaney! https://t.co/kPXAUcaT89",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fheaney",
+					"name": "Francis Heaney",
+					"id": 56673,
+					"id_str": "56673",
+					"indices": [
+						105,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kPXAUcaT89",
+					"expanded_url": "https://mailchi.mp/wordnik/logodaedaly-14",
+					"display_url": "mailchi.mp/wordnik/logoda…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15863767,
+			"id_str": "15863767",
+			"name": "wordnik",
+			"screen_name": "wordnik",
+			"location": "Bay Area, California",
+			"description": "All the words. Help us reach our year-end fundraising goal! Learn more: https://t.co/ujbizmHJeJ",
+			"url": "http://t.co/4da2UBGai3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/4da2UBGai3",
+							"expanded_url": "http://www.wordnik.com",
+							"display_url": "wordnik.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ujbizmHJeJ",
+							"expanded_url": "https://blog.wordnik.com/happy-dictionary-day-time-to-show-the-dictionary-love",
+							"display_url": "blog.wordnik.com/happy-dictiona…",
+							"indices": [
+								72,
+								95
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21956,
+			"friends_count": 956,
+			"listed_count": 1305,
+			"created_at": "Fri Aug 15 15:12:07 +0000 2008",
+			"favourites_count": 2008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19081,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E5A35C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/747408879344975873/U9Ef4XAi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/747408879344975873/U9Ef4XAi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15863767/1443195492",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "there's a new issue of Logodaedaly, Wordnik's word games newsletter—now with a new crossword puzzle from @fheaney! https://t.co/kPXAUcaT89"
+	},
+	{
+		"created_at": "Fri Feb 08 19:43:44 +0000 2019",
+		"id": 1093958576891142100,
+		"id_str": "1093965004771127296",
+		"full_text": "We talk about being civil, being uncivil, being things other than civil...and of course the rise of the soc-dem left, and its critiques of the Obama era. Listen listen! https://t.co/J3NfqyriVY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J3NfqyriVY",
+					"expanded_url": "https://twitter.com/ezraklein/status/1093936620091273216",
+					"display_url": "twitter.com/ezraklein/stat…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1471542956,
+			"id_str": "1471542956",
+			"name": "Elizabeth Bruenig",
+			"screen_name": "ebruenig",
+			"location": "elizabeth.bruenig@washpost.com",
+			"description": "Opinion columnist at @WashingtonPost. Christian. Mama. Into ideas, jokes, birds. Email: Elizabeth.Bruenig@washpost.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 96158,
+			"friends_count": 3865,
+			"listed_count": 1561,
+			"created_at": "Fri May 31 07:06:34 +0000 2013",
+			"favourites_count": 213338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 101,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAF6DA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1001990060256804864/vYjMs3R5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001990060256804864/vYjMs3R5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1471542956/1442437177",
+			"profile_link_color": "A3A395",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCCCCA",
+			"profile_text_color": "82C2B9",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093936620091273200,
+		"quoted_status_id_str": "1093936620091273216",
+		"quoted_status_permalink": {
+			"url": "https://t.co/J3NfqyriVY",
+			"expanded": "https://twitter.com/ezraklein/status/1093936620091273216",
+			"display": "twitter.com/ezraklein/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 08 18:16:29 +0000 2019",
+			"id": 1093936620091273200,
+			"id_str": "1093936620091273216",
+			"full_text": "Really enjoyed this conversation with @ebruenig about the differences between leftists and liberals, the limits of persuasion, the uses and misuses of civility, what Medicare-for-all means, Howard Schultz, and so much more. https://t.co/2No524MAJ3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ebruenig",
+						"name": "Elizabeth Bruenig",
+						"id": 1471542956,
+						"id_str": "1471542956",
+						"indices": [
+							38,
+							47
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/2No524MAJ3",
+						"expanded_url": "https://open.spotify.com/episode/41qO693HBWE78QRODCw5RX",
+						"display_url": "open.spotify.com/episode/41qO69…",
+						"indices": [
+							224,
+							247
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18622869,
+				"id_str": "18622869",
+				"name": "Ezra Klein",
+				"screen_name": "ezraklein",
+				"location": "DC",
+				"description": "Founder and editor-at-large, https://t.co/5gESirESRH. Why yes, I do have a podcast. https://t.co/LDbNUo1y1H",
+				"url": "http://t.co/8X2hDCPnDl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8X2hDCPnDl",
+								"expanded_url": "http://www.vox.com",
+								"display_url": "vox.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/5gESirESRH",
+								"expanded_url": "http://Vox.com",
+								"display_url": "Vox.com",
+								"indices": [
+									29,
+									52
+								]
+							},
+							{
+								"url": "https://t.co/LDbNUo1y1H",
+								"expanded_url": "https://itunes.apple.com/us/podcast/the-ezra-klein-show/id1081584611",
+								"display_url": "itunes.apple.com/us/podcast/the…",
+								"indices": [
+									84,
+									107
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2510931,
+				"friends_count": 1160,
+				"listed_count": 22411,
+				"created_at": "Mon Jan 05 04:02:29 +0000 2009",
+				"favourites_count": 1781,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 462,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/430528937022595072/ivuRfUNj_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/430528937022595072/ivuRfUNj_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18622869/1386449293",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 208,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We talk about being civil, being uncivil, being things other than civil...and of course the rise of the soc-dem left, and its critiques of the Obama era. Listen listen! https://t.co/J3NfqyriVY"
+	},
+	{
+		"created_at": "Fri Feb 08 15:56:53 +0000 2019",
+		"id": 1093901488911511600,
+		"id_str": "1093905104674148352",
+		"full_text": "how awesome is this????!?!??! @mhawksey at @DomainsConf ... it's just down the road from me this time, so I will get to meet him in person: https://t.co/j6IAnG8uVZ ... wow! blurb from post about his talk; here's Domains site: https://t.co/6aEDKfbvgD call for proposals still open! https://t.co/203ZHHKE2K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						30,
+						39
+					]
+				},
+				{
+					"screen_name": "DomainsConf",
+					"name": "DOMAINS 19",
+					"id": 808349016157257700,
+					"id_str": "808349016157257728",
+					"indices": [
+						43,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/j6IAnG8uVZ",
+					"expanded_url": "https://bavatuesdays.com/domains19-martin-hawskeys-minority-report/",
+					"display_url": "bavatuesdays.com/domains19-mart…",
+					"indices": [
+						140,
+						163
+					]
+				},
+				{
+					"url": "https://t.co/6aEDKfbvgD",
+					"expanded_url": "https://domains.reclaimhosting.com/",
+					"display_url": "domains.reclaimhosting.com",
+					"indices": [
+						226,
+						249
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1093900826123427800,
+					"id_str": "1093900826123427841",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy5RAXCX4AEk3dh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy5RAXCX4AEk3dh.jpg",
+					"url": "https://t.co/203ZHHKE2K",
+					"display_url": "pic.twitter.com/203ZHHKE2K",
+					"expanded_url": "https://twitter.com/OnlineCrsLady/status/1093901488911511552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 667,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 667,
+							"h": 506,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 667,
+							"h": 506,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093900826123427800,
+					"id_str": "1093900826123427841",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy5RAXCX4AEk3dh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy5RAXCX4AEk3dh.jpg",
+					"url": "https://t.co/203ZHHKE2K",
+					"display_url": "pic.twitter.com/203ZHHKE2K",
+					"expanded_url": "https://twitter.com/OnlineCrsLady/status/1093901488911511552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 667,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 667,
+							"h": 506,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 667,
+							"h": 506,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7044082,
+			"id_str": "7044082",
+			"name": "Laura Gibbs",
+			"screen_name": "OnlineCrsLady",
+			"location": "the Interwebz",
+			"description": "Teaching online at the University of Oklahoma since 2002! #TTOG #RSSForever #TotalCoLearner #GrowthMindset #FolkloreThursday",
+			"url": "http://t.co/HAXevMhfOE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/HAXevMhfOE",
+							"expanded_url": "http://mythfolklore.net",
+							"display_url": "mythfolklore.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2810,
+			"friends_count": 1505,
+			"listed_count": 361,
+			"created_at": "Sun Jun 24 04:17:20 +0000 2007",
+			"favourites_count": 42858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57575,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "112E18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2190857671/photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2190857671/photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7044082/1528746359",
+			"profile_link_color": "196912",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "how awesome is this????!?!??! @mhawksey at @DomainsConf ... it's just down the road from me this time, so I will get to meet him in person: https://t.co/j6IAnG8uVZ ... wow! blurb from post about his talk; here's Domains site: https://t.co/6aEDKfbvgD call for proposals still open! https://t.co/203ZHHKE2K"
+	},
+	{
+		"created_at": "Fri Feb 08 12:45:00 +0000 2019",
+		"id": 1093853200694825000,
+		"id_str": "1093853200694824960",
+		"full_text": "\"The opposite of nidifugous is nidicolous (remaining with parents for a long time after birth). Etymologically speaking, these words apply to birds, but you could use them in other ways. If your adult child suggests living in your basement, you could say, “Don’t be nidicolous!” https://t.co/4KjkpzKPPe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4KjkpzKPPe",
+					"expanded_url": "https://twitter.com/awad/status/1093739216264220672",
+					"display_url": "twitter.com/awad/status/10…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 686,
+			"friends_count": 1101,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7742,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093739216264220700,
+		"quoted_status_id_str": "1093739216264220672",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4KjkpzKPPe",
+			"expanded": "https://twitter.com/awad/status/1093739216264220672",
+			"display": "twitter.com/awad/status/10…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 08 05:12:04 +0000 2019",
+			"id": 1093739216264220700,
+			"id_str": "1093739216264220672",
+			"full_text": "nidifugous: adjective: Well-developed and able to leave the nest soon after hatching. https://t.co/aHKxirWtsw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				109
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aHKxirWtsw",
+						"expanded_url": "https://wordsmith.org/words/nidifugous.html",
+						"display_url": "wordsmith.org/words/nidifugo…",
+						"indices": [
+							86,
+							109
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://wordsmith.org\" rel=\"nofollow\">A.Word.A.Day</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 37284430,
+				"id_str": "37284430",
+				"name": "A.Word.A.Day",
+				"screen_name": "awad",
+				"location": "",
+				"description": "A daily newsletter about unusual words and their origins. From http://t.co/SDzOTwMA.",
+				"url": "http://t.co/OR7DOsfd2K",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/OR7DOsfd2K",
+								"expanded_url": "http://wordsmith.org/awad",
+								"display_url": "wordsmith.org/awad",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/SDzOTwMA",
+								"expanded_url": "http://Wordsmith.org",
+								"display_url": "Wordsmith.org",
+								"indices": [
+									63,
+									83
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 33082,
+				"friends_count": 8,
+				"listed_count": 939,
+				"created_at": "Sat May 02 21:14:22 +0000 2009",
+				"favourites_count": 4,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2966,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/231240249/awad_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/231240249/awad_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"The opposite of nidifugous is nidicolous (remaining with parents for a long time after birth). Etymologically speaking, these words apply to birds, but you could use them in other ways. If your adult child suggests living in your basement, you could say, “Don’t be nidicolous!” https://t.co/4KjkpzKPPe"
+	},
+	{
 		"created_at": "Thu Feb 07 22:33:27 +0000 2019",
 		"id": 1093638899560263700,
 		"id_str": "1093638899560263681",
