@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 09 18:08:21 +0000 2019",
+		"id": 1094296962441101300,
+		"id_str": "1094301890328829952",
+		"full_text": "In this weekend's @WSJ Review section: Jeff Bezos said owning the Washington Post is a \"complexifier.\" Did he make up the word? https://t.co/MqLFqSIp46 https://t.co/4RMMWgBWT1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WSJ",
+					"name": "The Wall Street Journal",
+					"id": 3108351,
+					"id_str": "3108351",
+					"indices": [
+						18,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MqLFqSIp46",
+					"expanded_url": "http://bit.ly/complexifier",
+					"display_url": "bit.ly/complexifier",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1094296940714418200,
+					"id_str": "1094296940714418176",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy-5RQ4UYAAAAjS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy-5RQ4UYAAAAjS.jpg",
+					"url": "https://t.co/4RMMWgBWT1",
+					"display_url": "pic.twitter.com/4RMMWgBWT1",
+					"expanded_url": "https://twitter.com/bgzimmer/status/1094296962441101314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1368,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094296940714418200,
+					"id_str": "1094296940714418176",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy-5RQ4UYAAAAjS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy-5RQ4UYAAAAjS.jpg",
+					"url": "https://t.co/4RMMWgBWT1",
+					"display_url": "pic.twitter.com/4RMMWgBWT1",
+					"expanded_url": "https://twitter.com/bgzimmer/status/1094296962441101314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1368,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15104164,
+			"id_str": "15104164",
+			"name": "Ben Zimmer",
+			"screen_name": "bgzimmer",
+			"location": "Jersey City, NJ",
+			"description": "Linguist / lexicographer / @WSJ columnist / @TheAtlantic contributing editor / all-around word nut.",
+			"url": "http://t.co/1m2ix6t5Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1m2ix6t5Jo",
+							"expanded_url": "http://benzimmer.com/",
+							"display_url": "benzimmer.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30134,
+			"friends_count": 2378,
+			"listed_count": 1204,
+			"created_at": "Fri Jun 13 04:18:14 +0000 2008",
+			"favourites_count": 13929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 22543,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/510517460773007360/UKfBppaU_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/510517460773007360/UKfBppaU_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15104164/1348634413",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In this weekend's @WSJ Review section: Jeff Bezos said owning the Washington Post is a \"complexifier.\" Did he make up the word? https://t.co/MqLFqSIp46 https://t.co/4RMMWgBWT1"
+	},
+	{
 		"created_at": "Fri Feb 08 22:37:23 +0000 2019",
 		"id": 1094002277948497900,
 		"id_str": "1094003376084451328",
