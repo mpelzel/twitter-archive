@@ -1,6 +1,498 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 09 10:09:56 +0000 2019",
+		"id": 1094176563086721000,
+		"id_str": "1094630317816717317",
+		"full_text": "Do you still believe that some old-fashioned, Orwellian form of censorship is the main threat to free speech? Think again: The new censors won't remove your words, they'll drown them out https://t.co/7SFH7F3q8m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7SFH7F3q8m",
+					"expanded_url": "https://wapo.st/2MXeOgM?tid=ss_tw&utm_term=.8ef2c0e0f5e3",
+					"display_url": "wapo.st/2MXeOgM?tid=ss…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 297100174,
+			"id_str": "297100174",
+			"name": "Anne Applebaum",
+			"screen_name": "anneapplebaum",
+			"location": "Warsaw, London, Washington",
+			"description": "author of RED FAMINE, GULAG and IRON CURTAIN. Washington Post columnist. Professor of practice, @LSEIGA and co-director,ARENA",
+			"url": "https://t.co/Ud3gNhXsSX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ud3gNhXsSX",
+							"expanded_url": "http://www.anneapplebaum.com",
+							"display_url": "anneapplebaum.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 213480,
+			"friends_count": 268,
+			"listed_count": 3722,
+			"created_at": "Wed May 11 23:00:23 +0000 2011",
+			"favourites_count": 779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16016,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349728837/fashion_pix_four_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349728837/fashion_pix_four_normal.JPG",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/297100174/1529934939",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 712,
+		"favorite_count": 1307,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do you still believe that some old-fashioned, Orwellian form of censorship is the main threat to free speech? Think again: The new censors won't remove your words, they'll drown them out https://t.co/7SFH7F3q8m"
+	},
+	{
+		"created_at": "Sun Feb 10 11:25:03 +0000 2019",
+		"id": 1094557855196348400,
+		"id_str": "1094628863445995520",
+		"full_text": "An important read, applies to so many cities. https://t.co/2jKVcuP4Rz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2jKVcuP4Rz",
+					"expanded_url": "https://www.houstonchronicle.com/local/gray-matters/article/rice-midtown-innovation-district-displacement-13577627.php",
+					"display_url": "houstonchronicle.com/local/gray-mat…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 532725843,
+			"id_str": "532725843",
+			"name": "Madeleine Pelzel",
+			"screen_name": "MadsPelzel",
+			"location": "Rice University",
+			"description": "inspired, motivated, and powered by google calendar. always talking about infrastructure, active travel, and how the built environment defines our relationships",
+			"url": "https://t.co/tv9PKU93Q7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tv9PKU93Q7",
+							"expanded_url": "http://madeleinepelzel.com",
+							"display_url": "madeleinepelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 336,
+			"friends_count": 281,
+			"listed_count": 5,
+			"created_at": "Wed Mar 21 23:17:11 +0000 2012",
+			"favourites_count": 2495,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3064,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DCF1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057372809427648514/lgnjdzoU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057372809427648514/lgnjdzoU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/532725843/1521498118",
+			"profile_link_color": "0C446F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "1C1C1C",
+			"profile_text_color": "C0DCF1",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An important read, applies to so many cities. https://t.co/2jKVcuP4Rz"
+	},
+	{
+		"created_at": "Sun Feb 10 13:37:52 +0000 2019",
+		"id": 1094591282553520100,
+		"id_str": "1094623849461792768",
+		"full_text": "Dallas is the perfect city for a prep school that helps low-income kids pay their own tuition https://t.co/pI8IWa27fQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pI8IWa27fQ",
+					"expanded_url": "https://www.dallasnews.com/opinion/commentary/2019/02/10/dallas-perfect-city-prep-school-helps-low-income-kids-pay-tuition",
+					"display_url": "dallasnews.com/opinion/commen…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3099876090,
+			"id_str": "3099876090",
+			"name": "Cristo Rey Dallas",
+			"screen_name": "CristoReyDallas",
+			"location": "",
+			"description": "Located in Pleasant Grove, Cristo Rey Dallas provides under-served students with a Catholic, college prep education and an innovative work study experience.",
+			"url": "https://t.co/QlImgm8bQ9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QlImgm8bQ9",
+							"expanded_url": "http://cristoreydallas.org",
+							"display_url": "cristoreydallas.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 501,
+			"friends_count": 356,
+			"listed_count": 4,
+			"created_at": "Fri Mar 20 16:20:58 +0000 2015",
+			"favourites_count": 787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 878,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/990956554839969794/2Lbm7Hdl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/990956554839969794/2Lbm7Hdl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3099876090/1426870854",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dallas is the perfect city for a prep school that helps low-income kids pay their own tuition https://t.co/pI8IWa27fQ"
+	},
+	{
+		"created_at": "Sun Feb 10 14:31:03 +0000 2019",
+		"id": 1094604662689419300,
+		"id_str": "1094623753726758912",
+		"full_text": "See the best British theatre right here in Grinnell - watch the National Theatre Live encore production of Cat on a Hot Tin Roof at Harris Center Cinema at 3pm on Sunday - tix are $15, free for faculty, staff, and students. https://t.co/jtcULp2V8D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1094604657769484300,
+					"id_str": "1094604657769484289",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/DzDRIwPWkAEB767.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzDRIwPWkAEB767.jpg",
+					"url": "https://t.co/jtcULp2V8D",
+					"display_url": "pic.twitter.com/jtcULp2V8D",
+					"expanded_url": "https://twitter.com/GrinnellCollege/status/1094604662689419265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094604657769484300,
+					"id_str": "1094604657769484289",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/DzDRIwPWkAEB767.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzDRIwPWkAEB767.jpg",
+					"url": "https://t.co/jtcULp2V8D",
+					"display_url": "pic.twitter.com/jtcULp2V8D",
+					"expanded_url": "https://twitter.com/GrinnellCollege/status/1094604662689419265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.falcon.io\" rel=\"nofollow\">Falcon Social Media Management </a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17652635,
+			"id_str": "17652635",
+			"name": "Grinnell College",
+			"screen_name": "GrinnellCollege",
+			"location": "Grinnell, Iowa",
+			"description": "The official Twitter account for Grinnell College. Updates on news, faculty, students, athletics and campus life at #GrinnellCollege.",
+			"url": "http://t.co/cT1hUUMKcV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/cT1hUUMKcV",
+							"expanded_url": "http://www.grinnell.edu",
+							"display_url": "grinnell.edu",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6121,
+			"friends_count": 561,
+			"listed_count": 219,
+			"created_at": "Wed Nov 26 16:07:19 +0000 2008",
+			"favourites_count": 4303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/991321404195856384/WY7ENUeS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/991321404195856384/WY7ENUeS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17652635/1402595600",
+			"profile_link_color": "B40012",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E0E8F0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "See the best British theatre right here in Grinnell - watch the National Theatre Live encore production of Cat on a Hot Tin Roof at Harris Center Cinema at 3pm on Sunday - tix are $15, free for faculty, staff, and students. https://t.co/jtcULp2V8D"
+	},
+	{
 		"created_at": "Sat Feb 09 18:08:21 +0000 2019",
 		"id": 1094296962441101300,
 		"id_str": "1094301890328829952",
