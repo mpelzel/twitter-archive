@@ -1,6 +1,496 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 12 20:37:49 +0000 2019",
+		"id": 1095421741839593500,
+		"id_str": "1095429645984563202",
+		"full_text": "\"Government can't take action that substantially burdens the free exercise of religion and that is not only part of the #FirstAmendment, but it's also part of the #ReligiousFreedom Restoration Act.\" https://t.co/C6G69NyEP6\n\n#TXLege #Immigration #ShareJourney #RFRA #EminentDomain https://t.co/GiAbBI0Wst",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FirstAmendment",
+					"indices": [
+						120,
+						135
+					]
+				},
+				{
+					"text": "ReligiousFreedom",
+					"indices": [
+						163,
+						180
+					]
+				},
+				{
+					"text": "TXLege",
+					"indices": [
+						224,
+						231
+					]
+				},
+				{
+					"text": "Immigration",
+					"indices": [
+						232,
+						244
+					]
+				},
+				{
+					"text": "ShareJourney",
+					"indices": [
+						245,
+						258
+					]
+				},
+				{
+					"text": "RFRA",
+					"indices": [
+						259,
+						264
+					]
+				},
+				{
+					"text": "EminentDomain",
+					"indices": [
+						265,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C6G69NyEP6",
+					"expanded_url": "https://n.pr/2WZr59i",
+					"display_url": "n.pr/2WZr59i",
+					"indices": [
+						199,
+						222
+					]
+				},
+				{
+					"url": "https://t.co/GiAbBI0Wst",
+					"expanded_url": "https://twitter.com/NPR/status/1094725698919399425",
+					"display_url": "twitter.com/NPR/status/109…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20441986,
+			"id_str": "20441986",
+			"name": "TxCatholicBishops",
+			"screen_name": "TXCatholic",
+			"location": "Austin, Texas",
+			"description": "We're the official twitter of the Texas Catholic Conference of Bishops, the public policy voice of the Bishops of Texas. En Español @TXcatolica of B",
+			"url": "http://t.co/yg3RBe4Sed",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/yg3RBe4Sed",
+							"expanded_url": "http://www.TXcatholic.org",
+							"display_url": "TXcatholic.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5241,
+			"friends_count": 1026,
+			"listed_count": 177,
+			"created_at": "Mon Feb 09 15:31:12 +0000 2009",
+			"favourites_count": 566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3237,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/783789868501446656/DTbgyHAE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/783789868501446656/DTbgyHAE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20441986/1475705095",
+			"profile_link_color": "012169",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1094725698919399400,
+		"quoted_status_id_str": "1094725698919399425",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GiAbBI0Wst",
+			"expanded": "https://twitter.com/NPR/status/1094725698919399425",
+			"display": "twitter.com/NPR/status/109…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 10 22:32:00 +0000 2019",
+			"id": 1094725698919399400,
+			"id_str": "1094725698919399425",
+			"full_text": "The Catholic diocese in Mission, Texas is mired in a legal battle with the U.S. government over proposed \"levee fencing\" that would cut through the land of a historic chapel. \nhttps://t.co/U01mCSs8Cp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				199
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/U01mCSs8Cp",
+						"expanded_url": "https://n.pr/2UTh1No",
+						"display_url": "n.pr/2UTh1No",
+						"indices": [
+							176,
+							199
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5392522,
+				"id_str": "5392522",
+				"name": "NPR",
+				"screen_name": "NPR",
+				"location": "",
+				"description": "News. Arts & Life. Music. Everything and more from NPR.\n\n🕵️ Securely send us news tips: https://t.co/LPkf6Tsozm",
+				"url": "http://t.co/SoL86ga4RI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/SoL86ga4RI",
+								"expanded_url": "http://www.npr.org",
+								"display_url": "npr.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/LPkf6Tsozm",
+								"expanded_url": "http://securedrop.npr.org",
+								"display_url": "securedrop.npr.org",
+								"indices": [
+									88,
+									111
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7673301,
+				"friends_count": 71247,
+				"listed_count": 66332,
+				"created_at": "Sun Apr 22 05:10:15 +0000 2007",
+				"favourites_count": 2446,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 169959,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/722199003845304320/s2zwEoao_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/722199003845304320/s2zwEoao_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5392522/1406560384",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 121,
+			"favorite_count": 189,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Government can't take action that substantially burdens the free exercise of religion and that is not only part of the #FirstAmendment, but it's also part of the #ReligiousFreedom Restoration Act.\" https://t.co/C6G69NyEP6\n\n#TXLege #Immigration #ShareJourney #RFRA #EminentDomain https://t.co/GiAbBI0Wst"
+	},
+	{
+		"created_at": "Tue Feb 12 02:55:33 +0000 2019",
+		"id": 1095154411423350800,
+		"id_str": "1095154411423350785",
+		"full_text": "Adding the weekly #crossword from the @GrinnellCollege student newspaper, The Scarlet and Black, to my rotation @thesandb https://t.co/UDT9nCcajr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "crossword",
+					"indices": [
+						18,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GrinnellCollege",
+					"name": "Grinnell College",
+					"id": 17652635,
+					"id_str": "17652635",
+					"indices": [
+						38,
+						54
+					]
+				},
+				{
+					"screen_name": "thesandb",
+					"name": "The Scarlet & Black",
+					"id": 21555437,
+					"id_str": "21555437",
+					"indices": [
+						112,
+						121
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1095154392007876600,
+					"id_str": "1095154392007876609",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/DzLFHf3WoAECXLy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzLFHf3WoAECXLy.jpg",
+					"url": "https://t.co/UDT9nCcajr",
+					"display_url": "pic.twitter.com/UDT9nCcajr",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1095154411423350785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 556,
+							"h": 834,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 556,
+							"h": 834,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095154392007876600,
+					"id_str": "1095154392007876609",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/DzLFHf3WoAECXLy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzLFHf3WoAECXLy.jpg",
+					"url": "https://t.co/UDT9nCcajr",
+					"display_url": "pic.twitter.com/UDT9nCcajr",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1095154411423350785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 556,
+							"h": 834,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 556,
+							"h": 834,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 688,
+			"friends_count": 1102,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7751,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Adding the weekly #crossword from the @GrinnellCollege student newspaper, The Scarlet and Black, to my rotation @thesandb https://t.co/UDT9nCcajr"
+	},
+	{
 		"created_at": "Mon Feb 11 14:41:17 +0000 2019",
 		"id": 1094969627719942100,
 		"id_str": "1095011645842223104",
