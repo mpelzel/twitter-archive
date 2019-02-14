@@ -1,6 +1,743 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 13 21:34:45 +0000 2019",
+		"id": 1095798455451177000,
+		"id_str": "1095799157254705152",
+		"full_text": "No. Email is making professors into administrators on a micro scale. Check your inbox for details. https://t.co/RXF0MqB5Xc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RXF0MqB5Xc",
+					"expanded_url": "https://www.chronicle.com/interactives/is-email-making-professors-stupid",
+					"display_url": "chronicle.com/interactives/i…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2549047974,
+			"id_str": "2549047974",
+			"name": "Associate Deans",
+			"screen_name": "ass_deans",
+			"location": "Inside an Ivory Tower",
+			"description": "Making fun of middle management in colleges and universities. Because you can never have too many associate deans conspiring to be THE dean.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35189,
+			"friends_count": 120,
+			"listed_count": 268,
+			"created_at": "Fri Jun 06 02:17:38 +0000 2014",
+			"favourites_count": 10968,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5402,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/474740845225062401/b1LxPXiy_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/474740845225062401/b1LxPXiy_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No. Email is making professors into administrators on a micro scale. Check your inbox for details. https://t.co/RXF0MqB5Xc"
+	},
+	{
+		"created_at": "Wed Feb 13 14:35:35 +0000 2019",
+		"id": 1095692967170531300,
+		"id_str": "1095693157336039425",
+		"full_text": "It’s 2019 and Iowa can’t figure out how to stop the loss of one of its most valuable assets: top soil\n\nWhy? 👉 most farmland is rented and @IowaFarmBureau opposes most programs to prevent soil erosion. https://t.co/AHxuHxznI4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IowaFarmBureau",
+					"name": "Iowa Farm Bureau",
+					"id": 28120317,
+					"id_str": "28120317",
+					"indices": [
+						138,
+						153
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1095692961193644000,
+					"id_str": "1095692961193644038",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/DzSu8WbX0AYJ2uR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzSu8WbX0AYJ2uR.jpg",
+					"url": "https://t.co/AHxuHxznI4",
+					"display_url": "pic.twitter.com/AHxuHxznI4",
+					"expanded_url": "https://twitter.com/AustinFrerick/status/1095692967170531328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095692961193644000,
+					"id_str": "1095692961193644038",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/DzSu8WbX0AYJ2uR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzSu8WbX0AYJ2uR.jpg",
+					"url": "https://t.co/AHxuHxznI4",
+					"display_url": "pic.twitter.com/AHxuHxznI4",
+					"expanded_url": "https://twitter.com/AustinFrerick/status/1095692967170531328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3336901401,
+			"id_str": "3336901401",
+			"name": "Austin Frerick",
+			"screen_name": "AustinFrerick",
+			"location": "CID/DCA",
+			"description": "Fellow at @OpenMarkets. Heroes: Jane Addams, Grandpa Frerick, RuPaul, & Louis Brandeis. 🌽🏳️‍🌈 #iowaAF",
+			"url": "https://t.co/g7FWHJ9lSp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/g7FWHJ9lSp",
+							"expanded_url": "http://www.austinfrerick.com/",
+							"display_url": "austinfrerick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10108,
+			"friends_count": 568,
+			"listed_count": 101,
+			"created_at": "Sat Jun 20 14:05:20 +0000 2015",
+			"favourites_count": 7547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6642,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/882775313536634881/OcE8V-09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/882775313536634881/OcE8V-09_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3336901401/1521293847",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s 2019 and Iowa can’t figure out how to stop the loss of one of its most valuable assets: top soil\n\nWhy? 👉 most farmland is rented and @IowaFarmBureau opposes most programs to prevent soil erosion. https://t.co/AHxuHxznI4"
+	},
+	{
+		"created_at": "Wed Feb 13 14:01:00 +0000 2019",
+		"id": 1095684265654829000,
+		"id_str": "1095690335664128001",
+		"full_text": "Welcoming @CSUCI &amp; @DavidsonCollege as the first members of the @hypothes_is #LMS App pilot program. Thank you @doublem44 &amp; @sundilu et al! Learn how these forward-thinking EDUs are gearing up to use #annotation &amp; #socialreading in teaching and learning: https://t.co/vXESRRHSmz https://t.co/mctrA8xwyW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			290
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LMS",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "annotation",
+					"indices": [
+						208,
+						219
+					]
+				},
+				{
+					"text": "socialreading",
+					"indices": [
+						226,
+						240
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "csuci",
+					"name": "CSU Channel Islands",
+					"id": 14620119,
+					"id_str": "14620119",
+					"indices": [
+						10,
+						16
+					]
+				},
+				{
+					"screen_name": "DavidsonCollege",
+					"name": "Davidson College",
+					"id": 353477625,
+					"id_str": "353477625",
+					"indices": [
+						23,
+						39
+					]
+				},
+				{
+					"screen_name": "hypothes_is",
+					"name": "Hypothesis",
+					"id": 325100970,
+					"id_str": "325100970",
+					"indices": [
+						68,
+						80
+					]
+				},
+				{
+					"screen_name": "doublem44",
+					"name": "Michael McGarry",
+					"id": 16173953,
+					"id_str": "16173953",
+					"indices": [
+						115,
+						125
+					]
+				},
+				{
+					"screen_name": "sundilu",
+					"name": "Sundi Richard",
+					"id": 16592181,
+					"id_str": "16592181",
+					"indices": [
+						132,
+						140
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vXESRRHSmz",
+					"expanded_url": "https://web.hypothes.is/blog/csuci-and-davidson-first-to-join-hypothesis-lms-app-pilot-program/",
+					"display_url": "web.hypothes.is/blog/csuci-and…",
+					"indices": [
+						267,
+						290
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1095503000682909700,
+					"id_str": "1095503000682909696",
+					"indices": [
+						291,
+						314
+					],
+					"media_url": "http://pbs.twimg.com/media/DzQCLMYUUAAIstc.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzQCLMYUUAAIstc.png",
+					"url": "https://t.co/mctrA8xwyW",
+					"display_url": "pic.twitter.com/mctrA8xwyW",
+					"expanded_url": "https://twitter.com/hypothes_is/status/1095684265654829056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095503000682909700,
+					"id_str": "1095503000682909696",
+					"indices": [
+						291,
+						314
+					],
+					"media_url": "http://pbs.twimg.com/media/DzQCLMYUUAAIstc.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzQCLMYUUAAIstc.png",
+					"url": "https://t.co/mctrA8xwyW",
+					"display_url": "pic.twitter.com/mctrA8xwyW",
+					"expanded_url": "https://twitter.com/hypothes_is/status/1095684265654829056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 325100970,
+			"id_str": "325100970",
+			"name": "Hypothesis",
+			"screen_name": "hypothes_is",
+			"location": "San Francisco, CA USA",
+			"description": "All knowledge, annotated.",
+			"url": "http://t.co/vNZZ2YDTUa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/vNZZ2YDTUa",
+							"expanded_url": "http://hypothes.is",
+							"display_url": "hypothes.is",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7621,
+			"friends_count": 4295,
+			"listed_count": 410,
+			"created_at": "Mon Jun 27 18:52:36 +0000 2011",
+			"favourites_count": 4924,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3806,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060590184436137984/CK0VrQHt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060590184436137984/CK0VrQHt_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Welcoming @CSUCI &amp; @DavidsonCollege as the first members of the @hypothes_is #LMS App pilot program. Thank you @doublem44 &amp; @sundilu et al! Learn how these forward-thinking EDUs are gearing up to use #annotation &amp; #socialreading in teaching and learning: https://t.co/vXESRRHSmz https://t.co/mctrA8xwyW"
+	},
+	{
+		"created_at": "Wed Feb 13 01:52:06 +0000 2019",
+		"id": 1095500833691762700,
+		"id_str": "1095501277277097984",
+		"full_text": "There's not that great a connection between solving prowess and constructing talent. That said, you should've done roughly a bazillion puzzles before you have a go. If you don't love the things, why bother? https://t.co/crL0dJMnOS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/crL0dJMnOS",
+					"expanded_url": "https://twitter.com/kateschwed/status/1095500032558727175",
+					"display_url": "twitter.com/kateschwed/sta…",
+					"indices": [
+						207,
+						230
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14230012,
+			"id_str": "14230012",
+			"name": "Rex Parker🏹🏹🏹",
+			"screen_name": "rexparker",
+			"location": "Binghamton, NY",
+			"description": "Tossword Critter // I married a Kiwi // he him His Highness // #NYTXW //  All Hail OOXTEPLERNON!",
+			"url": "https://t.co/lL1n14Xuv4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lL1n14Xuv4",
+							"expanded_url": "http://rexwordpuzzle.blogspot.com",
+							"display_url": "rexwordpuzzle.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7376,
+			"friends_count": 251,
+			"listed_count": 154,
+			"created_at": "Wed Mar 26 21:33:58 +0000 2008",
+			"favourites_count": 48785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77486,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/977249006060531715/kD3wMl50_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/977249006060531715/kD3wMl50_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14230012/1524625527",
+			"profile_link_color": "D10404",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1095500032558727200,
+		"quoted_status_id_str": "1095500032558727175",
+		"quoted_status_permalink": {
+			"url": "https://t.co/crL0dJMnOS",
+			"expanded": "https://twitter.com/kateschwed/status/1095500032558727175",
+			"display": "twitter.com/kateschwed/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 13 01:48:55 +0000 2019",
+			"id": 1095500032558727200,
+			"id_str": "1095500032558727175",
+			"full_text": "@rexparker How good should you be at solving crosswords before you try constructing one?",
+			"truncated": false,
+			"display_text_range": [
+				11,
+				88
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rexparker",
+						"name": "Rex Parker🏹🏹🏹",
+						"id": 14230012,
+						"id_str": "14230012",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1095454815302369300,
+			"in_reply_to_status_id_str": "1095454815302369280",
+			"in_reply_to_user_id": 14230012,
+			"in_reply_to_user_id_str": "14230012",
+			"in_reply_to_screen_name": "rexparker",
+			"user": {
+				"id": 1271701,
+				"id_str": "1271701",
+				"name": "Kate Schwed",
+				"screen_name": "kateschwed",
+				"location": "Brooklyn",
+				"description": "highbrow brilliant in the streets, lowbrow despicable in the tweets",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 209,
+				"friends_count": 412,
+				"listed_count": 5,
+				"created_at": "Fri Mar 16 07:37:28 +0000 2007",
+				"favourites_count": 8755,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2843,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/440642061042475008/sU4tmjUe_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/440642061042475008/sU4tmjUe_normal.jpeg",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There's not that great a connection between solving prowess and constructing talent. That said, you should've done roughly a bazillion puzzles before you have a go. If you don't love the things, why bother? https://t.co/crL0dJMnOS"
+	},
+	{
 		"created_at": "Tue Feb 12 20:37:49 +0000 2019",
 		"id": 1095421741839593500,
 		"id_str": "1095429645984563202",
