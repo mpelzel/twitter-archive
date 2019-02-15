@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 14 16:17:26 +0000 2019",
+		"id": 1096080987530907600,
+		"id_str": "1096081085358882821",
+		"full_text": "Gospel: Today Jesus encounters the Syrophoenician woman, from a different religious background than his (Mk 7:24-30). Initially, he rebuffs her request for a healing. Then he does what we are called to do with people who seem \"different\" from us. He listens and \"encounters\" her. https://t.co/TaoypwLBPT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096080913274990600,
+					"id_str": "1096080913274990592",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DzYPyIjXcAAR5aB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzYPyIjXcAAR5aB.jpg",
+					"url": "https://t.co/TaoypwLBPT",
+					"display_url": "pic.twitter.com/TaoypwLBPT",
+					"expanded_url": "https://twitter.com/JamesMartinSJ/status/1096080987530907648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096080913274990600,
+					"id_str": "1096080913274990592",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DzYPyIjXcAAR5aB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzYPyIjXcAAR5aB.jpg",
+					"url": "https://t.co/TaoypwLBPT",
+					"display_url": "pic.twitter.com/TaoypwLBPT",
+					"expanded_url": "https://twitter.com/JamesMartinSJ/status/1096080987530907648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226320142,
+			"id_str": "226320142",
+			"name": "James Martin, SJ",
+			"screen_name": "JamesMartinSJ",
+			"location": "New York City",
+			"description": "Jesuit priest, editor at large @Americamag, author of 'Jesus: A Pilgrimage' and 'Building a Bridge,' consultor to the Dicastery for Communication.",
+			"url": "https://t.co/FfaI6niv6t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FfaI6niv6t",
+							"expanded_url": "http://www.facebook.com/FrJamesMartin?fref=ts",
+							"display_url": "facebook.com/FrJamesMartin?…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 235015,
+			"friends_count": 291,
+			"listed_count": 2644,
+			"created_at": "Mon Dec 13 21:56:22 +0000 2010",
+			"favourites_count": 22218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 34911,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "61E0AD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/573235627325591552/BvUyZbwk_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/573235627325591552/BvUyZbwk_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226320142/1534796309",
+			"profile_link_color": "1C1CAD",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F4F5ED",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 241,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Gospel: Today Jesus encounters the Syrophoenician woman, from a different religious background than his (Mk 7:24-30). Initially, he rebuffs her request for a healing. Then he does what we are called to do with people who seem \"different\" from us. He listens and \"encounters\" her. https://t.co/TaoypwLBPT"
+	},
+	{
 		"created_at": "Wed Feb 13 21:34:45 +0000 2019",
 		"id": 1095798455451177000,
 		"id_str": "1095799157254705152",
@@ -209,7 +383,7 @@ Grailbird.data.tweets_2019_02 =
 			"name": "Austin Frerick",
 			"screen_name": "AustinFrerick",
 			"location": "CID/DCA",
-			"description": "Fellow at @OpenMarkets. Heroes: Jane Addams, Grandpa Frerick, RuPaul, & Louis Brandeis. 🌽🏳️‍🌈 #iowaAF",
+			"description": "Fellow at @OpenMarkets. Heroes: Jane Addams, Grandpa Frerick, RuPaul, & Louis Brandeis. 🌽🏳️🌈 #iowaAF",
 			"url": "https://t.co/g7FWHJ9lSp",
 			"entities": {
 				"url": {
