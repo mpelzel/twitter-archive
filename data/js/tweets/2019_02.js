@@ -1,6 +1,1157 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 15 23:43:17 +0000 2019",
+		"id": 1096555577134772200,
+		"id_str": "1096555577134772230",
+		"full_text": "\"Ice and snow, bless the Lord,\nPraise and exalt him above all forever (Daniel 3:70)\n\nOK, but getting a little tired of it here, Lord... https://t.co/JUPNTd8ZfE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JUPNTd8ZfE",
+					"expanded_url": "https://twitter.com/IAStormChasing/status/1096552356337147910",
+					"display_url": "twitter.com/IAStormChasing…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 687,
+			"friends_count": 1103,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7762,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1096552356337147900,
+		"quoted_status_id_str": "1096552356337147910",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JUPNTd8ZfE",
+			"expanded": "https://twitter.com/IAStormChasing/status/1096552356337147910",
+			"display": "twitter.com/IAStormChasing…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 15 23:30:29 +0000 2019",
+			"id": 1096552356337147900,
+			"id_str": "1096552356337147910",
+			"full_text": "A winter weather advisory will be in effect Saturday evening into Sunday as 5 to 7 inches of snow will be possible. More: https://t.co/xpU6Jep86a https://t.co/OYH62jhLrF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				145
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xpU6Jep86a",
+						"expanded_url": "https://www.iowachase.com/widespread-snowfall-beginning-saturday-night/",
+						"display_url": "iowachase.com/widespread-sno…",
+						"indices": [
+							122,
+							145
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1096552354487431200,
+						"id_str": "1096552354487431168",
+						"indices": [
+							146,
+							169
+						],
+						"media_url": "http://pbs.twimg.com/media/Dze8jn7XcAA6O1l.png",
+						"media_url_https": "https://pbs.twimg.com/media/Dze8jn7XcAA6O1l.png",
+						"url": "https://t.co/OYH62jhLrF",
+						"display_url": "pic.twitter.com/OYH62jhLrF",
+						"expanded_url": "https://twitter.com/IAStormChasing/status/1096552356337147910/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 606,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 606,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 402,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1096552354487431200,
+						"id_str": "1096552354487431168",
+						"indices": [
+							146,
+							169
+						],
+						"media_url": "http://pbs.twimg.com/media/Dze8jn7XcAA6O1l.png",
+						"media_url_https": "https://pbs.twimg.com/media/Dze8jn7XcAA6O1l.png",
+						"url": "https://t.co/OYH62jhLrF",
+						"display_url": "pic.twitter.com/OYH62jhLrF",
+						"expanded_url": "https://twitter.com/IAStormChasing/status/1096552356337147910/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 606,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 606,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 402,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 128714055,
+				"id_str": "128714055",
+				"name": "Iowa Storm Chasing",
+				"screen_name": "IAStormChasing",
+				"location": "Iowa",
+				"description": "A career of #stormchasing in #Iowa and broadcasting. Now bringing you the best weather coverage devoted only to online viewers #iawx",
+				"url": "https://t.co/tgFqXQLooZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tgFqXQLooZ",
+								"expanded_url": "http://iowachase.com",
+								"display_url": "iowachase.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16349,
+				"friends_count": 3897,
+				"listed_count": 266,
+				"created_at": "Fri Apr 02 00:18:19 +0000 2010",
+				"favourites_count": 3241,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7252,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/458693122302566400/6rziCp1L_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/458693122302566400/6rziCp1L_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/128714055/1543001989",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Ice and snow, bless the Lord,\nPraise and exalt him above all forever (Daniel 3:70)\n\nOK, but getting a little tired of it here, Lord... https://t.co/JUPNTd8ZfE"
+	},
+	{
+		"created_at": "Thu Feb 14 22:00:12 +0000 2019",
+		"id": 1096167249629597700,
+		"id_str": "1096460805367828480",
+		"full_text": "Instead of a wall, we could build solar and wind farms, plus 2,000 miles of natural gas and water pipelines to power and supply water for farms and industry along the entire U.S.–Mexico border, creating a zone of opportunity for both countries. Crazy idea? https://t.co/XLYEUyxvap https://t.co/k9x4vuUzXk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XLYEUyxvap",
+					"expanded_url": "http://bit.ly/2SADUbB",
+					"display_url": "bit.ly/2SADUbB",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1096167247624716300,
+					"id_str": "1096167247624716296",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/DzZeTdEWwAgbjxC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzZeTdEWwAgbjxC.jpg",
+					"url": "https://t.co/k9x4vuUzXk",
+					"display_url": "pic.twitter.com/k9x4vuUzXk",
+					"expanded_url": "https://twitter.com/sciam/status/1096167249629597696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 636,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1086,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096167247624716300,
+					"id_str": "1096167247624716296",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/DzZeTdEWwAgbjxC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzZeTdEWwAgbjxC.jpg",
+					"url": "https://t.co/k9x4vuUzXk",
+					"display_url": "pic.twitter.com/k9x4vuUzXk",
+					"expanded_url": "https://twitter.com/sciam/status/1096167249629597696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 636,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1086,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.spredfast.com/\" rel=\"nofollow\">Spredfast app</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14647570,
+			"id_str": "14647570",
+			"name": "Scientific American",
+			"screen_name": "sciam",
+			"location": "New York City",
+			"description": "Awesome discoveries. Expert insights. Science that shapes the world.",
+			"url": "http://t.co/FfSfw3mLnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FfSfw3mLnA",
+							"expanded_url": "http://www.scientificamerican.com",
+							"display_url": "scientificamerican.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3695293,
+			"friends_count": 602,
+			"listed_count": 29297,
+			"created_at": "Sun May 04 12:39:32 +0000 2008",
+			"favourites_count": 1717,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 60594,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8F8F8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/676776763431620608/1eNZzxq0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/676776763431620608/1eNZzxq0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14647570/1547583941",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "D1423D",
+			"profile_sidebar_fill_color": "ECECEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2723,
+		"favorite_count": 4604,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Instead of a wall, we could build solar and wind farms, plus 2,000 miles of natural gas and water pipelines to power and supply water for farms and industry along the entire U.S.–Mexico border, creating a zone of opportunity for both countries. Crazy idea? https://t.co/XLYEUyxvap https://t.co/k9x4vuUzXk"
+	},
+	{
+		"created_at": "Fri Feb 15 13:55:57 +0000 2019",
+		"id": 1096407771707265000,
+		"id_str": "1096430349150814210",
+		"full_text": "\"A good programmer was concise and elegant and never wasted a word. They were poets of bits.\" And they were, by and large, women. That all changed in the 80s. Love this @pomeranian99 piece on being female in the world of computer science. https://t.co/5oqjSDpF6W https://t.co/r1AN8dhnYK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pomeranian99",
+					"name": "Clive Thompson",
+					"id": 661403,
+					"id_str": "661403",
+					"indices": [
+						169,
+						182
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5oqjSDpF6W",
+					"expanded_url": "https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html",
+					"display_url": "nytimes.com/2019/02/13/mag…",
+					"indices": [
+						239,
+						262
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1096407650164719600,
+					"id_str": "1096407650164719617",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzc48uUWwAExvJT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzc48uUWwAExvJT.jpg",
+					"url": "https://t.co/r1AN8dhnYK",
+					"display_url": "pic.twitter.com/r1AN8dhnYK",
+					"expanded_url": "https://twitter.com/mkonnikova/status/1096407771707265024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 952,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 539,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1624,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096407650164719600,
+					"id_str": "1096407650164719617",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzc48uUWwAExvJT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzc48uUWwAExvJT.jpg",
+					"url": "https://t.co/r1AN8dhnYK",
+					"display_url": "pic.twitter.com/r1AN8dhnYK",
+					"expanded_url": "https://twitter.com/mkonnikova/status/1096407771707265024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 952,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 539,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1624,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 358566293,
+			"id_str": "358566293",
+			"name": "Maria Konnikova",
+			"screen_name": "mkonnikova",
+			"location": "Brooklyn, NY",
+			"description": "Only @newyorker writer ever to go on leave to play pro poker. Wrote some bestsellers (https://t.co/muyiugsFmI), host @thegriftpodcast, Team Pokerstars Pro",
+			"url": "http://t.co/55JYnTempA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/55JYnTempA",
+							"expanded_url": "http://www.mariakonnikova.com",
+							"display_url": "mariakonnikova.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/muyiugsFmI",
+							"expanded_url": "https://amzn.to/2qmaDAe",
+							"display_url": "amzn.to/2qmaDAe",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34355,
+			"friends_count": 241,
+			"listed_count": 1241,
+			"created_at": "Sat Aug 20 03:51:13 +0000 2011",
+			"favourites_count": 11619,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18120,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/454261373996773379/5oYFsBnU_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/454261373996773379/5oYFsBnU_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/358566293/1446584548",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"A good programmer was concise and elegant and never wasted a word. They were poets of bits.\" And they were, by and large, women. That all changed in the 80s. Love this @pomeranian99 piece on being female in the world of computer science. https://t.co/5oqjSDpF6W https://t.co/r1AN8dhnYK"
+	},
+	{
+		"created_at": "Thu Feb 14 22:00:22 +0000 2019",
+		"id": 1096167288376619000,
+		"id_str": "1096428065452969984",
+		"full_text": "What's happening in week[1] of the annotation of Doug Engelbart's \"Augmenting Human Intellect: A Conceptual Framework\" - focus on introduction sections https://t.co/525gu5Peui #augmentintellect \n\nAnnotate with us...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "augmentintellect",
+					"indices": [
+						176,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/525gu5Peui",
+					"expanded_url": "https://framework.thoughtvectors.net/news/whats-happening/",
+					"display_url": "framework.thoughtvectors.net/news/whats-hap…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10416,
+			"friends_count": 1460,
+			"listed_count": 788,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87722,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What's happening in week[1] of the annotation of Doug Engelbart's \"Augmenting Human Intellect: A Conceptual Framework\" - focus on introduction sections https://t.co/525gu5Peui #augmentintellect \n\nAnnotate with us..."
+	},
+	{
+		"created_at": "Fri Feb 15 00:57:11 +0000 2019",
+		"id": 1096211787366780900,
+		"id_str": "1096211787366780934",
+		"full_text": "\"#KenKen is the invention of Tetsuya Miyamoto, a Japanese educator who runs a private, after-school academy for children in Tokyo. The academy operates on the principle of 'teaching without teaching'.\" https://t.co/Oty2DsZonD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KenKen",
+					"indices": [
+						1,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Oty2DsZonD",
+					"expanded_url": "https://twitter.com/readercenter/status/1094420477681025030",
+					"display_url": "twitter.com/readercenter/s…",
+					"indices": [
+						202,
+						225
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 687,
+			"friends_count": 1103,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7762,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1094420477681025000,
+		"quoted_status_id_str": "1094420477681025030",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Oty2DsZonD",
+			"expanded": "https://twitter.com/readercenter/status/1094420477681025030",
+			"display": "twitter.com/readercenter/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 10 02:19:09 +0000 2019",
+			"id": 1094420477681025000,
+			"id_str": "1094420477681025030",
+			"full_text": "We're celebrating the 10th anniversary of the KenKen puzzle in The Times! Will Shortz explains how it came to grace our pages: https://t.co/EFqm8dp0gD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				150
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EFqm8dp0gD",
+						"expanded_url": "https://nyti.ms/2DZn6Sv",
+						"display_url": "nyti.ms/2DZn6Sv",
+						"indices": [
+							127,
+							150
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 710185547281637400,
+				"id_str": "710185547281637379",
+				"name": "NYT Reader Center",
+				"screen_name": "readercenter",
+				"location": "New York, NY",
+				"description": "Connecting our newsroom and our readers. We want to hear from you: https://t.co/8jnlute5qK",
+				"url": "https://t.co/4CfAXcgIot",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4CfAXcgIot",
+								"expanded_url": "http://www.nytimes.com/readers",
+								"display_url": "nytimes.com/readers",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/8jnlute5qK",
+								"expanded_url": "https://nyti.ms/2vnN79Y",
+								"display_url": "nyti.ms/2vnN79Y",
+								"indices": [
+									67,
+									90
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 9524,
+				"friends_count": 1139,
+				"listed_count": 161,
+				"created_at": "Wed Mar 16 19:26:43 +0000 2016",
+				"favourites_count": 740,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2188,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/984877368593362944/isk6VE-v_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/984877368593362944/isk6VE-v_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/710185547281637379/1513720999",
+				"profile_link_color": "004276",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"#KenKen is the invention of Tetsuya Miyamoto, a Japanese educator who runs a private, after-school academy for children in Tokyo. The academy operates on the principle of 'teaching without teaching'.\" https://t.co/Oty2DsZonD"
+	},
+	{
+		"created_at": "Thu Feb 14 19:23:01 +0000 2019",
+		"id": 1096127692439806000,
+		"id_str": "1096209306830192640",
+		"full_text": "Jordan Scheibel '10 found a passion for local agriculture as a student at Grinnell and now runs Middle Way Farm, an organic farm on the outskirts of Grinnell. Check out Episode 7 of All Things Grinnell to hear about his journey to becoming a farmer. https://t.co/cqyaiuHf3w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cqyaiuHf3w",
+					"expanded_url": "http://fal.cn/i4kE",
+					"display_url": "fal.cn/i4kE",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.falcon.io\" rel=\"nofollow\">Falcon Social Media Management </a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17652635,
+			"id_str": "17652635",
+			"name": "Grinnell College",
+			"screen_name": "GrinnellCollege",
+			"location": "Grinnell, Iowa",
+			"description": "The official Twitter account for Grinnell College. Updates on news, faculty, students, athletics and campus life at #GrinnellCollege.",
+			"url": "http://t.co/cT1hUUMKcV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/cT1hUUMKcV",
+							"expanded_url": "http://www.grinnell.edu",
+							"display_url": "grinnell.edu",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6139,
+			"friends_count": 561,
+			"listed_count": 220,
+			"created_at": "Wed Nov 26 16:07:19 +0000 2008",
+			"favourites_count": 4304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4768,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/991321404195856384/WY7ENUeS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/991321404195856384/WY7ENUeS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17652635/1402595600",
+			"profile_link_color": "B40012",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E0E8F0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jordan Scheibel '10 found a passion for local agriculture as a student at Grinnell and now runs Middle Way Farm, an organic farm on the outskirts of Grinnell. Check out Episode 7 of All Things Grinnell to hear about his journey to becoming a farmer. https://t.co/cqyaiuHf3w"
+	},
+	{
 		"created_at": "Thu Feb 14 16:17:26 +0000 2019",
 		"id": 1096080987530907600,
 		"id_str": "1096081085358882821",
