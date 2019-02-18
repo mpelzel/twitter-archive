@@ -1,6 +1,678 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 17 23:27:49 +0000 2019",
+		"id": 1097276462632181800,
+		"id_str": "1097286780947234816",
+		"full_text": "Grinnell's social-justice-oriented hackathon, \"Hack Grinnell College,\" which took place this weekend, is trying to get more humanities students involved in using technology for social change.\nhttps://t.co/JszgOYPqZP https://t.co/jFEsbpS1ll",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JszgOYPqZP",
+					"expanded_url": "http://www.thesandb.com/article/hack-grinnell-college-promotes-hacking-as-social-justice.html",
+					"display_url": "thesandb.com/article/hack-g…",
+					"indices": [
+						192,
+						215
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1097276446685450200,
+					"id_str": "1097276446685450241",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/DzpPHVkW0AEwSgg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzpPHVkW0AEwSgg.jpg",
+					"url": "https://t.co/jFEsbpS1ll",
+					"display_url": "pic.twitter.com/jFEsbpS1ll",
+					"expanded_url": "https://twitter.com/thesandb/status/1097276462632181762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1160,
+							"h": 829,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1160,
+							"h": 829,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097276446685450200,
+					"id_str": "1097276446685450241",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/DzpPHVkW0AEwSgg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzpPHVkW0AEwSgg.jpg",
+					"url": "https://t.co/jFEsbpS1ll",
+					"display_url": "pic.twitter.com/jFEsbpS1ll",
+					"expanded_url": "https://twitter.com/thesandb/status/1097276462632181762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1160,
+							"h": 829,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1160,
+							"h": 829,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21555437,
+			"id_str": "21555437",
+			"name": "The Scarlet & Black",
+			"screen_name": "thesandb",
+			"location": "Grinnell College, Grinnell, IA",
+			"description": "The Scarlet & Black is the weekly Grinnell College newspaper, run entirely by students.",
+			"url": "http://t.co/disouO2bBo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/disouO2bBo",
+							"expanded_url": "http://thesandb.com/",
+							"display_url": "thesandb.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1144,
+			"friends_count": 131,
+			"listed_count": 43,
+			"created_at": "Sun Feb 22 09:16:58 +0000 2009",
+			"favourites_count": 109,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2292,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/529309078275649537/Sy_iQRpd_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/529309078275649537/Sy_iQRpd_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21555437/1415032072",
+			"profile_link_color": "ED2F2F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Grinnell's social-justice-oriented hackathon, \"Hack Grinnell College,\" which took place this weekend, is trying to get more humanities students involved in using technology for social change.\nhttps://t.co/JszgOYPqZP https://t.co/jFEsbpS1ll"
+	},
+	{
+		"created_at": "Sun Feb 17 23:23:23 +0000 2019",
+		"id": 1097275346171371500,
+		"id_str": "1097275346171371522",
+		"full_text": "It's a great week to be heading to #ELI19 in Anaheim... https://t.co/7f9YrlNlEE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELI19",
+					"indices": [
+						35,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7f9YrlNlEE",
+					"expanded_url": "https://twitter.com/IAStormChasing/status/1097251941552410624",
+					"display_url": "twitter.com/IAStormChasing…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 686,
+			"friends_count": 1104,
+			"listed_count": 38,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7765,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1097251941552410600,
+		"quoted_status_id_str": "1097251941552410624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7f9YrlNlEE",
+			"expanded": "https://twitter.com/IAStormChasing/status/1097251941552410624",
+			"display": "twitter.com/IAStormChasing…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 17 21:50:23 +0000 2019",
+			"id": 1097251941552410600,
+			"id_str": "1097251941552410624",
+			"full_text": "This is just getting ridiculous. Snow, shovel, repeat. More snow is back in the forecast Tuesday night. The latest: https://t.co/J9RRlBNreK https://t.co/YVGrfxQfim",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				139
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/J9RRlBNreK",
+						"expanded_url": "https://www.iowachase.com/snow-shovel-repeat/",
+						"display_url": "iowachase.com/snow-shovel-re…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1097251939736346600,
+						"id_str": "1097251939736346625",
+						"indices": [
+							140,
+							163
+						],
+						"media_url": "http://pbs.twimg.com/media/Dzo402EX4AEXbQ3.png",
+						"media_url_https": "https://pbs.twimg.com/media/Dzo402EX4AEXbQ3.png",
+						"url": "https://t.co/YVGrfxQfim",
+						"display_url": "pic.twitter.com/YVGrfxQfim",
+						"expanded_url": "https://twitter.com/IAStormChasing/status/1097251941552410624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 436,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 656,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 656,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1097251939736346600,
+						"id_str": "1097251939736346625",
+						"indices": [
+							140,
+							163
+						],
+						"media_url": "http://pbs.twimg.com/media/Dzo402EX4AEXbQ3.png",
+						"media_url_https": "https://pbs.twimg.com/media/Dzo402EX4AEXbQ3.png",
+						"url": "https://t.co/YVGrfxQfim",
+						"display_url": "pic.twitter.com/YVGrfxQfim",
+						"expanded_url": "https://twitter.com/IAStormChasing/status/1097251941552410624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 436,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 656,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 656,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 128714055,
+				"id_str": "128714055",
+				"name": "Iowa Storm Chasing",
+				"screen_name": "IAStormChasing",
+				"location": "Iowa",
+				"description": "A career of #stormchasing in #Iowa and broadcasting. Now bringing you the best weather coverage devoted only to online viewers #iawx",
+				"url": "https://t.co/tgFqXQLooZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tgFqXQLooZ",
+								"expanded_url": "http://iowachase.com",
+								"display_url": "iowachase.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16400,
+				"friends_count": 3897,
+				"listed_count": 266,
+				"created_at": "Fri Apr 02 00:18:19 +0000 2010",
+				"favourites_count": 3250,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7260,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/458693122302566400/6rziCp1L_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/458693122302566400/6rziCp1L_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/128714055/1543001989",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 54,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's a great week to be heading to #ELI19 in Anaheim... https://t.co/7f9YrlNlEE"
+	},
+	{
+		"created_at": "Sun Feb 17 21:50:23 +0000 2019",
+		"id": 1097251941552410600,
+		"id_str": "1097252659860525056",
+		"full_text": "This is just getting ridiculous. Snow, shovel, repeat. More snow is back in the forecast Tuesday night. The latest: https://t.co/J9RRlBNreK https://t.co/YVGrfxQfim",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J9RRlBNreK",
+					"expanded_url": "https://www.iowachase.com/snow-shovel-repeat/",
+					"display_url": "iowachase.com/snow-shovel-re…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1097251939736346600,
+					"id_str": "1097251939736346625",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzo402EX4AEXbQ3.png",
+					"media_url_https": "https://pbs.twimg.com/media/Dzo402EX4AEXbQ3.png",
+					"url": "https://t.co/YVGrfxQfim",
+					"display_url": "pic.twitter.com/YVGrfxQfim",
+					"expanded_url": "https://twitter.com/IAStormChasing/status/1097251941552410624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 436,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 656,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 656,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097251939736346600,
+					"id_str": "1097251939736346625",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzo402EX4AEXbQ3.png",
+					"media_url_https": "https://pbs.twimg.com/media/Dzo402EX4AEXbQ3.png",
+					"url": "https://t.co/YVGrfxQfim",
+					"display_url": "pic.twitter.com/YVGrfxQfim",
+					"expanded_url": "https://twitter.com/IAStormChasing/status/1097251941552410624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 436,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 656,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 656,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128714055,
+			"id_str": "128714055",
+			"name": "Iowa Storm Chasing",
+			"screen_name": "IAStormChasing",
+			"location": "Iowa",
+			"description": "A career of #stormchasing in #Iowa and broadcasting. Now bringing you the best weather coverage devoted only to online viewers #iawx",
+			"url": "https://t.co/tgFqXQLooZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tgFqXQLooZ",
+							"expanded_url": "http://iowachase.com",
+							"display_url": "iowachase.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16400,
+			"friends_count": 3897,
+			"listed_count": 266,
+			"created_at": "Fri Apr 02 00:18:19 +0000 2010",
+			"favourites_count": 3250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7260,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/458693122302566400/6rziCp1L_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/458693122302566400/6rziCp1L_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128714055/1543001989",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is just getting ridiculous. Snow, shovel, repeat. More snow is back in the forecast Tuesday night. The latest: https://t.co/J9RRlBNreK https://t.co/YVGrfxQfim"
+	},
+	{
 		"created_at": "Sat Feb 16 05:28:02 +0000 2019",
 		"id": 1096642338968035300,
 		"id_str": "1096858886127144962",
