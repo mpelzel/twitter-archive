@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 18 00:53:48 +0000 2019",
+		"id": 1097298100832612400,
+		"id_str": "1097303429947498497",
+		"full_text": "Available now for preorder! Please RT! https://t.co/LX0swLCimu. \n\n\"The story of a young woman s journey through the dark minefield of modernity, of a lost soul who searched in vain for joy before finding it in the place where it had awaited her all along\" -- @TerryTeachout1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TerryTeachout1",
+					"name": "(((Terry Teachout)))",
+					"id": 1069295337083408400,
+					"id_str": "1069295337083408385",
+					"indices": [
+						259,
+						274
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LX0swLCimu",
+					"expanded_url": "https://www.amazon.com/gp/product/1683571193/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=thedawnpatrol-20&creative=9325&linkCode=as2&creativeASIN=1683571193&linkId=fd7c4c2735626deeb2ef10a82c56b2ab",
+					"display_url": "amazon.com/gp/product/168…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1097297578981511200,
+		"in_reply_to_status_id_str": "1097297578981511178",
+		"in_reply_to_user_id": 385416740,
+		"in_reply_to_user_id_str": "385416740",
+		"in_reply_to_screen_name": "DawnofMercy",
+		"user": {
+			"id": 385416740,
+			"id_str": "385416740",
+			"name": "Dawn Eden Goldstein",
+			"screen_name": "DawnofMercy",
+			"location": "Washington, DC",
+			"description": "Award-winning author for @avemariapress & @HarperCollins. Doctrix of Sacred Theology.  Asst. Professor & Chair of Online Undergrad Theology @HolyApostlesedu.",
+			"url": "http://t.co/zIobnrhy7a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/zIobnrhy7a",
+							"expanded_url": "http://dawneden.blogspot.com",
+							"display_url": "dawneden.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4903,
+			"friends_count": 1674,
+			"listed_count": 109,
+			"created_at": "Wed Oct 05 13:26:13 +0000 2011",
+			"favourites_count": 18232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16306,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082124508385820672/M-8tA9vJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082124508385820672/M-8tA9vJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/385416740/1445015176",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Available now for preorder! Please RT! https://t.co/LX0swLCimu. \n\n\"The story of a young woman s journey through the dark minefield of modernity, of a lost soul who searched in vain for joy before finding it in the place where it had awaited her all along\" -- @TerryTeachout1"
+	},
+	{
 		"created_at": "Sun Feb 17 23:27:49 +0000 2019",
 		"id": 1097276462632181800,
 		"id_str": "1097286780947234816",
