@@ -1,6 +1,823 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 19 22:07:50 +0000 2019",
+		"id": 1097981109344694300,
+		"id_str": "1097981249228963840",
+		"full_text": "Charles Todd, founder of @ImprovEvery talks at @EDUCAUSELI  - The biggest failure is perhaps not trying out an idea - inspire people and take greater risks - could not agree more #eli2019 https://t.co/PmStxvAh8g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "eli2019",
+					"indices": [
+						179,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ImprovEvery",
+					"name": "Improv Everywhere",
+					"id": 15127748,
+					"id_str": "15127748",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "EDUCAUSELI",
+					"name": "EDUCAUSELI",
+					"id": 10195462,
+					"id_str": "10195462",
+					"indices": [
+						47,
+						58
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097981093997760500,
+					"id_str": "1097981093997760512",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/DzzP_NXU0AAPaNa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzzP_NXU0AAPaNa.jpg",
+					"url": "https://t.co/PmStxvAh8g",
+					"display_url": "pic.twitter.com/PmStxvAh8g",
+					"expanded_url": "https://twitter.com/mayaig/status/1097981109344694272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097981093997760500,
+					"id_str": "1097981093997760512",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/DzzP_NXU0AAPaNa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzzP_NXU0AAPaNa.jpg",
+					"url": "https://t.co/PmStxvAh8g",
+					"display_url": "pic.twitter.com/PmStxvAh8g",
+					"expanded_url": "https://twitter.com/mayaig/status/1097981109344694272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25883748,
+			"id_str": "25883748",
+			"name": "Maya Georgieva",
+			"screen_name": "mayaig",
+			"location": "New York",
+			"description": "Futurist, Speaker, Global EdTech Strategist. Cofounder & Storyteller at https://t.co/q39aHGZNIm Edu Futurist Award.Thinking about AR/VR/MR/AI @TheNewSchool",
+			"url": "https://t.co/aw8UhbUb81",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aw8UhbUb81",
+							"expanded_url": "http://www.linkedin.com/in/mayaig",
+							"display_url": "linkedin.com/in/mayaig",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/q39aHGZNIm",
+							"expanded_url": "http://www.digitalbodies.net",
+							"display_url": "digitalbodies.net",
+							"indices": [
+								72,
+								95
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 853,
+			"friends_count": 791,
+			"listed_count": 143,
+			"created_at": "Sun Mar 22 21:26:10 +0000 2009",
+			"favourites_count": 2118,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1223,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/727872718239059968/qblXv3T5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/727872718239059968/qblXv3T5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25883748/1549817749",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Charles Todd, founder of @ImprovEvery talks at @EDUCAUSELI  - The biggest failure is perhaps not trying out an idea - inspire people and take greater risks - could not agree more #eli2019 https://t.co/PmStxvAh8g"
+	},
+	{
+		"created_at": "Tue Feb 19 22:04:28 +0000 2019",
+		"id": 1097980259566182400,
+		"id_str": "1097980335562809344",
+		"full_text": "Great keynote about improv everywhere about the importance of participatory play. #eli2019 #improv https://t.co/apO6HJpNHs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "eli2019",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "improv",
+					"indices": [
+						91,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097980255552266200,
+					"id_str": "1097980255552266240",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/DzzPOZ6V4AACOVT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzzPOZ6V4AACOVT.jpg",
+					"url": "https://t.co/apO6HJpNHs",
+					"display_url": "pic.twitter.com/apO6HJpNHs",
+					"expanded_url": "https://twitter.com/adamfdotnet/status/1097980259566182400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097980255552266200,
+					"id_str": "1097980255552266240",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/DzzPOZ6V4AACOVT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzzPOZ6V4AACOVT.jpg",
+					"url": "https://t.co/apO6HJpNHs",
+					"display_url": "pic.twitter.com/apO6HJpNHs",
+					"expanded_url": "https://twitter.com/adamfdotnet/status/1097980259566182400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90416296,
+			"id_str": "90416296",
+			"name": "Adam Finkelstein",
+			"screen_name": "adamfdotnet",
+			"location": "ÜT: 45.461194,-73.6344",
+			"description": "Techno-geeky, hyper-connected, educational technology, social media dad with a academic, educational developer, teaching and learning, social wrapper @ McGillU.",
+			"url": "http://t.co/6lFY3odR4W",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6lFY3odR4W",
+							"expanded_url": "http://www.adamf.net",
+							"display_url": "adamf.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 593,
+			"friends_count": 234,
+			"listed_count": 37,
+			"created_at": "Mon Nov 16 15:35:27 +0000 2009",
+			"favourites_count": 366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2006,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/537075894/evil-monkey_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/537075894/evil-monkey_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90416296/1455558505",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great keynote about improv everywhere about the importance of participatory play. #eli2019 #improv https://t.co/apO6HJpNHs"
+	},
+	{
+		"created_at": "Tue Feb 19 21:50:21 +0000 2019",
+		"id": 1097976709679214600,
+		"id_str": "1097979368679235584",
+		"full_text": "Inspiring #eli2019 keynote of @charlietodd, founder of @ImprovEvery \"Surprise people, give them the opportunity to say yes to it\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "eli2019",
+					"indices": [
+						10,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "charlietodd",
+					"name": "Charlie Todd",
+					"id": 15127739,
+					"id_str": "15127739",
+					"indices": [
+						30,
+						42
+					]
+				},
+				{
+					"screen_name": "ImprovEvery",
+					"name": "Improv Everywhere",
+					"id": 15127748,
+					"id_str": "15127748",
+					"indices": [
+						55,
+						67
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22906356,
+			"id_str": "22906356",
+			"name": "arjan schalken",
+			"screen_name": "arjanschalken",
+			"location": "Amsterdam, The Netherlands",
+			"description": "VSNU project manager Amendement Taverne / article 25fa Dutch Copyright Act #YouShareWetakeCare, Deputity Director  Library, Vrije Universiteit van Amsterdam",
+			"url": "https://t.co/y3NBGKmUPD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y3NBGKmUPD",
+							"expanded_url": "http://www.linkedin.com/in/arjanschalken",
+							"display_url": "linkedin.com/in/arjanschalk…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 113,
+			"friends_count": 116,
+			"listed_count": 2,
+			"created_at": "Thu Mar 05 10:53:15 +0000 2009",
+			"favourites_count": 118,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 277,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090896108241543168/CthGXtHR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090896108241543168/CthGXtHR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22906356/1548932635",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Inspiring #eli2019 keynote of @charlietodd, founder of @ImprovEvery \"Surprise people, give them the opportunity to say yes to it\""
+	},
+	{
+		"created_at": "Tue Feb 19 21:50:14 +0000 2019",
+		"id": 1097976680855916500,
+		"id_str": "1097979337955991552",
+		"full_text": "This keynote has me thinking about the classroom as performative space: we're all already performing anyway. Are there ways we can amp up that performativity in more creative ways? In more joyful ways? #eli2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "eli2019",
+					"indices": [
+						202,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 58378563,
+			"id_str": "58378563",
+			"name": "Jenae Cohn",
+			"screen_name": "Jenae_Cohn",
+			"location": "Palo Alto, CA",
+			"description": "@Stanford Academic Technology Specialist. PhD from @UCDavis. Interested in digital rhetoric, multiliteracies, visual culture, & #edtech.",
+			"url": "http://t.co/nCxxryyg21",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/nCxxryyg21",
+							"expanded_url": "http://www.jenaecohn.net",
+							"display_url": "jenaecohn.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1134,
+			"friends_count": 1425,
+			"listed_count": 33,
+			"created_at": "Mon Jul 20 03:34:42 +0000 2009",
+			"favourites_count": 3714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3640,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956296474312060929/_aZNGMcv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956296474312060929/_aZNGMcv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/58378563/1413238015",
+			"profile_link_color": "048504",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "This keynote has me thinking about the classroom as performative space: we're all already performing anyway. Are there ways we can amp up that performativity in more creative ways? In more joyful ways? #eli2019"
+	},
+	{
+		"created_at": "Tue Feb 19 21:12:32 +0000 2019",
+		"id": 1097967193533308900,
+		"id_str": "1097967944871555072",
+		"full_text": "Thanks @sendelbach @MorrisPelzel @acmtechliaison Ed Wilder @JSpohrer and LAC colleagues and friends for a *great* discussion .... let's keep ideas flowing on Local and Global Decisions: Dev and Assessment of Digital Competency Initiatives https://t.co/hR72fZewb6 #ELI2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELI2019",
+					"indices": [
+						263,
+						271
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sendelbach",
+					"name": "Donnie Sendelbach",
+					"id": 14239350,
+					"id_str": "14239350",
+					"indices": [
+						7,
+						18
+					]
+				},
+				{
+					"screen_name": "MorrisPelzel",
+					"name": "Mo Pelzel",
+					"id": 33972737,
+					"id_str": "33972737",
+					"indices": [
+						19,
+						32
+					]
+				},
+				{
+					"screen_name": "acmtechliaison",
+					"name": "Ed Finn, Ed.D.",
+					"id": 2788007040,
+					"id_str": "2788007040",
+					"indices": [
+						33,
+						48
+					]
+				},
+				{
+					"screen_name": "JSpohrer",
+					"name": "Jennifer Spohrer",
+					"id": 595687222,
+					"id_str": "595687222",
+					"indices": [
+						59,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hR72fZewb6",
+					"expanded_url": "https://events.educause.edu/eli/annual-meeting/2019/agenda/local-and-global-decisions-development-and-assessment-of-digital-competency-initiatives",
+					"display_url": "events.educause.edu/eli/annual-mee…",
+					"indices": [
+						239,
+						262
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4046459417,
+			"id_str": "4046459417",
+			"name": "TheLACOL",
+			"screen_name": "TheLACOL",
+			"location": "10 Fab Liberal Arts Colleges",
+			"description": "Liberal Arts Collaborative for Digital Innovation",
+			"url": "https://t.co/AJbO9KuevQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AJbO9KuevQ",
+							"expanded_url": "https://lacol.net",
+							"display_url": "lacol.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 304,
+			"listed_count": 9,
+			"created_at": "Mon Oct 26 13:35:12 +0000 2015",
+			"favourites_count": 682,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 839,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/679420268037726208/2q6senOR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/679420268037726208/2q6senOR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4046459417/1537551973",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks @sendelbach @MorrisPelzel @acmtechliaison Ed Wilder @JSpohrer and LAC colleagues and friends for a *great* discussion .... let's keep ideas flowing on Local and Global Decisions: Dev and Assessment of Digital Competency Initiatives https://t.co/hR72fZewb6 #ELI2019"
+	},
+	{
 		"created_at": "Mon Feb 18 00:53:48 +0000 2019",
 		"id": 1097298100832612400,
 		"id_str": "1097303429947498497",
