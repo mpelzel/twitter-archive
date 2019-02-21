@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 21 00:14:53 +0000 2019",
+		"id": 1098375468405805000,
+		"id_str": "1098376190052622336",
+		"full_text": "An escape room built in Canvas? This sounds fascinating. @whitneykilgore and @GoogleGuacamole about to take the stage  #ELI2019 https://t.co/gaffonDIj1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELI2019",
+					"indices": [
+						119,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "whitneykilgore",
+					"name": "Whitney Kilgore",
+					"id": 12915742,
+					"id_str": "12915742",
+					"indices": [
+						57,
+						72
+					]
+				},
+				{
+					"screen_name": "GoogleGuacamole",
+					"name": "Dr. Dr. Laura Gogia",
+					"id": 1164293858,
+					"id_str": "1164293858",
+					"indices": [
+						77,
+						93
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098375460369588200,
+					"id_str": "1098375460369588224",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz42qWlV4AAYlK7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz42qWlV4AAYlK7.jpg",
+					"url": "https://t.co/gaffonDIj1",
+					"display_url": "pic.twitter.com/gaffonDIj1",
+					"expanded_url": "https://twitter.com/britain/status/1098375468405805056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098375460369588200,
+					"id_str": "1098375460369588224",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz42qWlV4AAYlK7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz42qWlV4AAYlK7.jpg",
+					"url": "https://t.co/gaffonDIj1",
+					"display_url": "pic.twitter.com/gaffonDIj1",
+					"expanded_url": "https://twitter.com/britain/status/1098375468405805056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7160892,
+			"id_str": "7160892",
+			"name": "Britain (at #ELI2019)",
+			"screen_name": "britain",
+			"location": "Ann Arbor, MI",
+			"description": "By day: .edu cloud analyst. By night: amateur retail analyst and history writer (book coming in June!). Spouse of @abbeywoo2. He/his.  https://t.co/iXFeDy2IrG",
+			"url": "https://t.co/Yb3bzGlecO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Yb3bzGlecO",
+							"expanded_url": "http://bpdw.com/",
+							"display_url": "bpdw.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iXFeDy2IrG",
+							"expanded_url": "http://a2retail.space",
+							"display_url": "a2retail.space",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1563,
+			"friends_count": 1448,
+			"listed_count": 106,
+			"created_at": "Fri Jun 29 21:22:30 +0000 2007",
+			"favourites_count": 6549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21230,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "5A8BC7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098292115786719232/f5r1vBlX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098292115786719232/f5r1vBlX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7160892/1542387664",
+			"profile_link_color": "00274C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "B0CD98",
+			"profile_text_color": "000267",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An escape room built in Canvas? This sounds fascinating. @whitneykilgore and @GoogleGuacamole about to take the stage  #ELI2019 https://t.co/gaffonDIj1"
+	},
+	{
 		"created_at": "Tue Feb 19 22:07:50 +0000 2019",
 		"id": 1097981109344694300,
 		"id_str": "1097981249228963840",
