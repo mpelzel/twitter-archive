@@ -1,6 +1,1756 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 21 23:39:02 +0000 2019",
+		"id": 1098728836240334800,
+		"id_str": "1098728836240334848",
+		"full_text": "\"Texas, adj.: chaotic, out of control or excitingly unpredictable\" w @Ling_Lass #Texas https://t.co/h371FCSOKs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Texas",
+					"indices": [
+						80,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ling_Lass",
+					"name": "Dr. Laurel Stvan",
+					"id": 32611785,
+					"id_str": "32611785",
+					"indices": [
+						69,
+						79
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/h371FCSOKs",
+					"expanded_url": "https://twitter.com/GrammarGirl/status/1096138340175437824",
+					"display_url": "twitter.com/GrammarGirl/st…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 690,
+			"friends_count": 1111,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7783,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1096138340175437800,
+		"quoted_status_id_str": "1096138340175437824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/h371FCSOKs",
+			"expanded": "https://twitter.com/GrammarGirl/status/1096138340175437824",
+			"display": "twitter.com/GrammarGirl/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 14 20:05:20 +0000 2019",
+			"id": 1096138340175437800,
+			"id_str": "1096138340175437824",
+			"full_text": "Norwegians using ‘Texas’ to mean ‘crazy’ actually isn’t so crazy. https://t.co/cd0718sxDt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				89
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cd0718sxDt",
+						"expanded_url": "http://ow.ly/JGrA30nz6Va",
+						"display_url": "ow.ly/JGrA30nz6Va",
+						"indices": [
+							66,
+							89
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 772471,
+				"id_str": "772471",
+				"name": "Mignon Fogarty",
+				"screen_name": "GrammarGirl",
+				"location": "Reno, NV",
+				"description": "Podcaster. NYT bestselling author. Entrepreneur. Quick and Dirty Tips founder. Bad skier. Podcast: https://t.co/yoxWWTfOFv",
+				"url": "https://t.co/k6XfjbYTyb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/k6XfjbYTyb",
+								"expanded_url": "http://www.quickanddirtytips.com/grammar-girl",
+								"display_url": "quickanddirtytips.com/grammar-girl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/yoxWWTfOFv",
+								"expanded_url": "http://applepodcasts.com/grammargirl",
+								"display_url": "applepodcasts.com/grammargirl",
+								"indices": [
+									99,
+									122
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 278573,
+				"friends_count": 4509,
+				"listed_count": 7409,
+				"created_at": "Wed Feb 14 19:04:54 +0000 2007",
+				"favourites_count": 16325,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 33181,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/907643292774424576/eIbvTpjr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/907643292774424576/eIbvTpjr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/772471/1538414169",
+				"profile_link_color": "5656BF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Texas, adj.: chaotic, out of control or excitingly unpredictable\" w @Ling_Lass #Texas https://t.co/h371FCSOKs"
+	},
+	{
+		"created_at": "Thu Feb 21 23:12:51 +0000 2019",
+		"id": 1098722247869530100,
+		"id_str": "1098722247869530112",
+		"full_text": "#Pelzel family reunion at #ELI2019 in Anaheim, with @pbpelzel and Jeff Pelzel https://t.co/d5TSxjCMKU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Pelzel",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "ELI2019",
+					"indices": [
+						26,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pbpelzel",
+					"name": "Patricia Beyers Pelzel",
+					"id": 627735213,
+					"id_str": "627735213",
+					"indices": [
+						52,
+						61
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098722232929443800,
+					"id_str": "1098722232929443840",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz9yDLCVYAArUev.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz9yDLCVYAArUev.jpg",
+					"url": "https://t.co/d5TSxjCMKU",
+					"display_url": "pic.twitter.com/d5TSxjCMKU",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1098722247869530112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 585,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1763,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1033,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098722232929443800,
+					"id_str": "1098722232929443840",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz9yDLCVYAArUev.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz9yDLCVYAArUev.jpg",
+					"url": "https://t.co/d5TSxjCMKU",
+					"display_url": "pic.twitter.com/d5TSxjCMKU",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1098722247869530112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 585,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1763,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1033,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 690,
+			"friends_count": 1111,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7783,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Pelzel family reunion at #ELI2019 in Anaheim, with @pbpelzel and Jeff Pelzel https://t.co/d5TSxjCMKU"
+	},
+	{
+		"created_at": "Thu Feb 21 23:04:27 +0000 2019",
+		"id": 1098720132858208300,
+		"id_str": "1098720132858208256",
+		"full_text": "@BryanAlexander I'm with you on games. I attended the Games and Learning Community Group meeting here with Joe Bisz et al. and had a great time playing several (new to me) games, including Red 7 and \"Keep Talking and Nobody Explodes\" https://t.co/0aaoStapnF #ELI2019",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELI2019",
+					"indices": [
+						258,
+						266
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BryanAlexander",
+					"name": "Bryan Alexander",
+					"id": 755991,
+					"id_str": "755991",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0aaoStapnF",
+					"expanded_url": "http://bit.ly/2GDGwim",
+					"display_url": "bit.ly/2GDGwim",
+					"indices": [
+						234,
+						257
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1098675999728959500,
+		"in_reply_to_status_id_str": "1098675999728959488",
+		"in_reply_to_user_id": 755991,
+		"in_reply_to_user_id_str": "755991",
+		"in_reply_to_screen_name": "BryanAlexander",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 690,
+			"friends_count": 1111,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7783,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@BryanAlexander I'm with you on games. I attended the Games and Learning Community Group meeting here with Joe Bisz et al. and had a great time playing several (new to me) games, including Red 7 and \"Keep Talking and Nobody Explodes\" https://t.co/0aaoStapnF #ELI2019"
+	},
+	{
+		"created_at": "Thu Feb 21 19:38:56 +0000 2019",
+		"id": 1098668411872206800,
+		"id_str": "1098668411872206848",
+		"full_text": "Shout out to @BryanAlexander at #ELI2019 during the preview of the 2919 #HorizonsReport https://t.co/Q2EPQyaC67",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELI2019",
+					"indices": [
+						32,
+						40
+					]
+				},
+				{
+					"text": "HorizonsReport",
+					"indices": [
+						72,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BryanAlexander",
+					"name": "Bryan Alexander",
+					"id": 755991,
+					"id_str": "755991",
+					"indices": [
+						13,
+						28
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098668402732757000,
+					"id_str": "1098668402732756992",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz9BF17U8AA8na-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz9BF17U8AA8na-.jpg",
+					"url": "https://t.co/Q2EPQyaC67",
+					"display_url": "pic.twitter.com/Q2EPQyaC67",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1098668411872206848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098668402732757000,
+					"id_str": "1098668402732756992",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz9BF17U8AA8na-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz9BF17U8AA8na-.jpg",
+					"url": "https://t.co/Q2EPQyaC67",
+					"display_url": "pic.twitter.com/Q2EPQyaC67",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1098668411872206848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 690,
+			"friends_count": 1111,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7783,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Shout out to @BryanAlexander at #ELI2019 during the preview of the 2919 #HorizonsReport https://t.co/Q2EPQyaC67"
+	},
+	{
+		"created_at": "Thu Feb 21 19:26:32 +0000 2019",
+		"id": 1098665290676617200,
+		"id_str": "1098666605909692416",
+		"full_text": "#ELI2019 fun is coming to an end! Thanks go to the amazing SEM02 participants for starting off a fantastic ELI experience! https://t.co/Sh7Z3tKgfL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELI2019",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098665284922003500,
+					"id_str": "1098665284922003457",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz8-QXLUUAErPxR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz8-QXLUUAErPxR.jpg",
+					"url": "https://t.co/Sh7Z3tKgfL",
+					"display_url": "pic.twitter.com/Sh7Z3tKgfL",
+					"expanded_url": "https://twitter.com/sendelbach/status/1098665290676617217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098665284922003500,
+					"id_str": "1098665284922003457",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz8-QXLUUAErPxR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz8-QXLUUAErPxR.jpg",
+					"url": "https://t.co/Sh7Z3tKgfL",
+					"display_url": "pic.twitter.com/Sh7Z3tKgfL",
+					"expanded_url": "https://twitter.com/sendelbach/status/1098665290676617217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14239350,
+			"id_str": "14239350",
+			"name": "Donnie Sendelbach",
+			"screen_name": "sendelbach",
+			"location": "Columbus, OH",
+			"description": "instructional technologist, digital humanist, educator, academic leader, innovator, explorer, Russianist, gardener, wine taster, Grinnell alum, tweets my own",
+			"url": "https://t.co/E0aDDJaGDX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/E0aDDJaGDX",
+							"expanded_url": "http://www.linkedin.com/pub/donnie-sendelbach/13/6b2/1b7",
+							"display_url": "linkedin.com/pub/donnie-sen…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 386,
+			"friends_count": 307,
+			"listed_count": 62,
+			"created_at": "Thu Mar 27 22:30:13 +0000 2008",
+			"favourites_count": 6458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/774792146155106304/8DrXLrq8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/774792146155106304/8DrXLrq8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14239350/1402001513",
+			"profile_link_color": "3BC8DB",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ELI2019 fun is coming to an end! Thanks go to the amazing SEM02 participants for starting off a fantastic ELI experience! https://t.co/Sh7Z3tKgfL"
+	},
+	{
+		"created_at": "Thu Feb 21 19:28:23 +0000 2019",
+		"id": 1098665759381774300,
+		"id_str": "1098665759381774336",
+		"full_text": "Observing this as well, but wondering if \"literacies\" doesn't already also include creating/producing as well as reading/analyzing #ELI2019 https://t.co/F3IzQLdqgK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELI2019",
+					"indices": [
+						131,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F3IzQLdqgK",
+					"expanded_url": "https://twitter.com/dr_jdean/status/1098661224852541440",
+					"display_url": "twitter.com/dr_jdean/statu…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 690,
+			"friends_count": 1111,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7783,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1098661224852541400,
+		"quoted_status_id_str": "1098661224852541440",
+		"quoted_status_permalink": {
+			"url": "https://t.co/F3IzQLdqgK",
+			"expanded": "https://twitter.com/dr_jdean/status/1098661224852541440",
+			"display": "twitter.com/dr_jdean/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 21 19:10:22 +0000 2019",
+			"id": 1098661224852541400,
+			"id_str": "1098661224852541440",
+			"full_text": "Reflecting on 2019 Horizon Report @nononi28 observes subtle trend shift from \"literacy\" to \"fluency\", not just reading/analyzing but co-creating\n\n#ELI2019",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				154
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ELI2019",
+						"indices": [
+							146,
+							154
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nononi28",
+						"name": "nori barajas-murphy",
+						"id": 12521112,
+						"id_str": "12521112",
+						"indices": [
+							34,
+							43
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739521654,
+				"id_str": "739521654",
+				"name": "(((Dr. Dean)))",
+				"screen_name": "dr_jdean",
+				"location": "Austin, TX",
+				"description": "Director of Education @hypothes_is, former @Genius, English Teacher-Scholar, Rogue Academic, Close Reader, Digital Human",
+				"url": "https://t.co/tweGhOAEru",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tweGhOAEru",
+								"expanded_url": "http://www.hypothes.is",
+								"display_url": "hypothes.is",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1898,
+				"friends_count": 1196,
+				"listed_count": 120,
+				"created_at": "Mon Aug 06 00:33:32 +0000 2012",
+				"favourites_count": 9163,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4614,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/583318772360048640/EpGyBjUy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/583318772360048640/EpGyBjUy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739521654/1427909095",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Observing this as well, but wondering if \"literacies\" doesn't already also include creating/producing as well as reading/analyzing #ELI2019 https://t.co/F3IzQLdqgK"
+	},
+	{
+		"created_at": "Thu Feb 21 19:06:57 +0000 2019",
+		"id": 1098660362230984700,
+		"id_str": "1098661676520419328",
+		"full_text": "Already annotating the @EDUCAUSE 2019 Horizon Report at #ELI2019 here:\n\nhttps://t.co/PTW3mKTZnB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELI2019",
+					"indices": [
+						56,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "educause",
+					"name": "EDUCAUSE",
+					"id": 15237481,
+					"id_str": "15237481",
+					"indices": [
+						23,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PTW3mKTZnB",
+					"expanded_url": "https://hyp.is/YuJm0jYLEemU8S9zTDQdfw/library.educause.edu/~/media/files/library/2019/2/2019horizonreportpreview.pdf",
+					"display_url": "hyp.is/YuJm0jYLEemU8S…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739521654,
+			"id_str": "739521654",
+			"name": "(((Dr. Dean)))",
+			"screen_name": "dr_jdean",
+			"location": "Austin, TX",
+			"description": "Director of Education @hypothes_is, former @Genius, English Teacher-Scholar, Rogue Academic, Close Reader, Digital Human",
+			"url": "https://t.co/tweGhOAEru",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tweGhOAEru",
+							"expanded_url": "http://www.hypothes.is",
+							"display_url": "hypothes.is",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1898,
+			"friends_count": 1196,
+			"listed_count": 120,
+			"created_at": "Mon Aug 06 00:33:32 +0000 2012",
+			"favourites_count": 9163,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4614,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/583318772360048640/EpGyBjUy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/583318772360048640/EpGyBjUy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739521654/1427909095",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Already annotating the @EDUCAUSE 2019 Horizon Report at #ELI2019 here:\n\nhttps://t.co/PTW3mKTZnB"
+	},
+	{
+		"created_at": "Thu Feb 21 17:37:59 +0000 2019",
+		"id": 1098637974940467200,
+		"id_str": "1098638305569079296",
+		"full_text": "There's still time to talk with me and @dr_jdean about #annotation at #ELI2019. Have you seen the @hypothes_is LMS App that makes it easy to engage students with social reading? https://t.co/EK31pisp6F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "annotation",
+					"indices": [
+						55,
+						66
+					]
+				},
+				{
+					"text": "ELI2019",
+					"indices": [
+						70,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dr_jdean",
+					"name": "(((Dr. Dean)))",
+					"id": 739521654,
+					"id_str": "739521654",
+					"indices": [
+						39,
+						48
+					]
+				},
+				{
+					"screen_name": "hypothes_is",
+					"name": "Hypothesis",
+					"id": 325100970,
+					"id_str": "325100970",
+					"indices": [
+						98,
+						110
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098637724779667500,
+					"id_str": "1098637724779667456",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz8lMJpV4AAFx_C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz8lMJpV4AAFx_C.jpg",
+					"url": "https://t.co/EK31pisp6F",
+					"display_url": "pic.twitter.com/EK31pisp6F",
+					"expanded_url": "https://twitter.com/xolotl/status/1098637974940467201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098637724779667500,
+					"id_str": "1098637724779667456",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz8lMJpV4AAFx_C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz8lMJpV4AAFx_C.jpg",
+					"url": "https://t.co/EK31pisp6F",
+					"display_url": "pic.twitter.com/EK31pisp6F",
+					"expanded_url": "https://twitter.com/xolotl/status/1098637974940467201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3775651,
+			"id_str": "3775651",
+			"name": "Nate Angell",
+			"screen_name": "xolotl",
+			"location": "Portland OR USA",
+			"description": "Leading marketing @hypothes_is. Wandering IQ. Raised by wolves. Friend to cheese. Working to bend the arc of justice. #culturalstudies #feminist #educationist",
+			"url": "https://t.co/KKOp8GyoJv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KKOp8GyoJv",
+							"expanded_url": "http://xolotl.org",
+							"display_url": "xolotl.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4080,
+			"friends_count": 2989,
+			"listed_count": 354,
+			"created_at": "Sun Apr 08 09:35:22 +0000 2007",
+			"favourites_count": 6700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38523,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/412064804887490561/B6zigrA-_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/412064804887490561/B6zigrA-_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3775651/1362557141",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There's still time to talk with me and @dr_jdean about #annotation at #ELI2019. Have you seen the @hypothes_is LMS App that makes it easy to engage students with social reading? https://t.co/EK31pisp6F"
+	},
+	{
+		"created_at": "Thu Feb 21 17:11:36 +0000 2019",
+		"id": 1098631334799405000,
+		"id_str": "1098631334799405056",
+		"full_text": "@pbpelzel OK, I'll look for you there around noon.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pbpelzel",
+					"name": "Patricia Beyers Pelzel",
+					"id": 627735213,
+					"id_str": "627735213",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1098630810888859600,
+		"in_reply_to_status_id_str": "1098630810888859649",
+		"in_reply_to_user_id": 627735213,
+		"in_reply_to_user_id_str": "627735213",
+		"in_reply_to_screen_name": "pbpelzel",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 690,
+			"friends_count": 1111,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7783,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@pbpelzel OK, I'll look for you there around noon."
+	},
+	{
+		"created_at": "Thu Feb 21 16:00:17 +0000 2019",
+		"id": 1098613385460138000,
+		"id_str": "1098620418351484928",
+		"full_text": "Share what you learned at #ELI2019 with your colleagues at your campus. Register for Encore! The 2019 ELI Annual Meeting and revist sessions from the event. Join us March 5 and 6. #ELI2019encore https://t.co/9A21ocKnOx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELI2019",
+					"indices": [
+						26,
+						34
+					]
+				},
+				{
+					"text": "ELI2019encore",
+					"indices": [
+						180,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9A21ocKnOx",
+					"expanded_url": "https://events.educause.edu/webinar/encore/the-2019-eli-annual-meeting",
+					"display_url": "events.educause.edu/webinar/encore…",
+					"indices": [
+						195,
+						218
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10195462,
+			"id_str": "10195462",
+			"name": "EDUCAUSELI",
+			"screen_name": "EDUCAUSELI",
+			"location": "Colorado & DC",
+			"description": "EDUCAUSE Learning Initiative is a community of #highered institutions and organizations committed to advancing learning through IT innovation.",
+			"url": "http://t.co/89CjHdGfIl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/89CjHdGfIl",
+							"expanded_url": "http://www.educause.edu/eli",
+							"display_url": "educause.edu/eli",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10683,
+			"friends_count": 1628,
+			"listed_count": 547,
+			"created_at": "Mon Nov 12 22:03:24 +0000 2007",
+			"favourites_count": 898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4084,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "99CDCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/516667670800773124/dEMRYrSE_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/516667670800773124/dEMRYrSE_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10195462/1491933536",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CDCD",
+			"profile_text_color": "00355F",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Share what you learned at #ELI2019 with your colleagues at your campus. Register for Encore! The 2019 ELI Annual Meeting and revist sessions from the event. Join us March 5 and 6. #ELI2019encore https://t.co/9A21ocKnOx"
+	},
+	{
 		"created_at": "Thu Feb 21 00:14:53 +0000 2019",
 		"id": 1098375468405805000,
 		"id_str": "1098376190052622336",
