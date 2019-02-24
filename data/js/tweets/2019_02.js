@@ -1,6 +1,1098 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 23 20:32:04 +0000 2019",
+		"id": 1099406560395255800,
+		"id_str": "1099406560395255809",
+		"full_text": "When you come home from a conference and find a litterbox in your office ... #ELI2019 https://t.co/mxfNU7so1V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELI2019",
+					"indices": [
+						77,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099406552098852900,
+					"id_str": "1099406552098852866",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/D0HgbymW0AITK0e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0HgbymW0AITK0e.jpg",
+					"url": "https://t.co/mxfNU7so1V",
+					"display_url": "pic.twitter.com/mxfNU7so1V",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1099406560395255809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1396,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 818,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099406552098852900,
+					"id_str": "1099406552098852866",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/D0HgbymW0AITK0e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0HgbymW0AITK0e.jpg",
+					"url": "https://t.co/mxfNU7so1V",
+					"display_url": "pic.twitter.com/mxfNU7so1V",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1099406560395255809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1396,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 818,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 690,
+			"friends_count": 1111,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7805,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When you come home from a conference and find a litterbox in your office ... #ELI2019 https://t.co/mxfNU7so1V"
+	},
+	{
+		"created_at": "Sat Feb 23 19:33:28 +0000 2019",
+		"id": 1099391811041153000,
+		"id_str": "1099404218287484930",
+		"full_text": "Join the discussion on @EDUCAUSELI's 2019 #HorizonReport preview started at #ELI2019. Can we help shape the final report? Solvable challenges: #digitalfluencies, #learningdesign Difficult: #faculty &amp; #edtech, #achievementgap Wicked: #equity, #pedagogy https://t.co/F3GTFujW7u https://t.co/wc5yhNjOGp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HorizonReport",
+					"indices": [
+						42,
+						56
+					]
+				},
+				{
+					"text": "ELI2019",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "digitalfluencies",
+					"indices": [
+						143,
+						160
+					]
+				},
+				{
+					"text": "learningdesign",
+					"indices": [
+						162,
+						177
+					]
+				},
+				{
+					"text": "faculty",
+					"indices": [
+						189,
+						197
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						204,
+						211
+					]
+				},
+				{
+					"text": "achievementgap",
+					"indices": [
+						213,
+						228
+					]
+				},
+				{
+					"text": "equity",
+					"indices": [
+						237,
+						244
+					]
+				},
+				{
+					"text": "pedagogy",
+					"indices": [
+						246,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EDUCAUSELI",
+					"name": "EDUCAUSELI",
+					"id": 10195462,
+					"id_str": "10195462",
+					"indices": [
+						23,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/F3GTFujW7u",
+					"expanded_url": "https://hyp.is/dGtVnjYLEemjvAPpLoeJWw/library.educause.edu/~/media/files/library/2019/2/2019horizonreportpreview.pdf",
+					"display_url": "hyp.is/dGtVnjYLEemjvA…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1099391288036618200,
+					"id_str": "1099391288036618241",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D0HSjTiU8AE0gC8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0HSjTiU8AE0gC8.jpg",
+					"url": "https://t.co/wc5yhNjOGp",
+					"display_url": "pic.twitter.com/wc5yhNjOGp",
+					"expanded_url": "https://twitter.com/xolotl/status/1099391811041153024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099391288036618200,
+					"id_str": "1099391288036618241",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D0HSjTiU8AE0gC8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0HSjTiU8AE0gC8.jpg",
+					"url": "https://t.co/wc5yhNjOGp",
+					"display_url": "pic.twitter.com/wc5yhNjOGp",
+					"expanded_url": "https://twitter.com/xolotl/status/1099391811041153024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3775651,
+			"id_str": "3775651",
+			"name": "Nate Angell",
+			"screen_name": "xolotl",
+			"location": "Portland OR USA",
+			"description": "Leading marketing @hypothes_is. Wandering IQ. Raised by wolves. Friend to cheese. Working to bend the arc of justice. #culturalstudies #feminist #educationist",
+			"url": "https://t.co/KKOp8GyoJv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KKOp8GyoJv",
+							"expanded_url": "http://xolotl.org",
+							"display_url": "xolotl.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4081,
+			"friends_count": 2993,
+			"listed_count": 353,
+			"created_at": "Sun Apr 08 09:35:22 +0000 2007",
+			"favourites_count": 6740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38556,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/412064804887490561/B6zigrA-_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/412064804887490561/B6zigrA-_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3775651/1362557141",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join the discussion on @EDUCAUSELI's 2019 #HorizonReport preview started at #ELI2019. Can we help shape the final report? Solvable challenges: #digitalfluencies, #learningdesign Difficult: #faculty &amp; #edtech, #achievementgap Wicked: #equity, #pedagogy https://t.co/F3GTFujW7u https://t.co/wc5yhNjOGp"
+	},
+	{
+		"created_at": "Sat Feb 23 08:49:17 +0000 2019",
+		"id": 1099229697811144700,
+		"id_str": "1099366788305965057",
+		"full_text": "Nigerian nun, Sr. Veronica Openibo ⁦@UISGRoma⁩, calls out #PopeFrancis for “denial of accusations” in Chile. “I admire you, Brother Francis for [being] humble enough to change your mind, to apologize and take action.” https://t.co/bRugS6RFIE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PopeFrancis",
+					"indices": [
+						58,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UISGRoma",
+					"name": "UISG",
+					"id": 4928311139,
+					"id_str": "4928311139",
+					"indices": [
+						36,
+						45
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099229676562722800,
+					"id_str": "1099229676562722820",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/D0E_kR4WsAQa0Um.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0E_kR4WsAQa0Um.jpg",
+					"url": "https://t.co/bRugS6RFIE",
+					"display_url": "pic.twitter.com/bRugS6RFIE",
+					"expanded_url": "https://twitter.com/deliacnn/status/1099229697811144705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099229676562722800,
+					"id_str": "1099229676562722820",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/D0E_kR4WsAQa0Um.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0E_kR4WsAQa0Um.jpg",
+					"url": "https://t.co/bRugS6RFIE",
+					"display_url": "pic.twitter.com/bRugS6RFIE",
+					"expanded_url": "https://twitter.com/deliacnn/status/1099229697811144705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1099229686540976100,
+					"id_str": "1099229686540976128",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/D0E_k3DWwAAGXrC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0E_k3DWwAAGXrC.jpg",
+					"url": "https://t.co/bRugS6RFIE",
+					"display_url": "pic.twitter.com/bRugS6RFIE",
+					"expanded_url": "https://twitter.com/deliacnn/status/1099229697811144705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 257515027,
+			"id_str": "257515027",
+			"name": "Delia Gallagher",
+			"screen_name": "deliacnn",
+			"location": "Italy",
+			"description": "CNN Vatican Correspondent",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1443,
+			"friends_count": 831,
+			"listed_count": 40,
+			"created_at": "Fri Feb 25 15:55:22 +0000 2011",
+			"favourites_count": 2008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 208,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720602954735226880/wK3qanJE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720602954735226880/wK3qanJE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nigerian nun, Sr. Veronica Openibo ⁦@UISGRoma⁩, calls out #PopeFrancis for “denial of accusations” in Chile. “I admire you, Brother Francis for [being] humble enough to change your mind, to apologize and take action.” https://t.co/bRugS6RFIE"
+	},
+	{
+		"created_at": "Sat Feb 23 08:30:58 +0000 2019",
+		"id": 1099225088753369100,
+		"id_str": "1099365261227057152",
+		"full_text": "Sr Veronica Openibo to #PopeFrancis and bishops at #PBC2019: \"Too often we want to keep silent until the storm has passed! This storm will not pass by.\" https://t.co/BMIULH98jW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PopeFrancis",
+					"indices": [
+						23,
+						35
+					]
+				},
+				{
+					"text": "PBC2019",
+					"indices": [
+						51,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099225073888739300,
+					"id_str": "1099225073888739328",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/D0E7YXlXQAApR4j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0E7YXlXQAApR4j.jpg",
+					"url": "https://t.co/BMIULH98jW",
+					"display_url": "pic.twitter.com/BMIULH98jW",
+					"expanded_url": "https://twitter.com/Cindy_Wooden/status/1099225088753369088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 819,
+							"h": 553,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 819,
+							"h": 553,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099225073888739300,
+					"id_str": "1099225073888739328",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/D0E7YXlXQAApR4j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0E7YXlXQAApR4j.jpg",
+					"url": "https://t.co/BMIULH98jW",
+					"display_url": "pic.twitter.com/BMIULH98jW",
+					"expanded_url": "https://twitter.com/Cindy_Wooden/status/1099225088753369088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 819,
+							"h": 553,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 819,
+							"h": 553,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3331413095,
+			"id_str": "3331413095",
+			"name": "Cindy Wooden",
+			"screen_name": "Cindy_Wooden",
+			"location": "Vatican City",
+			"description": "Rome Bureau Chief, Catholic News Service. Co-editor with @joshjmac of \"A Pope Francis Lexicon.\" https://t.co/5Ham7HRaBZ",
+			"url": "http://t.co/ZQcvk9sBSd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZQcvk9sBSd",
+							"expanded_url": "http://www.catholicnews.com",
+							"display_url": "catholicnews.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5Ham7HRaBZ",
+							"expanded_url": "https://litpress.org/Products/4521/A-Pope-Francis-Lexicon",
+							"display_url": "litpress.org/Products/4521/…",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10199,
+			"friends_count": 255,
+			"listed_count": 272,
+			"created_at": "Wed Jun 17 15:20:23 +0000 2015",
+			"favourites_count": 1957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6567,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/612649877298880512/2_UguDBB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/612649877298880512/2_UguDBB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3331413095/1434605484",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sr Veronica Openibo to #PopeFrancis and bishops at #PBC2019: \"Too often we want to keep silent until the storm has passed! This storm will not pass by.\" https://t.co/BMIULH98jW"
+	},
+	{
+		"created_at": "Fri Feb 22 22:16:43 +0000 2019",
+		"id": 1099070508388122600,
+		"id_str": "1099364302832746496",
+		"full_text": "If I were a Democratic candidate for president, here is how I would answer the “socialism” charge. “I am not a socialist. But I support Social Sexurity and Medicare, which Republicans called socialism when they were enacted. 1/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2223157392,
+			"id_str": "2223157392",
+			"name": "Norman Ornstein",
+			"screen_name": "NormOrnstein",
+			"location": "Washington, DC",
+			"description": "Norman Ornstein is a resident scholar at the American Enterprise Institute and a contributing editor for the Atlantic.",
+			"url": "https://t.co/kgDvRhsT0k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kgDvRhsT0k",
+							"expanded_url": "http://www.aei.org",
+							"display_url": "aei.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103165,
+			"friends_count": 2260,
+			"listed_count": 1851,
+			"created_at": "Sat Nov 30 14:09:14 +0000 2013",
+			"favourites_count": 14052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 50797,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1003727319838552064/cppLLu49_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1003727319838552064/cppLLu49_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2223157392/1528142009",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1895,
+		"favorite_count": 6453,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If I were a Democratic candidate for president, here is how I would answer the “socialism” charge. “I am not a socialist. But I support Social Sexurity and Medicare, which Republicans called socialism when they were enacted. 1/"
+	},
+	{
+		"created_at": "Sat Feb 23 14:42:01 +0000 2019",
+		"id": 1099318466509766700,
+		"id_str": "1099361665722781697",
+		"full_text": "Jeanne Pinder ’75, founder of ClearHealthCosts @chcosts, gives a TED talk about using data to expose pricing disparities in healthcare: https://t.co/X0SRjMgfl0 @JPinderHealth #CareersThatMatter #GoForthGrinnellian",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CareersThatMatter",
+					"indices": [
+						175,
+						193
+					]
+				},
+				{
+					"text": "GoForthGrinnellian",
+					"indices": [
+						194,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chcosts",
+					"name": "ClearHealthCosts",
+					"id": 264180341,
+					"id_str": "264180341",
+					"indices": [
+						47,
+						55
+					]
+				},
+				{
+					"screen_name": "JPinderHealth",
+					"name": "Jeanne Pinder",
+					"id": 926144008853839900,
+					"id_str": "926144008853839872",
+					"indices": [
+						160,
+						174
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/X0SRjMgfl0",
+					"expanded_url": "https://go.ted.com/jeannepinder",
+					"display_url": "go.ted.com/jeannepinder",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.falcon.io\" rel=\"nofollow\">Falcon Social Media Management </a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17652635,
+			"id_str": "17652635",
+			"name": "Grinnell College",
+			"screen_name": "GrinnellCollege",
+			"location": "Grinnell, Iowa",
+			"description": "The official Twitter account for Grinnell College. Updates on news, faculty, students, athletics and campus life at #GrinnellCollege.",
+			"url": "http://t.co/cT1hUUMKcV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/cT1hUUMKcV",
+							"expanded_url": "http://www.grinnell.edu",
+							"display_url": "grinnell.edu",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6157,
+			"friends_count": 560,
+			"listed_count": 220,
+			"created_at": "Wed Nov 26 16:07:19 +0000 2008",
+			"favourites_count": 4304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4773,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/991321404195856384/WY7ENUeS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/991321404195856384/WY7ENUeS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17652635/1402595600",
+			"profile_link_color": "B40012",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E0E8F0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jeanne Pinder ’75, founder of ClearHealthCosts @chcosts, gives a TED talk about using data to expose pricing disparities in healthcare: https://t.co/X0SRjMgfl0 @JPinderHealth #CareersThatMatter #GoForthGrinnellian"
+	},
+	{
 		"created_at": "Fri Feb 22 19:42:15 +0000 2019",
 		"id": 1099031633695367200,
 		"id_str": "1099031633695367168",
