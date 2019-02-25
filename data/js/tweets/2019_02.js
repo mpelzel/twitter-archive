@@ -1,6 +1,1115 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 24 22:51:33 +0000 2019",
+		"id": 1099804047995895800,
+		"id_str": "1099804895442583558",
+		"full_text": "#HILT2019 registrations are rolling in. Join us in Indianapolis! June 3-7, 2019. https://t.co/beC5BUPyii",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HILT2019",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/beC5BUPyii",
+					"expanded_url": "http://dhtraining.org/hilt/conferences/hilt-2019/",
+					"display_url": "dhtraining.org/hilt/conferenc…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491568768,
+			"id_str": "491568768",
+			"name": "HILT",
+			"screen_name": "HILT_DH",
+			"location": "Indianapolis, IN",
+			"description": "HILT is a digital humanities training institute. June 3-7, 2019.",
+			"url": "https://t.co/5KlWw7vYzI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5KlWw7vYzI",
+							"expanded_url": "http://dhtraining.org/hilt/conferences/",
+							"display_url": "dhtraining.org/hilt/conferenc…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1306,
+			"friends_count": 934,
+			"listed_count": 64,
+			"created_at": "Mon Feb 13 19:43:05 +0000 2012",
+			"favourites_count": 102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 606,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000633672805/261b88603b06a99cd4782fa961696f09_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000633672805/261b88603b06a99cd4782fa961696f09_normal.jpeg",
+			"profile_link_color": "019C99",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#HILT2019 registrations are rolling in. Join us in Indianapolis! June 3-7, 2019. https://t.co/beC5BUPyii"
+	},
+	{
+		"created_at": "Sun Feb 24 20:50:40 +0000 2019",
+		"id": 1099773629234139100,
+		"id_str": "1099774613196812289",
+		"full_text": "Parenthetical paragraph of the week: \"(Some church historians cautioned the archbishop that [St. Peter Damian, an 11th c. monk] was perhaps not the best model, as he had also denounced as immoral a Byzantine princess for introducing the practice of eating with a fork.\") @nytimes",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						271,
+						279
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 574593512,
+			"id_str": "574593512",
+			"name": "Mary Norris",
+			"screen_name": "MaryNorrisTNY",
+			"location": "",
+			"description": "Former copy editor @NewYorker, author of BETWEEN YOU AND ME and GREEK TO ME, forthcoming from @wwnorton in April, 2019.",
+			"url": "http://t.co/RYUwMsNXlA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/RYUwMsNXlA",
+							"expanded_url": "http://www.commaqueen.net",
+							"display_url": "commaqueen.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11243,
+			"friends_count": 2271,
+			"listed_count": 287,
+			"created_at": "Tue May 08 16:14:38 +0000 2012",
+			"favourites_count": 4632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1654,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575448364306710528/__hYaRWg_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575448364306710528/__hYaRWg_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/574593512/1544211690",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Parenthetical paragraph of the week: \"(Some church historians cautioned the archbishop that [St. Peter Damian, an 11th c. monk] was perhaps not the best model, as he had also denounced as immoral a Byzantine princess for introducing the practice of eating with a fork.\") @nytimes"
+	},
+	{
+		"created_at": "Sun Feb 24 19:52:46 +0000 2019",
+		"id": 1099759057727115300,
+		"id_str": "1099759996693368833",
+		"full_text": "Map of a yearlong roadtrip through the continental United States with 70° F (21°C) weather every day.\n.\n#map #maps #cartography #geography #us #usa #unitedstatesofamerica #unitedstates #states #america #trip #roadtrip #travel #route #plan #temperature #m… https://t.co/AuPiNIc3KH https://t.co/j2n0BTk1xE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "map",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "maps",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "cartography",
+					"indices": [
+						115,
+						127
+					]
+				},
+				{
+					"text": "geography",
+					"indices": [
+						128,
+						138
+					]
+				},
+				{
+					"text": "us",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "usa",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "unitedstatesofamerica",
+					"indices": [
+						148,
+						170
+					]
+				},
+				{
+					"text": "unitedstates",
+					"indices": [
+						171,
+						184
+					]
+				},
+				{
+					"text": "states",
+					"indices": [
+						185,
+						192
+					]
+				},
+				{
+					"text": "america",
+					"indices": [
+						193,
+						201
+					]
+				},
+				{
+					"text": "trip",
+					"indices": [
+						202,
+						207
+					]
+				},
+				{
+					"text": "roadtrip",
+					"indices": [
+						208,
+						217
+					]
+				},
+				{
+					"text": "travel",
+					"indices": [
+						218,
+						225
+					]
+				},
+				{
+					"text": "route",
+					"indices": [
+						226,
+						232
+					]
+				},
+				{
+					"text": "plan",
+					"indices": [
+						233,
+						238
+					]
+				},
+				{
+					"text": "temperature",
+					"indices": [
+						239,
+						251
+					]
+				},
+				{
+					"text": "m",
+					"indices": [
+						252,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AuPiNIc3KH",
+					"expanded_url": "https://ift.tt/2BQvzGd",
+					"display_url": "ift.tt/2BQvzGd",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1099759056401633300,
+					"id_str": "1099759056401633280",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D0MhCPdWkAAnyv5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0MhCPdWkAAnyv5.jpg",
+					"url": "https://t.co/j2n0BTk1xE",
+					"display_url": "pic.twitter.com/j2n0BTk1xE",
+					"expanded_url": "https://twitter.com/amapaday/status/1099759057727115264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 478,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 478,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 478,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099759056401633300,
+					"id_str": "1099759056401633280",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D0MhCPdWkAAnyv5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0MhCPdWkAAnyv5.jpg",
+					"url": "https://t.co/j2n0BTk1xE",
+					"display_url": "pic.twitter.com/j2n0BTk1xE",
+					"expanded_url": "https://twitter.com/amapaday/status/1099759057727115264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 478,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 478,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 478,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 726314528804319200,
+			"id_str": "726314528804319233",
+			"name": "amapaday",
+			"screen_name": "amapaday",
+			"location": "The Netherlands",
+			"description": "I'm a Dutch Human Geography student with a love for maps, atlasses and other geographical curiosities.",
+			"url": "https://t.co/CzPTBF96Gv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CzPTBF96Gv",
+							"expanded_url": "http://instagram.com/amapaday",
+							"display_url": "instagram.com/amapaday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1112,
+			"friends_count": 20,
+			"listed_count": 29,
+			"created_at": "Sat Apr 30 07:37:32 +0000 2016",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1835,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/860138517430759424/8wxryH-U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/860138517430759424/8wxryH-U_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Map of a yearlong roadtrip through the continental United States with 70° F (21°C) weather every day.\n.\n#map #maps #cartography #geography #us #usa #unitedstatesofamerica #unitedstates #states #america #trip #roadtrip #travel #route #plan #temperature #m… https://t.co/AuPiNIc3KH https://t.co/j2n0BTk1xE"
+	},
+	{
+		"created_at": "Sun Feb 24 18:13:09 +0000 2019",
+		"id": 1099733987386409000,
+		"id_str": "1099733987386408961",
+		"full_text": "@edtechfactotum Been awhile since I've read H., but seems accurate. Though I think it's \"fluent because literate.\" The more domain knowledge one acquires, the greater the capacity to be conversant/fluent in that domain. Issue for H. is canonical; what is most important to know? https://t.co/60XupZydMo",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "edtechfactotum",
+					"name": "Clint Lalonde",
+					"id": 822204322796609500,
+					"id_str": "822204322796609536",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099733912572579800,
+					"id_str": "1099733912572579840",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/D0MKKrZW0AA_RN7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0MKKrZW0AA_RN7.jpg",
+					"url": "https://t.co/60XupZydMo",
+					"display_url": "pic.twitter.com/60XupZydMo",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1099733987386408961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 157,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1049,
+							"h": 242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1049,
+							"h": 242,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099733912572579800,
+					"id_str": "1099733912572579840",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/D0MKKrZW0AA_RN7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0MKKrZW0AA_RN7.jpg",
+					"url": "https://t.co/60XupZydMo",
+					"display_url": "pic.twitter.com/60XupZydMo",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1099733987386408961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 157,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1049,
+							"h": 242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1049,
+							"h": 242,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1099727002842542100,
+		"in_reply_to_status_id_str": "1099727002842542080",
+		"in_reply_to_user_id": 822204322796609500,
+		"in_reply_to_user_id_str": "822204322796609536",
+		"in_reply_to_screen_name": "edtechfactotum",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 691,
+			"friends_count": 1111,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6516,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7812,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@edtechfactotum Been awhile since I've read H., but seems accurate. Though I think it's \"fluent because literate.\" The more domain knowledge one acquires, the greater the capacity to be conversant/fluent in that domain. Issue for H. is canonical; what is most important to know? https://t.co/60XupZydMo"
+	},
+	{
+		"created_at": "Sun Feb 24 14:35:40 +0000 2019",
+		"id": 1099679254978220000,
+		"id_str": "1099711348764758018",
+		"full_text": "I wrote a long essay about what I call the American religion of work.\n\nIn short: In a period of declining religiosity, more Americans turn to work for the things they once sought from traditional religions—community, meaning, and transcendence.\n\nhttps://t.co/VAfrmFWpJx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VAfrmFWpJx",
+					"expanded_url": "https://www.theatlantic.com/ideas/archive/2019/02/religion-workism-making-americans-miserable/583441/",
+					"display_url": "theatlantic.com/ideas/archive/…",
+					"indices": [
+						246,
+						269
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37723353,
+			"id_str": "37723353",
+			"name": "Derek Thompson",
+			"screen_name": "DKThomp",
+			"location": "NYC",
+			"description": "Writer at @TheAtlantic. Host of podcast CRAZY/GENIUS. Author of book HIT MAKERS. Talker on NPR's @hereandnow and @CBSNews. derek[at]theatlantic[dot]com",
+			"url": "https://t.co/a2VDDCfaSB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a2VDDCfaSB",
+							"expanded_url": "https://www.amazon.com/Hit-Makers-Science-Popularity-Distraction/dp/110198032X/",
+							"display_url": "amazon.com/Hit-Makers-Sci…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62766,
+			"friends_count": 1190,
+			"listed_count": 2269,
+			"created_at": "Mon May 04 18:41:21 +0000 2009",
+			"favourites_count": 20099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 853,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/418545216317313024/jhQ6SRq0_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/418545216317313024/jhQ6SRq0_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37723353/1491167350",
+			"profile_link_color": "B300AD",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 766,
+		"favorite_count": 2261,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wrote a long essay about what I call the American religion of work.\n\nIn short: In a period of declining religiosity, more Americans turn to work for the things they once sought from traditional religions—community, meaning, and transcendence.\n\nhttps://t.co/VAfrmFWpJx"
+	},
+	{
+		"created_at": "Sun Feb 24 16:22:00 +0000 2019",
+		"id": 1099706015505760300,
+		"id_str": "1099706015505760257",
+		"full_text": "Persuasive argument for \"fluency,\" and interesting to see the differing connotations and resonances ppl bring to these terms. But I get that \"literacy\" might evoke notion of content mastery (e.g, Hirsch's \"cultural literacy\"), while \"fluency\" could suggest something more creative https://t.co/JQjqYLKV0W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JQjqYLKV0W",
+					"expanded_url": "https://twitter.com/edtechfactotum/status/1099017743863607301",
+					"display_url": "twitter.com/edtechfactotum…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 691,
+			"friends_count": 1111,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6516,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7812,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1099017743863607300,
+		"quoted_status_id_str": "1099017743863607301",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JQjqYLKV0W",
+			"expanded": "https://twitter.com/edtechfactotum/status/1099017743863607301",
+			"display": "twitter.com/edtechfactotum…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 22 18:47:03 +0000 2019",
+			"id": 1099017743863607300,
+			"id_str": "1099017743863607301",
+			"full_text": "Digital Fluency vs Digital Literacy https://t.co/MAohOHBP1n https://t.co/R21H7NmLbx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				59
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MAohOHBP1n",
+						"expanded_url": "https://edtechfactotum.com/digital-fluency-vs-digital-literacy/",
+						"display_url": "edtechfactotum.com/digital-fluenc…",
+						"indices": [
+							36,
+							59
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1099017742131363800,
+						"id_str": "1099017742131363841",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/D0B-0EmXgAEEbVE.png",
+						"media_url_https": "https://pbs.twimg.com/media/D0B-0EmXgAEEbVE.png",
+						"url": "https://t.co/R21H7NmLbx",
+						"display_url": "pic.twitter.com/R21H7NmLbx",
+						"expanded_url": "https://twitter.com/edtechfactotum/status/1099017743863607301/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 667,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 667,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 443,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1099017742131363800,
+						"id_str": "1099017742131363841",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/D0B-0EmXgAEEbVE.png",
+						"media_url_https": "https://pbs.twimg.com/media/D0B-0EmXgAEEbVE.png",
+						"url": "https://t.co/R21H7NmLbx",
+						"display_url": "pic.twitter.com/R21H7NmLbx",
+						"expanded_url": "https://twitter.com/edtechfactotum/status/1099017743863607301/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 667,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 667,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 443,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 822204322796609500,
+				"id_str": "822204322796609536",
+				"name": "Clint Lalonde",
+				"screen_name": "edtechfactotum",
+				"location": "W̱SÁNEĆ/Victoria BC",
+				"description": "@RRUEduStudies Faculty, Manager #EdTech @bccampus, @etug community steward #OpenEducation #oer online/blended learning. He/Him Personal account is @clintlalonde",
+				"url": "https://t.co/eUBgK4xHKg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eUBgK4xHKg",
+								"expanded_url": "http://edtechfactotum.com/",
+								"display_url": "edtechfactotum.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1164,
+				"friends_count": 1012,
+				"listed_count": 38,
+				"created_at": "Thu Jan 19 22:09:21 +0000 2017",
+				"favourites_count": 3272,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3019,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1042909618312142848/4xigTk5d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042909618312142848/4xigTk5d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/822204322796609536/1489862719",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36,
+			"favorite_count": 61,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Persuasive argument for \"fluency,\" and interesting to see the differing connotations and resonances ppl bring to these terms. But I get that \"literacy\" might evoke notion of content mastery (e.g, Hirsch's \"cultural literacy\"), while \"fluency\" could suggest something more creative https://t.co/JQjqYLKV0W"
+	},
+	{
 		"created_at": "Sat Feb 23 20:32:04 +0000 2019",
 		"id": 1099406560395255800,
 		"id_str": "1099406560395255809",
