@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 25 17:38:01 +0000 2019",
+		"id": 1100087533889835000,
+		"id_str": "1100179040470790144",
+		"full_text": "A healthy \"error climate\" is necessary for high-functioning learning &amp; teaming. @joshua_r_eyler gives a way to measure yours: https://t.co/wpDHwPZEH0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joshua_r_eyler",
+					"name": "Joshua Eyler",
+					"id": 304582737,
+					"id_str": "304582737",
+					"indices": [
+						84,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wpDHwPZEH0",
+					"expanded_url": "http://cte.rice.edu/blogarchive/2016/7/6/what-is-the-error-climate-of-your-course/",
+					"display_url": "cte.rice.edu/blogarchive/20…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 144273946,
+			"id_str": "144273946",
+			"name": "Matt Salomone",
+			"screen_name": "matthematician",
+			"location": "Plymouth, MA",
+			"description": "Associate professor & chair, @BridgeStateU mathematics. Views my own. Minnechusetts, twins. #FiniteSimpleGroup. CV: https://t.co/6LS05hJDaK",
+			"url": "https://t.co/WU1O0D0BtF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WU1O0D0BtF",
+							"expanded_url": "http://www.matthematics.com",
+							"display_url": "matthematics.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6LS05hJDaK",
+							"expanded_url": "https://cvmkr.com/O4gq",
+							"display_url": "cvmkr.com/O4gq",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1204,
+			"friends_count": 1116,
+			"listed_count": 47,
+			"created_at": "Sat May 15 20:28:02 +0000 2010",
+			"favourites_count": 12247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6587,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/766046951502647296/u8R3voA9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/766046951502647296/u8R3voA9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/144273946/1521679765",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A healthy \"error climate\" is necessary for high-functioning learning &amp; teaming. @joshua_r_eyler gives a way to measure yours: https://t.co/wpDHwPZEH0"
+	},
+	{
+		"created_at": "Mon Feb 25 17:22:15 +0000 2019",
+		"id": 1100083566229311500,
+		"id_str": "1100177449676140551",
+		"full_text": "Digital liberal arts postdoc, with decent salary (will go far in Twin Cities), travel and research funds. Deadline this Friday. No letters of rec or extra stuff required. You can get this app together; do it. https://t.co/36jvtItFZX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/36jvtItFZX",
+					"expanded_url": "https://twitter.com/aktange/status/1100074982388965376",
+					"display_url": "twitter.com/aktange/status…",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104519115,
+			"id_str": "104519115",
+			"name": "Paula Krebs",
+			"screen_name": "PaulaKrebs",
+			"location": "New York, NY",
+			"description": "Executive Director, Modern Language Association",
+			"url": "https://t.co/SmLUCzk1sS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SmLUCzk1sS",
+							"expanded_url": "http://www.mla.org",
+							"display_url": "mla.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2280,
+			"friends_count": 1809,
+			"listed_count": 88,
+			"created_at": "Wed Jan 13 15:41:09 +0000 2010",
+			"favourites_count": 4097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8595,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781593629609619456/_l4V5yJb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781593629609619456/_l4V5yJb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104519115/1503612513",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1100074982388965400,
+		"quoted_status_id_str": "1100074982388965376",
+		"quoted_status_permalink": {
+			"url": "https://t.co/36jvtItFZX",
+			"expanded": "https://twitter.com/aktange/status/1100074982388965376",
+			"display": "twitter.com/aktange/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 25 16:48:08 +0000 2019",
+			"id": 1100074982388965400,
+			"id_str": "1100074982388965376",
+			"full_text": "Macalester is hiring a DLA postdoc: Applications due Fri 3/1. Come work with superb colleagues in shaping campus directions for digital liberal arts, https://t.co/79A5Rh6yQ1 or help me pass the word!\n(@PaulaKrebs @Ted_Underwood @kfitz)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				235
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PaulaKrebs",
+						"name": "Paula Krebs",
+						"id": 104519115,
+						"id_str": "104519115",
+						"indices": [
+							201,
+							212
+						]
+					},
+					{
+						"screen_name": "Ted_Underwood",
+						"name": "Ted Underwood",
+						"id": 112610515,
+						"id_str": "112610515",
+						"indices": [
+							213,
+							227
+						]
+					},
+					{
+						"screen_name": "kfitz",
+						"name": "Kathleen Fitzpatrick",
+						"id": 14308843,
+						"id_str": "14308843",
+						"indices": [
+							228,
+							234
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/79A5Rh6yQ1",
+						"expanded_url": "https://www.h-net.org/jobs/job_display.php?id=58168",
+						"display_url": "h-net.org/jobs/job_displ…",
+						"indices": [
+							150,
+							173
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1075506272,
+				"id_str": "1075506272",
+				"name": "Andrea Kaston Tange",
+				"screen_name": "aktange",
+				"location": "",
+				"description": "Victorianist and literature professor, lover of quirky details. Travel and empire, 19c Jewish life, digital humanities, state of the profession.",
+				"url": "http://t.co/8zGuH6P2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8zGuH6P2",
+								"expanded_url": "http://andreakastontange.wordpress.com",
+								"display_url": "andreakastontange.wordpress.com",
+								"indices": [
+									0,
+									20
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1530,
+				"friends_count": 850,
+				"listed_count": 42,
+				"created_at": "Thu Jan 10 02:56:58 +0000 2013",
+				"favourites_count": 32125,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9482,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/967142698669899777/wQ4Zc7_B_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/967142698669899777/wQ4Zc7_B_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1075506272/1540135349",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 12,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Digital liberal arts postdoc, with decent salary (will go far in Twin Cities), travel and research funds. Deadline this Friday. No letters of rec or extra stuff required. You can get this app together; do it. https://t.co/36jvtItFZX"
+	},
+	{
 		"created_at": "Sun Feb 24 22:51:33 +0000 2019",
 		"id": 1099804047995895800,
 		"id_str": "1099804895442583558",
