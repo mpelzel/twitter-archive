@@ -1,6 +1,1854 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 28 11:37:57 +0000 2019",
+		"id": 1101084082446966800,
+		"id_str": "1101210042165014529",
+		"full_text": "We just did our BIGGEST RELEASE EVER! Two huge ground breaking new content types and a range of other improvements. Enjoy! https://t.co/NFpOd5luNE https://t.co/OWCs9wedI9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NFpOd5luNE",
+					"expanded_url": "https://h5p.org/february-2019-release-note",
+					"display_url": "h5p.org/february-2019-…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1101083894542155800,
+					"id_str": "1101083894542155776",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/D0fV9-IWwAAKrmN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0fV9-IWwAAKrmN.jpg",
+					"url": "https://t.co/OWCs9wedI9",
+					"display_url": "pic.twitter.com/OWCs9wedI9",
+					"expanded_url": "https://twitter.com/H5PTechnology/status/1101084082446966785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 282,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1822,
+							"h": 756,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 498,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1101083894542155800,
+					"id_str": "1101083894542155776",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/D0fV9-IWwAAKrmN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0fV9-IWwAAKrmN.jpg",
+					"url": "https://t.co/OWCs9wedI9",
+					"display_url": "pic.twitter.com/OWCs9wedI9",
+					"expanded_url": "https://twitter.com/H5PTechnology/status/1101084082446966785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 282,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1822,
+							"h": 756,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 498,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2216405440,
+			"id_str": "2216405440",
+			"name": "H5P",
+			"screen_name": "H5PTechnology",
+			"location": "Norway",
+			"description": "Free open source technology for creating, sharing and reusing Interactive Content.  #WordPressPlugin #DrupalModule #MoodlePlugin #HTML5  #eLearning #edtech",
+			"url": "http://t.co/3UezpBYiOv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/3UezpBYiOv",
+							"expanded_url": "http://h5p.org",
+							"display_url": "h5p.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2425,
+			"friends_count": 759,
+			"listed_count": 90,
+			"created_at": "Mon Dec 09 20:54:51 +0000 2013",
+			"favourites_count": 5062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1197,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/453821604435210240/MsPMRMXu_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/453821604435210240/MsPMRMXu_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2216405440/1443687429",
+			"profile_link_color": "E4008D",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We just did our BIGGEST RELEASE EVER! Two huge ground breaking new content types and a range of other improvements. Enjoy! https://t.co/NFpOd5luNE https://t.co/OWCs9wedI9"
+	},
+	{
+		"created_at": "Thu Feb 28 19:25:38 +0000 2019",
+		"id": 1101201778727678000,
+		"id_str": "1101201778727677959",
+		"full_text": "#FTTE https://t.co/Vhhhm8YQmb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FTTE",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vhhhm8YQmb",
+					"expanded_url": "https://twitter.com/doktorfrag/status/1101200324252045313",
+					"display_url": "twitter.com/doktorfrag/sta…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 690,
+			"friends_count": 1118,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7840,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1101200324252045300,
+		"quoted_status_id_str": "1101200324252045313",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Vhhhm8YQmb",
+			"expanded": "https://twitter.com/doktorfrag/status/1101200324252045313",
+			"display": "twitter.com/doktorfrag/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 28 19:19:51 +0000 2019",
+			"id": 1101200324252045300,
+			"id_str": "1101200324252045313",
+			"full_text": "@BryanAlexander @mayaig @emorycraig Magic Leap.... https://t.co/BPx97S8fJn",
+			"truncated": false,
+			"display_text_range": [
+				36,
+				50
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BryanAlexander",
+						"name": "Bryan Alexander",
+						"id": 755991,
+						"id_str": "755991",
+						"indices": [
+							0,
+							15
+						]
+					},
+					{
+						"screen_name": "mayaig",
+						"name": "Maya Georgieva",
+						"id": 25883748,
+						"id_str": "25883748",
+						"indices": [
+							16,
+							23
+						]
+					},
+					{
+						"screen_name": "emorycraig",
+						"name": "Emory Craig",
+						"id": 316096481,
+						"id_str": "316096481",
+						"indices": [
+							24,
+							35
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1101200317474111500,
+						"id_str": "1101200317474111489",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D0g_2rWXgAENGYI.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D0g_2rWXgAENGYI.jpg",
+						"url": "https://t.co/BPx97S8fJn",
+						"display_url": "pic.twitter.com/BPx97S8fJn",
+						"expanded_url": "https://twitter.com/doktorfrag/status/1101200324252045313/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 402,
+								"h": 280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 402,
+								"h": 280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 402,
+								"h": 280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1101200317474111500,
+						"id_str": "1101200317474111489",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D0g_2rWXgAENGYI.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D0g_2rWXgAENGYI.jpg",
+						"url": "https://t.co/BPx97S8fJn",
+						"display_url": "pic.twitter.com/BPx97S8fJn",
+						"expanded_url": "https://twitter.com/doktorfrag/status/1101200324252045313/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 402,
+								"h": 280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 402,
+								"h": 280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 402,
+								"h": 280,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								201,
+								140
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D0g_2rWXgAENGYI.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1101199249142894600,
+			"in_reply_to_status_id_str": "1101199249142894592",
+			"in_reply_to_user_id": 755991,
+			"in_reply_to_user_id_str": "755991",
+			"in_reply_to_screen_name": "BryanAlexander",
+			"user": {
+				"id": 3346692621,
+				"id_str": "3346692621",
+				"name": "David Neville",
+				"screen_name": "doktorfrag",
+				"location": "Grinnell, IA",
+				"description": "Educational technologist working in 3D/VR/AR @GrinnellDLAC; Director of the Grinnell College Immersive Experiences Lab (@GrinnellCIEL).",
+				"url": "https://t.co/10kGYZ7XFM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/10kGYZ7XFM",
+								"expanded_url": "https://doktorfrag.com",
+								"display_url": "doktorfrag.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 211,
+				"friends_count": 308,
+				"listed_count": 35,
+				"created_at": "Fri Jun 26 17:36:44 +0000 2015",
+				"favourites_count": 1026,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1030,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/958404740542533632/4vX7ZoQd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/958404740542533632/4vX7ZoQd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3346692621/1436631668",
+				"profile_link_color": "26AD6A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#FTTE https://t.co/Vhhhm8YQmb"
+	},
+	{
+		"created_at": "Thu Feb 28 18:52:22 +0000 2019",
+		"id": 1101193408968867800,
+		"id_str": "1101193408968867841",
+		"full_text": "@KavuBob Well, I guess we can add the two presenters and make it an even split...",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KavuBob",
+					"name": "JohnRobertson",
+					"id": 8927752,
+					"id_str": "8927752",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1101191489189666800,
+		"in_reply_to_status_id_str": "1101191489189666816",
+		"in_reply_to_user_id": 8927752,
+		"in_reply_to_user_id_str": "8927752",
+		"in_reply_to_screen_name": "KavuBob",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 690,
+			"friends_count": 1118,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7840,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KavuBob Well, I guess we can add the two presenters and make it an even split..."
+	},
+	{
+		"created_at": "Thu Feb 28 18:32:13 +0000 2019",
+		"id": 1101188339414323200,
+		"id_str": "1101188339414323201",
+		"full_text": "@Carlie_MursMom Got you covered in JRC 101 https://t.co/UFnoP67jDz",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Carlie_MursMom",
+					"name": "carlie vanwilligen",
+					"id": 85342392,
+					"id_str": "85342392",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UFnoP67jDz",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1101187674566733825",
+					"display_url": "twitter.com/MorrisPelzel/s…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1101188130319806500,
+		"in_reply_to_status_id_str": "1101188130319806467",
+		"in_reply_to_user_id": 85342392,
+		"in_reply_to_user_id_str": "85342392",
+		"in_reply_to_screen_name": "Carlie_MursMom",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 690,
+			"friends_count": 1118,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7840,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1101187674566733800,
+		"quoted_status_id_str": "1101187674566733825",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UFnoP67jDz",
+			"expanded": "https://twitter.com/MorrisPelzel/status/1101187674566733825",
+			"display": "twitter.com/MorrisPelzel/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 28 18:29:35 +0000 2019",
+			"id": 1101187674566733800,
+			"id_str": "1101187674566733825",
+			"full_text": "When you're one of 5 people to attend a luncheon information session on local development, and they ordered 14 boxes of pizza ... https://t.co/4N4F1jT7jy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				129
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1101187456903323600,
+						"id_str": "1101187456903323648",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/D0g0KF_WoAAlphJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0g0KF_WoAAlphJ.jpg",
+						"url": "https://t.co/4N4F1jT7jy",
+						"display_url": "pic.twitter.com/4N4F1jT7jy",
+						"expanded_url": "https://twitter.com/MorrisPelzel/status/1101187674566733825/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 925,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 307,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 542,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1101187456903323600,
+						"id_str": "1101187456903323648",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/D0g0KF_WoAAlphJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0g0KF_WoAAlphJ.jpg",
+						"url": "https://t.co/4N4F1jT7jy",
+						"display_url": "pic.twitter.com/4N4F1jT7jy",
+						"expanded_url": "https://twitter.com/MorrisPelzel/status/1101187674566733825/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 925,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 307,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 542,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 33972737,
+				"id_str": "33972737",
+				"name": "Mo Pelzel",
+				"screen_name": "MorrisPelzel",
+				"location": "Grinnell, Iowa",
+				"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+				"url": "https://t.co/HifqlQpaOV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HifqlQpaOV",
+								"expanded_url": "http://morrispelzel.com",
+								"display_url": "morrispelzel.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 690,
+				"friends_count": 1118,
+				"listed_count": 39,
+				"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+				"favourites_count": 6555,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7840,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Carlie_MursMom Got you covered in JRC 101 https://t.co/UFnoP67jDz"
+	},
+	{
+		"created_at": "Thu Feb 28 18:29:35 +0000 2019",
+		"id": 1101187674566733800,
+		"id_str": "1101187674566733825",
+		"full_text": "When you're one of 5 people to attend a luncheon information session on local development, and they ordered 14 boxes of pizza ... https://t.co/4N4F1jT7jy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1101187456903323600,
+					"id_str": "1101187456903323648",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/D0g0KF_WoAAlphJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0g0KF_WoAAlphJ.jpg",
+					"url": "https://t.co/4N4F1jT7jy",
+					"display_url": "pic.twitter.com/4N4F1jT7jy",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1101187674566733825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 925,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 307,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 542,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1101187456903323600,
+					"id_str": "1101187456903323648",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/D0g0KF_WoAAlphJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0g0KF_WoAAlphJ.jpg",
+					"url": "https://t.co/4N4F1jT7jy",
+					"display_url": "pic.twitter.com/4N4F1jT7jy",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1101187674566733825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 925,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 307,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 542,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 690,
+			"friends_count": 1118,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7840,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When you're one of 5 people to attend a luncheon information session on local development, and they ordered 14 boxes of pizza ... https://t.co/4N4F1jT7jy"
+	},
+	{
+		"created_at": "Thu Feb 28 14:38:24 +0000 2019",
+		"id": 1101129497724706800,
+		"id_str": "1101154972098613250",
+		"full_text": "Week 3 of #augmentintellect! Engelbart's \"Augmenting Human Intellect\" now features:\n293 @hypothes_is annotations\n28 participants\n64 threads\n34 active days\nInfo: https://t.co/912UI6juyK\nAnnotate: https://t.co/8jCcD513yl\nActivity: https://t.co/JB8WdQG5nE\n@GardnerCampbell @cogdog https://t.co/VaYKQV39tP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "augmentintellect",
+					"indices": [
+						10,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hypothes_is",
+					"name": "Hypothesis",
+					"id": 325100970,
+					"id_str": "325100970",
+					"indices": [
+						88,
+						100
+					]
+				},
+				{
+					"screen_name": "GardnerCampbell",
+					"name": "Gardner Campbell",
+					"id": 782931,
+					"id_str": "782931",
+					"indices": [
+						253,
+						269
+					]
+				},
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						270,
+						277
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/912UI6juyK",
+					"expanded_url": "https://framework.thoughtvectors.net/",
+					"display_url": "framework.thoughtvectors.net",
+					"indices": [
+						161,
+						184
+					]
+				},
+				{
+					"url": "https://t.co/8jCcD513yl",
+					"expanded_url": "https://via.hypothes.is/http://dougengelbart.org/content/view/138/000/",
+					"display_url": "via.hypothes.is/http://dougeng…",
+					"indices": [
+						195,
+						218
+					]
+				},
+				{
+					"url": "https://t.co/JB8WdQG5nE",
+					"expanded_url": "https://crowdlaaers.org/projects/engelbart.html",
+					"display_url": "crowdlaaers.org/projects/engel…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1101128002300043300,
+					"id_str": "1101128002300043264",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/D0f-FYVUYAAVtw7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0f-FYVUYAAVtw7.jpg",
+					"url": "https://t.co/VaYKQV39tP",
+					"display_url": "pic.twitter.com/VaYKQV39tP",
+					"expanded_url": "https://twitter.com/remikalir/status/1101129497724706816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 895,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 524,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 297,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1101128002300043300,
+					"id_str": "1101128002300043264",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/D0f-FYVUYAAVtw7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0f-FYVUYAAVtw7.jpg",
+					"url": "https://t.co/VaYKQV39tP",
+					"display_url": "pic.twitter.com/VaYKQV39tP",
+					"expanded_url": "https://twitter.com/remikalir/status/1101129497724706816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 895,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 524,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 297,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2557762548,
+			"id_str": "2557762548",
+			"name": "Remi Kalir",
+			"screen_name": "remikalir",
+			"location": "Denver, CO",
+			"description": "Asst Prof Learning Design & Technology @CUDenverEd | Researching web annotation, games and play, mobile learning | #MarginalSyllabus #OpenEd #OER #DigPed",
+			"url": "https://t.co/KLeALbQIXB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KLeALbQIXB",
+							"expanded_url": "http://www.remikalir.com",
+							"display_url": "remikalir.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2734,
+			"friends_count": 1658,
+			"listed_count": 350,
+			"created_at": "Mon Jun 09 23:56:26 +0000 2014",
+			"favourites_count": 18927,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12768,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476151187561934848/w0hbdG6g_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476151187561934848/w0hbdG6g_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2557762548/1430156486",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Week 3 of #augmentintellect! Engelbart's \"Augmenting Human Intellect\" now features:\n293 @hypothes_is annotations\n28 participants\n64 threads\n34 active days\nInfo: https://t.co/912UI6juyK\nAnnotate: https://t.co/8jCcD513yl\nActivity: https://t.co/JB8WdQG5nE\n@GardnerCampbell @cogdog https://t.co/VaYKQV39tP"
+	},
+	{
+		"created_at": "Thu Feb 28 14:00:52 +0000 2019",
+		"id": 1101120052227686400,
+		"id_str": "1101120052227686400",
+		"full_text": ".@GrinnellCIEL https://t.co/0Y0FtyHmfR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GrinnellCIEL",
+					"name": "Grinnell College Immersive Experiences Lab (GCIEL)",
+					"id": 950748055233540100,
+					"id_str": "950748055233540102",
+					"indices": [
+						1,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0Y0FtyHmfR",
+					"expanded_url": "https://twitter.com/Dale_Munday/status/1101074635829985281",
+					"display_url": "twitter.com/Dale_Munday/st…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 690,
+			"friends_count": 1118,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7840,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1101074635829985300,
+		"quoted_status_id_str": "1101074635829985281",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0Y0FtyHmfR",
+			"expanded": "https://twitter.com/Dale_Munday/status/1101074635829985281",
+			"display": "twitter.com/Dale_Munday/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 28 11:00:24 +0000 2019",
+			"id": 1101074635829985300,
+			"id_str": "1101074635829985281",
+			"full_text": "A great use of #VR to learning about hospital ward rounds with 360-degree video. Potential to enhance further with @ThingLink #360 to embed assessment opportunities. #edtech https://t.co/TwD3AEfjY1 via @A_L_T",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				208
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "VR",
+						"indices": [
+							15,
+							18
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							166,
+							173
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ThingLink",
+						"name": "ThingLink",
+						"id": 14740688,
+						"id_str": "14740688",
+						"indices": [
+							115,
+							125
+						]
+					},
+					{
+						"screen_name": "A_L_T",
+						"name": "ALT - alt.ac.uk",
+						"id": 41210876,
+						"id_str": "41210876",
+						"indices": [
+							202,
+							208
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/TwD3AEfjY1",
+						"expanded_url": "https://altc.alt.ac.uk/blog/2019/02/learning-about-hospital-ward-rounds-with-360-degree-video/",
+						"display_url": "altc.alt.ac.uk/blog/2019/02/l…",
+						"indices": [
+							174,
+							197
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 425731247,
+				"id_str": "425731247",
+				"name": "Dale Munday",
+				"screen_name": "Dale_Munday",
+				"location": "North West, England",
+				"description": "Digital Learning Facilitator @LancasterUni. Passionate about teaching, learning & assessment. Previously Teacher Trainer & proud 2 have influenced the sector 👊",
+				"url": "https://t.co/4UZtd2JEg1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4UZtd2JEg1",
+								"expanded_url": "http://dmunday7.wordpress.com",
+								"display_url": "dmunday7.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 465,
+				"friends_count": 673,
+				"listed_count": 54,
+				"created_at": "Thu Dec 01 10:54:46 +0000 2011",
+				"favourites_count": 2526,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2356,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1085463151854972928/JEjDxnZP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085463151854972928/JEjDxnZP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/425731247/1546017315",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": ".@GrinnellCIEL https://t.co/0Y0FtyHmfR"
+	},
+	{
+		"created_at": "Thu Feb 28 13:22:05 +0000 2019",
+		"id": 1101110291037933600,
+		"id_str": "1101113294990069762",
+		"full_text": "Very excited about this news from @H5PTechnology: https://t.co/nulRorNQWT. Branching scenarios! Virtual Tours! Dictation! Especially thrilled because (after much work) we're adding support for cloning H5P activities to our forthcoming @pressbooks 5.7 release.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "H5PTechnology",
+					"name": "H5P",
+					"id": 2216405440,
+					"id_str": "2216405440",
+					"indices": [
+						34,
+						48
+					]
+				},
+				{
+					"screen_name": "pressbooks",
+					"name": "Pressbooks",
+					"id": 197561927,
+					"id_str": "197561927",
+					"indices": [
+						235,
+						246
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nulRorNQWT",
+					"expanded_url": "https://h5p.org/february-2019-release-note",
+					"display_url": "h5p.org/february-2019-…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76695243,
+			"id_str": "76695243",
+			"name": "Steel Wagstaff",
+			"screen_name": "steelwagstaff",
+			"location": "Madison, WI",
+			"description": "Educational Client Manager, @pressbooks. Formerly Educational Technology Consultant, @UWLSS. Ph.D. in English & MLIS, both from @UWMadison.",
+			"url": "https://t.co/P6rpVbPTru",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P6rpVbPTru",
+							"expanded_url": "https://steelwagstaff.info",
+							"display_url": "steelwagstaff.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 924,
+			"friends_count": 1807,
+			"listed_count": 24,
+			"created_at": "Wed Sep 23 17:05:58 +0000 2009",
+			"favourites_count": 2033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5299,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/581487261381828609/Gk3GBfWj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/581487261381828609/Gk3GBfWj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/76695243/1409934065",
+			"profile_link_color": "9D291E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very excited about this news from @H5PTechnology: https://t.co/nulRorNQWT. Branching scenarios! Virtual Tours! Dictation! Especially thrilled because (after much work) we're adding support for cloning H5P activities to our forthcoming @pressbooks 5.7 release."
+	},
+	{
+		"created_at": "Thu Feb 28 02:44:02 +0000 2019",
+		"id": 1100949718350397400,
+		"id_str": "1100949718350397440",
+		"full_text": "@MagisterLudi16 @peacetreegrinn Yup ... enjoyed a cranberry-orange hard cider tonight :)",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MagisterLudi16",
+					"name": "Dennis Hogan",
+					"id": 833705348792012800,
+					"id_str": "833705348792012802",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "peacetreegrinn",
+					"name": "Peace Tree Grinnell",
+					"id": 849709766192635900,
+					"id_str": "849709766192635905",
+					"indices": [
+						16,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1100949391366606800,
+		"in_reply_to_status_id_str": "1100949391366606849",
+		"in_reply_to_user_id": 833705348792012800,
+		"in_reply_to_user_id_str": "833705348792012802",
+		"in_reply_to_screen_name": "MagisterLudi16",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 690,
+			"friends_count": 1118,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7840,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MagisterLudi16 @peacetreegrinn Yup ... enjoyed a cranberry-orange hard cider tonight :)"
+	},
+	{
 		"created_at": "Wed Feb 27 20:36:43 +0000 2019",
 		"id": 1100857280285868000,
 		"id_str": "1100884500505083904",
@@ -2055,7 +3903,7 @@ Grailbird.data.tweets_2019_02 =
 			"name": "Austin Frerick",
 			"screen_name": "AustinFrerick",
 			"location": "CID/DCA",
-			"description": "D of Special Projects at @OpenMarkets. Heroes: Jane Addams, Grandpa Frerick, RuPaul, & Louis Brandeis. 🌽🏳️‍🌈 #iowaAF",
+			"description": "D of Special Projects at @OpenMarkets. Heroes: Jane Addams, Grandpa Frerick, RuPaul, & Louis Brandeis. 🌽🏳️🌈 #iowaAF",
 			"url": "https://t.co/g7FWHJ9lSp",
 			"entities": {
 				"url": {
