@@ -1,6 +1,1382 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 05 20:20:42 +0000 2019",
+		"id": 1103015677546229800,
+		"id_str": "1103027579496398853",
+		"full_text": "Marginalia: Web #Annotation for Engaged Teaching &amp; Learning: Join @dr_jdean from @hypothes_is &amp; @steelwagstaff from @pressbooks 12–1pm CT Thu 7 March for an #OEWeek webinar. Register now, space is limited! https://t.co/aUcAUfPZim https://t.co/6BCTNGaU2E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Annotation",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"text": "OEWeek",
+					"indices": [
+						165,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dr_jdean",
+					"name": "(((Dr. Dean)))",
+					"id": 739521654,
+					"id_str": "739521654",
+					"indices": [
+						70,
+						79
+					]
+				},
+				{
+					"screen_name": "hypothes_is",
+					"name": "Hypothesis",
+					"id": 325100970,
+					"id_str": "325100970",
+					"indices": [
+						85,
+						97
+					]
+				},
+				{
+					"screen_name": "steelwagstaff",
+					"name": "Steel Wagstaff",
+					"id": 76695243,
+					"id_str": "76695243",
+					"indices": [
+						104,
+						118
+					]
+				},
+				{
+					"screen_name": "pressbooks",
+					"name": "Pressbooks",
+					"id": 197561927,
+					"id_str": "197561927",
+					"indices": [
+						124,
+						135
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aUcAUfPZim",
+					"expanded_url": "https://www.openeducationweek.org/events/marginalia-web-annotation-for-engaged-teaching-and-learning",
+					"display_url": "openeducationweek.org/events/margina…",
+					"indices": [
+						214,
+						237
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1103015318262173700,
+					"id_str": "1103015318262173698",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/D06yloLU0AIcGjZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/D06yloLU0AIcGjZ.png",
+					"url": "https://t.co/6BCTNGaU2E",
+					"display_url": "pic.twitter.com/6BCTNGaU2E",
+					"expanded_url": "https://twitter.com/hypothes_is/status/1103015677546229760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1103015318262173700,
+					"id_str": "1103015318262173698",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/D06yloLU0AIcGjZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/D06yloLU0AIcGjZ.png",
+					"url": "https://t.co/6BCTNGaU2E",
+					"display_url": "pic.twitter.com/6BCTNGaU2E",
+					"expanded_url": "https://twitter.com/hypothes_is/status/1103015677546229760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 325100970,
+			"id_str": "325100970",
+			"name": "Hypothesis",
+			"screen_name": "hypothes_is",
+			"location": "San Francisco, CA USA",
+			"description": "All knowledge, annotated.",
+			"url": "http://t.co/vNZZ2YDTUa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/vNZZ2YDTUa",
+							"expanded_url": "http://hypothes.is",
+							"display_url": "hypothes.is",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7665,
+			"friends_count": 4352,
+			"listed_count": 411,
+			"created_at": "Mon Jun 27 18:52:36 +0000 2011",
+			"favourites_count": 5072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3897,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060590184436137984/CK0VrQHt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060590184436137984/CK0VrQHt_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Marginalia: Web #Annotation for Engaged Teaching &amp; Learning: Join @dr_jdean from @hypothes_is &amp; @steelwagstaff from @pressbooks 12–1pm CT Thu 7 March for an #OEWeek webinar. Register now, space is limited! https://t.co/aUcAUfPZim https://t.co/6BCTNGaU2E"
+	},
+	{
+		"created_at": "Tue Mar 05 17:41:29 +0000 2019",
+		"id": 1102981144264540200,
+		"id_str": "1102987511750684674",
+		"full_text": "Looking forward to this weekend's start of #OpenLearning19 with fellow cMOOC alums @purling4peas @SueErickson10 @MorrisPelzel and @GardnerCampbell. I learned SO much during #OpenLearning17 from them and @GoogleGuacamole @Autumm @Bali_Maha https://t.co/394M6XbkGH https://t.co/gFXn9F1nBL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OpenLearning19",
+					"indices": [
+						43,
+						58
+					]
+				},
+				{
+					"text": "OpenLearning17",
+					"indices": [
+						173,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "purling4peas",
+					"name": "Amy Nelson",
+					"id": 171709268,
+					"id_str": "171709268",
+					"indices": [
+						83,
+						96
+					]
+				},
+				{
+					"screen_name": "SueErickson10",
+					"name": "Sue Erickson",
+					"id": 3386335613,
+					"id_str": "3386335613",
+					"indices": [
+						97,
+						111
+					]
+				},
+				{
+					"screen_name": "MorrisPelzel",
+					"name": "Mo Pelzel",
+					"id": 33972737,
+					"id_str": "33972737",
+					"indices": [
+						112,
+						125
+					]
+				},
+				{
+					"screen_name": "GardnerCampbell",
+					"name": "Gardner Campbell",
+					"id": 782931,
+					"id_str": "782931",
+					"indices": [
+						130,
+						146
+					]
+				},
+				{
+					"screen_name": "GoogleGuacamole",
+					"name": "Dr. Dr. Laura Gogia",
+					"id": 1164293858,
+					"id_str": "1164293858",
+					"indices": [
+						203,
+						219
+					]
+				},
+				{
+					"screen_name": "Autumm",
+					"name": "Autumm Caines is a Liminal Space",
+					"id": 6292182,
+					"id_str": "6292182",
+					"indices": [
+						220,
+						227
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi, PhD مها بالي 🏵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						228,
+						238
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/394M6XbkGH",
+					"expanded_url": "http://openlearninghub.net/",
+					"display_url": "openlearninghub.net",
+					"indices": [
+						239,
+						262
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1102981130343583700,
+					"id_str": "1102981130343583746",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D06TfoQWkAIphTy.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D06TfoQWkAIphTy.jpg",
+					"url": "https://t.co/gFXn9F1nBL",
+					"display_url": "pic.twitter.com/gFXn9F1nBL",
+					"expanded_url": "https://twitter.com/MegMulrooney/status/1102981144264540161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 534,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 534,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 534,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102981130343583700,
+					"id_str": "1102981130343583746",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D06TfoQWkAIphTy.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D06TfoQWkAIphTy.jpg",
+					"url": "https://t.co/gFXn9F1nBL",
+					"display_url": "pic.twitter.com/gFXn9F1nBL",
+					"expanded_url": "https://twitter.com/MegMulrooney/status/1102981144264540161/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 534,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 534,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 534,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							267,
+							200
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D06TfoQWkAIphTy.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 846191845,
+			"id_str": "846191845",
+			"name": "Meg Mulrooney",
+			"screen_name": "MegMulrooney",
+			"location": "Harrisonburg, VA",
+			"description": "Educator; Administrator; Scholar. Also coffee lover. #highered #GenEd #civicengagement #publichistory. Views my own. RTs not endorsements.",
+			"url": "https://t.co/D2tsy2KDDE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D2tsy2KDDE",
+							"expanded_url": "http://mmulrooney.net",
+							"display_url": "mmulrooney.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 791,
+			"friends_count": 764,
+			"listed_count": 40,
+			"created_at": "Tue Sep 25 20:32:23 +0000 2012",
+			"favourites_count": 10406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10852,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2684009668/00267195e3ea0bbbb3e406ef605de83d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2684009668/00267195e3ea0bbbb3e406ef605de83d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/846191845/1403040470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking forward to this weekend's start of #OpenLearning19 with fellow cMOOC alums @purling4peas @SueErickson10 @MorrisPelzel and @GardnerCampbell. I learned SO much during #OpenLearning17 from them and @GoogleGuacamole @Autumm @Bali_Maha https://t.co/394M6XbkGH https://t.co/gFXn9F1nBL"
+	},
+	{
+		"created_at": "Tue Mar 05 16:46:24 +0000 2019",
+		"id": 1102973645796843500,
+		"id_str": "1102973645796843524",
+		"full_text": "@rexparker You could always go with the \"liquid bread\" diet for #Lent https://t.co/suHtwIPc91 https://t.co/GejmPNvGMR",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lent",
+					"indices": [
+						64,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rexparker",
+					"name": "Rex Parker🏹🏹🏹",
+					"id": 14230012,
+					"id_str": "14230012",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/suHtwIPc91",
+					"expanded_url": "https://aleteia.org/2019/03/05/no-food-only-beer-fasting-like-a-17th-century-monk/",
+					"display_url": "aleteia.org/2019/03/05/no-…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1102973622627549200,
+					"id_str": "1102973622627549192",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/D06Mqn1XQAgSfi9.png",
+					"media_url_https": "https://pbs.twimg.com/media/D06Mqn1XQAgSfi9.png",
+					"url": "https://t.co/GejmPNvGMR",
+					"display_url": "pic.twitter.com/GejmPNvGMR",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1102973645796843524/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 686,
+							"h": 343,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 686,
+							"h": 343,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102973622627549200,
+					"id_str": "1102973622627549192",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/D06Mqn1XQAgSfi9.png",
+					"media_url_https": "https://pbs.twimg.com/media/D06Mqn1XQAgSfi9.png",
+					"url": "https://t.co/GejmPNvGMR",
+					"display_url": "pic.twitter.com/GejmPNvGMR",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1102973645796843524/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 686,
+							"h": 343,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 686,
+							"h": 343,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1102955062630981600,
+		"in_reply_to_status_id_str": "1102955062630981633",
+		"in_reply_to_user_id": 14230012,
+		"in_reply_to_user_id_str": "14230012",
+		"in_reply_to_screen_name": "rexparker",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 690,
+			"friends_count": 1124,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6589,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rexparker You could always go with the \"liquid bread\" diet for #Lent https://t.co/suHtwIPc91 https://t.co/GejmPNvGMR"
+	},
+	{
+		"created_at": "Tue Mar 05 15:31:30 +0000 2019",
+		"id": 1102954796657635300,
+		"id_str": "1102954796657635328",
+		"full_text": "Cheers, @dr_jdean https://t.co/KlNN68zSxJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dr_jdean",
+					"name": "(((Dr. Dean)))",
+					"id": 739521654,
+					"id_str": "739521654",
+					"indices": [
+						8,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KlNN68zSxJ",
+					"expanded_url": "https://twitter.com/NRothbaum/status/1102950675699376128",
+					"display_url": "twitter.com/NRothbaum/stat…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 690,
+			"friends_count": 1124,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6589,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1102950675699376100,
+		"quoted_status_id_str": "1102950675699376128",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KlNN68zSxJ",
+			"expanded": "https://twitter.com/NRothbaum/status/1102950675699376128",
+			"display": "twitter.com/NRothbaum/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 05 15:15:07 +0000 2019",
+			"id": 1102950675699376100,
+			"id_str": "1102950675699376128",
+			"full_text": "Since it's Fat Tuesday....You should mix up a Sazerac and read @DavidWondrich fascinating history of New Orleans' oldest bar. Laissez les bon temps rouler!\n\nhttps://t.co/ben7Tz6RjD https://t.co/XGZ4kOCpRa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				180
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DavidWondrich",
+						"name": "David Wondrich",
+						"id": 172485263,
+						"id_str": "172485263",
+						"indices": [
+							63,
+							77
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ben7Tz6RjD",
+						"expanded_url": "https://www.thedailybeast.com/the-fascinating-history-of-new-orleans-oldest-bar",
+						"display_url": "thedailybeast.com/the-fascinatin…",
+						"indices": [
+							157,
+							180
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1102950639565443100,
+						"id_str": "1102950639565443073",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/media/D053w1QWkAEvDr7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D053w1QWkAEvDr7.jpg",
+						"url": "https://t.co/XGZ4kOCpRa",
+						"display_url": "pic.twitter.com/XGZ4kOCpRa",
+						"expanded_url": "https://twitter.com/NRothbaum/status/1102950675699376128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1362,
+								"h": 766,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1102950639565443100,
+						"id_str": "1102950639565443073",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/media/D053w1QWkAEvDr7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D053w1QWkAEvDr7.jpg",
+						"url": "https://t.co/XGZ4kOCpRa",
+						"display_url": "pic.twitter.com/XGZ4kOCpRa",
+						"expanded_url": "https://twitter.com/NRothbaum/status/1102950675699376128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1362,
+								"h": 766,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 896272002,
+				"id_str": "896272002",
+				"name": "Noah Rothbaum",
+				"screen_name": "NRothbaum",
+				"location": "New York",
+				"description": "Chief Cocktail Correspondent & Half Full editor @TheDailyBeast. Author \"The Art of American Whiskey\" & \"The Business of Spirits.\"",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2218,
+				"friends_count": 1326,
+				"listed_count": 75,
+				"created_at": "Sun Oct 21 22:30:29 +0000 2012",
+				"favourites_count": 6141,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2924,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/968176452305936384/3PxNmJ1S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/968176452305936384/3PxNmJ1S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/896272002/1470686570",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cheers, @dr_jdean https://t.co/KlNN68zSxJ"
+	},
+	{
+		"created_at": "Tue Mar 05 15:23:02 +0000 2019",
+		"id": 1102946668436222000,
+		"id_str": "1102952667700178944",
+		"full_text": "I'm really excited to offer this webinar on what @pressbooks can do for educators interested in opening up their teaching materials as part of #OEWeek later today. Although @eCampusOntario is hosting it, it's open to anyone anywhere! https://t.co/WARbKWpa4F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OEWeek",
+					"indices": [
+						143,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pressbooks",
+					"name": "Pressbooks",
+					"id": 197561927,
+					"id_str": "197561927",
+					"indices": [
+						49,
+						60
+					]
+				},
+				{
+					"screen_name": "eCampusOntario",
+					"name": "eCampusOntario",
+					"id": 3429881050,
+					"id_str": "3429881050",
+					"indices": [
+						173,
+						188
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WARbKWpa4F",
+					"expanded_url": "https://twitter.com/livingkatstone/status/1102943181807718402",
+					"display_url": "twitter.com/livingkatstone…",
+					"indices": [
+						234,
+						257
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76695243,
+			"id_str": "76695243",
+			"name": "Steel Wagstaff",
+			"screen_name": "steelwagstaff",
+			"location": "Madison, WI",
+			"description": "Educational Client Manager, @pressbooks. Formerly Educational Technology Consultant, @UWLSS. Ph.D. in English & MLIS, both from @UWMadison.",
+			"url": "https://t.co/P6rpVbPTru",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P6rpVbPTru",
+							"expanded_url": "https://steelwagstaff.info",
+							"display_url": "steelwagstaff.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 926,
+			"friends_count": 1828,
+			"listed_count": 24,
+			"created_at": "Wed Sep 23 17:05:58 +0000 2009",
+			"favourites_count": 2070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5339,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/581487261381828609/Gk3GBfWj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/581487261381828609/Gk3GBfWj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/76695243/1409934065",
+			"profile_link_color": "9D291E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1102943181807718400,
+		"quoted_status_id_str": "1102943181807718402",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WARbKWpa4F",
+			"expanded": "https://twitter.com/livingkatstone/status/1102943181807718402",
+			"display": "twitter.com/livingkatstone…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 05 14:45:20 +0000 2019",
+			"id": 1102943181807718400,
+			"id_str": "1102943181807718402",
+			"full_text": "Been hearing the buzz on Pressbooks &amp; opening up your content? Join @steelwagstaff of @pressbooks fame and learn about moving textbook content from flat to fabulous and closed to open. Register for today's noon webinar: https://t.co/2GBqnzvVjd https://t.co/4jGKSUg25d",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "steelwagstaff",
+						"name": "Steel Wagstaff",
+						"id": 76695243,
+						"id_str": "76695243",
+						"indices": [
+							72,
+							86
+						]
+					},
+					{
+						"screen_name": "pressbooks",
+						"name": "Pressbooks",
+						"id": 197561927,
+						"id_str": "197561927",
+						"indices": [
+							90,
+							101
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/2GBqnzvVjd",
+						"expanded_url": "https://ecampusontario.zoom.us/meeting/register/f269d3f7a3f1c2af7510d14dfea9e911",
+						"display_url": "ecampusontario.zoom.us/meeting/regist…",
+						"indices": [
+							224,
+							247
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1102942827242274800,
+						"id_str": "1102942827242274817",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/media/D05wqGFXQAEsIpO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D05wqGFXQAEsIpO.jpg",
+						"url": "https://t.co/4jGKSUg25d",
+						"display_url": "pic.twitter.com/4jGKSUg25d",
+						"expanded_url": "https://twitter.com/livingkatstone/status/1102943181807718402/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 372,
+								"h": 135,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 372,
+								"h": 135,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 372,
+								"h": 135,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 135,
+								"h": 135,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1102942827242274800,
+						"id_str": "1102942827242274817",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/media/D05wqGFXQAEsIpO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D05wqGFXQAEsIpO.jpg",
+						"url": "https://t.co/4jGKSUg25d",
+						"display_url": "pic.twitter.com/4jGKSUg25d",
+						"expanded_url": "https://twitter.com/livingkatstone/status/1102943181807718402/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 372,
+								"h": 135,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 372,
+								"h": 135,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 372,
+								"h": 135,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 135,
+								"h": 135,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9353512,
+				"id_str": "9353512",
+				"name": "peg french",
+				"screen_name": "livingkatstone",
+				"location": "Hamilton ON",
+				"description": "Working and learning at the intersection of education and technology (eCampusOntario) | Foodie | Book-ie - words not bets | Beer & Wine QA ~ Tweets are my own.",
+				"url": "https://t.co/OLi1hgfIUP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OLi1hgfIUP",
+								"expanded_url": "http://musings.livingstonefrench.ca",
+								"display_url": "musings.livingstonefrench.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 362,
+				"friends_count": 328,
+				"listed_count": 14,
+				"created_at": "Wed Oct 10 15:05:42 +0000 2007",
+				"favourites_count": 2595,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1583,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/948739534165962757/zXoOM0NH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/948739534165962757/zXoOM0NH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9353512/1545664073",
+				"profile_link_color": "8A9A5B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm really excited to offer this webinar on what @pressbooks can do for educators interested in opening up their teaching materials as part of #OEWeek later today. Although @eCampusOntario is hosting it, it's open to anyone anywhere! https://t.co/WARbKWpa4F"
+	},
+	{
 		"created_at": "Mon Mar 04 20:06:18 +0000 2019",
 		"id": 1102661415960232000,
 		"id_str": "1102661568054071297",
