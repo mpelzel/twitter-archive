@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 07 22:15:48 +0000 2019",
+		"id": 1103464835029835800,
+		"id_str": "1103781318662467585",
+		"full_text": "Handel's Dixit and Bach A Major Mass: Grinnell Singers with the Lyra Baroque Orchestra Sun. March 10 in Grinnell, IA.  Fabulous music!  We take it on the road next weekend: 3/16 in Minneapolis and 3/17 in Rochester. https://t.co/yKu0EPKWr8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yKu0EPKWr8",
+					"expanded_url": "https://www.grinnell.edu/news/grinnell-singers-lyra-baroque-orchestra-join-forces-march-10-concert",
+					"display_url": "grinnell.edu/news/grinnell-…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 31758662,
+			"id_str": "31758662",
+			"name": "John Rommereim",
+			"screen_name": "JCROMMEREIM",
+			"location": "Grinnell, Iowa",
+			"description": "composer, conductor, singer, analog virtual artist",
+			"url": "https://t.co/0jqFZPRndG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0jqFZPRndG",
+							"expanded_url": "https://johnrommereim.com/",
+							"display_url": "johnrommereim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102,
+			"friends_count": 210,
+			"listed_count": 5,
+			"created_at": "Thu Apr 16 12:45:40 +0000 2009",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 272,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721405392299827201/EUliBtuP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721405392299827201/EUliBtuP_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Handel's Dixit and Bach A Major Mass: Grinnell Singers with the Lyra Baroque Orchestra Sun. March 10 in Grinnell, IA.  Fabulous music!  We take it on the road next weekend: 3/16 in Minneapolis and 3/17 in Rochester. https://t.co/yKu0EPKWr8"
+	},
+	{
+		"created_at": "Thu Mar 07 19:57:54 +0000 2019",
+		"id": 1103745564124971000,
+		"id_str": "1103746616886992896",
+		"full_text": "The web is multiple decades old, so I'm still shocked reading and working with people creating web content how infrequently many put hyperlinks to good use.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10422,
+			"friends_count": 1462,
+			"listed_count": 789,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 772,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87869,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The web is multiple decades old, so I'm still shocked reading and working with people creating web content how infrequently many put hyperlinks to good use."
+	},
+	{
 		"created_at": "Wed Mar 06 20:56:38 +0000 2019",
 		"id": 1103398482185015300,
 		"id_str": "1103399008331067394",
