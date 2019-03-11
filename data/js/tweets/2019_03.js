@@ -1,6 +1,983 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 10 22:50:04 +0000 2019",
+		"id": 1103424233512861700,
+		"id_str": "1104877107564474368",
+		"full_text": "The #OpenLearning19 cMOOC will run March 17th-April 6th. New to cMOOCs? Jump in on March 10th when @GardnerCampbell will help you get started. More info at https://t.co/HjZcb9JDBX . #OpenLearning17 &amp; #OpenLearning18 participants are welcome back! https://t.co/ZEyHKW6UUW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OpenLearning19",
+					"indices": [
+						4,
+						19
+					]
+				},
+				{
+					"text": "OpenLearning17",
+					"indices": [
+						182,
+						197
+					]
+				},
+				{
+					"text": "OpenLearning18",
+					"indices": [
+						204,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GardnerCampbell",
+					"name": "Gardner Campbell",
+					"id": 782931,
+					"id_str": "782931",
+					"indices": [
+						99,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HjZcb9JDBX",
+					"expanded_url": "http://openlearnnghub.net",
+					"display_url": "openlearnnghub.net",
+					"indices": [
+						156,
+						179
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1103424167536406500,
+					"id_str": "1103424167536406528",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/D1AmbyaWsAAkNLz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1AmbyaWsAAkNLz.jpg",
+					"url": "https://t.co/ZEyHKW6UUW",
+					"display_url": "pic.twitter.com/ZEyHKW6UUW",
+					"expanded_url": "https://twitter.com/SueErickson10/status/1103424233512861702/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1103424167536406500,
+					"id_str": "1103424167536406528",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/D1AmbyaWsAAkNLz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1AmbyaWsAAkNLz.jpg",
+					"url": "https://t.co/ZEyHKW6UUW",
+					"display_url": "pic.twitter.com/ZEyHKW6UUW",
+					"expanded_url": "https://twitter.com/SueErickson10/status/1103424233512861702/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3386335613,
+			"id_str": "3386335613",
+			"name": "Sue Erickson",
+			"screen_name": "SueErickson10",
+			"location": "",
+			"description": "Library director, consultant, facilitator, team-builder, advocate of OER & open learning, connected learning, & change in higher ed.",
+			"url": "https://t.co/P6sWb032R3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P6sWb032R3",
+							"expanded_url": "https://sueerickson.wordpress.com",
+							"display_url": "sueerickson.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 156,
+			"friends_count": 229,
+			"listed_count": 4,
+			"created_at": "Tue Jul 21 20:41:35 +0000 2015",
+			"favourites_count": 2289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1131,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/850062346403926021/B8Ts3Dkq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/850062346403926021/B8Ts3Dkq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #OpenLearning19 cMOOC will run March 17th-April 6th. New to cMOOCs? Jump in on March 10th when @GardnerCampbell will help you get started. More info at https://t.co/HjZcb9JDBX . #OpenLearning17 &amp; #OpenLearning18 participants are welcome back! https://t.co/ZEyHKW6UUW"
+	},
+	{
+		"created_at": "Sun Mar 10 22:37:55 +0000 2019",
+		"id": 1104854088913608700,
+		"id_str": "1104874050554421251",
+		"full_text": "Anyone can accidentally kill a bicyclist by opening your car door at the wrong time. Learn the \"dutch reach\" way to open your door (taught in Holland for 50 years) and save a life. https://t.co/Y8EiNkYUX0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y8EiNkYUX0",
+					"expanded_url": "https://www.dutchreach.org/",
+					"display_url": "dutchreach.org",
+					"indices": [
+						181,
+						204
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1532061,
+			"id_str": "1532061",
+			"name": "Kevin Kelly",
+			"screen_name": "kevin2kelly",
+			"location": "Pacifica, CA",
+			"description": "Senior Maverick at Wired, author of bestseller book, The Inevitable. Also Cool Tool maven, Recomendo chief, Asia-holic, and True Film buff.",
+			"url": "http://t.co/5nim73hK7O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/5nim73hK7O",
+							"expanded_url": "http://www.kk.org/kk",
+							"display_url": "kk.org/kk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71208,
+			"friends_count": 356,
+			"listed_count": 3259,
+			"created_at": "Mon Mar 19 17:27:38 +0000 2007",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2485,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E8E69A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/65000713/KKlaughsm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/65000713/KKlaughsm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1532061/1457469389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FBF918",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 372,
+		"favorite_count": 572,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Anyone can accidentally kill a bicyclist by opening your car door at the wrong time. Learn the \"dutch reach\" way to open your door (taught in Holland for 50 years) and save a life. https://t.co/Y8EiNkYUX0"
+	},
+	{
+		"created_at": "Sun Mar 10 22:37:28 +0000 2019",
+		"id": 1104873937601810400,
+		"id_str": "1104873937601810432",
+		"full_text": "@cjbanning @LeahLibresco @feminaprovita @cordialier @WAWilsonIV @bdmcclay @KaraNSlade When I was in the seminary, there were guys who would go off campus to the local truck stop diner late on Friday nights in Lent, and at midnight would order burgers, chili, etc. ... and not the vegetarian kind.",
+		"truncated": false,
+		"display_text_range": [
+			86,
+			296
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cjbanning",
+					"name": "Cole J. Banning",
+					"id": 254274052,
+					"id_str": "254274052",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "LeahLibresco",
+					"name": "Leah Libresco",
+					"id": 47753898,
+					"id_str": "47753898",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "feminaprovita",
+					"name": "Claire",
+					"id": 552690371,
+					"id_str": "552690371",
+					"indices": [
+						25,
+						39
+					]
+				},
+				{
+					"screen_name": "cordialier",
+					"name": "Joy Craig",
+					"id": 825581196390318100,
+					"id_str": "825581196390318084",
+					"indices": [
+						40,
+						51
+					]
+				},
+				{
+					"screen_name": "WAWilsonIV",
+					"name": "Will Wilson 🇭🇰🗿",
+					"id": 98646282,
+					"id_str": "98646282",
+					"indices": [
+						52,
+						63
+					]
+				},
+				{
+					"screen_name": "bdmcclay",
+					"name": "BDM",
+					"id": 511539750,
+					"id_str": "511539750",
+					"indices": [
+						64,
+						73
+					]
+				},
+				{
+					"screen_name": "KaraNSlade",
+					"name": "Kara N. Slade",
+					"id": 422193811,
+					"id_str": "422193811",
+					"indices": [
+						74,
+						85
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1104861566720188400,
+		"in_reply_to_status_id_str": "1104861566720188416",
+		"in_reply_to_user_id": 254274052,
+		"in_reply_to_user_id_str": "254274052",
+		"in_reply_to_screen_name": "cjbanning",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 693,
+			"friends_count": 1133,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6614,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7915,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cjbanning @LeahLibresco @feminaprovita @cordialier @WAWilsonIV @bdmcclay @KaraNSlade When I was in the seminary, there were guys who would go off campus to the local truck stop diner late on Friday nights in Lent, and at midnight would order burgers, chili, etc. ... and not the vegetarian kind."
+	},
+	{
+		"created_at": "Sun Mar 10 15:41:20 +0000 2019",
+		"id": 1104768617651073000,
+		"id_str": "1104769212608847873",
+		"full_text": "What’s it like doing historical research? @histoftech describes how she got her hands on a copy of a 1965 ad urging people to apply for jobs as computer programmers. This is an EPIC tale people, read the thread! https://t.co/ZQipXtdE4j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "histoftech",
+					"name": "Mar Hicks",
+					"id": 401773648,
+					"id_str": "401773648",
+					"indices": [
+						42,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZQipXtdE4j",
+					"expanded_url": "https://twitter.com/histoftech/status/1104732844537102336",
+					"display_url": "twitter.com/histoftech/sta…",
+					"indices": [
+						212,
+						235
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1104732844537102300,
+		"in_reply_to_status_id_str": "1104732844537102336",
+		"in_reply_to_user_id": 401773648,
+		"in_reply_to_user_id_str": "401773648",
+		"in_reply_to_screen_name": "histoftech",
+		"user": {
+			"id": 661403,
+			"id_str": "661403",
+			"name": "Clive Thompson",
+			"screen_name": "pomeranian99",
+			"location": "New York, NY",
+			"description": "My new book is out Mar. 26! \"Coders: The Making of a New Tribe and the Remaking of the World\", pre-orderable now 📖📖 https://t.co/Y8HkVLoedl Also: NYT mag, Wired",
+			"url": "https://t.co/XCtGwc1o5G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XCtGwc1o5G",
+							"expanded_url": "http://www.clivethompson.net",
+							"display_url": "clivethompson.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Y8HkVLoedl",
+							"expanded_url": "https://amzn.to/2VX1qxC",
+							"display_url": "amzn.to/2VX1qxC",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36507,
+			"friends_count": 1960,
+			"listed_count": 1960,
+			"created_at": "Thu Jan 18 20:06:49 +0000 2007",
+			"favourites_count": 38554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 49250,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000407595163/163d76384315dfd651daa13e44b724e4_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000407595163/163d76384315dfd651daa13e44b724e4_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/661403/1547568517",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1104732844537102300,
+		"quoted_status_id_str": "1104732844537102336",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZQipXtdE4j",
+			"expanded": "https://twitter.com/histoftech/status/1104732844537102336",
+			"display": "twitter.com/histoftech/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 10 13:16:49 +0000 2019",
+			"id": 1104732844537102300,
+			"id_str": "1104732844537102336",
+			"full_text": "The amazing lady on the cover of @proginequality, Cathy Gillespie, recently asked my help in locating a copy of the ad she answered in 1965 to get her 1st job in computing. She wanted it for a @leocomputers51 reunion in April. After over a MONTH of trying I finally got a copy! https://t.co/oZWYQqRxVw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "proginequality",
+						"name": "ProgrammedInequality",
+						"id": 794996398030721000,
+						"id_str": "794996398030721024",
+						"indices": [
+							33,
+							48
+						]
+					},
+					{
+						"screen_name": "leocomputers51",
+						"name": "LEOComputersSociety",
+						"id": 2836318329,
+						"id_str": "2836318329",
+						"indices": [
+							193,
+							208
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1104732832025534500,
+						"id_str": "1104732832025534464",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/D1TMqFiX4AAFG2_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1TMqFiX4AAFG2_.jpg",
+						"url": "https://t.co/oZWYQqRxVw",
+						"display_url": "pic.twitter.com/oZWYQqRxVw",
+						"expanded_url": "https://twitter.com/histoftech/status/1104732844537102336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 490,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 882,
+								"h": 636,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 882,
+								"h": 636,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1104732832025534500,
+						"id_str": "1104732832025534464",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/D1TMqFiX4AAFG2_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1TMqFiX4AAFG2_.jpg",
+						"url": "https://t.co/oZWYQqRxVw",
+						"display_url": "pic.twitter.com/oZWYQqRxVw",
+						"expanded_url": "https://twitter.com/histoftech/status/1104732844537102336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 490,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 882,
+								"h": 636,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 882,
+								"h": 636,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1104732832025534500,
+						"id_str": "1104732832025534466",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/D1TMqFiX4AIWUob.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1TMqFiX4AIWUob.jpg",
+						"url": "https://t.co/oZWYQqRxVw",
+						"display_url": "pic.twitter.com/oZWYQqRxVw",
+						"expanded_url": "https://twitter.com/histoftech/status/1104732844537102336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1167,
+								"h": 1840,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 431,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 761,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 401773648,
+				"id_str": "401773648",
+				"name": "Mar Hicks",
+				"screen_name": "histoftech",
+				"location": "Chicago, IL and RTP, NC",
+				"description": "Historian of technology. Professor. Former sysadmin. Queer feminist. They/genderqueer. Programmed Inequality: https://t.co/wKyeCJGc0R",
+				"url": "https://t.co/ejqfFYiE25",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ejqfFYiE25",
+								"expanded_url": "http://bit.ly/marhicksdotcom",
+								"display_url": "bit.ly/marhicksdotcom",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wKyeCJGc0R",
+								"expanded_url": "http://bit.ly/paperbackproginequal",
+								"display_url": "bit.ly/paperbackprogi…",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 17814,
+				"friends_count": 991,
+				"listed_count": 530,
+				"created_at": "Mon Oct 31 02:11:48 +0000 2011",
+				"favourites_count": 85679,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 41993,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1093647755849986050/5VPndKME_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093647755849986050/5VPndKME_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/401773648/1549563695",
+				"profile_link_color": "666666",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 141,
+			"favorite_count": 407,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 18,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What’s it like doing historical research? @histoftech describes how she got her hands on a copy of a 1965 ad urging people to apply for jobs as computer programmers. This is an EPIC tale people, read the thread! https://t.co/ZQipXtdE4j"
+	},
+	{
+		"created_at": "Sun Mar 10 02:04:43 +0000 2019",
+		"id": 1104563557071376400,
+		"id_str": "1104563704245485568",
+		"full_text": "The House just voted to terminate Trump's national emergency declaration \n=\nVoters reject his emotional tantrum and say \"Enough!\" to ultimate precedent\nhttps://t.co/e9WXE1Ru0v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e9WXE1Ru0v",
+					"expanded_url": "https://www.anagramtimes.com/2019/03/the-house-just-voted-to-terminate.html",
+					"display_url": "anagramtimes.com/2019/03/the-ho…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37257124,
+			"id_str": "37257124",
+			"name": "The Anagram Times",
+			"screen_name": "AnagramTimes",
+			"location": "",
+			"description": "All the news that's fit to anagram. From http://t.co/9aMa9WrDzJ",
+			"url": "http://t.co/qA3zfZR4fE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/qA3zfZR4fE",
+							"expanded_url": "http://www.anagramtimes.com",
+							"display_url": "anagramtimes.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/9aMa9WrDzJ",
+							"expanded_url": "http://Wordsmith.org",
+							"display_url": "Wordsmith.org",
+							"indices": [
+								41,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2050,
+			"friends_count": 18,
+			"listed_count": 50,
+			"created_at": "Sat May 02 18:54:00 +0000 2009",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5458,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/231244143/awad_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/231244143/awad_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The House just voted to terminate Trump's national emergency declaration \n=\nVoters reject his emotional tantrum and say \"Enough!\" to ultimate precedent\nhttps://t.co/e9WXE1Ru0v"
+	},
+	{
 		"created_at": "Sun Mar 10 00:18:20 +0000 2019",
 		"id": 1104536931310944300,
 		"id_str": "1104536931310944257",
