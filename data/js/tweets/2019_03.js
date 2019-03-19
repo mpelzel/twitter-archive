@@ -1,6 +1,1389 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 18 17:15:44 +0000 2019",
+		"id": 1107689693561401300,
+		"id_str": "1107692070523801601",
+		"full_text": "Hobsbawm: \"If physical mobility is an essential condition of freedom, the bicycle has probably been the greatest device for achieving what Marx called the possibilities of being human since Gutenberg, and the only one without obvious drawbacks.” https://t.co/rirsyZCfUC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rirsyZCfUC",
+					"expanded_url": "https://twitter.com/DaveEvansPhD/status/1107665195831361537",
+					"display_url": "twitter.com/DaveEvansPhD/s…",
+					"indices": [
+						246,
+						269
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703202143,
+			"id_str": "703202143",
+			"name": "Ian Petrie",
+			"screen_name": "icpetrie",
+			"location": "Philadelphia",
+			"description": "Sometime historian, homesick Canadian, West Philadelphian. Higher ed, urban🚲, books, cats, laundry, #phled parent. At Penn's CTL & teach South Asia & #histtech.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2953,
+			"friends_count": 2081,
+			"listed_count": 97,
+			"created_at": "Wed Jul 18 14:55:26 +0000 2012",
+			"favourites_count": 44318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50798,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C1DCEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984619252924772352/a1fYXIAD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984619252924772352/a1fYXIAD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703202143/1547213228",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1107665195831361500,
+		"quoted_status_id_str": "1107665195831361537",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rirsyZCfUC",
+			"expanded": "https://twitter.com/DaveEvansPhD/status/1107665195831361537",
+			"display": "twitter.com/DaveEvansPhD/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 18 15:28:56 +0000 2019",
+			"id": 1107665195831361500,
+			"id_str": "1107665195831361537",
+			"full_text": "What happens when you provide school-age girls in Zambia with a bicycle? \n   * Girls spend 35% less time per day ↓ traveling\n   * Girls miss 30% ↓ days of school\n   * Measures of empowerment ↑\n\nPreliminary results from @GarciaHdezAna et al.\nhttps://t.co/pGacWNaq1G #OxCSAE2019",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OxCSAE2019",
+						"indices": [
+							265,
+							276
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GarciaHdezAna",
+						"name": "Ana Garcia-Hernandez",
+						"id": 49360840,
+						"id_str": "49360840",
+						"indices": [
+							219,
+							233
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/pGacWNaq1G",
+						"expanded_url": "https://custom.cvent.com/4E741122FD8B4A1B97E483EC8BB51CC4/files/2c255dd8bbbd4d469ac89881d63f6e4a.pdf",
+						"display_url": "custom.cvent.com/4E741122FD8B4A…",
+						"indices": [
+							241,
+							264
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 101264566,
+				"id_str": "101264566",
+				"name": "David Evans",
+				"screen_name": "DaveEvansPhD",
+				"location": "Washington, DC",
+				"description": "Development economist tweeting about education, health, social protection, impact evaluation, & literature (especially African literature).",
+				"url": "https://t.co/NV7NSNKOIK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NV7NSNKOIK",
+								"expanded_url": "https://www.sites.google.com/site/davidkevans/",
+								"display_url": "sites.google.com/site/davidkeva…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13795,
+				"friends_count": 562,
+				"listed_count": 321,
+				"created_at": "Sat Jan 02 16:57:34 +0000 2010",
+				"favourites_count": 22785,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12309,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1690694373/photo_of_me_for_ECD_simposium_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1690694373/photo_of_me_for_ECD_simposium_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/101264566/1501269256",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 51,
+			"favorite_count": 144,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hobsbawm: \"If physical mobility is an essential condition of freedom, the bicycle has probably been the greatest device for achieving what Marx called the possibilities of being human since Gutenberg, and the only one without obvious drawbacks.” https://t.co/rirsyZCfUC"
+	},
+	{
+		"created_at": "Mon Mar 18 16:48:39 +0000 2019",
+		"id": 1107672032748027900,
+		"id_str": "1107685256105201665",
+		"full_text": "Watch civilization’s centers of dynamism migrate. https://t.co/DhQ8VDOK7h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DhQ8VDOK7h",
+					"expanded_url": "https://twitter.com/jburnmurdoch/status/1107552367795412992",
+					"display_url": "twitter.com/jburnmurdoch/s…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4435227552,
+			"id_str": "4435227552",
+			"name": "Stewart Brand",
+			"screen_name": "stewartbrand",
+			"location": "Sausalito, CA",
+			"description": "President of The Long Now Foundation--which takes no sides.  In this forum, as a private person, I do take sides occasionally.",
+			"url": "https://t.co/0C7UG12lmc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0C7UG12lmc",
+							"expanded_url": "http://sb.longnow.org/SB_homepage/",
+							"display_url": "sb.longnow.org/SB_homepage/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24145,
+			"friends_count": 193,
+			"listed_count": 716,
+			"created_at": "Wed Dec 02 21:48:41 +0000 2015",
+			"favourites_count": 22721,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5161,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075885184992464897/FaKfkYAO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075885184992464897/FaKfkYAO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4435227552/1456105286",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1107552367795413000,
+		"quoted_status_id_str": "1107552367795412992",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DhQ8VDOK7h",
+			"expanded": "https://twitter.com/jburnmurdoch/status/1107552367795412992",
+			"display": "twitter.com/jburnmurdoch/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 18 08:00:36 +0000 2019",
+			"id": 1107552367795413000,
+			"id_str": "1107552367795412992",
+			"full_text": "New project:\n  \nA “Bar Chart Race” animation showing the changing ranks of the 10 biggest cities in the world since 1500.\n\nFascinating to watch giant cities vanish after falling in conquests, and amazing that three UK cities were in the top 8 in the late 1800s. https://t.co/KglMZbYobr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				261
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1107552051586838500,
+						"id_str": "1107552051586838533",
+						"indices": [
+							262,
+							285
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1107552051586838533/pu/img/wAi3V53Q-egGYZ23.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1107552051586838533/pu/img/wAi3V53Q-egGYZ23.jpg",
+						"url": "https://t.co/KglMZbYobr",
+						"display_url": "pic.twitter.com/KglMZbYobr",
+						"expanded_url": "https://twitter.com/jburnmurdoch/status/1107552367795412992/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 442,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1108,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1108,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1107552051586838500,
+						"id_str": "1107552051586838533",
+						"indices": [
+							262,
+							285
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1107552051586838533/pu/img/wAi3V53Q-egGYZ23.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1107552051586838533/pu/img/wAi3V53Q-egGYZ23.jpg",
+						"url": "https://t.co/KglMZbYobr",
+						"display_url": "pic.twitter.com/KglMZbYobr",
+						"expanded_url": "https://twitter.com/jburnmurdoch/status/1107552367795412992/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 442,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1108,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1108,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								277,
+								180
+							],
+							"duration_millis": 139084,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1107552051586838533/pu/vid/554x360/x9HU2ytMDg6-lvp6.mp4?tag=8"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1107552051586838533/pu/vid/276x180/edKCU_jQH1ngQONV.mp4?tag=8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1107552051586838533/pu/vid/1108x720/XLU8eKxXyrtDmgEk.mp4?tag=8"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1107552051586838533/pu/pl/IYdsW53pZ4HRNT7c.m3u8?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 43878033,
+				"id_str": "43878033",
+				"name": "John Burn-Murdoch",
+				"screen_name": "jburnmurdoch",
+				"location": "Doncaster ➡️ London",
+				"description": "Stories, stats & scatterplots for @FinancialTimes | Currently working on bias in AI | john.burn-murdoch@ft.com | #dataviz",
+				"url": "https://t.co/VZF28wenJw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VZF28wenJw",
+								"expanded_url": "https://www.ft.com/jbm",
+								"display_url": "ft.com/jbm",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23570,
+				"friends_count": 3442,
+				"listed_count": 1271,
+				"created_at": "Mon Jun 01 12:48:11 +0000 2009",
+				"favourites_count": 23771,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 42335,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/922511756110557184/IDxUQ_rr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/922511756110557184/IDxUQ_rr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/43878033/1480034618",
+				"profile_link_color": "B1493F",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3826,
+			"favorite_count": 7057,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 30,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watch civilization’s centers of dynamism migrate. https://t.co/DhQ8VDOK7h"
+	},
+	{
+		"created_at": "Mon Mar 18 16:37:02 +0000 2019",
+		"id": 1107682101782966300,
+		"id_str": "1107682330586562561",
+		"full_text": "“Paul Virilio famously argued that ‘when you invent the ship, you also invent the shipwreck; [...] and when you invent electricity, you invent electrocution… Every technology carries its own negativity, which is invented at the same time as technical progress.’” https://t.co/slZMNG8qxc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/slZMNG8qxc",
+					"expanded_url": "https://twitter.com/donnalanclos/status/1107668689929883648",
+					"display_url": "twitter.com/donnalanclos/s…",
+					"indices": [
+						263,
+						286
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3775651,
+			"id_str": "3775651",
+			"name": "Nate/Angell",
+			"screen_name": "xolotl",
+			"location": "Portland OR USA",
+			"description": "Leading marketing @hypothes_is. Wandering IQ. Raised by wolves. Friend to cheese. Working to bend the arc of justice. #culturalstudies #feminist #educationist",
+			"url": "https://t.co/KKOp8GyoJv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KKOp8GyoJv",
+							"expanded_url": "http://xolotl.org",
+							"display_url": "xolotl.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4107,
+			"friends_count": 2997,
+			"listed_count": 355,
+			"created_at": "Sun Apr 08 09:35:22 +0000 2007",
+			"favourites_count": 7113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39016,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/412064804887490561/B6zigrA-_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/412064804887490561/B6zigrA-_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3775651/1362557141",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1107668689929883600,
+		"quoted_status_id_str": "1107668689929883648",
+		"quoted_status_permalink": {
+			"url": "https://t.co/slZMNG8qxc",
+			"expanded": "https://twitter.com/donnalanclos/status/1107668689929883648",
+			"display": "twitter.com/donnalanclos/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 18 15:42:49 +0000 2019",
+			"id": 1107668689929883600,
+			"id_str": "1107668689929883648",
+			"full_text": "Those of you who work in institutions hot on analytics for students and their \"success\" are you asking the extent to which they are not identifying risk but actually causing it?  \"Not detection but dictation\" https://t.co/KAAJO9BhRq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				208
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KAAJO9BhRq",
+						"expanded_url": "https://twitter.com/hypervisible/status/1107665159038877696",
+						"display_url": "twitter.com/hypervisible/s…",
+						"indices": [
+							209,
+							232
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 436886909,
+				"id_str": "436886909",
+				"name": "Dr. Donna Lanclos",
+				"screen_name": "DonnaLanclos",
+				"location": "Currently NC, USA.  Has been seen in the UK, Ireland, New Zealand, and Canada.  Will happily go where invited.",
+				"description": "Anthropologist. Feminist. Gorgon. Witch. Time Lord. Harridan. Sidhe. Crone. PhD. Siren. Norn. Dragon. Selkie. She/Her. Out of fucks to give.",
+				"url": "https://t.co/zW0FaNkjfG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zW0FaNkjfG",
+								"expanded_url": "http://www.donnalanclos.com/",
+								"display_url": "donnalanclos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4332,
+				"friends_count": 1032,
+				"listed_count": 434,
+				"created_at": "Wed Dec 14 18:09:12 +0000 2011",
+				"favourites_count": 6216,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 121082,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1052076374532349957/UbLHqy-F_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1052076374532349957/UbLHqy-F_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/436886909/1550892275",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1107665159038877700,
+			"quoted_status_id_str": "1107665159038877696",
+			"quoted_status_permalink": {
+				"url": "https://t.co/KAAJO9BhRq",
+				"expanded": "https://twitter.com/hypervisible/status/1107665159038877696",
+				"display": "twitter.com/hypervisible/s…"
+			},
+			"retweet_count": 11,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 29,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Paul Virilio famously argued that ‘when you invent the ship, you also invent the shipwreck; [...] and when you invent electricity, you invent electrocution… Every technology carries its own negativity, which is invented at the same time as technical progress.’” https://t.co/slZMNG8qxc"
+	},
+	{
+		"created_at": "Mon Mar 18 16:13:51 +0000 2019",
+		"id": 1101185770814095400,
+		"id_str": "1107676498490732544",
+		"full_text": "\"I want people to think it is perfectly natural for an autistic child to be in a language arts classroom, or a creative writing class.\" Ralph Savarese, professor of English, discussing his book, See It Feelingly, on the new episode of All Things Grinnell https://t.co/RiVwdU1ftf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RiVwdU1ftf",
+					"expanded_url": "http://fal.cn/idBQ",
+					"display_url": "fal.cn/idBQ",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.falcon.io\" rel=\"nofollow\">Falcon Social Media Management </a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17652635,
+			"id_str": "17652635",
+			"name": "Grinnell College",
+			"screen_name": "GrinnellCollege",
+			"location": "Grinnell, Iowa",
+			"description": "The official Twitter account for Grinnell College. Updates on news, faculty, students, athletics and campus life at #GrinnellCollege.",
+			"url": "http://t.co/cT1hUUMKcV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/cT1hUUMKcV",
+							"expanded_url": "http://www.grinnell.edu",
+							"display_url": "grinnell.edu",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6226,
+			"friends_count": 561,
+			"listed_count": 220,
+			"created_at": "Wed Nov 26 16:07:19 +0000 2008",
+			"favourites_count": 4302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4795,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/991321404195856384/WY7ENUeS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/991321404195856384/WY7ENUeS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17652635/1402595600",
+			"profile_link_color": "B40012",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E0E8F0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"I want people to think it is perfectly natural for an autistic child to be in a language arts classroom, or a creative writing class.\" Ralph Savarese, professor of English, discussing his book, See It Feelingly, on the new episode of All Things Grinnell https://t.co/RiVwdU1ftf"
+	},
+	{
+		"created_at": "Mon Mar 18 16:13:24 +0000 2019",
+		"id": 1062006510316871700,
+		"id_str": "1107676386716762113",
+		"full_text": "Ralph Savarese's SEE IT FEELINGLY is a moving story about reading Moby Dick with an autistic son-- but it's about more than that.  It's about the way we experience literature, the world, and each other. https://t.co/AFEHCx5IV8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1062006502121189400,
+					"id_str": "1062006502121189378",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr0BSXQWsAIVscU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr0BSXQWsAIVscU.jpg",
+					"url": "https://t.co/AFEHCx5IV8",
+					"display_url": "pic.twitter.com/AFEHCx5IV8",
+					"expanded_url": "https://twitter.com/JennyBoylan/status/1062006510316871680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 333,
+							"h": 499,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 333,
+							"h": 499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 333,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1062006502121189400,
+					"id_str": "1062006502121189378",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr0BSXQWsAIVscU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr0BSXQWsAIVscU.jpg",
+					"url": "https://t.co/AFEHCx5IV8",
+					"display_url": "pic.twitter.com/AFEHCx5IV8",
+					"expanded_url": "https://twitter.com/JennyBoylan/status/1062006510316871680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 333,
+							"h": 499,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 333,
+							"h": 499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 333,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15969172,
+			"id_str": "15969172",
+			"name": "Jennifer Finney Boylan 🦑",
+			"screen_name": "JennyBoylan",
+			"location": "maine",
+			"description": "Author of 15 Books. NYTimes op/ed writer. Trustee, PEN America; former Co-chair of the Board, GLAAD. Professor of English, Barnard/Columbia. Opinions mine.",
+			"url": "https://t.co/lMTIRtubDZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lMTIRtubDZ",
+							"expanded_url": "http://www.jenniferboylan.net",
+							"display_url": "jenniferboylan.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28646,
+			"friends_count": 1767,
+			"listed_count": 373,
+			"created_at": "Sun Aug 24 14:33:27 +0000 2008",
+			"favourites_count": 10876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30078,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903000624719114240/2-BrSLpg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903000624719114240/2-BrSLpg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15969172/1515186561",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ralph Savarese's SEE IT FEELINGLY is a moving story about reading Moby Dick with an autistic son-- but it's about more than that.  It's about the way we experience literature, the world, and each other. https://t.co/AFEHCx5IV8"
+	},
+	{
+		"created_at": "Mon Mar 18 14:58:28 +0000 2019",
+		"id": 1107657526055788500,
+		"id_str": "1107657526055788544",
+		"full_text": "Kudos to @GrinnellCollege Classics Professor Monessa Cummins on receiving the Society for Classical Studies (SCS) Award for Excellence in Collegiate Teaching. Congratulationes tibi ago, Mo!\nhttps://t.co/qpCNScLpgK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GrinnellCollege",
+					"name": "Grinnell College",
+					"id": 17652635,
+					"id_str": "17652635",
+					"indices": [
+						9,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qpCNScLpgK",
+					"expanded_url": "http://bit.ly/2TUzwnC",
+					"display_url": "bit.ly/2TUzwnC",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 695,
+			"friends_count": 1148,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7985,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kudos to @GrinnellCollege Classics Professor Monessa Cummins on receiving the Society for Classical Studies (SCS) Award for Excellence in Collegiate Teaching. Congratulationes tibi ago, Mo!\nhttps://t.co/qpCNScLpgK"
+	},
+	{
+		"created_at": "Mon Mar 18 13:27:40 +0000 2019",
+		"id": 1106513074079584300,
+		"id_str": "1107634676821307393",
+		"full_text": "My article on the college admission scandal appears today in the @dallasnews \n\nhttps://t.co/tJ3kOSaKJR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dallasnews",
+					"name": "Dallas Morning News",
+					"id": 15679641,
+					"id_str": "15679641",
+					"indices": [
+						65,
+						76
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tJ3kOSaKJR",
+					"expanded_url": "https://www.dallasnews.com/opinion/commentary/2019/03/15/college-admissions-scandal-shows-value-small-colleges-nobody-paying-bribes-get",
+					"display_url": "dallasnews.com/opinion/commen…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 831632218904752100,
+			"id_str": "831632218904752129",
+			"name": "Randi",
+			"screen_name": "RandiLynnTexas",
+			"location": "Sherman, TX",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77,
+			"friends_count": 110,
+			"listed_count": 1,
+			"created_at": "Tue Feb 14 22:32:26 +0000 2017",
+			"favourites_count": 667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 142,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1050044952367919110/xuG7NVLS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050044952367919110/xuG7NVLS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/831632218904752129/1539185226",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My article on the college admission scandal appears today in the @dallasnews \n\nhttps://t.co/tJ3kOSaKJR"
+	},
+	{
+		"created_at": "Mon Mar 18 02:31:28 +0000 2019",
+		"id": 1107469446107578400,
+		"id_str": "1107469538189299712",
+		"full_text": "Our crossword puzzles are now online! Try solving this week's, and let us know how you did https://t.co/4L6YJlBMMN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4L6YJlBMMN",
+					"expanded_url": "https://nym.ag/2TVvhbn",
+					"display_url": "nym.ag/2TVvhbn",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45564482,
+			"id_str": "45564482",
+			"name": "New York Magazine",
+			"screen_name": "NYMag",
+			"location": "New York, NY",
+			"description": "The ideas, people, and cultural currents that are forever reshaping the world.\nSubscribe here: https://t.co/9fjwOsFFiR",
+			"url": "https://t.co/h3Ulh5oQm9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h3Ulh5oQm9",
+							"expanded_url": "http://nymag.com",
+							"display_url": "nymag.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9fjwOsFFiR",
+							"expanded_url": "https://subs.nymag.com/magazine/subscribe/stnds-sp.html",
+							"display_url": "subs.nymag.com/magazine/subsc…",
+							"indices": [
+								95,
+								118
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1780754,
+			"friends_count": 870,
+			"listed_count": 14022,
+			"created_at": "Mon Jun 08 13:30:34 +0000 2009",
+			"favourites_count": 1699,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 148840,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2939680330/56f025f0104892f84a84c00bdb4ec812_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2939680330/56f025f0104892f84a84c00bdb4ec812_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45564482/1546646155",
+			"profile_link_color": "1F638A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our crossword puzzles are now online! Try solving this week's, and let us know how you did https://t.co/4L6YJlBMMN"
+	},
+	{
 		"created_at": "Sun Mar 17 23:24:05 +0000 2019",
 		"id": 1107422380413145100,
 		"id_str": "1107422380413145088",
