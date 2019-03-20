@@ -1,6 +1,1926 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 20 00:15:51 +0000 2019",
+		"id": 1108160184466227200,
+		"id_str": "1108160184466227200",
+		"full_text": "https://t.co/KbITcvYuDJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1108159848842215400,
+					"id_str": "1108159848842215424",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D2D5guCXQAAckJ2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D2D5guCXQAAckJ2.jpg",
+					"url": "https://t.co/KbITcvYuDJ",
+					"display_url": "pic.twitter.com/KbITcvYuDJ",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1108160184466227200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 790,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 790,
+							"h": 458,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 394,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108159848842215400,
+					"id_str": "1108159848842215424",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D2D5guCXQAAckJ2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D2D5guCXQAAckJ2.jpg",
+					"url": "https://t.co/KbITcvYuDJ",
+					"display_url": "pic.twitter.com/KbITcvYuDJ",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1108160184466227200/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 790,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 790,
+							"h": 458,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 394,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							395,
+							229
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D2D5guCXQAAckJ2.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 695,
+			"friends_count": 1149,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6652,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/KbITcvYuDJ"
+	},
+	{
+		"created_at": "Tue Mar 19 23:56:52 +0000 2019",
+		"id": 1107485422005817300,
+		"id_str": "1108155408504492032",
+		"full_text": "Earlier this month, @hannahjdotca alerted me to the existence of this weird novelty calendar with a cat in front of an old HP computer. I couldn’t help but grabbing it and scanning it all. https://t.co/RhDh6MZnDz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hannahjdotca",
+					"name": "Hannah J",
+					"id": 54788968,
+					"id_str": "54788968",
+					"indices": [
+						20,
+						33
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1107485367148535800,
+					"id_str": "1107485367148535809",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/D16UEt7U4AEmvnq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D16UEt7U4AEmvnq.jpg",
+					"url": "https://t.co/RhDh6MZnDz",
+					"display_url": "pic.twitter.com/RhDh6MZnDz",
+					"expanded_url": "https://twitter.com/mwichary/status/1107485422005817344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 602,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1062,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1813,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107485367148535800,
+					"id_str": "1107485367148535809",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/D16UEt7U4AEmvnq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D16UEt7U4AEmvnq.jpg",
+					"url": "https://t.co/RhDh6MZnDz",
+					"display_url": "pic.twitter.com/RhDh6MZnDz",
+					"expanded_url": "https://twitter.com/mwichary/status/1107485422005817344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 602,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1062,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1813,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 86239754,
+			"id_str": "86239754",
+			"name": "Marcin Wichary 💔",
+			"screen_name": "mwichary",
+			"location": "San Francisco, Calif.",
+			"description": "Designer · Typographer · Occasional speaker · Writing a book about the history of keyboards: https://t.co/tmhDTNR0nL · He/him",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tmhDTNR0nL",
+							"expanded_url": "http://aresluna.org/shift-happens",
+							"display_url": "aresluna.org/shift-happens",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13137,
+			"friends_count": 2725,
+			"listed_count": 454,
+			"created_at": "Fri Oct 30 04:28:51 +0000 2009",
+			"favourites_count": 5063,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30020,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072576108598624262/jL4_PPw6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072576108598624262/jL4_PPw6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/86239754/1437445368",
+			"profile_link_color": "007BC0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3736,
+		"favorite_count": 9998,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Earlier this month, @hannahjdotca alerted me to the existence of this weird novelty calendar with a cat in front of an old HP computer. I couldn’t help but grabbing it and scanning it all. https://t.co/RhDh6MZnDz"
+	},
+	{
+		"created_at": "Tue Mar 19 17:51:27 +0000 2019",
+		"id": 1108061263068913700,
+		"id_str": "1108063449882550273",
+		"full_text": "@MorrisPelzel Speaking of #digitalfluency and internet cats, the awesome @b0rk has a free zine that walks through networking basics....using the example of downloading a cat picture. https://t.co/WiToEX6QXt",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digitalfluency",
+					"indices": [
+						26,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MorrisPelzel",
+					"name": "Mo Pelzel",
+					"id": 33972737,
+					"id_str": "33972737",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "b0rk",
+					"name": "🔎Julia Evans🔍",
+					"id": 6603532,
+					"id_str": "6603532",
+					"indices": [
+						73,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WiToEX6QXt",
+					"expanded_url": "https://wizardzines.com/zines/networking/",
+					"display_url": "wizardzines.com/zines/networki…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1108046012487270400,
+		"in_reply_to_status_id_str": "1108046012487270400",
+		"in_reply_to_user_id": 33972737,
+		"in_reply_to_user_id_str": "33972737",
+		"in_reply_to_screen_name": "MorrisPelzel",
+		"user": {
+			"id": 495562702,
+			"id_str": "495562702",
+			"name": "Katherine W.",
+			"screen_name": "KWaldenPhD",
+			"location": "Grinnell, IA",
+			"description": "Dig Lib Arts Specialist @GrinnellDLAC. American-Sport Studies (almost) PhD + MLIS @uiowa. Fmr @VanderbiltU, @baseballhall, @librarycongress.  ⚾️ fan+scholar.",
+			"url": "https://t.co/3Vk8MiQ37C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Vk8MiQ37C",
+							"expanded_url": "https://kwaldenpond.com/",
+							"display_url": "kwaldenpond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 657,
+			"friends_count": 1420,
+			"listed_count": 18,
+			"created_at": "Sat Feb 18 03:09:25 +0000 2012",
+			"favourites_count": 14928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8570,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1000168344547479552/lkDb2u25_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000168344547479552/lkDb2u25_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/495562702/1527293954",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@MorrisPelzel Speaking of #digitalfluency and internet cats, the awesome @b0rk has a free zine that walks through networking basics....using the example of downloading a cat picture. https://t.co/WiToEX6QXt"
+	},
+	{
+		"created_at": "Tue Mar 19 17:23:31 +0000 2019",
+		"id": 1108030002056986600,
+		"id_str": "1108056419939635203",
+		"full_text": "Catch my latest podcast, a conversation with author Dawn Eden Goldstein @DawnofMercy about her awesome new memoir \"Sunday Will Never Be the Same\" (new from @catholiccom) live now on @BreadboxMedia  \nhttps://t.co/Wo8ad7eqeq https://t.co/lmztYtk4kF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DawnofMercy",
+					"name": "Dawn Eden Goldstein",
+					"id": 385416740,
+					"id_str": "385416740",
+					"indices": [
+						72,
+						84
+					]
+				},
+				{
+					"screen_name": "catholiccom",
+					"name": "Catholic Answers",
+					"id": 248858297,
+					"id_str": "248858297",
+					"indices": [
+						156,
+						168
+					]
+				},
+				{
+					"screen_name": "BreadboxMedia",
+					"name": "Breadbox Media",
+					"id": 115374064,
+					"id_str": "115374064",
+					"indices": [
+						182,
+						196
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Wo8ad7eqeq",
+					"expanded_url": "https://breadboxmedia.podbean.com/e/lisa-hendey-friends-episode-44-dawn-eden-sunday-will-never-be-the-same/",
+					"display_url": "breadboxmedia.podbean.com/e/lisa-hendey-…",
+					"indices": [
+						199,
+						222
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1108029995346100200,
+					"id_str": "1108029995346100224",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/D2CDaQEVAAAkt4J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2CDaQEVAAAkt4J.jpg",
+					"url": "https://t.co/lmztYtk4kF",
+					"display_url": "pic.twitter.com/lmztYtk4kF",
+					"expanded_url": "https://twitter.com/LisaHendey/status/1108030002056986624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108029995346100200,
+					"id_str": "1108029995346100224",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/D2CDaQEVAAAkt4J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2CDaQEVAAAkt4J.jpg",
+					"url": "https://t.co/lmztYtk4kF",
+					"display_url": "pic.twitter.com/lmztYtk4kF",
+					"expanded_url": "https://twitter.com/LisaHendey/status/1108030002056986624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1108029995341873200,
+					"id_str": "1108029995341873152",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/D2CDaQDUgAAPAJz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2CDaQDUgAAPAJz.jpg",
+					"url": "https://t.co/lmztYtk4kF",
+					"display_url": "pic.twitter.com/lmztYtk4kF",
+					"expanded_url": "https://twitter.com/LisaHendey/status/1108030002056986624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 447,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 788,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 788,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9316892,
+			"id_str": "9316892",
+			"name": "Lisa Hendey",
+			"screen_name": "LisaHendey",
+			"location": "Los Angeles, CA",
+			"description": "I'm all about giving God my best YES! Wife, mom, blogger, speaker & author of The Grace of Yes. LOVE film, travel & long walks. https://t.co/UYNMp3dZfF",
+			"url": "https://t.co/Hu7KwmKqpC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hu7KwmKqpC",
+							"expanded_url": "http://www.lisahendey.com",
+							"display_url": "lisahendey.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UYNMp3dZfF",
+							"expanded_url": "http://www.LisaHendey.com",
+							"display_url": "LisaHendey.com",
+							"indices": [
+								128,
+								151
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17360,
+			"friends_count": 4738,
+			"listed_count": 497,
+			"created_at": "Mon Oct 08 21:27:08 +0000 2007",
+			"favourites_count": 2267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45230,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057740250502508546/WPEuxNZw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057740250502508546/WPEuxNZw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9316892/1541020122",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Catch my latest podcast, a conversation with author Dawn Eden Goldstein @DawnofMercy about her awesome new memoir \"Sunday Will Never Be the Same\" (new from @catholiccom) live now on @BreadboxMedia  \nhttps://t.co/Wo8ad7eqeq https://t.co/lmztYtk4kF"
+	},
+	{
+		"created_at": "Tue Mar 19 16:45:53 +0000 2019",
+		"id": 1108046947909275600,
+		"id_str": "1108046947909275648",
+		"full_text": "Man, that dude could throw some shade\n#MorrisTheCat #NineLives\n\nhttps://t.co/fT62ifogH0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MorrisTheCat",
+					"indices": [
+						38,
+						51
+					]
+				},
+				{
+					"text": "NineLives",
+					"indices": [
+						52,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fT62ifogH0",
+					"expanded_url": "http://bit.ly/2FmVBTM",
+					"display_url": "bit.ly/2FmVBTM",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1108046012487270400,
+		"in_reply_to_status_id_str": "1108046012487270400",
+		"in_reply_to_user_id": 33972737,
+		"in_reply_to_user_id_str": "33972737",
+		"in_reply_to_screen_name": "MorrisPelzel",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 695,
+			"friends_count": 1149,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6652,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Man, that dude could throw some shade\n#MorrisTheCat #NineLives\n\nhttps://t.co/fT62ifogH0"
+	},
+	{
+		"created_at": "Tue Mar 19 16:42:10 +0000 2019",
+		"id": 1108046012487270400,
+		"id_str": "1108046012487270400",
+		"full_text": "It's spring break, and @KWaldenPhD has got me started down the rabbit hole of upping my gif game. What better subject than #MorrisTheCat ? #DigitalFluency https://t.co/vOWk0pTNYM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MorrisTheCat",
+					"indices": [
+						123,
+						136
+					]
+				},
+				{
+					"text": "DigitalFluency",
+					"indices": [
+						139,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KWaldenPhD",
+					"name": "Katherine W.",
+					"id": 495562702,
+					"id_str": "495562702",
+					"indices": [
+						23,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vOWk0pTNYM",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1108044266612363264",
+					"display_url": "twitter.com/MorrisPelzel/s…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 695,
+			"friends_count": 1149,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6652,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1108044266612363300,
+		"quoted_status_id_str": "1108044266612363264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vOWk0pTNYM",
+			"expanded": "https://twitter.com/MorrisPelzel/status/1108044266612363264",
+			"display": "twitter.com/MorrisPelzel/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 19 16:35:14 +0000 2019",
+			"id": 1108044266612363300,
+			"id_str": "1108044266612363264",
+			"full_text": "@KWaldenPhD https://t.co/oN0QU2Z1Q4",
+			"truncated": false,
+			"display_text_range": [
+				11,
+				11
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KWaldenPhD",
+						"name": "Katherine W.",
+						"id": 495562702,
+						"id_str": "495562702",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1108044217648140300,
+						"id_str": "1108044217648140288",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D2CQWGRX0AAErEG.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D2CQWGRX0AAErEG.jpg",
+						"url": "https://t.co/oN0QU2Z1Q4",
+						"display_url": "pic.twitter.com/oN0QU2Z1Q4",
+						"expanded_url": "https://twitter.com/MorrisPelzel/status/1108044266612363264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 706,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1296,
+								"h": 762,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1108044217648140300,
+						"id_str": "1108044217648140288",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D2CQWGRX0AAErEG.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D2CQWGRX0AAErEG.jpg",
+						"url": "https://t.co/oN0QU2Z1Q4",
+						"display_url": "pic.twitter.com/oN0QU2Z1Q4",
+						"expanded_url": "https://twitter.com/MorrisPelzel/status/1108044266612363264/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 706,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1296,
+								"h": 762,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								216,
+								127
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D2CQWGRX0AAErEG.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1107907699516325900,
+			"in_reply_to_status_id_str": "1107907699516325888",
+			"in_reply_to_user_id": 495562702,
+			"in_reply_to_user_id_str": "495562702",
+			"in_reply_to_screen_name": "KWaldenPhD",
+			"user": {
+				"id": 33972737,
+				"id_str": "33972737",
+				"name": "Mo Pelzel",
+				"screen_name": "MorrisPelzel",
+				"location": "Grinnell, Iowa",
+				"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+				"url": "https://t.co/HifqlQpaOV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HifqlQpaOV",
+								"expanded_url": "http://morrispelzel.com",
+								"display_url": "morrispelzel.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 695,
+				"friends_count": 1149,
+				"listed_count": 39,
+				"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+				"favourites_count": 6652,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7995,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's spring break, and @KWaldenPhD has got me started down the rabbit hole of upping my gif game. What better subject than #MorrisTheCat ? #DigitalFluency https://t.co/vOWk0pTNYM"
+	},
+	{
+		"created_at": "Tue Mar 19 16:35:14 +0000 2019",
+		"id": 1108044266612363300,
+		"id_str": "1108044266612363264",
+		"full_text": "@KWaldenPhD https://t.co/oN0QU2Z1Q4",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KWaldenPhD",
+					"name": "Katherine W.",
+					"id": 495562702,
+					"id_str": "495562702",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1108044217648140300,
+					"id_str": "1108044217648140288",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D2CQWGRX0AAErEG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D2CQWGRX0AAErEG.jpg",
+					"url": "https://t.co/oN0QU2Z1Q4",
+					"display_url": "pic.twitter.com/oN0QU2Z1Q4",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1108044266612363264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 706,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1296,
+							"h": 762,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108044217648140300,
+					"id_str": "1108044217648140288",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D2CQWGRX0AAErEG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D2CQWGRX0AAErEG.jpg",
+					"url": "https://t.co/oN0QU2Z1Q4",
+					"display_url": "pic.twitter.com/oN0QU2Z1Q4",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1108044266612363264/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 706,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1296,
+							"h": 762,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							216,
+							127
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D2CQWGRX0AAErEG.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1107907699516325900,
+		"in_reply_to_status_id_str": "1107907699516325888",
+		"in_reply_to_user_id": 495562702,
+		"in_reply_to_user_id_str": "495562702",
+		"in_reply_to_screen_name": "KWaldenPhD",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 695,
+			"friends_count": 1149,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6652,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@KWaldenPhD https://t.co/oN0QU2Z1Q4"
+	},
+	{
+		"created_at": "Tue Mar 19 15:11:54 +0000 2019",
+		"id": 1108022043109478400,
+		"id_str": "1108023297441255424",
+		"full_text": "Read this thread. The next time you are in pain, know that you are not alone.  1/N https://t.co/agZKKPqlVQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/agZKKPqlVQ",
+					"expanded_url": "https://twitter.com/BetseyStevenson/status/1107759930377945088",
+					"display_url": "twitter.com/BetseyStevenso…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 31204209,
+			"id_str": "31204209",
+			"name": "Tammy McGavock",
+			"screen_name": "tmcgav",
+			"location": "Grinnell, IA",
+			"description": "Economist @GrinnellCollege Development/labor: women, marriage, children, education, intrahousehold issues, living arrangements, altruism, Africa & Asia.",
+			"url": "https://t.co/YcwipIfiUm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YcwipIfiUm",
+							"expanded_url": "http://www.tamaramcgavock.com",
+							"display_url": "tamaramcgavock.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150,
+			"friends_count": 242,
+			"listed_count": 4,
+			"created_at": "Tue Apr 14 19:35:28 +0000 2009",
+			"favourites_count": 296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 202,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/718865814103945218/Gbs2uLu1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/718865814103945218/Gbs2uLu1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/31204209/1435157842",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1107759930377945100,
+		"quoted_status_id_str": "1107759930377945088",
+		"quoted_status_permalink": {
+			"url": "https://t.co/agZKKPqlVQ",
+			"expanded": "https://twitter.com/BetseyStevenson/status/1107759930377945088",
+			"display": "twitter.com/BetseyStevenso…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 18 21:45:23 +0000 2019",
+			"id": 1107759930377945100,
+			"id_str": "1107759930377945088",
+			"full_text": "Alan Krueger taught me a lot about pain. That people are in a lot of pain when they are unemployed, and searching for a job was their most painful part of the day. That men w/out work reported a lot of pain &amp; took a lot of pain relievers. [1/3]",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				248
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 378800745,
+				"id_str": "378800745",
+				"name": "Betsey Stevenson",
+				"screen_name": "BetseyStevenson",
+				"location": "Ann Arbor",
+				"description": "Former Member of the President's Council of Economic Advisers and Chief Economist at Labor. Current academic economist at Michigan. Always an economist at home.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 35059,
+				"friends_count": 845,
+				"listed_count": 1194,
+				"created_at": "Fri Sep 23 20:50:00 +0000 2011",
+				"favourites_count": 1805,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4461,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1803488522/_DSC8055_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1803488522/_DSC8055_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 752,
+			"favorite_count": 2464,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read this thread. The next time you are in pain, know that you are not alone.  1/N https://t.co/agZKKPqlVQ"
+	},
+	{
+		"created_at": "Tue Mar 19 14:40:21 +0000 2019",
+		"id": 1108015355375558700,
+		"id_str": "1108015355375558656",
+		"full_text": ".@MadsPelzel https://t.co/SQzfnIy7dA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MadsPelzel",
+					"name": "Madeleine Pelzel",
+					"id": 532725843,
+					"id_str": "532725843",
+					"indices": [
+						1,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SQzfnIy7dA",
+					"expanded_url": "https://twitter.com/circulareconomy/status/1105091051658850304",
+					"display_url": "twitter.com/circulareconom…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 695,
+			"friends_count": 1149,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6652,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1105091051658850300,
+		"quoted_status_id_str": "1105091051658850304",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SQzfnIy7dA",
+			"expanded": "https://twitter.com/circulareconomy/status/1105091051658850304",
+			"display": "twitter.com/circulareconom…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 11 13:00:12 +0000 2019",
+			"id": 1105091051658850300,
+			"id_str": "1105091051658850304",
+			"full_text": "As much as 50% of European inner-city land is devoted to roads and parking; but, even at rush hour, cars use only 10% of urban roads. What if we designed transport to move people and not cars? https://t.co/Ed7kzi90Mc https://t.co/io9LGbgAiL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				216
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ed7kzi90Mc",
+						"expanded_url": "https://bit.ly/2C6QIw2",
+						"display_url": "bit.ly/2C6QIw2",
+						"indices": [
+							193,
+							216
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1105091049809215500,
+						"id_str": "1105091049809215491",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/media/D1YSdGxXgAMPDE4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1YSdGxXgAMPDE4.jpg",
+						"url": "https://t.co/io9LGbgAiL",
+						"display_url": "pic.twitter.com/io9LGbgAiL",
+						"expanded_url": "https://twitter.com/circulareconomy/status/1105091051658850304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 853,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1105091049809215500,
+						"id_str": "1105091049809215491",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/media/D1YSdGxXgAMPDE4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1YSdGxXgAMPDE4.jpg",
+						"url": "https://t.co/io9LGbgAiL",
+						"display_url": "pic.twitter.com/io9LGbgAiL",
+						"expanded_url": "https://twitter.com/circulareconomy/status/1105091051658850304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 853,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://coschedule.com\" rel=\"nofollow\">CoSchedule</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 189134186,
+				"id_str": "189134186",
+				"name": "Ellen MacArthur Fdn.",
+				"screen_name": "circulareconomy",
+				"location": "United Kingdom",
+				"description": "The Ellen MacArthur Foundation works with business, govt. & academia to build a framework for a #circulareconomy that is restorative & regenerative by design.",
+				"url": "http://t.co/eRkKg4ogJt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/eRkKg4ogJt",
+								"expanded_url": "http://ellenmacarthurfoundation.org",
+								"display_url": "ellenmacarthurfoundation.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47258,
+				"friends_count": 1180,
+				"listed_count": 1376,
+				"created_at": "Fri Sep 10 13:35:38 +0000 2010",
+				"favourites_count": 1204,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9185,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874651467566788609/lq6OLKGo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874651467566788609/lq6OLKGo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/189134186/1548243270",
+				"profile_link_color": "1380B1",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29,
+			"favorite_count": 46,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": ".@MadsPelzel https://t.co/SQzfnIy7dA"
+	},
+	{
 		"created_at": "Mon Mar 18 17:15:44 +0000 2019",
 		"id": 1107689693561401300,
 		"id_str": "1107692070523801601",
