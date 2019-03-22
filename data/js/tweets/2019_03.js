@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 21 23:44:33 +0000 2019",
+		"id": 1108776083720228900,
+		"id_str": "1108877085555257344",
+		"full_text": "I profiled the travel guru @RickSteves, who changed my life when I was 20 — and remains, decades later, a force of defiant optimism in the world. He sang \"Feelin' Groovy,\" invited me to church, and read to me from his marijuana journal.\n\nhttps://t.co/9V4wBGXRiI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RickSteves",
+					"name": "Rick Steves",
+					"id": 14837962,
+					"id_str": "14837962",
+					"indices": [
+						27,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9V4wBGXRiI",
+					"expanded_url": "https://www.nytimes.com/interactive/2019/03/20/magazine/rick-steves-travel-world.html",
+					"display_url": "nytimes.com/interactive/20…",
+					"indices": [
+						238,
+						261
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 107857325,
+			"id_str": "107857325",
+			"name": "Sam Anderson",
+			"screen_name": "shamblanderson",
+			"location": "ny",
+			"description": "New York Times Magazine staff writer, tweeting sentences // shamblanderson at gmail // ; __ ;",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14939,
+			"friends_count": 43,
+			"listed_count": 569,
+			"created_at": "Sun Jan 24 00:32:29 +0000 2010",
+			"favourites_count": 10725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2299,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1024839213093597186/2GBFRgEl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1024839213093597186/2GBFRgEl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/107857325/1523999114",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 155,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I profiled the travel guru @RickSteves, who changed my life when I was 20 — and remains, decades later, a force of defiant optimism in the world. He sang \"Feelin' Groovy,\" invited me to church, and read to me from his marijuana journal.\n\nhttps://t.co/9V4wBGXRiI"
+	},
+	{
+		"created_at": "Thu Mar 21 20:33:51 +0000 2019",
+		"id": 1108829094911848400,
+		"id_str": "1108829094911848448",
+		"full_text": "@KWaldenPhD @metageeky @ferenjamin Cats are always welcome in my office!",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KWaldenPhD",
+					"name": "Katherine W.",
+					"id": 495562702,
+					"id_str": "495562702",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "metageeky",
+					"name": "Kate Deibel",
+					"id": 2907452510,
+					"id_str": "2907452510",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "ferenjamin",
+					"name": "ben rearick",
+					"id": 2874771314,
+					"id_str": "2874771314",
+					"indices": [
+						23,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1108828198505201700,
+		"in_reply_to_status_id_str": "1108828198505201664",
+		"in_reply_to_user_id": 495562702,
+		"in_reply_to_user_id_str": "495562702",
+		"in_reply_to_screen_name": "KWaldenPhD",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 695,
+			"friends_count": 1151,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8004,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KWaldenPhD @metageeky @ferenjamin Cats are always welcome in my office!"
+	},
+	{
+		"created_at": "Thu Mar 21 20:09:13 +0000 2019",
+		"id": 1108822893553766400,
+		"id_str": "1108822893553766401",
+		"full_text": "@ferenjamin @metageeky @KWaldenPhD I'm not on campus right now, but will be there a little later this afternoon...will snap some pics then...",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ferenjamin",
+					"name": "ben rearick",
+					"id": 2874771314,
+					"id_str": "2874771314",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "metageeky",
+					"name": "Kate Deibel",
+					"id": 2907452510,
+					"id_str": "2907452510",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "KWaldenPhD",
+					"name": "Katherine W.",
+					"id": 495562702,
+					"id_str": "495562702",
+					"indices": [
+						23,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1108820876122710000,
+		"in_reply_to_status_id_str": "1108820876122710016",
+		"in_reply_to_user_id": 2874771314,
+		"in_reply_to_user_id_str": "2874771314",
+		"in_reply_to_screen_name": "ferenjamin",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 695,
+			"friends_count": 1151,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8004,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ferenjamin @metageeky @KWaldenPhD I'm not on campus right now, but will be there a little later this afternoon...will snap some pics then..."
+	},
+	{
 		"created_at": "Wed Mar 20 23:36:06 +0000 2019",
 		"id": 1108510635296321500,
 		"id_str": "1108512568400887810",
@@ -933,7 +1289,7 @@ Grailbird.data.tweets_2019_03 =
 			"name": "Dr. Spencer",
 			"screen_name": "hauntologist",
 			"location": "Denton, TX",
-			"description": "New media, old media, labor ethics, queer culture. Also bunnies & cupcakes.  I run @DigiFront do DHy things. Queer AF 🏳️‍🌈 ✊ Pronouns: he/him Opinions: my own",
+			"description": "New media, old media, labor ethics, queer culture. Also bunnies & cupcakes.  I run @DigiFront do DHy things. Queer AF 🏳️🌈 ✊ Pronouns: he/him Opinions: my own",
 			"url": "https://t.co/1LqGq6dU0j",
 			"entities": {
 				"url": {
