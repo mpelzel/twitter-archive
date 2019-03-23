@@ -1,6 +1,950 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 22 19:25:02 +0000 2019",
+		"id": 1109173320442933200,
+		"id_str": "1109174162009010176",
+		"full_text": "Neighbors helping neighbors. Payten Curry spotted this semi on I-80, outside of Altoona heading west to Nebraksa. She said there were three of these guys lined up heading to lend a helping hand. https://t.co/hd61lXNbys",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1109173280617963500,
+					"id_str": "1109173280617963525",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/D2STONmWoAUF1wc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2STONmWoAUF1wc.jpg",
+					"url": "https://t.co/hd61lXNbys",
+					"display_url": "pic.twitter.com/hd61lXNbys",
+					"expanded_url": "https://twitter.com/IAStormChasing/status/1109173320442933253/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 555,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1071,
+							"h": 874,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1071,
+							"h": 874,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109173280617963500,
+					"id_str": "1109173280617963525",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/D2STONmWoAUF1wc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2STONmWoAUF1wc.jpg",
+					"url": "https://t.co/hd61lXNbys",
+					"display_url": "pic.twitter.com/hd61lXNbys",
+					"expanded_url": "https://twitter.com/IAStormChasing/status/1109173320442933253/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 555,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1071,
+							"h": 874,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1071,
+							"h": 874,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128714055,
+			"id_str": "128714055",
+			"name": "Iowa Storm Chasing",
+			"screen_name": "IAStormChasing",
+			"location": "Iowa",
+			"description": "A career of #stormchasing in #Iowa and broadcasting. Now bringing you the best weather coverage devoted only to online viewers #iawx",
+			"url": "https://t.co/tgFqXQLooZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tgFqXQLooZ",
+							"expanded_url": "http://iowachase.com",
+							"display_url": "iowachase.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16720,
+			"friends_count": 3875,
+			"listed_count": 270,
+			"created_at": "Fri Apr 02 00:18:19 +0000 2010",
+			"favourites_count": 3293,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7314,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/458693122302566400/6rziCp1L_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/458693122302566400/6rziCp1L_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128714055/1543001989",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 197,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Neighbors helping neighbors. Payten Curry spotted this semi on I-80, outside of Altoona heading west to Nebraksa. She said there were three of these guys lined up heading to lend a helping hand. https://t.co/hd61lXNbys"
+	},
+	{
+		"created_at": "Fri Mar 22 19:13:08 +0000 2019",
+		"id": 1109171169255714800,
+		"id_str": "1109171169255714819",
+		"full_text": "My favorite work of Sondheim is his collection of cryptic crosswords published in New York magazine in the late 1960s ... https://t.co/DXLkJxkmgr https://t.co/YgxQbayM53 https://t.co/VsZNmDMICL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DXLkJxkmgr",
+					"expanded_url": "https://blogfott.blogspot.com/2014/07/putting-it-together.html",
+					"display_url": "blogfott.blogspot.com/2014/07/puttin…",
+					"indices": [
+						122,
+						145
+					]
+				},
+				{
+					"url": "https://t.co/YgxQbayM53",
+					"expanded_url": "http://nymag.com/arts/all/features/46798/",
+					"display_url": "nymag.com/arts/all/featu…",
+					"indices": [
+						146,
+						169
+					]
+				},
+				{
+					"url": "https://t.co/VsZNmDMICL",
+					"expanded_url": "https://twitter.com/nprfreshair/status/1109139173204738055",
+					"display_url": "twitter.com/nprfreshair/st…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 696,
+			"friends_count": 1154,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6664,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8010,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1109139173204738000,
+		"quoted_status_id_str": "1109139173204738055",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VsZNmDMICL",
+			"expanded": "https://twitter.com/nprfreshair/status/1109139173204738055",
+			"display": "twitter.com/nprfreshair/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 22 17:06:00 +0000 2019",
+			"id": 1109139173204738000,
+			"id_str": "1109139173204738055",
+			"full_text": "Happy 89th Birthday to Stephen Sondheim. What's your favorite Sondheim lyric?  https://t.co/DHvE1UZ6uZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				102
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DHvE1UZ6uZ",
+						"expanded_url": "https://n.pr/d7HH5Y",
+						"display_url": "n.pr/d7HH5Y",
+						"indices": [
+							79,
+							102
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13783772,
+				"id_str": "13783772",
+				"name": "Fresh Air",
+				"screen_name": "nprfreshair",
+				"location": "Philadelphia, PA",
+				"description": "Fresh Air with Terry Gross. Peabody Award-winning interviews on arts & issues. Tweets by Associate Producer for Digital Media, Molly Seavy-Nesper @Nindoonjibaa",
+				"url": "http://t.co/1KPuygTMBy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/1KPuygTMBy",
+								"expanded_url": "http://freshair.npr.org",
+								"display_url": "freshair.npr.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 272861,
+				"friends_count": 1510,
+				"listed_count": 6078,
+				"created_at": "Thu Feb 21 19:20:58 +0000 2008",
+				"favourites_count": 13145,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 25252,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/921394261957988353/DTHVGlMw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/921394261957988353/DTHVGlMw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13783772/1529091156",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 68,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My favorite work of Sondheim is his collection of cryptic crosswords published in New York magazine in the late 1960s ... https://t.co/DXLkJxkmgr https://t.co/YgxQbayM53 https://t.co/VsZNmDMICL"
+	},
+	{
+		"created_at": "Fri Mar 22 14:14:25 +0000 2019",
+		"id": 1109071079073419300,
+		"id_str": "1109095992941522945",
+		"full_text": "s/o to @thetrainline for some very good suggestive marketing. If anyone has suggestions for some must-see transit related spots, send them my way! I'm busy planning my \"last summer before the real world starts\" #traintravel https://t.co/GQW6V4kA9v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "traintravel",
+					"indices": [
+						211,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thetrainline",
+					"name": "trainline",
+					"id": 20767880,
+					"id_str": "20767880",
+					"indices": [
+						7,
+						20
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1109069528883880000,
+					"id_str": "1109069528883879936",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/D2Q03ERVYAAcFpg.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2Q03ERVYAAcFpg.png",
+					"url": "https://t.co/GQW6V4kA9v",
+					"display_url": "pic.twitter.com/GQW6V4kA9v",
+					"expanded_url": "https://twitter.com/MadsPelzel/status/1109071079073419271/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 618,
+							"h": 402,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 618,
+							"h": 402,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 618,
+							"h": 402,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109069528883880000,
+					"id_str": "1109069528883879936",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/D2Q03ERVYAAcFpg.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2Q03ERVYAAcFpg.png",
+					"url": "https://t.co/GQW6V4kA9v",
+					"display_url": "pic.twitter.com/GQW6V4kA9v",
+					"expanded_url": "https://twitter.com/MadsPelzel/status/1109071079073419271/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 618,
+							"h": 402,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 618,
+							"h": 402,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 618,
+							"h": 402,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 532725843,
+			"id_str": "532725843",
+			"name": "Madeleine Pelzel",
+			"screen_name": "MadsPelzel",
+			"location": "Rice University",
+			"description": "inspired, motivated, and powered by google calendar. always talking about infrastructure, active travel, and how the built environment defines our relationships",
+			"url": "https://t.co/AQzcztVPSn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AQzcztVPSn",
+							"expanded_url": "http://arch.rice.edu",
+							"display_url": "arch.rice.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 354,
+			"friends_count": 331,
+			"listed_count": 5,
+			"created_at": "Wed Mar 21 23:17:11 +0000 2012",
+			"favourites_count": 2812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3222,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DCF1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057372809427648514/lgnjdzoU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057372809427648514/lgnjdzoU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/532725843/1521498118",
+			"profile_link_color": "0C446F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "1C1C1C",
+			"profile_text_color": "C0DCF1",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "s/o to @thetrainline for some very good suggestive marketing. If anyone has suggestions for some must-see transit related spots, send them my way! I'm busy planning my \"last summer before the real world starts\" #traintravel https://t.co/GQW6V4kA9v"
+	},
+	{
+		"created_at": "Fri Mar 22 02:47:37 +0000 2019",
+		"id": 1108923155903594500,
+		"id_str": "1108923155903594496",
+		"full_text": "@StephanieCerra congrats ... always love a good #cryptic!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cryptic",
+					"indices": [
+						48,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StephanieCerra",
+					"name": "Stephanie Cerra",
+					"id": 794523265,
+					"id_str": "794523265",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1108754761833017300,
+		"in_reply_to_status_id_str": "1108754761833017344",
+		"in_reply_to_user_id": 794523265,
+		"in_reply_to_user_id_str": "794523265",
+		"in_reply_to_screen_name": "StephanieCerra",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 696,
+			"friends_count": 1154,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6664,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8010,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@StephanieCerra congrats ... always love a good #cryptic!"
+	},
+	{
+		"created_at": "Fri Mar 22 02:22:52 +0000 2019",
+		"id": 1108916924904284200,
+		"id_str": "1108916924904284162",
+		"full_text": "Fascinating essay by @shamblanderson ... my favorite part:\n\n\"In order to enjoy St. Peter’s Basilica, Steves admits, he had to learn to 'park my Protestant sword at the door'.\"\n\n[later in article]\n\n\"One year, while Steves was away, the children converted to Catholicism\" https://t.co/YhPSzBTiTg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shamblanderson",
+					"name": "Sam Anderson",
+					"id": 107857325,
+					"id_str": "107857325",
+					"indices": [
+						21,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YhPSzBTiTg",
+					"expanded_url": "https://twitter.com/shamblanderson/status/1108776083720228870",
+					"display_url": "twitter.com/shamblanderson…",
+					"indices": [
+						270,
+						293
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 696,
+			"friends_count": 1154,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6664,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8010,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1108776083720228900,
+		"quoted_status_id_str": "1108776083720228870",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YhPSzBTiTg",
+			"expanded": "https://twitter.com/shamblanderson/status/1108776083720228870",
+			"display": "twitter.com/shamblanderson…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 21 17:03:13 +0000 2019",
+			"id": 1108776083720228900,
+			"id_str": "1108776083720228870",
+			"full_text": "I profiled the travel guru @RickSteves, who changed my life when I was 20 — and remains, decades later, a force of defiant optimism in the world. He sang \"Feelin' Groovy,\" invited me to church, and read to me from his marijuana journal.\n\nhttps://t.co/9V4wBGXRiI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				261
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RickSteves",
+						"name": "Rick Steves",
+						"id": 14837962,
+						"id_str": "14837962",
+						"indices": [
+							27,
+							38
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/9V4wBGXRiI",
+						"expanded_url": "https://www.nytimes.com/interactive/2019/03/20/magazine/rick-steves-travel-world.html",
+						"display_url": "nytimes.com/interactive/20…",
+						"indices": [
+							238,
+							261
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 107857325,
+				"id_str": "107857325",
+				"name": "Sam Anderson",
+				"screen_name": "shamblanderson",
+				"location": "ny",
+				"description": "New York Times Magazine staff writer, tweeting sentences // shamblanderson at gmail // ; __ ;",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15044,
+				"friends_count": 43,
+				"listed_count": 569,
+				"created_at": "Sun Jan 24 00:32:29 +0000 2010",
+				"favourites_count": 10787,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2303,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1024839213093597186/2GBFRgEl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1024839213093597186/2GBFRgEl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/107857325/1523999114",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 206,
+			"favorite_count": 1070,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fascinating essay by @shamblanderson ... my favorite part:\n\n\"In order to enjoy St. Peter’s Basilica, Steves admits, he had to learn to 'park my Protestant sword at the door'.\"\n\n[later in article]\n\n\"One year, while Steves was away, the children converted to Catholicism\" https://t.co/YhPSzBTiTg"
+	},
+	{
 		"created_at": "Thu Mar 21 23:44:33 +0000 2019",
 		"id": 1108776083720228900,
 		"id_str": "1108877085555257344",
