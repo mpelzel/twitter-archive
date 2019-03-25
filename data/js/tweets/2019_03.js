@@ -1,6 +1,601 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 24 23:31:53 +0000 2019",
+		"id": 1109960600308854800,
+		"id_str": "1109961059316744194",
+		"full_text": "In this weekend's @WSJ Review section: \"geofencing\" can be used by lobbyists to target a very specific audience, including the inner Trump circle. What does it mean? https://t.co/eaIukMvKVN https://t.co/oegn5DdjEJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WSJ",
+					"name": "The Wall Street Journal",
+					"id": 3108351,
+					"id_str": "3108351",
+					"indices": [
+						18,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eaIukMvKVN",
+					"expanded_url": "http://bit.ly/geofencebz",
+					"display_url": "bit.ly/geofencebz",
+					"indices": [
+						166,
+						189
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1109960554951725000,
+					"id_str": "1109960554951725057",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/D2dfPnCX0AEVe1Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2dfPnCX0AEVe1Q.jpg",
+					"url": "https://t.co/oegn5DdjEJ",
+					"display_url": "pic.twitter.com/oegn5DdjEJ",
+					"expanded_url": "https://twitter.com/bgzimmer/status/1109960600308854785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 805,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109960554951725000,
+					"id_str": "1109960554951725057",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/D2dfPnCX0AEVe1Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2dfPnCX0AEVe1Q.jpg",
+					"url": "https://t.co/oegn5DdjEJ",
+					"display_url": "pic.twitter.com/oegn5DdjEJ",
+					"expanded_url": "https://twitter.com/bgzimmer/status/1109960600308854785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 805,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15104164,
+			"id_str": "15104164",
+			"name": "Ben Zimmer",
+			"screen_name": "bgzimmer",
+			"location": "Jersey City, NJ",
+			"description": "Linguist / lexicographer / @WSJ columnist / @TheAtlantic contributing editor / all-around word nut.",
+			"url": "http://t.co/1m2ix6t5Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1m2ix6t5Jo",
+							"expanded_url": "http://benzimmer.com/",
+							"display_url": "benzimmer.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30540,
+			"friends_count": 2400,
+			"listed_count": 1207,
+			"created_at": "Fri Jun 13 04:18:14 +0000 2008",
+			"favourites_count": 14202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 22675,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/510517460773007360/UKfBppaU_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/510517460773007360/UKfBppaU_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15104164/1348634413",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In this weekend's @WSJ Review section: \"geofencing\" can be used by lobbyists to target a very specific audience, including the inner Trump circle. What does it mean? https://t.co/eaIukMvKVN https://t.co/oegn5DdjEJ"
+	},
+	{
+		"created_at": "Sun Mar 24 23:23:25 +0000 2019",
+		"id": 1109949818607202300,
+		"id_str": "1109958928794824705",
+		"full_text": "At the American Crossword Puzzle Tournament, Dan Feyer won his record eighth trophy, competing in the finals against @joonpahk and David Plotkin. Here's the video. #ACPT2019 https://t.co/XHE4vX3lNV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ACPT2019",
+					"indices": [
+						164,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joonpahk",
+					"name": "Joon Pahk",
+					"id": 399189164,
+					"id_str": "399189164",
+					"indices": [
+						117,
+						126
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XHE4vX3lNV",
+					"expanded_url": "https://www.youtube.com/watch?v=V1eYbOE2YAQ",
+					"display_url": "youtube.com/watch?v=V1eYbO…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15104164,
+			"id_str": "15104164",
+			"name": "Ben Zimmer",
+			"screen_name": "bgzimmer",
+			"location": "Jersey City, NJ",
+			"description": "Linguist / lexicographer / @WSJ columnist / @TheAtlantic contributing editor / all-around word nut.",
+			"url": "http://t.co/1m2ix6t5Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1m2ix6t5Jo",
+							"expanded_url": "http://benzimmer.com/",
+							"display_url": "benzimmer.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30540,
+			"friends_count": 2400,
+			"listed_count": 1207,
+			"created_at": "Fri Jun 13 04:18:14 +0000 2008",
+			"favourites_count": 14202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 22675,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/510517460773007360/UKfBppaU_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/510517460773007360/UKfBppaU_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15104164/1348634413",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At the American Crossword Puzzle Tournament, Dan Feyer won his record eighth trophy, competing in the finals against @joonpahk and David Plotkin. Here's the video. #ACPT2019 https://t.co/XHE4vX3lNV"
+	},
+	{
+		"created_at": "Sun Mar 24 17:55:27 +0000 2019",
+		"id": 1109801668428918800,
+		"id_str": "1109876394740408321",
+		"full_text": "https://t.co/voRQnpsEhY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/voRQnpsEhY",
+					"expanded_url": "https://www.jacobinmag.com/2017/03/oscar-romero-assassination-matt-eisenbrandt-assassination-of-saint/",
+					"display_url": "jacobinmag.com/2017/03/oscar-…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 532725843,
+			"id_str": "532725843",
+			"name": "Madeleine Pelzel",
+			"screen_name": "MadsPelzel",
+			"location": "Rice University",
+			"description": "inspired, motivated, and powered by google calendar. always talking about infrastructure, active travel, and how the built environment defines our relationships",
+			"url": "https://t.co/AQzcztVPSn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AQzcztVPSn",
+							"expanded_url": "http://arch.rice.edu",
+							"display_url": "arch.rice.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 357,
+			"friends_count": 333,
+			"listed_count": 5,
+			"created_at": "Wed Mar 21 23:17:11 +0000 2012",
+			"favourites_count": 2834,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3227,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DCF1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057372809427648514/lgnjdzoU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057372809427648514/lgnjdzoU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/532725843/1521498118",
+			"profile_link_color": "0C446F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "1C1C1C",
+			"profile_text_color": "C0DCF1",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/voRQnpsEhY"
+	},
+	{
+		"created_at": "Sun Mar 24 17:40:19 +0000 2019",
+		"id": 1109777523725004800,
+		"id_str": "1109872584127074306",
+		"full_text": "“A church that does not provoke any crisis, preach a gospel that does not unsettle ... does not get under anyone's skin or ... does not touch the real sin of the society in which it is being proclaimed: what kind of gospel is that?” - Saint #OscarRomero, killed March 24, 1980 https://t.co/QOxcLBfviL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OscarRomero",
+					"indices": [
+						241,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1109777515500003300,
+					"id_str": "1109777515500003330",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/D2a4xT8X4AILbvj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2a4xT8X4AILbvj.jpg",
+					"url": "https://t.co/QOxcLBfviL",
+					"display_url": "pic.twitter.com/QOxcLBfviL",
+					"expanded_url": "https://twitter.com/marcusmescher/status/1109777523725004802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109777515500003300,
+					"id_str": "1109777515500003330",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/D2a4xT8X4AILbvj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2a4xT8X4AILbvj.jpg",
+					"url": "https://t.co/QOxcLBfviL",
+					"display_url": "pic.twitter.com/QOxcLBfviL",
+					"expanded_url": "https://twitter.com/marcusmescher/status/1109777523725004802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1862427296,
+			"id_str": "1862427296",
+			"name": "Marcus Mescher",
+			"screen_name": "marcusmescher",
+			"location": "Cincinnati, OH",
+			"description": "Assistant Professor of Christian Ethics @XavierUniv, Catholic theologian, author of \"Ethics of Encounter\" (2019), proud @MarquetteU & @BostonCollege alum. #AMDG",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 713,
+			"friends_count": 912,
+			"listed_count": 23,
+			"created_at": "Sat Sep 14 02:37:10 +0000 2013",
+			"favourites_count": 23192,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8229,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093939867199983618/tTjrxzIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093939867199983618/tTjrxzIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1862427296/1550961761",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 133,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“A church that does not provoke any crisis, preach a gospel that does not unsettle ... does not get under anyone's skin or ... does not touch the real sin of the society in which it is being proclaimed: what kind of gospel is that?” - Saint #OscarRomero, killed March 24, 1980 https://t.co/QOxcLBfviL"
+	},
+	{
 		"created_at": "Sat Mar 23 22:52:13 +0000 2019",
 		"id": 1109588691675168800,
 		"id_str": "1109588691675168769",
