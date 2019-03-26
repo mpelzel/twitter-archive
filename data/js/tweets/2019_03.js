@@ -1,6 +1,581 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 25 23:22:38 +0000 2019",
+		"id": 1110320998455230500,
+		"id_str": "1110321118378889218",
+		"full_text": "As it turns out, this was not a witch hunt. It was the investigation of the worst electoral scandal in U.S. history. The flaws it has revealed in our legal system, in our electoral laws and in our ethical assumptions should worry us profoundly. https://t.co/RzBOyNUsT5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RzBOyNUsT5",
+					"expanded_url": "https://www.washingtonpost.com/opinions/2019/03/25/mueller-probe-shows-that-our-laws-need-fixing/?tid=ss_tw&utm_term=.d48a3c78f2a3",
+					"display_url": "washingtonpost.com/opinions/2019/…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 297100174,
+			"id_str": "297100174",
+			"name": "Anne Applebaum",
+			"screen_name": "anneapplebaum",
+			"location": "Warsaw, London, Washington",
+			"description": "author of RED FAMINE, GULAG and IRON CURTAIN. Washington Post columnist. Professor of practice, @LSEIGA and co-director,ARENA",
+			"url": "https://t.co/Ud3gNhXsSX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ud3gNhXsSX",
+							"expanded_url": "http://www.anneapplebaum.com",
+							"display_url": "anneapplebaum.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 215791,
+			"friends_count": 274,
+			"listed_count": 3739,
+			"created_at": "Wed May 11 23:00:23 +0000 2011",
+			"favourites_count": 886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16513,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349728837/fashion_pix_four_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349728837/fashion_pix_four_normal.JPG",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/297100174/1529934939",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 122,
+		"favorite_count": 272,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As it turns out, this was not a witch hunt. It was the investigation of the worst electoral scandal in U.S. history. The flaws it has revealed in our legal system, in our electoral laws and in our ethical assumptions should worry us profoundly. https://t.co/RzBOyNUsT5"
+	},
+	{
+		"created_at": "Mon Mar 25 21:18:42 +0000 2019",
+		"id": 1110287386787774500,
+		"id_str": "1110289931769995264",
+		"full_text": "Ps. You can register to attend virtually if you are not going to be in Denver. https://t.co/5gmVQyTdUQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5gmVQyTdUQ",
+					"expanded_url": "https://twitter.com/dr_jdean/status/1110262733902147585",
+					"display_url": "twitter.com/dr_jdean/statu…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739521654,
+			"id_str": "739521654",
+			"name": "(((Dr. Dean)))",
+			"screen_name": "dr_jdean",
+			"location": "Austin, TX",
+			"description": "Director of Education @hypothes_is, former @Genius, English Teacher-Scholar, Rogue Academic, Close Reader, Digital Human",
+			"url": "https://t.co/tweGhOAEru",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tweGhOAEru",
+							"expanded_url": "http://www.hypothes.is",
+							"display_url": "hypothes.is",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1922,
+			"friends_count": 1206,
+			"listed_count": 123,
+			"created_at": "Mon Aug 06 00:33:32 +0000 2012",
+			"favourites_count": 9256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4653,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/583318772360048640/EpGyBjUy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/583318772360048640/EpGyBjUy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739521654/1427909095",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "c3f37afa9efcf94b",
+			"url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json",
+			"place_type": "city",
+			"name": "Austin",
+			"full_name": "Austin, TX",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-97.928935,
+							30.127892
+						],
+						[
+							-97.5805133,
+							30.127892
+						],
+						[
+							-97.5805133,
+							30.5187994
+						],
+						[
+							-97.928935,
+							30.5187994
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1110262733902147600,
+		"quoted_status_id_str": "1110262733902147585",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5gmVQyTdUQ",
+			"expanded": "https://twitter.com/dr_jdean/status/1110262733902147585",
+			"display": "twitter.com/dr_jdean/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 25 19:30:38 +0000 2019",
+			"id": 1110262733902147600,
+			"id_str": "1110262733902147585",
+			"full_text": "If you're going to be in Denver next week for #OLCInnovate and are around Tuesday afternoon 1-4, @hypothes_is is hosting an #AnnotatED summit. Join us to discuss best practices/challenges in bringing collaborative annotation to your classroom or campus.\n\nhttps://t.co/TuonVKTmmp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OLCInnovate",
+						"indices": [
+							46,
+							58
+						]
+					},
+					{
+						"text": "AnnotatED",
+						"indices": [
+							124,
+							134
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "hypothes_is",
+						"name": "Hypothesis",
+						"id": 325100970,
+						"id_str": "325100970",
+						"indices": [
+							97,
+							109
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/TuonVKTmmp",
+						"expanded_url": "https://ti.to/hypothesis/annotated-olc19",
+						"display_url": "ti.to/hypothesis/ann…",
+						"indices": [
+							255,
+							278
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739521654,
+				"id_str": "739521654",
+				"name": "(((Dr. Dean)))",
+				"screen_name": "dr_jdean",
+				"location": "Austin, TX",
+				"description": "Director of Education @hypothes_is, former @Genius, English Teacher-Scholar, Rogue Academic, Close Reader, Digital Human",
+				"url": "https://t.co/tweGhOAEru",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tweGhOAEru",
+								"expanded_url": "http://www.hypothes.is",
+								"display_url": "hypothes.is",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1922,
+				"friends_count": 1206,
+				"listed_count": 123,
+				"created_at": "Mon Aug 06 00:33:32 +0000 2012",
+				"favourites_count": 9256,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4653,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/583318772360048640/EpGyBjUy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/583318772360048640/EpGyBjUy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739521654/1427909095",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ps. You can register to attend virtually if you are not going to be in Denver. https://t.co/5gmVQyTdUQ"
+	},
+	{
+		"created_at": "Mon Mar 25 17:13:26 +0000 2019",
+		"id": 1110143629673279500,
+		"id_str": "1110228206261600259",
+		"full_text": "March 25: Feast of the Annunciation. In 560 CE, Justinian argued for universal placement of the feast #OTD which celebrates the announcement of Jesus' birth to the Virgin Mary, a pivotal Marian celebration. One of the oldest representations is in the Catacomb of Priscilla, Rome. https://t.co/0lfFkPqNsa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OTD",
+					"indices": [
+						102,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1110143624866603000,
+					"id_str": "1110143624866603013",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D2gFvrnWoAUoV6A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2gFvrnWoAUoV6A.jpg",
+					"url": "https://t.co/0lfFkPqNsa",
+					"display_url": "pic.twitter.com/0lfFkPqNsa",
+					"expanded_url": "https://twitter.com/SarahEBond/status/1110143629673279488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 469,
+							"h": 547,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 469,
+							"h": 547,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 469,
+							"h": 547,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110143624866603000,
+					"id_str": "1110143624866603013",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D2gFvrnWoAUoV6A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2gFvrnWoAUoV6A.jpg",
+					"url": "https://t.co/0lfFkPqNsa",
+					"display_url": "pic.twitter.com/0lfFkPqNsa",
+					"expanded_url": "https://twitter.com/SarahEBond/status/1110143629673279488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 469,
+							"h": 547,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 469,
+							"h": 547,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 469,
+							"h": 547,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 298785229,
+			"id_str": "298785229",
+			"name": "Dr. Sarah Bond",
+			"screen_name": "SarahEBond",
+			"location": "Iowa City, IA",
+			"description": "Associate Professor of Classics @Uiowa & contributor @Hyperallergic, founder of https://t.co/5OyWbM4IKC. Roman historian, digital humanist & lover of deviled eggs.",
+			"url": "https://t.co/CjNh2zZUj1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CjNh2zZUj1",
+							"expanded_url": "https://sarahemilybond.com/",
+							"display_url": "sarahemilybond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5OyWbM4IKC",
+							"expanded_url": "http://WOAH.lib.uiowa.edu",
+							"display_url": "WOAH.lib.uiowa.edu",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 28582,
+			"friends_count": 996,
+			"listed_count": 716,
+			"created_at": "Sat May 14 23:02:45 +0000 2011",
+			"favourites_count": 39031,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1543,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/422877005076389888/WhJIEjrp_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/422877005076389888/WhJIEjrp_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/298785229/1497288905",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 129,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "March 25: Feast of the Annunciation. In 560 CE, Justinian argued for universal placement of the feast #OTD which celebrates the announcement of Jesus' birth to the Virgin Mary, a pivotal Marian celebration. One of the oldest representations is in the Catacomb of Priscilla, Rome. https://t.co/0lfFkPqNsa"
+	},
+	{
 		"created_at": "Sun Mar 24 23:31:53 +0000 2019",
 		"id": 1109960600308854800,
 		"id_str": "1109961059316744194",
