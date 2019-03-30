@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 29 15:58:52 +0000 2019",
+		"id": 1111633435754405900,
+		"id_str": "1111658993901027330",
+		"full_text": "New @DTWillingham article, \"The Digital Expansion of the Mind Gone Wrong in Education\": free access for the next 50 days. https://t.co/6xjyjlJaKF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DTWillingham",
+					"name": "Daniel Willingham",
+					"id": 84619537,
+					"id_str": "84619537",
+					"indices": [
+						4,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6xjyjlJaKF",
+					"expanded_url": "https://authors.elsevier.com/a/1YohM7spf3ABWw",
+					"display_url": "authors.elsevier.com/a/1YohM7spf3AB…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 84619537,
+			"id_str": "84619537",
+			"name": "Daniel Willingham",
+			"screen_name": "DTWillingham",
+			"location": "Keswick, Virginia, USA",
+			"description": "Putting the funk back in functional brain imaging and the psycho in psychometrics. One study is just one study, folks.",
+			"url": "http://t.co/fNTtRMN06N",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/fNTtRMN06N",
+							"expanded_url": "http://www.danielwillingham.com",
+							"display_url": "danielwillingham.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22161,
+			"friends_count": 216,
+			"listed_count": 467,
+			"created_at": "Fri Oct 23 15:39:08 +0000 2009",
+			"favourites_count": 2300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091309343717425153/-kRQ6vdm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091309343717425153/-kRQ6vdm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/84619537/1493024888",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New @DTWillingham article, \"The Digital Expansion of the Mind Gone Wrong in Education\": free access for the next 50 days. https://t.co/6xjyjlJaKF"
+	},
+	{
+		"created_at": "Fri Mar 29 14:05:45 +0000 2019",
+		"id": 1111630257679941600,
+		"id_str": "1111630527445024768",
+		"full_text": "two math puzzles to end your week right: https://t.co/4OQiUwnlZI https://t.co/8UAn6eaOov",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4OQiUwnlZI",
+					"expanded_url": "https://fivethirtyeight.com/features/can-you-win-a-spelling-bee-if-you-know-99-percent-of-the-words/",
+					"display_url": "fivethirtyeight.com/features/can-y…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1111630253695402000,
+					"id_str": "1111630253695401984",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/D21N03kXgAASRwe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D21N03kXgAASRwe.jpg",
+					"url": "https://t.co/8UAn6eaOov",
+					"display_url": "pic.twitter.com/8UAn6eaOov",
+					"expanded_url": "https://twitter.com/ollie/status/1111630257679941632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 425,
+							"h": 448,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 425,
+							"h": 448,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 425,
+							"h": 448,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1111630253695402000,
+					"id_str": "1111630253695401984",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/D21N03kXgAASRwe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D21N03kXgAASRwe.jpg",
+					"url": "https://t.co/8UAn6eaOov",
+					"display_url": "pic.twitter.com/8UAn6eaOov",
+					"expanded_url": "https://twitter.com/ollie/status/1111630257679941632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 425,
+							"h": 448,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 425,
+							"h": 448,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 425,
+							"h": 448,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1111630253691158500,
+					"id_str": "1111630253691158533",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/D21N03jWwAUvN4X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D21N03jWwAUvN4X.jpg",
+					"url": "https://t.co/8UAn6eaOov",
+					"display_url": "pic.twitter.com/8UAn6eaOov",
+					"expanded_url": "https://twitter.com/ollie/status/1111630257679941632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8593862,
+			"id_str": "8593862",
+			"name": "Oliver Roeder",
+			"screen_name": "ollie",
+			"location": "brooklyn",
+			"description": "senior writer, @fivethirtyeight. writing a book about games for @wwnorton.",
+			"url": "https://t.co/az1LO2ABED",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/az1LO2ABED",
+							"expanded_url": "http://oroeder.github.io/",
+							"display_url": "oroeder.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18235,
+			"friends_count": 639,
+			"listed_count": 420,
+			"created_at": "Sat Sep 01 18:31:27 +0000 2007",
+			"favourites_count": 1279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10004,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D3D3D3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/944186742592204805/nu5oRbnv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/944186742592204805/nu5oRbnv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8593862/1550095245",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFBCDE",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "two math puzzles to end your week right: https://t.co/4OQiUwnlZI https://t.co/8UAn6eaOov"
+	},
+	{
 		"created_at": "Thu Mar 28 21:27:35 +0000 2019",
 		"id": 1111379332566384600,
 		"id_str": "1111379332566384646",
