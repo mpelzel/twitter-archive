@@ -1,6 +1,377 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 31 23:25:23 +0000 2019",
+		"id": 1112478450990964700,
+		"id_str": "1112496138614116353",
+		"full_text": "Pope on the papal flight back from Morocco: \"He who builds walls will end up imprisoned by them.\" https://t.co/tf301PEWnA https://t.co/nfo2mOX0Bf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tf301PEWnA",
+					"expanded_url": "http://ow.ly/AD4j30ogALq",
+					"display_url": "ow.ly/AD4j30ogALq",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1112478449703309300,
+					"id_str": "1112478449703309312",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/D3BRQX7X0AAb41N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3BRQX7X0AAb41N.jpg",
+					"url": "https://t.co/nfo2mOX0Bf",
+					"display_url": "pic.twitter.com/nfo2mOX0Bf",
+					"expanded_url": "https://twitter.com/jesuitnews/status/1112478450990964736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 422,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 422,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112478449703309300,
+					"id_str": "1112478449703309312",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/D3BRQX7X0AAb41N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3BRQX7X0AAb41N.jpg",
+					"url": "https://t.co/nfo2mOX0Bf",
+					"display_url": "pic.twitter.com/nfo2mOX0Bf",
+					"expanded_url": "https://twitter.com/jesuitnews/status/1112478450990964736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 422,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 422,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 65666255,
+			"id_str": "65666255",
+			"name": "Jesuit News",
+			"screen_name": "jesuitnews",
+			"location": "Washington, D.C.",
+			"description": "News & information about the Society of Jesus, the largest Catholic religious order of brothers & priests in the world. Contact: njn@jesuits.org",
+			"url": "https://t.co/27WT4qhGnp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/27WT4qhGnp",
+							"expanded_url": "http://www.jesuits.org",
+							"display_url": "jesuits.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26740,
+			"friends_count": 1136,
+			"listed_count": 495,
+			"created_at": "Fri Aug 14 15:56:44 +0000 2009",
+			"favourites_count": 3691,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00447C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1282999597/NJN_twitter_icon_NEW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1282999597/NJN_twitter_icon_NEW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65666255/1506529141",
+			"profile_link_color": "00447C",
+			"profile_sidebar_border_color": "00447C",
+			"profile_sidebar_fill_color": "E8EFFC",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pope on the papal flight back from Morocco: \"He who builds walls will end up imprisoned by them.\" https://t.co/tf301PEWnA https://t.co/nfo2mOX0Bf"
+	},
+	{
+		"created_at": "Sun Mar 31 23:24:15 +0000 2019",
+		"id": 1111994073609633800,
+		"id_str": "1112495854038982659",
+		"full_text": "Another point for Google docs https://t.co/DZnfkyvVCU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1111993882638721000,
+					"id_str": "1111993882638721024",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D26Yi28WoAAbxyX.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D26Yi28WoAAbxyX.jpg",
+					"url": "https://t.co/DZnfkyvVCU",
+					"display_url": "pic.twitter.com/DZnfkyvVCU",
+					"expanded_url": "https://twitter.com/papa_fire/status/1111994073609633792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 674,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 674,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 674,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1111993882638721000,
+					"id_str": "1111993882638721024",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D26Yi28WoAAbxyX.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D26Yi28WoAAbxyX.jpg",
+					"url": "https://t.co/DZnfkyvVCU",
+					"display_url": "pic.twitter.com/DZnfkyvVCU",
+					"expanded_url": "https://twitter.com/papa_fire/status/1111994073609633792/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 674,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 674,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 674,
+							"h": 594,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							337,
+							297
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D26Yi28WoAAbxyX.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14499792,
+			"id_str": "14499792",
+			"name": "Leon Fayer",
+			"screen_name": "papa_fire",
+			"location": "Columbia, Maryland",
+			"description": "Technologist. Web architect. Author.  International speaker. DevOps [something]. Gamer. Ravens fan.",
+			"url": "https://t.co/OvmNgDiYrZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OvmNgDiYrZ",
+							"expanded_url": "https://medium.com/fayerplay",
+							"display_url": "medium.com/fayerplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1520,
+			"friends_count": 296,
+			"listed_count": 76,
+			"created_at": "Wed Apr 23 19:53:42 +0000 2008",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3725,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007073959161016320/jvT7SkzX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007073959161016320/jvT7SkzX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14499792/1528940309",
+			"profile_link_color": "CC3300",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7DA93",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5559,
+		"favorite_count": 17570,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Another point for Google docs https://t.co/DZnfkyvVCU"
+	},
+	{
 		"created_at": "Sat Mar 30 19:00:34 +0000 2019",
 		"id": 1112067108261818400,
 		"id_str": "1112067108261818368",
