@@ -1,6 +1,1519 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 08 21:30:14 +0000 2019",
+		"id": 1115097429056073700,
+		"id_str": "1115366264585764864",
+		"full_text": "280 characters is woefully insufficient for what I have to say about this dystopian horror show https://t.co/cPrthJDcPn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cPrthJDcPn",
+					"expanded_url": "https://www.theguardian.com/technology/2019/apr/07/uk-businesses-using-artifical-intelligence-to-monitor-staff-activity",
+					"display_url": "theguardian.com/technology/201…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 196481854,
+			"id_str": "196481854",
+			"name": "Shannon Vallor",
+			"screen_name": "ShannonVallor",
+			"location": "Santa Clara, CA",
+			"description": "I'm a philosopher/tech ethicist at Santa Clara University in Silicon Valley, researching the impact of new technologies on human flourishing. All views my own.",
+			"url": "http://t.co/P8dTAAEFpx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/P8dTAAEFpx",
+							"expanded_url": "http://www.shannonvallor.net",
+							"display_url": "shannonvallor.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5312,
+			"friends_count": 490,
+			"listed_count": 212,
+			"created_at": "Wed Sep 29 06:03:35 +0000 2010",
+			"favourites_count": 8061,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4035,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "090A0A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994412577357623296/GesxGsQS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994412577357623296/GesxGsQS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/196481854/1389755675",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 118,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "280 characters is woefully insufficient for what I have to say about this dystopian horror show https://t.co/cPrthJDcPn"
+	},
+	{
+		"created_at": "Mon Apr 08 20:05:45 +0000 2019",
+		"id": 1113333838086844400,
+		"id_str": "1115345002060832779",
+		"full_text": "Web Conferencing &amp; Webinars – Options and Samples https://t.co/CdueSSvsOa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CdueSSvsOa",
+					"expanded_url": "https://blog.mahabali.me/educational-technology-2/web-conferencing-webinars-options-and-samples/",
+					"display_url": "blog.mahabali.me/educational-te…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1535273520,
+			"id_str": "1535273520",
+			"name": "ℳąhą Bąℓi, PhD مها بالي 🏵",
+			"screen_name": "Bali_Maha",
+			"location": "AUC, Cairo, #Egypt",
+			"description": "Writaholic/Learnaholic. Associate Prof of practice #facdev @cltauc. Part of @VConnecting @HybridPed @ProfHacker #UnboundEq #digped\nWas #PhDmum @SheffieldUni",
+			"url": "https://t.co/pjHqig6ctM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjHqig6ctM",
+							"expanded_url": "http://blog.mahabali.me",
+							"display_url": "blog.mahabali.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6880,
+			"friends_count": 5551,
+			"listed_count": 462,
+			"created_at": "Thu Jun 20 23:42:32 +0000 2013",
+			"favourites_count": 75897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 57529,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1052436994721280000/fgu1IrZJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1052436994721280000/fgu1IrZJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1535273520/1380017817",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Web Conferencing &amp; Webinars – Options and Samples https://t.co/CdueSSvsOa"
+	},
+	{
+		"created_at": "Mon Apr 08 19:19:42 +0000 2019",
+		"id": 1115333114266566700,
+		"id_str": "1115333413911912448",
+		"full_text": "Nerds R Us https://t.co/YmHqyBGz1d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YmHqyBGz1d",
+					"expanded_url": "https://twitter.com/MadeleineFeeny/status/1115293812493045761",
+					"display_url": "twitter.com/MadeleineFeeny…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 574593512,
+			"id_str": "574593512",
+			"name": "Mary Norris",
+			"screen_name": "MaryNorrisTNY",
+			"location": "",
+			"description": "Former copy editor @NewYorker, author of BETWEEN YOU AND ME and GREEK TO ME, forthcoming from @wwnorton in April, 2019.",
+			"url": "http://t.co/RYUwMsNXlA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/RYUwMsNXlA",
+							"expanded_url": "http://www.commaqueen.net",
+							"display_url": "commaqueen.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11760,
+			"friends_count": 2498,
+			"listed_count": 302,
+			"created_at": "Tue May 08 16:14:38 +0000 2012",
+			"favourites_count": 5891,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1957,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575448364306710528/__hYaRWg_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575448364306710528/__hYaRWg_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/574593512/1544211690",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1115293812493045800,
+		"quoted_status_id_str": "1115293812493045761",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YmHqyBGz1d",
+			"expanded": "https://twitter.com/MadeleineFeeny/status/1115293812493045761",
+			"display": "twitter.com/MadeleineFeeny…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 08 16:42:20 +0000 2019",
+			"id": 1115293812493045800,
+			"id_str": "1115293812493045761",
+			"full_text": "Copy-editors at play: the merry splitting of infinitives &amp; other outré behaviour. The incomparable @MaryNorrisTNY on the boundless joys of editorial nerd-dom: https://t.co/BD65wBcRrK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				186
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MaryNorrisTNY",
+						"name": "Mary Norris",
+						"id": 574593512,
+						"id_str": "574593512",
+						"indices": [
+							103,
+							117
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/BD65wBcRrK",
+						"expanded_url": "https://www.newyorker.com/culture/comma-queen/dropped-hyphens-split-infinitives-and-other-thrilling-developments-from-the-2019-american-copy-editors-society-conference",
+						"display_url": "newyorker.com/culture/comma-…",
+						"indices": [
+							163,
+							186
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 300164504,
+				"id_str": "300164504",
+				"name": "Maddy Feeny",
+				"screen_name": "MadeleineFeeny",
+				"location": "Barcelona, Spain",
+				"description": "Escaped Londoner living in Barcelona. Literary agent @PontasAgency. Reader. Swimmer. Lotus-eater.",
+				"url": "https://t.co/0nicycPGKY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0nicycPGKY",
+								"expanded_url": "http://www.pontas-agency.com",
+								"display_url": "pontas-agency.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1406,
+				"friends_count": 1465,
+				"listed_count": 30,
+				"created_at": "Tue May 17 09:34:27 +0000 2011",
+				"favourites_count": 388,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1928,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1069593197213622272/QlmhAqdH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069593197213622272/QlmhAqdH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/300164504/1543930584",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nerds R Us https://t.co/YmHqyBGz1d"
+	},
+	{
+		"created_at": "Mon Apr 08 18:53:23 +0000 2019",
+		"id": 1115180803993088000,
+		"id_str": "1115326791164547072",
+		"full_text": "Tips for newbie or prospective edu bloggers  https://t.co/DmVdkrpS5M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DmVdkrpS5M",
+					"expanded_url": "http://www.insidehighered.com/blogs/confessions-community-college-dean/request%E2%80%A6",
+					"display_url": "insidehighered.com/blogs/confessi…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43377019,
+			"id_str": "43377019",
+			"name": "Matt Reed",
+			"screen_name": "deandad",
+			"location": "",
+			"description": "Vice President for Learning at Brookdale Community College.  Author of Confessions of a Community College Dean at IHE. Opinions are my own.",
+			"url": "http://t.co/KLBOWGrMHN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/KLBOWGrMHN",
+							"expanded_url": "http://www.insidehighered.com/blogs/confessions-community-college-dean",
+							"display_url": "insidehighered.com/blogs/confessi…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3555,
+			"friends_count": 2180,
+			"listed_count": 172,
+			"created_at": "Fri May 29 18:00:34 +0000 2009",
+			"favourites_count": 17454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8206,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/867729493678592001/cqXPwce3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/867729493678592001/cqXPwce3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43377019/1401329052",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tips for newbie or prospective edu bloggers  https://t.co/DmVdkrpS5M"
+	},
+	{
+		"created_at": "Mon Apr 08 18:17:17 +0000 2019",
+		"id": 1115305154067226600,
+		"id_str": "1115317705370951680",
+		"full_text": "Hey all y'all. May 2-4 I'm co-hosting a 3-day online \"class\" on memes. It's free and open to everyone. Deets: https://t.co/7HbTutIOF3 https://t.co/SOiYUbrtiK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7HbTutIOF3",
+					"expanded_url": "https://www.edx.org/course/how-to-do-things-with-memes",
+					"display_url": "edx.org/course/how-to-…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1115304504977702900,
+					"id_str": "1115304504977702912",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/D3pbicOWwAAzfNT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3pbicOWwAAzfNT.jpg",
+					"url": "https://t.co/SOiYUbrtiK",
+					"display_url": "pic.twitter.com/SOiYUbrtiK",
+					"expanded_url": "https://twitter.com/samplereality/status/1115305154067226626/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115304504977702900,
+					"id_str": "1115304504977702912",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/D3pbicOWwAAzfNT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3pbicOWwAAzfNT.jpg",
+					"url": "https://t.co/SOiYUbrtiK",
+					"display_url": "pic.twitter.com/SOiYUbrtiK",
+					"expanded_url": "https://twitter.com/samplereality/status/1115305154067226626/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8497292,
+			"id_str": "8497292",
+			"name": "Mark Sample",
+			"screen_name": "samplereality",
+			"location": "",
+			"description": "Just working my way up from the bottom in the Job of life.",
+			"url": "https://t.co/oRy4nnx6c1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRy4nnx6c1",
+							"expanded_url": "https://www.samplereality.com",
+							"display_url": "samplereality.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8991,
+			"friends_count": 1135,
+			"listed_count": 525,
+			"created_at": "Tue Aug 28 22:38:34 +0000 2007",
+			"favourites_count": 1236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41908,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3B3B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898573746361053184/B2N_ejoF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8497292/1554657703",
+			"profile_link_color": "236299",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey all y'all. May 2-4 I'm co-hosting a 3-day online \"class\" on memes. It's free and open to everyone. Deets: https://t.co/7HbTutIOF3 https://t.co/SOiYUbrtiK"
+	},
+	{
+		"created_at": "Mon Apr 08 16:45:06 +0000 2019",
+		"id": 1114994763923640300,
+		"id_str": "1115294506256076800",
+		"full_text": "Please share your questions, thoughts, concerns, excitement around MEMES #mememooc https://t.co/v9IG85HF0c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mememooc",
+					"indices": [
+						73,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v9IG85HF0c",
+					"expanded_url": "https://twitter.com/DavidsonNow/status/1114993935913488390",
+					"display_url": "twitter.com/DavidsonNow/st…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16592181,
+			"id_str": "16592181",
+			"name": "Sundi Richard",
+			"screen_name": "sundilu",
+			"location": "North Carolina, USA",
+			"description": "Encouraging #digciz & #opened in #highered ~ Lead Instructional Designer @ Davidson College ~ tweets are mine ~ she/her/hers",
+			"url": "https://t.co/ovAarw6BsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ovAarw6BsA",
+							"expanded_url": "http://sundirichard.com/",
+							"display_url": "sundirichard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1203,
+			"friends_count": 1062,
+			"listed_count": 57,
+			"created_at": "Sat Oct 04 15:25:50 +0000 2008",
+			"favourites_count": 5273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4742,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080932768568172544/zc3BfnLw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080932768568172544/zc3BfnLw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16592181/1546549430",
+			"profile_link_color": "4D7AEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1114993935913488400,
+		"quoted_status_id_str": "1114993935913488390",
+		"quoted_status_permalink": {
+			"url": "https://t.co/v9IG85HF0c",
+			"expanded": "https://twitter.com/DavidsonNow/status/1114993935913488390",
+			"display": "twitter.com/DavidsonNow/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 07 20:50:44 +0000 2019",
+			"id": 1114993935913488400,
+			"id_str": "1114993935913488390",
+			"full_text": "Excited to announce a new 3-day free mini-course all about MEMES! Yes, a legit course about memes. Join @samplereality May 2nd-May4th. Register here: https://t.co/uDmgD9uMr0 https://t.co/YiOLn8TNV7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				173
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "samplereality",
+						"name": "Mark Sample",
+						"id": 8497292,
+						"id_str": "8497292",
+						"indices": [
+							104,
+							118
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/uDmgD9uMr0",
+						"expanded_url": "https://www.edx.org/course/how-to-do-things-with-memes",
+						"display_url": "edx.org/course/how-to-…",
+						"indices": [
+							150,
+							173
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1114993720938700800,
+						"id_str": "1114993720938700802",
+						"indices": [
+							174,
+							197
+						],
+						"media_url": "http://pbs.twimg.com/media/D3lA4bdXoAIi0rK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3lA4bdXoAIi0rK.jpg",
+						"url": "https://t.co/YiOLn8TNV7",
+						"display_url": "pic.twitter.com/YiOLn8TNV7",
+						"expanded_url": "https://twitter.com/DavidsonNow/status/1114993935913488390/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1114993720938700800,
+						"id_str": "1114993720938700802",
+						"indices": [
+							174,
+							197
+						],
+						"media_url": "http://pbs.twimg.com/media/D3lA4bdXoAIi0rK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3lA4bdXoAIi0rK.jpg",
+						"url": "https://t.co/YiOLn8TNV7",
+						"display_url": "pic.twitter.com/YiOLn8TNV7",
+						"expanded_url": "https://twitter.com/DavidsonNow/status/1114993935913488390/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 791012262999887900,
+				"id_str": "791012262999887873",
+				"name": "Davidson Now",
+				"screen_name": "DavidsonNow",
+				"location": "",
+				"description": "A new digital learning series from Davidson College on https://t.co/OaDQ4yEumS\nEXPLORE critical issues. ENGAGE in honest and courageous conversations.",
+				"url": "https://t.co/rgpTkKrnAT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rgpTkKrnAT",
+								"expanded_url": "http://davidsonnow.davidson.edu",
+								"display_url": "davidsonnow.davidson.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/OaDQ4yEumS",
+								"expanded_url": "http://edX.org",
+								"display_url": "edX.org",
+								"indices": [
+									55,
+									78
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 128,
+				"friends_count": 37,
+				"listed_count": 8,
+				"created_at": "Tue Oct 25 20:23:14 +0000 2016",
+				"favourites_count": 34,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 130,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/791295261750521856/KYgMtSvt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/791295261750521856/KYgMtSvt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/791012262999887873/1477494476",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please share your questions, thoughts, concerns, excitement around MEMES #mememooc https://t.co/v9IG85HF0c"
+	},
+	{
+		"created_at": "Mon Apr 08 13:40:57 +0000 2019",
+		"id": 1115222684416262100,
+		"id_str": "1115248166792724481",
+		"full_text": "Digital Distraction Is a Problem Far Beyond the Classroom. But Professors Can Still Help. https://t.co/TtE4xnY0vN via @chronicle #teaching #distraction #highered",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "teaching",
+					"indices": [
+						129,
+						138
+					]
+				},
+				{
+					"text": "distraction",
+					"indices": [
+						139,
+						151
+					]
+				},
+				{
+					"text": "highered",
+					"indices": [
+						152,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chronicle",
+					"name": "The Chronicle of Higher Education",
+					"id": 12413032,
+					"id_str": "12413032",
+					"indices": [
+						118,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TtE4xnY0vN",
+					"expanded_url": "https://www.chronicle.com/article/Digital-Distraction-Is-a/246074/#.XKs3nbZi_x8.twitter",
+					"display_url": "chronicle.com/article/Digita…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 293063938,
+			"id_str": "293063938",
+			"name": "James M. Lang",
+			"screen_name": "LangOnCourse",
+			"location": "Worcester, MA",
+			"description": "Director of the D'Amour Center for #Teaching Excellence at Assumption College. New book, Teaching Distracted Minds, forthcoming from Basic Books in 2020.",
+			"url": "http://t.co/LOc5OAioDB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/LOc5OAioDB",
+							"expanded_url": "http://www.jamesmlang.com",
+							"display_url": "jamesmlang.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6028,
+			"friends_count": 1285,
+			"listed_count": 195,
+			"created_at": "Wed May 04 18:01:05 +0000 2011",
+			"favourites_count": 3641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5021,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773365389237555200/tvjUc9UZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773365389237555200/tvjUc9UZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/293063938/1473219674",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Digital Distraction Is a Problem Far Beyond the Classroom. But Professors Can Still Help. https://t.co/TtE4xnY0vN via @chronicle #teaching #distraction #highered"
+	},
+	{
+		"created_at": "Mon Apr 08 13:35:33 +0000 2019",
+		"id": 1115246654096126000,
+		"id_str": "1115246805556629504",
+		"full_text": "On today's @AcademicMinute Professor of Psychology, Janet Gibson, explains how laughing can make a big impact on your psychological wellbeing. https://t.co/k78LA4btVJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AcademicMinute",
+					"name": "The Academic Minute",
+					"id": 209218225,
+					"id_str": "209218225",
+					"indices": [
+						11,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/k78LA4btVJ",
+					"expanded_url": "https://twitter.com/AcademicMinute/status/1115215354899390466",
+					"display_url": "twitter.com/AcademicMinute…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17652635,
+			"id_str": "17652635",
+			"name": "Grinnell College",
+			"screen_name": "GrinnellCollege",
+			"location": "Grinnell, Iowa",
+			"description": "The official Twitter account for Grinnell College. Updates on news, faculty, students, athletics and campus life at #GrinnellCollege.",
+			"url": "http://t.co/cT1hUUMKcV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/cT1hUUMKcV",
+							"expanded_url": "http://www.grinnell.edu",
+							"display_url": "grinnell.edu",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6263,
+			"friends_count": 561,
+			"listed_count": 220,
+			"created_at": "Wed Nov 26 16:07:19 +0000 2008",
+			"favourites_count": 4308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4810,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/991321404195856384/WY7ENUeS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/991321404195856384/WY7ENUeS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17652635/1402595600",
+			"profile_link_color": "B40012",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E0E8F0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1115215354899390500,
+		"quoted_status_id_str": "1115215354899390466",
+		"quoted_status_permalink": {
+			"url": "https://t.co/k78LA4btVJ",
+			"expanded": "https://twitter.com/AcademicMinute/status/1115215354899390466",
+			"display": "twitter.com/AcademicMinute…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 08 11:30:34 +0000 2019",
+			"id": 1115215354899390500,
+			"id_str": "1115215354899390466",
+			"full_text": "\"But only in recent decades has experimental psychology respected (humor) as an essential, fundamental human behavior.\"\n\nToday on @GrinnellCollege Week: Janet Gibson, professor of psychology, explores why.\n\nhttps://t.co/g30YxV2Ec9 https://t.co/NgVxLJ4uic",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				230
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GrinnellCollege",
+						"name": "Grinnell College",
+						"id": 17652635,
+						"id_str": "17652635",
+						"indices": [
+							130,
+							146
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/g30YxV2Ec9",
+						"expanded_url": "http://bit.ly/JGibsAM",
+						"display_url": "bit.ly/JGibsAM",
+						"indices": [
+							207,
+							230
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1115215353565601800,
+						"id_str": "1115215353565601792",
+						"indices": [
+							231,
+							254
+						],
+						"media_url": "http://pbs.twimg.com/media/D3oKdJVW4AAYyUh.png",
+						"media_url_https": "https://pbs.twimg.com/media/D3oKdJVW4AAYyUh.png",
+						"url": "https://t.co/NgVxLJ4uic",
+						"display_url": "pic.twitter.com/NgVxLJ4uic",
+						"expanded_url": "https://twitter.com/AcademicMinute/status/1115215354899390466/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 684,
+								"h": 242,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 684,
+								"h": 242,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 241,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1115215353565601800,
+						"id_str": "1115215353565601792",
+						"indices": [
+							231,
+							254
+						],
+						"media_url": "http://pbs.twimg.com/media/D3oKdJVW4AAYyUh.png",
+						"media_url_https": "https://pbs.twimg.com/media/D3oKdJVW4AAYyUh.png",
+						"url": "https://t.co/NgVxLJ4uic",
+						"display_url": "pic.twitter.com/NgVxLJ4uic",
+						"expanded_url": "https://twitter.com/AcademicMinute/status/1115215354899390466/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 684,
+								"h": 242,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 684,
+								"h": 242,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 241,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 209218225,
+				"id_str": "209218225",
+				"name": "The Academic Minute",
+				"screen_name": "AcademicMinute",
+				"location": "",
+				"description": "From WAMC Northeast Public Radio, The Academic Minute allows professors from top institutions to keep listeners abreast of what’s new & exciting in the academy.",
+				"url": "http://t.co/ewip3Za0Tx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ewip3Za0Tx",
+								"expanded_url": "http://www.academicminute.org/",
+								"display_url": "academicminute.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1906,
+				"friends_count": 939,
+				"listed_count": 134,
+				"created_at": "Thu Oct 28 19:05:29 +0000 2010",
+				"favourites_count": 581,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12106,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/748891382689955840/1MKa_gnn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/748891382689955840/1MKa_gnn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/209218225/1394036455",
+				"profile_link_color": "0B3961",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On today's @AcademicMinute Professor of Psychology, Janet Gibson, explains how laughing can make a big impact on your psychological wellbeing. https://t.co/k78LA4btVJ"
+	},
+	{
 		"created_at": "Sun Apr 07 23:41:36 +0000 2019",
 		"id": 1114918759284658200,
 		"id_str": "1115036936828223488",
