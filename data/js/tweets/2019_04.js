@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 12 20:04:58 +0000 2019",
+		"id": 1116785809447891000,
+		"id_str": "1116794358001360897",
+		"full_text": "1/6 Hey, @JenGrayburn, #MedievalTwitter and #DigitalHumanities folks: I have a question for y'all about resources describing Viking mead halls. Can you help a fellow medievalist/digital humanist out? https://t.co/XaSLmgjAqw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MedievalTwitter",
+					"indices": [
+						23,
+						39
+					]
+				},
+				{
+					"text": "DigitalHumanities",
+					"indices": [
+						44,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JenGrayburn",
+					"name": "Jennifer Grayburn",
+					"id": 3835115957,
+					"id_str": "3835115957",
+					"indices": [
+						9,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116785584943636500,
+					"id_str": "1116785584943636480",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/D3-ekpDXoAAijql.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3-ekpDXoAAijql.jpg",
+					"url": "https://t.co/XaSLmgjAqw",
+					"display_url": "pic.twitter.com/XaSLmgjAqw",
+					"expanded_url": "https://twitter.com/doktorfrag/status/1116785809447890944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 919,
+							"h": 561,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 919,
+							"h": 561,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 415,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116785584943636500,
+					"id_str": "1116785584943636480",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/D3-ekpDXoAAijql.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3-ekpDXoAAijql.jpg",
+					"url": "https://t.co/XaSLmgjAqw",
+					"display_url": "pic.twitter.com/XaSLmgjAqw",
+					"expanded_url": "https://twitter.com/doktorfrag/status/1116785809447890944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 919,
+							"h": 561,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 919,
+							"h": 561,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 415,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3346692621,
+			"id_str": "3346692621",
+			"name": "David Neville",
+			"screen_name": "doktorfrag",
+			"location": "Grinnell, IA",
+			"description": "Educational technologist working in 3D/VR/AR @GrinnellDLAC; Director of the Grinnell College Immersive Experiences Lab (@GrinnellCIEL).",
+			"url": "https://t.co/10kGYZ7XFM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/10kGYZ7XFM",
+							"expanded_url": "https://doktorfrag.com",
+							"display_url": "doktorfrag.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 214,
+			"friends_count": 310,
+			"listed_count": 36,
+			"created_at": "Fri Jun 26 17:36:44 +0000 2015",
+			"favourites_count": 1059,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958404740542533632/4vX7ZoQd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958404740542533632/4vX7ZoQd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3346692621/1436631668",
+			"profile_link_color": "26AD6A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1/6 Hey, @JenGrayburn, #MedievalTwitter and #DigitalHumanities folks: I have a question for y'all about resources describing Viking mead halls. Can you help a fellow medievalist/digital humanist out? https://t.co/XaSLmgjAqw"
+	},
+	{
+		"created_at": "Fri Apr 12 16:00:51 +0000 2019",
+		"id": 1116727688360812500,
+		"id_str": "1116732923422609408",
+		"full_text": "“Mary Magdalene” is a fierce, feminist parable https://t.co/A8lHwn9GwR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A8lHwn9GwR",
+					"expanded_url": "https://www.americamagazine.org/arts-culture/2019/04/12/mary-magdalene-fierce-feminist-parable",
+					"display_url": "americamagazine.org/arts-culture/2…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17372204,
+			"id_str": "17372204",
+			"name": "America Magazine",
+			"screen_name": "americamag",
+			"location": "",
+			"description": "The Jesuit Review of Faith and Culture",
+			"url": "https://t.co/oa7owxzsNV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oa7owxzsNV",
+							"expanded_url": "http://www.americamagazine.org",
+							"display_url": "americamagazine.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55658,
+			"friends_count": 380,
+			"listed_count": 1088,
+			"created_at": "Thu Nov 13 19:28:03 +0000 2008",
+			"favourites_count": 1633,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45829,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EAECF0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/823506014548951041/pt6Tnc3z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/823506014548951041/pt6Tnc3z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17372204/1485174139",
+			"profile_link_color": "0044B4",
+			"profile_sidebar_border_color": "181E15",
+			"profile_sidebar_fill_color": "CCFFF7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "“Mary Magdalene” is a fierce, feminist parable https://t.co/A8lHwn9GwR"
+	},
+	{
 		"created_at": "Thu Apr 11 22:53:25 +0000 2019",
 		"id": 1116474359806345200,
 		"id_str": "1116474359806345217",
