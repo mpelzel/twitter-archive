@@ -1,6 +1,404 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 13 21:23:52 +0000 2019",
+		"id": 1117159318682366000,
+		"id_str": "1117176601043722247",
+		"full_text": "Please share! I'm giving a FREE @educause games &amp; learning webinar, Apr 24, 3PM ET | REGISTER at https://t.co/YHMCsajN79\nPresented by the Educause Games and Learning Community \n#educause #learning #games #research #webinar https://t.co/eWe1wDseqc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "educause",
+					"indices": [
+						181,
+						190
+					]
+				},
+				{
+					"text": "learning",
+					"indices": [
+						191,
+						200
+					]
+				},
+				{
+					"text": "games",
+					"indices": [
+						201,
+						207
+					]
+				},
+				{
+					"text": "research",
+					"indices": [
+						208,
+						217
+					]
+				},
+				{
+					"text": "webinar",
+					"indices": [
+						218,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "educause",
+					"name": "EDUCAUSE",
+					"id": 15237481,
+					"id_str": "15237481",
+					"indices": [
+						32,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YHMCsajN79",
+					"expanded_url": "http://tinyurl.com/FarberWebinar",
+					"display_url": "tinyurl.com/FarberWebinar",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1117159313145864200,
+					"id_str": "1117159313145864192",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/D4DyefGUIAAjSEC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4DyefGUIAAjSEC.jpg",
+					"url": "https://t.co/eWe1wDseqc",
+					"display_url": "pic.twitter.com/eWe1wDseqc",
+					"expanded_url": "https://twitter.com/MatthewFarber/status/1117159318682365953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117159313145864200,
+					"id_str": "1117159313145864192",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/D4DyefGUIAAjSEC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4DyefGUIAAjSEC.jpg",
+					"url": "https://t.co/eWe1wDseqc",
+					"display_url": "pic.twitter.com/eWe1wDseqc",
+					"expanded_url": "https://twitter.com/MatthewFarber/status/1117159318682365953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16165288,
+			"id_str": "16165288",
+			"name": "Matthew Farber, Ed.D. 🕹️",
+			"screen_name": "MatthewFarber",
+			"location": "Fort Collins, CO",
+			"description": "Asst Professor @UNC_Colorado | Gamify Your Classroom https://t.co/rdqG2Vzzhb | Game Jam Guide https://t.co/e8LgXf3HRu | GBL in Action https://t.co/bk8Ckz1cs1",
+			"url": "https://t.co/pNlCPkVvfY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pNlCPkVvfY",
+							"expanded_url": "http://matthewfarber.com",
+							"display_url": "matthewfarber.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rdqG2Vzzhb",
+							"expanded_url": "http://a.co/b4BpHDR",
+							"display_url": "a.co/b4BpHDR",
+							"indices": [
+								53,
+								76
+							]
+						},
+						{
+							"url": "https://t.co/e8LgXf3HRu",
+							"expanded_url": "http://bit.ly/2z0DuBa",
+							"display_url": "bit.ly/2z0DuBa",
+							"indices": [
+								94,
+								117
+							]
+						},
+						{
+							"url": "https://t.co/bk8Ckz1cs1",
+							"expanded_url": "http://bit.ly/GBLinAction",
+							"display_url": "bit.ly/GBLinAction",
+							"indices": [
+								134,
+								157
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7018,
+			"friends_count": 6213,
+			"listed_count": 549,
+			"created_at": "Sun Sep 07 03:10:03 +0000 2008",
+			"favourites_count": 37819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26045,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065812685764288513/f2wG11mM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065812685764288513/f2wG11mM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16165288/1513967750",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please share! I'm giving a FREE @educause games &amp; learning webinar, Apr 24, 3PM ET | REGISTER at https://t.co/YHMCsajN79\nPresented by the Educause Games and Learning Community \n#educause #learning #games #research #webinar https://t.co/eWe1wDseqc"
+	},
+	{
+		"created_at": "Sat Apr 13 15:17:02 +0000 2019",
+		"id": 1117083775182233600,
+		"id_str": "1117084283338993664",
+		"full_text": "You can now directly edit Microsoft Office files with Google Docs, Sheets, and Slides #altc #GSuiteEdu #GEGScotland  https://t.co/Y75RdfucE5 via @thenextweb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "GSuiteEdu",
+					"indices": [
+						92,
+						102
+					]
+				},
+				{
+					"text": "GEGScotland",
+					"indices": [
+						103,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thenextweb",
+					"name": "TNW",
+					"id": 10876852,
+					"id_str": "10876852",
+					"indices": [
+						145,
+						156
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y75RdfucE5",
+					"expanded_url": "https://thenextweb.com/apps/2019/04/11/you-can-now-directly-edit-microsoft-office-files-with-google-docs-sheets-and-slides/",
+					"display_url": "thenextweb.com/apps/2019/04/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13046992,
+			"id_str": "13046992",
+			"name": "Martin Hawksey",
+			"screen_name": "mhawksey",
+			"location": "Edinburgh, Scotland",
+			"description": "Innovation, Community & Technology Officer @A_L_T | @GoogleDevExpert Apps Script | Interested in Open Education, EdTech, Mashups, Analytics, Data, G Suite \\o/",
+			"url": "https://t.co/OwPc0EbVqg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OwPc0EbVqg",
+							"expanded_url": "https://mashe.hawksey.info",
+							"display_url": "mashe.hawksey.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8036,
+			"friends_count": 2192,
+			"listed_count": 594,
+			"created_at": "Mon Feb 04 13:30:17 +0000 2008",
+			"favourites_count": 5265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28057,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2390851993/xu6aptqy6a8rb2h2w5by_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13046992/1478558874",
+			"profile_link_color": "4099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can now directly edit Microsoft Office files with Google Docs, Sheets, and Slides #altc #GSuiteEdu #GEGScotland  https://t.co/Y75RdfucE5 via @thenextweb"
+	},
+	{
 		"created_at": "Fri Apr 12 20:04:58 +0000 2019",
 		"id": 1116785809447891000,
 		"id_str": "1116794358001360897",
