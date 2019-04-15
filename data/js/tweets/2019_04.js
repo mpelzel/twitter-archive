@@ -1,6 +1,774 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 14 21:14:40 +0000 2019",
+		"id": 1117536674161025000,
+		"id_str": "1117536674161025024",
+		"full_text": "Though, I thought that in the UK, politicians \"stood\" for office... https://t.co/XUUUHb61Kb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XUUUHb61Kb",
+					"expanded_url": "https://twitter.com/GrinnellCollege/status/1116508243763789824",
+					"display_url": "twitter.com/GrinnellColleg…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 714,
+			"friends_count": 994,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8181,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1116508243763789800,
+		"quoted_status_id_str": "1116508243763789824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XUUUHb61Kb",
+			"expanded": "https://twitter.com/GrinnellCollege/status/1116508243763789824",
+			"display": "twitter.com/GrinnellColleg…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 12 01:08:03 +0000 2019",
+			"id": 1116508243763789800,
+			"id_str": "1116508243763789824",
+			"full_text": "The encore production of \"I'm Not Running\" will be live streamed from @NationalTheatre at the Harris Center Cinema on Sunday at 3 p.m. https://t.co/BhhyAsZUnD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				134
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NationalTheatre",
+						"name": "National Theatre",
+						"id": 23056885,
+						"id_str": "23056885",
+						"indices": [
+							70,
+							86
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1116508240030965800,
+						"id_str": "1116508240030965760",
+						"indices": [
+							135,
+							158
+						],
+						"media_url": "http://pbs.twimg.com/media/D36iVCvXoAA2z8-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D36iVCvXoAA2z8-.jpg",
+						"url": "https://t.co/BhhyAsZUnD",
+						"display_url": "pic.twitter.com/BhhyAsZUnD",
+						"expanded_url": "https://twitter.com/GrinnellCollege/status/1116508243763789824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1180,
+								"h": 620,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1180,
+								"h": 620,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1116508240030965800,
+						"id_str": "1116508240030965760",
+						"indices": [
+							135,
+							158
+						],
+						"media_url": "http://pbs.twimg.com/media/D36iVCvXoAA2z8-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D36iVCvXoAA2z8-.jpg",
+						"url": "https://t.co/BhhyAsZUnD",
+						"display_url": "pic.twitter.com/BhhyAsZUnD",
+						"expanded_url": "https://twitter.com/GrinnellCollege/status/1116508243763789824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1180,
+								"h": 620,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1180,
+								"h": 620,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.falcon.io\" rel=\"nofollow\">Falcon Social Media Management </a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17652635,
+				"id_str": "17652635",
+				"name": "Grinnell College",
+				"screen_name": "GrinnellCollege",
+				"location": "Grinnell, Iowa",
+				"description": "The official Twitter account for Grinnell College. Updates on news, faculty, students, athletics and campus life at #GrinnellCollege.",
+				"url": "http://t.co/cT1hUUMKcV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/cT1hUUMKcV",
+								"expanded_url": "http://www.grinnell.edu",
+								"display_url": "grinnell.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6269,
+				"friends_count": 561,
+				"listed_count": 220,
+				"created_at": "Wed Nov 26 16:07:19 +0000 2008",
+				"favourites_count": 4307,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 4823,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/991321404195856384/WY7ENUeS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/991321404195856384/WY7ENUeS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17652635/1402595600",
+				"profile_link_color": "B40012",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E0E8F0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Though, I thought that in the UK, politicians \"stood\" for office... https://t.co/XUUUHb61Kb"
+	},
+	{
+		"created_at": "Sun Apr 14 20:01:24 +0000 2019",
+		"id": 1117518235585384400,
+		"id_str": "1117518235585384448",
+		"full_text": "Settling in for the performance... https://t.co/XUUUHb61Kb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XUUUHb61Kb",
+					"expanded_url": "https://twitter.com/GrinnellCollege/status/1116508243763789824",
+					"display_url": "twitter.com/GrinnellColleg…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 714,
+			"friends_count": 994,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8181,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1116508243763789800,
+		"quoted_status_id_str": "1116508243763789824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XUUUHb61Kb",
+			"expanded": "https://twitter.com/GrinnellCollege/status/1116508243763789824",
+			"display": "twitter.com/GrinnellColleg…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 12 01:08:03 +0000 2019",
+			"id": 1116508243763789800,
+			"id_str": "1116508243763789824",
+			"full_text": "The encore production of \"I'm Not Running\" will be live streamed from @NationalTheatre at the Harris Center Cinema on Sunday at 3 p.m. https://t.co/BhhyAsZUnD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				134
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NationalTheatre",
+						"name": "National Theatre",
+						"id": 23056885,
+						"id_str": "23056885",
+						"indices": [
+							70,
+							86
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1116508240030965800,
+						"id_str": "1116508240030965760",
+						"indices": [
+							135,
+							158
+						],
+						"media_url": "http://pbs.twimg.com/media/D36iVCvXoAA2z8-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D36iVCvXoAA2z8-.jpg",
+						"url": "https://t.co/BhhyAsZUnD",
+						"display_url": "pic.twitter.com/BhhyAsZUnD",
+						"expanded_url": "https://twitter.com/GrinnellCollege/status/1116508243763789824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1180,
+								"h": 620,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1180,
+								"h": 620,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1116508240030965800,
+						"id_str": "1116508240030965760",
+						"indices": [
+							135,
+							158
+						],
+						"media_url": "http://pbs.twimg.com/media/D36iVCvXoAA2z8-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D36iVCvXoAA2z8-.jpg",
+						"url": "https://t.co/BhhyAsZUnD",
+						"display_url": "pic.twitter.com/BhhyAsZUnD",
+						"expanded_url": "https://twitter.com/GrinnellCollege/status/1116508243763789824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1180,
+								"h": 620,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1180,
+								"h": 620,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.falcon.io\" rel=\"nofollow\">Falcon Social Media Management </a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17652635,
+				"id_str": "17652635",
+				"name": "Grinnell College",
+				"screen_name": "GrinnellCollege",
+				"location": "Grinnell, Iowa",
+				"description": "The official Twitter account for Grinnell College. Updates on news, faculty, students, athletics and campus life at #GrinnellCollege.",
+				"url": "http://t.co/cT1hUUMKcV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/cT1hUUMKcV",
+								"expanded_url": "http://www.grinnell.edu",
+								"display_url": "grinnell.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6269,
+				"friends_count": 561,
+				"listed_count": 220,
+				"created_at": "Wed Nov 26 16:07:19 +0000 2008",
+				"favourites_count": 4307,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 4823,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/991321404195856384/WY7ENUeS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/991321404195856384/WY7ENUeS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17652635/1402595600",
+				"profile_link_color": "B40012",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E0E8F0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Settling in for the performance... https://t.co/XUUUHb61Kb"
+	},
+	{
+		"created_at": "Sun Apr 14 18:05:31 +0000 2019",
+		"id": 1117446123009003500,
+		"id_str": "1117489071159377920",
+		"full_text": "Today in Egypt, a mob attacked the priests of the church of St. Karas and the coptic orthodox church was destroyed. The government responded by shutting down the church while the offenders go free. It's heartbreaking that they now have no place of prayer for holy week this year. https://t.co/pwQpR0LhhQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117446119452233700,
+					"id_str": "1117446119452233728",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D4H3Uz2W0AA9G--.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4H3Uz2W0AA9G--.jpg",
+					"url": "https://t.co/pwQpR0LhhQ",
+					"display_url": "pic.twitter.com/pwQpR0LhhQ",
+					"expanded_url": "https://twitter.com/bintsouria/status/1117446123009003520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 958,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 958,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117446119452233700,
+					"id_str": "1117446119452233728",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D4H3Uz2W0AA9G--.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4H3Uz2W0AA9G--.jpg",
+					"url": "https://t.co/pwQpR0LhhQ",
+					"display_url": "pic.twitter.com/pwQpR0LhhQ",
+					"expanded_url": "https://twitter.com/bintsouria/status/1117446123009003520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 958,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 958,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 745719103084593200,
+			"id_str": "745719103084593153",
+			"name": "marroosh",
+			"screen_name": "bintsouria",
+			"location": "طرطوس",
+			"description": "the resistance #MENAchristianpersecution",
+			"url": "https://t.co/9BUGYt7qYD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9BUGYt7qYD",
+							"expanded_url": "http://instagram.com/marroosh",
+							"display_url": "instagram.com/marroosh",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3088,
+			"friends_count": 211,
+			"listed_count": 22,
+			"created_at": "Wed Jun 22 20:44:23 +0000 2016",
+			"favourites_count": 28803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5328,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1116845440010375168/4Vj6UgdT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116845440010375168/4Vj6UgdT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/745719103084593153/1554467575",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 206,
+		"favorite_count": 332,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today in Egypt, a mob attacked the priests of the church of St. Karas and the coptic orthodox church was destroyed. The government responded by shutting down the church while the offenders go free. It's heartbreaking that they now have no place of prayer for holy week this year. https://t.co/pwQpR0LhhQ"
+	},
+	{
 		"created_at": "Sat Apr 13 21:23:52 +0000 2019",
 		"id": 1117159318682366000,
 		"id_str": "1117176601043722247",
