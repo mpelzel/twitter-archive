@@ -1,6 +1,764 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 15 17:13:03 +0000 2019",
+		"id": 1117817382259626000,
+		"id_str": "1117838256903733249",
+		"full_text": "Forget the sad desk lunch and take a walk instead.\n\nWorkers who walked at lunch were both more relaxed and more enthusiastic during the afternoon. \n\nhttps://t.co/XRf3MgCFL7 via @psychscience",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PsychScience",
+					"name": "APS",
+					"id": 19078387,
+					"id_str": "19078387",
+					"indices": [
+						177,
+						190
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XRf3MgCFL7",
+					"expanded_url": "https://www.psychologicalscience.org/news/minds-business/walking-at-lunchtime-buffers-against-workplace-stress.html#.XLCUQVENQe4.twitter",
+					"display_url": "psychologicalscience.org/news/minds-bus…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14378113,
+			"id_str": "14378113",
+			"name": "Daniel Pink",
+			"screen_name": "DanielPink",
+			"location": "Washington, DC, USA",
+			"description": "Author of 6 books. Father of 3 kids. Husband of 1 wife.",
+			"url": "https://t.co/1s1uvZAUjh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1s1uvZAUjh",
+							"expanded_url": "https://www.danpink.com/about/",
+							"display_url": "danpink.com/about/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 421215,
+			"friends_count": 1760,
+			"listed_count": 11752,
+			"created_at": "Sun Apr 13 21:28:14 +0000 2008",
+			"favourites_count": 9851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16619,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6F5EB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/818513271225544705/g29NeG3k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/818513271225544705/g29NeG3k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14378113/1548452866",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 232,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Forget the sad desk lunch and take a walk instead.\n\nWorkers who walked at lunch were both more relaxed and more enthusiastic during the afternoon. \n\nhttps://t.co/XRf3MgCFL7 via @psychscience"
+	},
+	{
+		"created_at": "Mon Apr 15 17:00:03 +0000 2019",
+		"id": 1117831627160326100,
+		"id_str": "1117834985912852485",
+		"full_text": "@davecormier The only dead thing about \"RSS is dead\" is saying \"RSS is dead\"\n\nThe Indispensable Digital Research Tool I can Say, Without Lying, Saves Time\nhttps://t.co/vsfPYIlrjw",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davecormier",
+					"name": "dave cormier",
+					"id": 789991,
+					"id_str": "789991",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vsfPYIlrjw",
+					"expanded_url": "https://cogdogblog.com/2017/09/indispensable-tool/",
+					"display_url": "cogdogblog.com/2017/09/indisp…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1117547415664562200,
+		"in_reply_to_status_id_str": "1117547415664562176",
+		"in_reply_to_user_id": 789991,
+		"in_reply_to_user_id_str": "789991",
+		"in_reply_to_screen_name": "davecormier",
+		"user": {
+			"id": 740343,
+			"id_str": "740343",
+			"name": "Alan Levine",
+			"screen_name": "cogdog",
+			"location": "Mortlach, Saskatchewan",
+			"description": "Barks about web tech at https://t.co/ZxC70YWtmO Digs photography, guitars, #ds106, Wordpress, hiking, coding, the Who. Makes SPLOTs. Loves @corisaas",
+			"url": "https://t.co/wAzdfm9TIB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAzdfm9TIB",
+							"expanded_url": "http://cog.dog",
+							"display_url": "cog.dog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZxC70YWtmO",
+							"expanded_url": "http://cogdogblog.com",
+							"display_url": "cogdogblog.com",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10442,
+			"friends_count": 1472,
+			"listed_count": 786,
+			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
+			"favourites_count": 778,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88299,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740063389527859201/BN9buLB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740343/1389655067",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@davecormier The only dead thing about \"RSS is dead\" is saying \"RSS is dead\"\n\nThe Indispensable Digital Research Tool I can Say, Without Lying, Saves Time\nhttps://t.co/vsfPYIlrjw"
+	},
+	{
+		"created_at": "Mon Apr 15 13:40:58 +0000 2019",
+		"id": 1117783600605298700,
+		"id_str": "1117784883026382848",
+		"full_text": "Ever had the need to edit a PDF file? No need for fancy PDF editors, Google Docs can handle it all.\nhttps://t.co/o1ozWVFYVP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o1ozWVFYVP",
+					"expanded_url": "https://buff.ly/2IzXQVB",
+					"display_url": "buff.ly/2IzXQVB",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45609693,
+			"id_str": "45609693",
+			"name": "Gtricks",
+			"screen_name": "Gtricks",
+			"location": "",
+			"description": "News, productivity tips, tricks and fun for @Google fans. Curated by Abhishek Mandloi https://t.co/fvwUWyzNtk",
+			"url": "http://t.co/gaW093pyE8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/gaW093pyE8",
+							"expanded_url": "http://gtricks.com",
+							"display_url": "gtricks.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fvwUWyzNtk",
+							"expanded_url": "http://abhishek.gtricks.com",
+							"display_url": "abhishek.gtricks.com",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1421,
+			"friends_count": 316,
+			"listed_count": 52,
+			"created_at": "Mon Jun 08 16:52:49 +0000 2009",
+			"favourites_count": 144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0F0F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/663235352702816256/SBYYk4xd_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/663235352702816256/SBYYk4xd_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45609693/1438276302",
+			"profile_link_color": "2573A9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "94C5EB",
+			"profile_text_color": "242942",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ever had the need to edit a PDF file? No need for fancy PDF editors, Google Docs can handle it all.\nhttps://t.co/o1ozWVFYVP"
+	},
+	{
+		"created_at": "Mon Apr 15 13:25:43 +0000 2019",
+		"id": 1117668976778272800,
+		"id_str": "1117781044671991815",
+		"full_text": "Word of the (@ExtinctionR) Day: \"satyagraha\" – form of nonviolent civil resistance developed by Mahatma Gandhi &amp; influential for many social justice movements. \nSatyagraha (Sanskrit: सत्याग्रह) is a compound of satya (\"truth\") &amp; āgraha (\"polite insistence\", \"holding firmly to\"). https://t.co/kPlIU4dyPw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			287
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ExtinctionR",
+					"name": "Extinction Rebellion 🐝⌛️🦋",
+					"id": 1019974187975430100,
+					"id_str": "1019974187975430144",
+					"indices": [
+						13,
+						25
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117668974521737200,
+					"id_str": "1117668974521737222",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/D4LCArrX4AYWad1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4LCArrX4AYWad1.jpg",
+					"url": "https://t.co/kPlIU4dyPw",
+					"display_url": "pic.twitter.com/kPlIU4dyPw",
+					"expanded_url": "https://twitter.com/RobGMacfarlane/status/1117668976778272768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 719,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 959,
+							"h": 719,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117668974521737200,
+					"id_str": "1117668974521737222",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/D4LCArrX4AYWad1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4LCArrX4AYWad1.jpg",
+					"url": "https://t.co/kPlIU4dyPw",
+					"display_url": "pic.twitter.com/kPlIU4dyPw",
+					"expanded_url": "https://twitter.com/RobGMacfarlane/status/1117668976778272768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 719,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 959,
+							"h": 719,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 835252426265481200,
+			"id_str": "835252426265481216",
+			"name": "Robert Macfarlane",
+			"screen_name": "RobGMacfarlane",
+			"location": "The Anthropocene",
+			"description": "Books (The Lost Words, The Old Ways, Landmarks, The Wild Places); Films (Mountain); Essays (Guardian, New Yorker). Underland out 2 May. Fellow at Cambridge.",
+			"url": "https://t.co/VPl94F3W6e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VPl94F3W6e",
+							"expanded_url": "https://www.penguin.co.uk/articles/2018/robert-macfarlane-working-with-artist-stanley-donwood-for-un",
+							"display_url": "penguin.co.uk/articles/2018/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 146789,
+			"friends_count": 2243,
+			"listed_count": 1661,
+			"created_at": "Fri Feb 24 22:17:51 +0000 2017",
+			"favourites_count": 43465,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15780,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/835849899006640129/-qwlW-0a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/835849899006640129/-qwlW-0a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/835252426265481216/1488117681",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 503,
+		"favorite_count": 1310,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Word of the (@ExtinctionR) Day: \"satyagraha\" – form of nonviolent civil resistance developed by Mahatma Gandhi &amp; influential for many social justice movements. \nSatyagraha (Sanskrit: सत्याग्रह) is a compound of satya (\"truth\") &amp; āgraha (\"polite insistence\", \"holding firmly to\"). https://t.co/kPlIU4dyPw"
+	},
+	{
+		"created_at": "Mon Apr 15 12:58:55 +0000 2019",
+		"id": 1117773633005477900,
+		"id_str": "1117774301674049536",
+		"full_text": "if someone is hungry they can just eat? My God, Dallas is greater than I ever knew https://t.co/6ssJDhwQWR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6ssJDhwQWR",
+					"expanded_url": "https://twitter.com/gregabbott_tx/status/1117634208405557248",
+					"display_url": "twitter.com/gregabbott_tx/…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1471542956,
+			"id_str": "1471542956",
+			"name": "elizabeth bruenig",
+			"screen_name": "ebruenig",
+			"location": "elizabeth.bruenig@washpost.com",
+			"description": "Opinion columnist at @WashingtonPost. Christian. Mama. Into ideas, jokes, birds. Email: Elizabeth.Bruenig@washpost.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103232,
+			"friends_count": 3939,
+			"listed_count": 1635,
+			"created_at": "Fri May 31 07:06:34 +0000 2013",
+			"favourites_count": 224120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 135,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAF6DA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1001990060256804864/vYjMs3R5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001990060256804864/vYjMs3R5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1471542956/1442437177",
+			"profile_link_color": "A3A395",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCCCCA",
+			"profile_text_color": "82C2B9",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1117634208405557200,
+		"quoted_status_id_str": "1117634208405557248",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6ssJDhwQWR",
+			"expanded": "https://twitter.com/gregabbott_tx/status/1117634208405557248",
+			"display": "twitter.com/gregabbott_tx/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 15 03:42:14 +0000 2019",
+			"id": 1117634208405557200,
+			"id_str": "1117634208405557248",
+			"full_text": "Dallas Co. District Attorney stokes crime by refusing to prosecute theft of personal items worth less than $750. If someone is hungry they can just steal some food. If cold, steal a coat. Where does it end? It's wealth redistribution by theft. #txlege https://t.co/dqfYogr4NX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "txlege",
+						"indices": [
+							244,
+							251
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dqfYogr4NX",
+						"expanded_url": "https://www.dallasnews.com/opinion/editorials/2019/04/14/dallas-county-das-plan-justice-reform-go-far",
+						"display_url": "dallasnews.com/opinion/editor…",
+						"indices": [
+							252,
+							275
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 90651198,
+				"id_str": "90651198",
+				"name": "Greg Abbott",
+				"screen_name": "GregAbbott_TX",
+				"location": "Austin, TX",
+				"description": "Texas Governor Greg Abbott's Personal Twitter Feed",
+				"url": "https://t.co/LBN45aQE2o",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LBN45aQE2o",
+								"expanded_url": "http://www.GregAbbott.com",
+								"display_url": "GregAbbott.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 245005,
+				"friends_count": 2963,
+				"listed_count": 2750,
+				"created_at": "Tue Nov 17 15:27:41 +0000 2009",
+				"favourites_count": 82,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10766,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "192857",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1106778059590565889/M-ak-U5F_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106778059590565889/M-ak-U5F_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/90651198/1530469108",
+				"profile_link_color": "DB0707",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2436,
+			"favorite_count": 4132,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 75,
+		"favorite_count": 1038,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "if someone is hungry they can just eat? My God, Dallas is greater than I ever knew https://t.co/6ssJDhwQWR"
+	},
+	{
 		"created_at": "Sun Apr 14 21:14:40 +0000 2019",
 		"id": 1117536674161025000,
 		"id_str": "1117536674161025024",
