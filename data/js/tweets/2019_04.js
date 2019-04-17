@@ -1,6 +1,614 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 16 20:42:46 +0000 2019",
+		"id": 1118145495594152000,
+		"id_str": "1118253420429893633",
+		"full_text": "A pioneering historian laser-scanned the Notre-Dame Cathedral before it burned. A few years later, he died. Now his work could become the key to restoring the building, reports @alexismadrigal. https://t.co/IoJ4jWwb8h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alexismadrigal",
+					"name": "Alexis C. Madrigal",
+					"id": 11107172,
+					"id_str": "11107172",
+					"indices": [
+						177,
+						192
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IoJ4jWwb8h",
+					"expanded_url": "http://on.theatln.tc/scQM1I4",
+					"display_url": "on.theatln.tc/scQM1I4",
+					"indices": [
+						194,
+						217
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35773039,
+			"id_str": "35773039",
+			"name": "The Atlantic",
+			"screen_name": "TheAtlantic",
+			"location": "Washington, D.C.",
+			"description": "Politics, culture, business, science, technology, health, education, global affairs, more. Tweets by @CaitlinFrazier",
+			"url": "http://t.co/pI6FUBgQdl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/pI6FUBgQdl",
+							"expanded_url": "http://www.theatlantic.com",
+							"display_url": "theatlantic.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1774899,
+			"friends_count": 1044,
+			"listed_count": 29597,
+			"created_at": "Mon Apr 27 15:41:54 +0000 2009",
+			"favourites_count": 460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 162948,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/880086372564041728/rZ4SGWbE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/880086372564041728/rZ4SGWbE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35773039/1497905992",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "BFBFBF",
+			"profile_sidebar_fill_color": "E6ECF2",
+			"profile_text_color": "000408",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 252,
+		"favorite_count": 550,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A pioneering historian laser-scanned the Notre-Dame Cathedral before it burned. A few years later, he died. Now his work could become the key to restoring the building, reports @alexismadrigal. https://t.co/IoJ4jWwb8h"
+	},
+	{
+		"created_at": "Tue Apr 16 19:03:06 +0000 2019",
+		"id": 1118228338307424300,
+		"id_str": "1118228338307424257",
+		"full_text": ".@doktorfrag @GrinnellCIEL https://t.co/GgRzNVAjIa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "doktorfrag",
+					"name": "David Neville",
+					"id": 3346692621,
+					"id_str": "3346692621",
+					"indices": [
+						1,
+						12
+					]
+				},
+				{
+					"screen_name": "GrinnellCIEL",
+					"name": "Grinnell College Immersive Experiences Lab (GCIEL)",
+					"id": 950748055233540100,
+					"id_str": "950748055233540102",
+					"indices": [
+						13,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GgRzNVAjIa",
+					"expanded_url": "https://twitter.com/COERLL/status/1118225659137003521",
+					"display_url": "twitter.com/COERLL/status/…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 716,
+			"friends_count": 997,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118225659137003500,
+		"quoted_status_id_str": "1118225659137003521",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GgRzNVAjIa",
+			"expanded": "https://twitter.com/COERLL/status/1118225659137003521",
+			"display": "twitter.com/COERLL/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 16 18:52:27 +0000 2019",
+			"id": 1118225659137003500,
+			"id_str": "1118225659137003521",
+			"full_text": "#Italian Open Education by @MaggieBerti is one of the first examples we've seen of virtual reality #OER for language learning - it's affordable and gives Ss a new way to access and discuss culture #mfl https://t.co/JNPKMGQaE2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				201
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Italian",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"text": "OER",
+						"indices": [
+							99,
+							103
+						]
+					},
+					{
+						"text": "mfl",
+						"indices": [
+							197,
+							201
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MaggieBerti",
+						"name": "Maggie (Margherita) Berti",
+						"id": 784119217293447200,
+						"id_str": "784119217293447168",
+						"indices": [
+							27,
+							39
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/JNPKMGQaE2",
+						"expanded_url": "https://twitter.com/MaggieBerti/status/1117984694631424000",
+						"display_url": "twitter.com/MaggieBerti/st…",
+						"indices": [
+							202,
+							225
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 236553749,
+				"id_str": "236553749",
+				"name": "COERLL",
+				"screen_name": "COERLL",
+				"location": "Austin, TX, United States",
+				"description": "Center for Open Educational Resources & Language Learning (COERLL) – we produce, share, and promote OER to support language teaching and learning.",
+				"url": "http://t.co/Y7FxX0azC6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Y7FxX0azC6",
+								"expanded_url": "http://www.coerll.utexas.edu",
+								"display_url": "coerll.utexas.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1556,
+				"friends_count": 619,
+				"listed_count": 78,
+				"created_at": "Mon Jan 10 21:20:25 +0000 2011",
+				"favourites_count": 598,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1707,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "376BB4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/970685818883866624/85D7piCd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/970685818883866624/85D7piCd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/236553749/1532531798",
+				"profile_link_color": "376BB4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1117984694631424000,
+			"quoted_status_id_str": "1117984694631424000",
+			"quoted_status_permalink": {
+				"url": "https://t.co/JNPKMGQaE2",
+				"expanded": "https://twitter.com/MaggieBerti/status/1117984694631424000",
+				"display": "twitter.com/MaggieBerti/st…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": ".@doktorfrag @GrinnellCIEL https://t.co/GgRzNVAjIa"
+	},
+	{
+		"created_at": "Tue Apr 16 19:00:59 +0000 2019",
+		"id": 1118227804972290000,
+		"id_str": "1118227804972290049",
+		"full_text": "@daniellynds Looking forward to seeing the results ... so, what's in your toolkit for making GIFs?\n\nAnd the bottom line question: hard g or soft g?",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "daniellynds",
+					"name": "Daniel Lynds",
+					"id": 12069412,
+					"id_str": "12069412",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1118224250312253400,
+		"in_reply_to_status_id_str": "1118224250312253440",
+		"in_reply_to_user_id": 12069412,
+		"in_reply_to_user_id_str": "12069412",
+		"in_reply_to_screen_name": "daniellynds",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 716,
+			"friends_count": 997,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@daniellynds Looking forward to seeing the results ... so, what's in your toolkit for making GIFs?\n\nAnd the bottom line question: hard g or soft g?"
+	},
+	{
+		"created_at": "Tue Apr 16 17:35:45 +0000 2019",
+		"id": 1118206358925512700,
+		"id_str": "1118206358925512705",
+		"full_text": "@NigelHaarstad It's ok...I'm a native Texas, and I put beans in my chili...",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NigelHaarstad",
+					"name": "Nigel Haarstad 📷",
+					"id": 1025788608,
+					"id_str": "1025788608",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1118206062782496800,
+		"in_reply_to_status_id_str": "1118206062782496768",
+		"in_reply_to_user_id": 1025788608,
+		"in_reply_to_user_id_str": "1025788608",
+		"in_reply_to_screen_name": "NigelHaarstad",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 716,
+			"friends_count": 997,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NigelHaarstad It's ok...I'm a native Texas, and I put beans in my chili..."
+	},
+	{
 		"created_at": "Mon Apr 15 17:13:03 +0000 2019",
 		"id": 1117817382259626000,
 		"id_str": "1117838256903733249",
