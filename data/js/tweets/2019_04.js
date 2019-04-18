@@ -1,6 +1,1335 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 17 20:21:35 +0000 2019",
+		"id": 1118609539430064100,
+		"id_str": "1118610478589149184",
+		"full_text": "We're looking forward to #PressEdConf19 tomorrow. @marksmithers will be kicking proceedings off at https://t.co/4GbfCRYYxV BST https://t.co/YMpRXvmjwH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PressEdConf19",
+					"indices": [
+						25,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marksmithers",
+					"name": "Mark Smithers",
+					"id": 18524101,
+					"id_str": "18524101",
+					"indices": [
+						50,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4GbfCRYYxV",
+					"expanded_url": "http://10.am",
+					"display_url": "10.am",
+					"indices": [
+						99,
+						122
+					]
+				},
+				{
+					"url": "https://t.co/YMpRXvmjwH",
+					"expanded_url": "https://2019.pressedconf.org/?easyconfpr=wordpress-as-a-cross-boundary-digital-habitat",
+					"display_url": "2019.pressedconf.org/?easyconfpr=wo…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 950354717212897300,
+			"id_str": "950354717212897280",
+			"name": "PressED Conf - A tweeting WordPress conference",
+			"screen_name": "pressedconf",
+			"location": "on twitter",
+			"description": "A WordPress Twitter Conference on all things education, pedagogy and research. #pressEDconf19 is on April 18th. Organisers @nlafferty and @pgogy",
+			"url": "https://t.co/PEDIaTNi6H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PEDIaTNi6H",
+							"expanded_url": "http://2019.pressedconf.org",
+							"display_url": "2019.pressedconf.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1060,
+			"friends_count": 1985,
+			"listed_count": 9,
+			"created_at": "Mon Jan 08 13:13:16 +0000 2018",
+			"favourites_count": 673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1986,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/950872787018756096/unqqOc3z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/950872787018756096/unqqOc3z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/950354717212897280/1547021544",
+			"profile_link_color": "00FFFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're looking forward to #PressEdConf19 tomorrow. @marksmithers will be kicking proceedings off at https://t.co/4GbfCRYYxV BST https://t.co/YMpRXvmjwH"
+	},
+	{
+		"created_at": "Wed Apr 17 20:08:38 +0000 2019",
+		"id": 1118088873903632400,
+		"id_str": "1118607220072177675",
+		"full_text": "While news reports updated and tweets flooded in about the horrible Notre-Dame fire yesterday, volunteer @Wikimedia editors worked to research and document the events as they unfolded. I always find this reactive process fascinating, here's a thread on how it happened: https://t.co/gj7dqwo0h8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Wikimedia",
+					"name": "Wikimedia",
+					"id": 86390762,
+					"id_str": "86390762",
+					"indices": [
+						105,
+						115
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118088770887278600,
+					"id_str": "1118088770887278593",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Q_0DAW4AEi9yX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Q_0DAW4AEi9yX.jpg",
+					"url": "https://t.co/gj7dqwo0h8",
+					"display_url": "pic.twitter.com/gj7dqwo0h8",
+					"expanded_url": "https://twitter.com/samwalton9/status/1118088873903632384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1881,
+							"h": 941,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118088770887278600,
+					"id_str": "1118088770887278593",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Q_0DAW4AEi9yX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Q_0DAW4AEi9yX.jpg",
+					"url": "https://t.co/gj7dqwo0h8",
+					"display_url": "pic.twitter.com/gj7dqwo0h8",
+					"expanded_url": "https://twitter.com/samwalton9/status/1118088873903632384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1881,
+							"h": 941,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112291593,
+			"id_str": "112291593",
+			"name": "Sam Walton",
+			"screen_name": "samwalton9",
+			"location": "Liverpool",
+			"description": "Supporting Wikipedians through @WikiLibrary at @Wikimedia by day, PR/Community at @proj_borealis by night.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 313,
+			"listed_count": 9,
+			"created_at": "Sun Feb 07 23:36:16 +0000 2010",
+			"favourites_count": 5694,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1689,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1043987069742272512/ZhdL-Hwd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043987069742272512/ZhdL-Hwd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/112291593/1537740786",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 95,
+		"favorite_count": 193,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "While news reports updated and tweets flooded in about the horrible Notre-Dame fire yesterday, volunteer @Wikimedia editors worked to research and document the events as they unfolded. I always find this reactive process fascinating, here's a thread on how it happened: https://t.co/gj7dqwo0h8"
+	},
+	{
+		"created_at": "Wed Apr 17 18:51:53 +0000 2019",
+		"id": 1118587128508768300,
+		"id_str": "1118587905419694080",
+		"full_text": "Award-winning food blogger + cookbook author @homesicktexan just moved back to Texas for the first time since 1995. \n\nWe chatted with her about why she came back to the homeland and got her recipe for crazy nachos—a must-try for Texans and Texpats alike. https://t.co/G5YeQUjLG8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "homesicktexan",
+					"name": "Lisa Fain",
+					"id": 10978362,
+					"id_str": "10978362",
+					"indices": [
+						45,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/G5YeQUjLG8",
+					"expanded_url": "https://www.texasmonthly.com/food/the-homesick-texan-is-homesick-no-more/?utm_source=Twitter&utm_medium=Social&utm_campaign=Web%20Social&utm_content=homesicktexan",
+					"display_url": "texasmonthly.com/food/the-homes…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://coschedule.com\" rel=\"nofollow\">CoSchedule</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16365305,
+			"id_str": "16365305",
+			"name": "Texas Monthly",
+			"screen_name": "TexasMonthly",
+			"location": "Austin, TX",
+			"description": "Covering Texas news, politics, food, culture, travel, and more. RTs not endorsements. Tweets by @regmack_. Subscribe: https://t.co/0JA5vJs57n",
+			"url": "https://t.co/nZv2cCoax9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nZv2cCoax9",
+							"expanded_url": "http://www.texasmonthly.com/",
+							"display_url": "texasmonthly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0JA5vJs57n",
+							"expanded_url": "http://txmnth.ly/2XeHZkv",
+							"display_url": "txmnth.ly/2XeHZkv",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 185795,
+			"friends_count": 737,
+			"listed_count": 3494,
+			"created_at": "Fri Sep 19 16:18:28 +0000 2008",
+			"favourites_count": 3668,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 32452,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090363468434337792/J7wJX6hs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090363468434337792/J7wJX6hs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16365305/1551118786",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Award-winning food blogger + cookbook author @homesicktexan just moved back to Texas for the first time since 1995. \n\nWe chatted with her about why she came back to the homeland and got her recipe for crazy nachos—a must-try for Texans and Texpats alike. https://t.co/G5YeQUjLG8"
+	},
+	{
+		"created_at": "Wed Apr 17 18:27:43 +0000 2019",
+		"id": 1118581037133717500,
+		"id_str": "1118581824610029572",
+		"full_text": "My latest:  Fox revealed the truth about support for #Medicare4All: \"People want ... the option of joining the plan that works well for ppl over 65. Much of American politics comes down to a variant of “What about me” Why is health care be any different?https://t.co/DiEHoUw2ZF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Medicare4All",
+					"indices": [
+						53,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DiEHoUw2ZF",
+					"expanded_url": "https://www.washingtonpost.com/opinions/2019/04/16/how-fox-news-accidentally-revealed-truth-about-support-medicare-for-all/?utm_term=.d3e3aeb4540f",
+					"display_url": "washingtonpost.com/opinions/2019/…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54731136,
+			"id_str": "54731136",
+			"name": "Helaine Olen",
+			"screen_name": "helaineolen",
+			"location": "",
+			"description": "Blogger Wash Post opinions. Author Pound Foolish, co-author The Index Card. REM: \"Who'd have thought tomorrow could be so strange?\" helaine.olen@washpost.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13857,
+			"friends_count": 2491,
+			"listed_count": 461,
+			"created_at": "Wed Jul 08 00:08:33 +0000 2009",
+			"favourites_count": 18976,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 519,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/738548002034421760/zU2NBmt__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/738548002034421760/zU2NBmt__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54731136/1458881780",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My latest:  Fox revealed the truth about support for #Medicare4All: \"People want ... the option of joining the plan that works well for ppl over 65. Much of American politics comes down to a variant of “What about me” Why is health care be any different?https://t.co/DiEHoUw2ZF"
+	},
+	{
+		"created_at": "Wed Apr 17 17:24:32 +0000 2019",
+		"id": 1118565794265407500,
+		"id_str": "1118565923835863042",
+		"full_text": "As digital initiatives for teaching and learning continue to gain ground within institutions of higher education, how should associated terms including literacy, competency, and fluency be distinguished? https://t.co/qn8GlQPlWf #DigitalLearning",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigitalLearning",
+					"indices": [
+						228,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qn8GlQPlWf",
+					"expanded_url": "https://er.educause.edu/blogs/2019/4/competent-literate-fluent-the-what-and-why-of-digital-initiatives",
+					"display_url": "er.educause.edu/blogs/2019/4/c…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28407101,
+			"id_str": "28407101",
+			"name": "EDUCAUSEreview",
+			"screen_name": "EDUCAUSEreview",
+			"location": "",
+			"description": "Notifications from EDUCAUSE REVIEW (\"Why IT Matters to Higher Education\"), with occasional tweets from Editor-in-Chief Teddy Diggs (TD)",
+			"url": "https://t.co/y2CIapmCpE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y2CIapmCpE",
+							"expanded_url": "http://er.educause.edu",
+							"display_url": "er.educause.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13641,
+			"friends_count": 3504,
+			"listed_count": 867,
+			"created_at": "Thu Apr 02 20:00:41 +0000 2009",
+			"favourites_count": 1208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5284,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/554750188909121537/XO1nuMCG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/554750188909121537/XO1nuMCG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28407101/1456170148",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As digital initiatives for teaching and learning continue to gain ground within institutions of higher education, how should associated terms including literacy, competency, and fluency be distinguished? https://t.co/qn8GlQPlWf #DigitalLearning"
+	},
+	{
+		"created_at": "Wed Apr 17 17:02:40 +0000 2019",
+		"id": 1118560421156393000,
+		"id_str": "1118560421156392961",
+		"full_text": "@cogdog I guess you can always teach an old (cog) dog new tricks...",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1118556853661728800,
+		"in_reply_to_status_id_str": "1118556853661728768",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 719,
+			"friends_count": 998,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6834,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8203,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cogdog I guess you can always teach an old (cog) dog new tricks..."
+	},
+	{
+		"created_at": "Wed Apr 17 16:51:28 +0000 2019",
+		"id": 1118557318038392800,
+		"id_str": "1118557600298278913",
+		"full_text": "\"Here is a secular republic, dedicated to the principle of laïcité, or the absence of religion in public life, that has as its national symbol a cathedral.\" Another beautiful piece by @RachelDonadio\nhttps://t.co/vSIbfV6Qf9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RachelDonadio",
+					"name": "Rachel Donadio",
+					"id": 464854839,
+					"id_str": "464854839",
+					"indices": [
+						184,
+						198
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vSIbfV6Qf9",
+					"expanded_url": "https://www.theatlantic.com/international/archive/2019/04/notre-dame-cathedral-secular-france/587305/",
+					"display_url": "theatlantic.com/international/…",
+					"indices": [
+						199,
+						222
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1511299686,
+			"id_str": "1511299686",
+			"name": "Emma Green",
+			"screen_name": "emmaogreen",
+			"location": "America",
+			"description": "Writer + troublemaker @TheAtlantic. Stories on religion, culture, politics, &c.",
+			"url": "http://t.co/VuGz1mN8i6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VuGz1mN8i6",
+							"expanded_url": "http://www.theatlantic.com/emma-green/",
+							"display_url": "theatlantic.com/emma-green/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26064,
+			"friends_count": 1363,
+			"listed_count": 650,
+			"created_at": "Wed Jun 12 18:51:29 +0000 2013",
+			"favourites_count": 9476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7553,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/722256305596014592/ZwtFSSNV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/722256305596014592/ZwtFSSNV_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 82,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Here is a secular republic, dedicated to the principle of laïcité, or the absence of religion in public life, that has as its national symbol a cathedral.\" Another beautiful piece by @RachelDonadio\nhttps://t.co/vSIbfV6Qf9"
+	},
+	{
+		"created_at": "Wed Apr 17 15:42:48 +0000 2019",
+		"id": 1118540320541638700,
+		"id_str": "1118540320541638659",
+		"full_text": "@pbpelzel @EDUCAUSEreview Thanks Patricia! Hope all the Wisconsin Pelzels are well :)",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pbpelzel",
+					"name": "Patricia Beyers Pelzel",
+					"id": 627735213,
+					"id_str": "627735213",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "EDUCAUSEreview",
+					"name": "EDUCAUSEreview",
+					"id": 28407101,
+					"id_str": "28407101",
+					"indices": [
+						10,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1118539391495016400,
+		"in_reply_to_status_id_str": "1118539391495016448",
+		"in_reply_to_user_id": 627735213,
+		"in_reply_to_user_id_str": "627735213",
+		"in_reply_to_screen_name": "pbpelzel",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 719,
+			"friends_count": 998,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6834,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8203,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@pbpelzel @EDUCAUSEreview Thanks Patricia! Hope all the Wisconsin Pelzels are well :)"
+	},
+	{
+		"created_at": "Wed Apr 17 15:38:42 +0000 2019",
+		"id": 1118538492324323300,
+		"id_str": "1118539287493058561",
+		"full_text": "New blog post for #OpenLearning: https://t.co/Bwamj2nDBa and new hashtag for going forward: #OpenLearningHub",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OpenLearning",
+					"indices": [
+						18,
+						31
+					]
+				},
+				{
+					"text": "OpenLearningHub",
+					"indices": [
+						92,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Bwamj2nDBa",
+					"expanded_url": "http://sueerickson.com/openlearning19/reflections-on-open-learning-19/",
+					"display_url": "sueerickson.com/openlearning19…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3386335613,
+			"id_str": "3386335613",
+			"name": "Sue Erickson",
+			"screen_name": "SueErickson10",
+			"location": "",
+			"description": "Library director, consultant, facilitator, team-builder, advocate of OER & open learning, connected learning, & change in higher ed.",
+			"url": "https://t.co/P6sWb032R3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P6sWb032R3",
+							"expanded_url": "https://sueerickson.wordpress.com",
+							"display_url": "sueerickson.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 175,
+			"friends_count": 257,
+			"listed_count": 5,
+			"created_at": "Tue Jul 21 20:41:35 +0000 2015",
+			"favourites_count": 2469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1211,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/850062346403926021/B8Ts3Dkq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/850062346403926021/B8Ts3Dkq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New blog post for #OpenLearning: https://t.co/Bwamj2nDBa and new hashtag for going forward: #OpenLearningHub"
+	},
+	{
+		"created_at": "Wed Apr 17 15:09:14 +0000 2019",
+		"id": 1118531872794058800,
+		"id_str": "1118531872794058753",
+		"full_text": "@acmtechliaison Thanks, Ed!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "acmtechliaison",
+					"name": "Ed Finn, Ed.D.",
+					"id": 2788007040,
+					"id_str": "2788007040",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1118528644060733400,
+		"in_reply_to_status_id_str": "1118528644060733441",
+		"in_reply_to_user_id": 2788007040,
+		"in_reply_to_user_id_str": "2788007040",
+		"in_reply_to_screen_name": "acmtechliaison",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 719,
+			"friends_count": 998,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6834,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8203,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@acmtechliaison Thanks, Ed!"
+	},
+	{
+		"created_at": "Wed Apr 17 14:44:35 +0000 2019",
+		"id": 1118525671146426400,
+		"id_str": "1118525671146426370",
+		"full_text": "I have a new post up at the @EDUCAUSEreview Transforming Higher Ed blog: \"Competent, Literate, Fluent: The What and Why of Digital Initiatives\" https://t.co/g02cqNoKd3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EDUCAUSEreview",
+					"name": "EDUCAUSEreview",
+					"id": 28407101,
+					"id_str": "28407101",
+					"indices": [
+						28,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/g02cqNoKd3",
+					"expanded_url": "http://bit.ly/2GnBvIt",
+					"display_url": "bit.ly/2GnBvIt",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 719,
+			"friends_count": 998,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6834,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8203,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I have a new post up at the @EDUCAUSEreview Transforming Higher Ed blog: \"Competent, Literate, Fluent: The What and Why of Digital Initiatives\" https://t.co/g02cqNoKd3"
+	},
+	{
 		"created_at": "Tue Apr 16 20:42:46 +0000 2019",
 		"id": 1118145495594152000,
 		"id_str": "1118253420429893633",
