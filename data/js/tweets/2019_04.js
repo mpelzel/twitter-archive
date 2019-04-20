@@ -1,6 +1,1700 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 19 21:49:35 +0000 2019",
+		"id": 1118881016691798000,
+		"id_str": "1119357401893830656",
+		"full_text": "‘La tierra santa’ , my home on the border, south texas....\n\nThe Beauty of #SemanaSanta in the #RioGrandeValley\n\nSouth Texas does Holy Week like nowhere else.  ⁦@TexasMonthly⁩\n https://t.co/CNp9MVD9FW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SemanaSanta",
+					"indices": [
+						74,
+						86
+					]
+				},
+				{
+					"text": "RioGrandeValley",
+					"indices": [
+						94,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TexasMonthly",
+					"name": "Texas Monthly",
+					"id": 16365305,
+					"id_str": "16365305",
+					"indices": [
+						160,
+						173
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CNp9MVD9FW",
+					"expanded_url": "https://www.texasmonthly.com/the-culture/the-beauty-of-semana-santa-in-the-rio-grande-valley/",
+					"display_url": "texasmonthly.com/the-culture/th…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46204574,
+			"id_str": "46204574",
+			"name": "Amb Antonio Garza",
+			"screen_name": "aogarza",
+			"location": "Texas / Mexico",
+			"description": "Fmr US Amb. @whitecase @vianovolp . Lawyer, Corp Director; legal, business, political: U.S.A. #Texas #Mexico Visit: https://t.co/JMmIfRmARf. Opinions, mine.",
+			"url": "https://t.co/OOMAdrAwBr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OOMAdrAwBr",
+							"expanded_url": "http://www.linkedin.com/in/aogarza",
+							"display_url": "linkedin.com/in/aogarza",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JMmIfRmARf",
+							"expanded_url": "http://www.tonygarza.com",
+							"display_url": "tonygarza.com",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8716,
+			"friends_count": 2236,
+			"listed_count": 285,
+			"created_at": "Wed Jun 10 19:41:42 +0000 2009",
+			"favourites_count": 8206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23923,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "132D45",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063957707852398592/JxGVk-oS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063957707852398592/JxGVk-oS_normal.jpg",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DBDEDC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘La tierra santa’ , my home on the border, south texas....\n\nThe Beauty of #SemanaSanta in the #RioGrandeValley\n\nSouth Texas does Holy Week like nowhere else.  ⁦@TexasMonthly⁩\n https://t.co/CNp9MVD9FW"
+	},
+	{
+		"created_at": "Fri Apr 19 21:20:14 +0000 2019",
+		"id": 1119349180453965800,
+		"id_str": "1119350015548448769",
+		"full_text": "The full I Annotate 2019 program is live! Check out all the presentations and register now so you don't miss @GardnerCampbell's #ianno19 keynote kicking off the two-day event Wed 22–Thu 23 May in Washington DC at @theAGU's newly refurbished net-zero HQ: https://t.co/iEhMJNNHzf https://t.co/R4NbSPdGmz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ianno19",
+					"indices": [
+						128,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GardnerCampbell",
+					"name": "Gardner Campbell",
+					"id": 782931,
+					"id_str": "782931",
+					"indices": [
+						109,
+						125
+					]
+				},
+				{
+					"screen_name": "theAGU",
+					"name": "Am Geophysical Union",
+					"id": 39530187,
+					"id_str": "39530187",
+					"indices": [
+						213,
+						220
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iEhMJNNHzf",
+					"expanded_url": "http://iannotate.org",
+					"display_url": "iannotate.org",
+					"indices": [
+						254,
+						277
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1119348866757693400,
+					"id_str": "1119348866757693440",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/D4i53R7UEAAV8Xu.png",
+					"media_url_https": "https://pbs.twimg.com/media/D4i53R7UEAAV8Xu.png",
+					"url": "https://t.co/R4NbSPdGmz",
+					"display_url": "pic.twitter.com/R4NbSPdGmz",
+					"expanded_url": "https://twitter.com/hypothes_is/status/1119349180453965824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119348866757693400,
+					"id_str": "1119348866757693440",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/D4i53R7UEAAV8Xu.png",
+					"media_url_https": "https://pbs.twimg.com/media/D4i53R7UEAAV8Xu.png",
+					"url": "https://t.co/R4NbSPdGmz",
+					"display_url": "pic.twitter.com/R4NbSPdGmz",
+					"expanded_url": "https://twitter.com/hypothes_is/status/1119349180453965824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 335,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 325100970,
+			"id_str": "325100970",
+			"name": "Hypothesis",
+			"screen_name": "hypothes_is",
+			"location": "San Francisco, CA USA",
+			"description": "All knowledge, annotated.",
+			"url": "http://t.co/vNZZ2YDTUa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/vNZZ2YDTUa",
+							"expanded_url": "http://hypothes.is",
+							"display_url": "hypothes.is",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7812,
+			"friends_count": 4499,
+			"listed_count": 418,
+			"created_at": "Mon Jun 27 18:52:36 +0000 2011",
+			"favourites_count": 5370,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4068,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060590184436137984/CK0VrQHt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060590184436137984/CK0VrQHt_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The full I Annotate 2019 program is live! Check out all the presentations and register now so you don't miss @GardnerCampbell's #ianno19 keynote kicking off the two-day event Wed 22–Thu 23 May in Washington DC at @theAGU's newly refurbished net-zero HQ: https://t.co/iEhMJNNHzf https://t.co/R4NbSPdGmz"
+	},
+	{
+		"created_at": "Fri Apr 19 19:46:46 +0000 2019",
+		"id": 1119326421565026300,
+		"id_str": "1119326493979697152",
+		"full_text": "Live from the Colosseum – Pope’s 2019 #GoodFriday Via Crucis: https://t.co/C8svALd6Bv ...and its reflections, focused this year on the suffering of women with Jesus: https://t.co/RBDX7QNwA8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoodFriday",
+					"indices": [
+						38,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C8svALd6Bv",
+					"expanded_url": "https://youtu.be/EYUnv4zf7LA",
+					"display_url": "youtu.be/EYUnv4zf7LA",
+					"indices": [
+						62,
+						85
+					]
+				},
+				{
+					"url": "https://t.co/RBDX7QNwA8",
+					"expanded_url": "http://bit.ly/2UMuXgk",
+					"display_url": "bit.ly/2UMuXgk",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 173373241,
+			"id_str": "173373241",
+			"name": "Rocco Palmo",
+			"screen_name": "roccopalmo",
+			"location": "Philadelphia, PA",
+			"description": "",
+			"url": "https://t.co/ZdRJG7TvzA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZdRJG7TvzA",
+							"expanded_url": "http://theloggia.org",
+							"display_url": "theloggia.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26622,
+			"friends_count": 884,
+			"listed_count": 674,
+			"created_at": "Sun Aug 01 06:20:54 +0000 2010",
+			"favourites_count": 45,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23353,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092843050/cardinal_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092843050/cardinal_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Live from the Colosseum – Pope’s 2019 #GoodFriday Via Crucis: https://t.co/C8svALd6Bv ...and its reflections, focused this year on the suffering of women with Jesus: https://t.co/RBDX7QNwA8"
+	},
+	{
+		"created_at": "Fri Apr 19 19:01:23 +0000 2019",
+		"id": 1119315072185249800,
+		"id_str": "1119315072185249793",
+		"full_text": "Let us work to completely eradicate every vestige of these shameful attitudes and behaviors #GoodFriday https://t.co/ieipBxoEqL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoodFriday",
+					"indices": [
+						92,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ieipBxoEqL",
+					"expanded_url": "https://twitter.com/RobertEllsberg/status/1119312683994685445",
+					"display_url": "twitter.com/RobertEllsberg…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 723,
+			"friends_count": 998,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8224,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1119312683994685400,
+		"quoted_status_id_str": "1119312683994685445",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ieipBxoEqL",
+			"expanded": "https://twitter.com/RobertEllsberg/status/1119312683994685445",
+			"display": "twitter.com/RobertEllsberg…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 19 18:51:54 +0000 2019",
+			"id": 1119312683994685400,
+			"id_str": "1119312683994685445",
+			"full_text": "Holy Week has traditionally been marked by persecution of Jews. As we remember the passion and death of Christ, let us think of all those who are currently victims of  projection and scapegoating by “Christians,” particularly Muslims, refugees, LGBTQ people. https://t.co/q1jWVhJp6y",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				258
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1119312679968170000,
+						"id_str": "1119312679968169986",
+						"indices": [
+							259,
+							282
+						],
+						"media_url": "http://pbs.twimg.com/media/D4iY87oX4AIfdzb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4iY87oX4AIfdzb.jpg",
+						"url": "https://t.co/q1jWVhJp6y",
+						"display_url": "pic.twitter.com/q1jWVhJp6y",
+						"expanded_url": "https://twitter.com/RobertEllsberg/status/1119312683994685445/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 843,
+								"h": 933,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 614,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 843,
+								"h": 933,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1119312679968170000,
+						"id_str": "1119312679968169986",
+						"indices": [
+							259,
+							282
+						],
+						"media_url": "http://pbs.twimg.com/media/D4iY87oX4AIfdzb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4iY87oX4AIfdzb.jpg",
+						"url": "https://t.co/q1jWVhJp6y",
+						"display_url": "pic.twitter.com/q1jWVhJp6y",
+						"expanded_url": "https://twitter.com/RobertEllsberg/status/1119312683994685445/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 843,
+								"h": 933,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 614,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 843,
+								"h": 933,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 804776629172105200,
+				"id_str": "804776629172105218",
+				"name": "Robert Ellsberg",
+				"screen_name": "RobertEllsberg",
+				"location": "",
+				"description": "Publisher @OrbisBooks, saint-watcher @GiveUsThisDayLP, dog lover. Not the droid you are looking for.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2260,
+				"friends_count": 254,
+				"listed_count": 31,
+				"created_at": "Fri Dec 02 19:57:55 +0000 2016",
+				"favourites_count": 2737,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2902,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/804780943625945088/cNkclQPE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/804780943625945088/cNkclQPE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/804776629172105218/1480709785",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 46,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Let us work to completely eradicate every vestige of these shameful attitudes and behaviors #GoodFriday https://t.co/ieipBxoEqL"
+	},
+	{
+		"created_at": "Fri Apr 19 17:57:52 +0000 2019",
+		"id": 1119298833614299100,
+		"id_str": "1119299085150949376",
+		"full_text": "5 reasons to do a Wikipedia writing assignment next term. My favorite \"Equip students with tools to understand and participate in their digital landscape.\" https://t.co/WDG93Et3ni via @WikiEducation",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WikiEducation",
+					"name": "Wiki Education",
+					"id": 2181109652,
+					"id_str": "2181109652",
+					"indices": [
+						184,
+						198
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WDG93Et3ni",
+					"expanded_url": "https://wikiedu.org/blog/2019/04/19/5-reasons-to-do-a-wikipedia-writing-assignment-next-term/",
+					"display_url": "wikiedu.org/blog/2019/04/1…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5692872,
+			"id_str": "5692872",
+			"name": "Jenny Darrow",
+			"screen_name": "gobman",
+			"location": "#opened",
+			"description": "I'm a dry-humored mom, DFL ultrarunner & am inspired by creative, passionate thinkers. I work in the ed-tech field and I love what I do. My tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 905,
+			"friends_count": 968,
+			"listed_count": 93,
+			"created_at": "Tue May 01 19:45:32 +0000 2007",
+			"favourites_count": 7577,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6324,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059963708254945280/slCfRGNa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059963708254945280/slCfRGNa_normal.jpg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "5 reasons to do a Wikipedia writing assignment next term. My favorite \"Equip students with tools to understand and participate in their digital landscape.\" https://t.co/WDG93Et3ni via @WikiEducation"
+	},
+	{
+		"created_at": "Fri Apr 19 17:45:51 +0000 2019",
+		"id": 1119287488575680500,
+		"id_str": "1119296061158436866",
+		"full_text": "“If you want to follow Jesus you’d better look good on wood”—Fr Daniel Berrigan, SJ https://t.co/VnLWTAL9W4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119287484704329700,
+					"id_str": "1119287484704329730",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/D4iCCX9XkAImyax.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4iCCX9XkAImyax.jpg",
+					"url": "https://t.co/VnLWTAL9W4",
+					"display_url": "pic.twitter.com/VnLWTAL9W4",
+					"expanded_url": "https://twitter.com/RobertEllsberg/status/1119287488575680512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119287484704329700,
+					"id_str": "1119287484704329730",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/D4iCCX9XkAImyax.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4iCCX9XkAImyax.jpg",
+					"url": "https://t.co/VnLWTAL9W4",
+					"display_url": "pic.twitter.com/VnLWTAL9W4",
+					"expanded_url": "https://twitter.com/RobertEllsberg/status/1119287488575680512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 804776629172105200,
+			"id_str": "804776629172105218",
+			"name": "Robert Ellsberg",
+			"screen_name": "RobertEllsberg",
+			"location": "",
+			"description": "Publisher @OrbisBooks, saint-watcher @GiveUsThisDayLP, dog lover. Not the droid you are looking for.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2260,
+			"friends_count": 254,
+			"listed_count": 31,
+			"created_at": "Fri Dec 02 19:57:55 +0000 2016",
+			"favourites_count": 2737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2902,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804780943625945088/cNkclQPE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804780943625945088/cNkclQPE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/804776629172105218/1480709785",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“If you want to follow Jesus you’d better look good on wood”—Fr Daniel Berrigan, SJ https://t.co/VnLWTAL9W4"
+	},
+	{
+		"created_at": "Fri Apr 19 17:22:33 +0000 2019",
+		"id": 1119290197634691100,
+		"id_str": "1119290197634691072",
+		"full_text": "@KeithAnliker If you still have hair to burn, that's a win!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KeithAnliker",
+					"name": "Keith Anliker",
+					"id": 4827459431,
+					"id_str": "4827459431",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1119215386606620700,
+		"in_reply_to_status_id_str": "1119215386606620672",
+		"in_reply_to_user_id": 4827459431,
+		"in_reply_to_user_id_str": "4827459431",
+		"in_reply_to_screen_name": "KeithAnliker",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 723,
+			"friends_count": 998,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8224,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KeithAnliker If you still have hair to burn, that's a win!"
+	},
+	{
+		"created_at": "Fri Apr 19 17:00:00 +0000 2019",
+		"id": 1119284523953377300,
+		"id_str": "1119284523953377280",
+		"full_text": "Chanting \"Crux Fidelis\" at today's Good Friday liturgy ... https://t.co/flSE3sqHjS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/flSE3sqHjS",
+					"expanded_url": "http://bit.ly/2GlzNXN",
+					"display_url": "bit.ly/2GlzNXN",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 723,
+			"friends_count": 998,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8224,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Chanting \"Crux Fidelis\" at today's Good Friday liturgy ... https://t.co/flSE3sqHjS"
+	},
+	{
+		"created_at": "Fri Apr 19 14:13:36 +0000 2019",
+		"id": 1119213068586750000,
+		"id_str": "1119242649230356483",
+		"full_text": "My latest for the @washingtonpost—what the ten women bookending the Exodus story can teach us about this political moment today. https://t.co/K7MGRvNKeH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "washingtonpost",
+					"name": "The Washington Post",
+					"id": 2467791,
+					"id_str": "2467791",
+					"indices": [
+						18,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/K7MGRvNKeH",
+					"expanded_url": "https://www.washingtonpost.com/outlook/2019/04/19/why-passovers-stories-resistance-redemption-resonate-so-strongly-today/?utm_term=.0ab1e134ec47",
+					"display_url": "washingtonpost.com/outlook/2019/0…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 61802282,
+			"id_str": "61802282",
+			"name": "Rabbi Danya Ruttenberg",
+			"screen_name": "TheRaDR",
+			"location": "Story behind my handle: https://bit.ly/2JmO2A4",
+			"description": "Rabbi & author, most recently: https://t.co/NzKZt3n72P. Bylines  NYT, WaPo, Time, The Atlantic etc. Fight for economic justice with @WeAreAvodah.",
+			"url": "https://t.co/DOtc0Iywky",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DOtc0Iywky",
+							"expanded_url": "http://danyaruttenberg.net",
+							"display_url": "danyaruttenberg.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NzKZt3n72P",
+							"expanded_url": "http://amzn.to/2fEMwps",
+							"display_url": "amzn.to/2fEMwps",
+							"indices": [
+								31,
+								54
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 60888,
+			"friends_count": 751,
+			"listed_count": 715,
+			"created_at": "Fri Jul 31 15:58:03 +0000 2009",
+			"favourites_count": 60993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 90978,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060192456724148224/qceJwEh-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060192456724148224/qceJwEh-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/61802282/1517180942",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 148,
+		"favorite_count": 260,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My latest for the @washingtonpost—what the ten women bookending the Exodus story can teach us about this political moment today. https://t.co/K7MGRvNKeH"
+	},
+	{
+		"created_at": "Fri Apr 19 13:31:24 +0000 2019",
+		"id": 1119231954396827600,
+		"id_str": "1119232026928926720",
+		"full_text": "\"Young adults who spend more than 20 hours of leisure time per week on digital devices were 53 percent more likely to have anxiety than young adults who spend fewer than 5 hours a week on digital devices.\" https://t.co/GhFLlNSGtW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GhFLlNSGtW",
+					"expanded_url": "https://twitter.com/LangOnCourse/status/1119224172956332033",
+					"display_url": "twitter.com/LangOnCourse/s…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13132932,
+			"id_str": "13132932",
+			"name": "Derek Bruff",
+			"screen_name": "derekbruff",
+			"location": "Nashville, Tennessee",
+			"description": "Director, Center for Teaching, Vanderbilt University. Author of Intentional Tech, coming fall 2019 from @WVUPress.",
+			"url": "https://t.co/TI1hDue09n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TI1hDue09n",
+							"expanded_url": "http://derekbruff.org",
+							"display_url": "derekbruff.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6254,
+			"friends_count": 1399,
+			"listed_count": 488,
+			"created_at": "Wed Feb 06 02:55:41 +0000 2008",
+			"favourites_count": 7168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31145,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016435920239669248/EVL8LoHt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016435920239669248/EVL8LoHt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13132932/1555692329",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1119224172956332000,
+		"quoted_status_id_str": "1119224172956332033",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GhFLlNSGtW",
+			"expanded": "https://twitter.com/LangOnCourse/status/1119224172956332033",
+			"display": "twitter.com/LangOnCourse/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 19 13:00:11 +0000 2019",
+			"id": 1119224172956332000,
+			"id_str": "1119224172956332033",
+			"full_text": "Anxiety ‘epidemic’ brewing on college campuses, researchers find https://t.co/igvEstvMPi via @ucberkeley",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				104
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UCBerkeley",
+						"name": "UC Berkeley",
+						"id": 176932593,
+						"id_str": "176932593",
+						"indices": [
+							93,
+							104
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/igvEstvMPi",
+						"expanded_url": "https://news.berkeley.edu/2019/04/18/anxiety-epidemic-brewing-on-college-campuses-researchers-find/",
+						"display_url": "news.berkeley.edu/2019/04/18/anx…",
+						"indices": [
+							65,
+							88
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 293063938,
+				"id_str": "293063938",
+				"name": "James M. Lang",
+				"screen_name": "LangOnCourse",
+				"location": "Worcester, MA",
+				"description": "Director of the D'Amour Center for #Teaching Excellence at Assumption College. New book, Teaching Distracted Minds, forthcoming from Basic Books in 2020.",
+				"url": "http://t.co/LOc5OAioDB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/LOc5OAioDB",
+								"expanded_url": "http://www.jamesmlang.com",
+								"display_url": "jamesmlang.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6076,
+				"friends_count": 1289,
+				"listed_count": 197,
+				"created_at": "Wed May 04 18:01:05 +0000 2011",
+				"favourites_count": 3670,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5041,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/773365389237555200/tvjUc9UZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/773365389237555200/tvjUc9UZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/293063938/1473219674",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Young adults who spend more than 20 hours of leisure time per week on digital devices were 53 percent more likely to have anxiety than young adults who spend fewer than 5 hours a week on digital devices.\" https://t.co/GhFLlNSGtW"
+	},
+	{
+		"created_at": "Fri Apr 19 13:15:44 +0000 2019",
+		"id": 1119228084778098700,
+		"id_str": "1119228084778098689",
+		"full_text": "Socialist! Capitalist! Economic Systems as Weapons in a War of Words https://t.co/K4kyCeCu6V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K4kyCeCu6V",
+					"expanded_url": "https://nyti.ms/2ZncMwz",
+					"display_url": "nyti.ms/2ZncMwz",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 723,
+			"friends_count": 998,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8224,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Socialist! Capitalist! Economic Systems as Weapons in a War of Words https://t.co/K4kyCeCu6V"
+	},
+	{
 		"created_at": "Thu Apr 18 23:18:43 +0000 2019",
 		"id": 1119017442162950100,
 		"id_str": "1119017442162950145",
