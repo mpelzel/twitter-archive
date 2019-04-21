@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 20 22:03:27 +0000 2019",
+		"id": 1119710782479007700,
+		"id_str": "1119723277017067520",
+		"full_text": "“We never know how high we are. Till we are called to rise” – quoting US poet Emily Dickinson along the way, Pope’s Easter Vigil homily calls Christians to ask “What is the stone I need to remove?” \n\nFulltext: https://t.co/jDeu4kDLwg #BuonaPasqua #HappyEaster #HeIsRisen https://t.co/n4yybyqZJU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BuonaPasqua",
+					"indices": [
+						234,
+						246
+					]
+				},
+				{
+					"text": "HappyEaster",
+					"indices": [
+						247,
+						259
+					]
+				},
+				{
+					"text": "HeIsRisen",
+					"indices": [
+						260,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jDeu4kDLwg",
+					"expanded_url": "http://bit.ly/2Gp5mA7",
+					"display_url": "bit.ly/2Gp5mA7",
+					"indices": [
+						210,
+						233
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1119710427288621000,
+					"id_str": "1119710427288621056",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/D4oCs33W0AA8ZlY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4oCs33W0AA8ZlY.jpg",
+					"url": "https://t.co/n4yybyqZJU",
+					"display_url": "pic.twitter.com/n4yybyqZJU",
+					"expanded_url": "https://twitter.com/roccopalmo/status/1119710782479007745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119710427288621000,
+					"id_str": "1119710427288621056",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/D4oCs33W0AA8ZlY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4oCs33W0AA8ZlY.jpg",
+					"url": "https://t.co/n4yybyqZJU",
+					"display_url": "pic.twitter.com/n4yybyqZJU",
+					"expanded_url": "https://twitter.com/roccopalmo/status/1119710782479007745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 173373241,
+			"id_str": "173373241",
+			"name": "Rocco Palmo",
+			"screen_name": "roccopalmo",
+			"location": "Philadelphia, PA",
+			"description": "",
+			"url": "https://t.co/ZdRJG7TvzA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZdRJG7TvzA",
+							"expanded_url": "http://theloggia.org",
+							"display_url": "theloggia.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26627,
+			"friends_count": 884,
+			"listed_count": 674,
+			"created_at": "Sun Aug 01 06:20:54 +0000 2010",
+			"favourites_count": 45,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23355,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092843050/cardinal_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092843050/cardinal_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“We never know how high we are. Till we are called to rise” – quoting US poet Emily Dickinson along the way, Pope’s Easter Vigil homily calls Christians to ask “What is the stone I need to remove?” \n\nFulltext: https://t.co/jDeu4kDLwg #BuonaPasqua #HappyEaster #HeIsRisen https://t.co/n4yybyqZJU"
+	},
+	{
 		"created_at": "Fri Apr 19 21:49:35 +0000 2019",
 		"id": 1118881016691798000,
 		"id_str": "1119357401893830656",
