@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 21 23:17:27 +0000 2019",
+		"id": 1120066891798732800,
+		"id_str": "1120104290251694082",
+		"full_text": "In this weekend's @WSJ Review section: the evolving meaning of \"redaction,\" in the news thanks to the Mueller report... from editing text to █████████. https://t.co/CmbPTfvIY8 https://t.co/ZXGoMj4LjH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WSJ",
+					"name": "The Wall Street Journal",
+					"id": 3108351,
+					"id_str": "3108351",
+					"indices": [
+						18,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CmbPTfvIY8",
+					"expanded_url": "http://bit.ly/redactbz",
+					"display_url": "bit.ly/redactbz",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1120066402143150100,
+					"id_str": "1120066402143150088",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/D4tGdViXoAgKSiR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4tGdViXoAgKSiR.jpg",
+					"url": "https://t.co/ZXGoMj4LjH",
+					"display_url": "pic.twitter.com/ZXGoMj4LjH",
+					"expanded_url": "https://twitter.com/bgzimmer/status/1120066891798732812/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1380,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 808,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1120066402143150100,
+					"id_str": "1120066402143150088",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/D4tGdViXoAgKSiR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4tGdViXoAgKSiR.jpg",
+					"url": "https://t.co/ZXGoMj4LjH",
+					"display_url": "pic.twitter.com/ZXGoMj4LjH",
+					"expanded_url": "https://twitter.com/bgzimmer/status/1120066891798732812/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1380,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 808,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15104164,
+			"id_str": "15104164",
+			"name": "Ben Zimmer",
+			"screen_name": "bgzimmer",
+			"location": "Jersey City, NJ",
+			"description": "Linguist / lexicographer / @WSJ columnist / @TheAtlantic contributing editor / all-around word nut.",
+			"url": "http://t.co/1m2ix6t5Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1m2ix6t5Jo",
+							"expanded_url": "http://benzimmer.com/",
+							"display_url": "benzimmer.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30759,
+			"friends_count": 2421,
+			"listed_count": 1209,
+			"created_at": "Fri Jun 13 04:18:14 +0000 2008",
+			"favourites_count": 14448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 22815,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/510517460773007360/UKfBppaU_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/510517460773007360/UKfBppaU_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15104164/1348634413",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In this weekend's @WSJ Review section: the evolving meaning of \"redaction,\" in the news thanks to the Mueller report... from editing text to █████████. https://t.co/CmbPTfvIY8 https://t.co/ZXGoMj4LjH"
+	},
+	{
+		"created_at": "Sun Apr 21 22:39:22 +0000 2019",
+		"id": 1120055100607623200,
+		"id_str": "1120094704488591360",
+		"full_text": "“Writing comes from reading, and reading is the finest teacher of how to write.” —Annie Proulx https://t.co/mkz8q7qN17",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mkz8q7qN17",
+					"expanded_url": "https://theparisreview.org/interviews/5901/annie-proulx-the-art-of-fiction-no-199-annie-proulx",
+					"display_url": "theparisreview.org/interviews/590…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 71256932,
+			"id_str": "71256932",
+			"name": "The Paris Review",
+			"screen_name": "parisreview",
+			"location": "New York, NY",
+			"description": "Quarterly literary magazine founded in 1953.",
+			"url": "http://t.co/oXirIX6rPZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/oXirIX6rPZ",
+							"expanded_url": "http://theparisreview.org",
+							"display_url": "theparisreview.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 940152,
+			"friends_count": 4676,
+			"listed_count": 11752,
+			"created_at": "Thu Sep 03 13:48:31 +0000 2009",
+			"favourites_count": 12720,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 65497,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773206272632057857/3Or-FkJz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773206272632057857/3Or-FkJz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71256932/1551804470",
+			"profile_link_color": "D97B41",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 132,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Writing comes from reading, and reading is the finest teacher of how to write.” —Annie Proulx https://t.co/mkz8q7qN17"
+	},
+	{
 		"created_at": "Sat Apr 20 22:03:27 +0000 2019",
 		"id": 1119710782479007700,
 		"id_str": "1119723277017067520",
