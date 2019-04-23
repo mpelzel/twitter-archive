@@ -1,6 +1,985 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 22 23:49:33 +0000 2019",
+		"id": 1120474754673193000,
+		"id_str": "1120474754673192961",
+		"full_text": ".@MadsPelzel https://t.co/av1YURyWeA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MadsPelzel",
+					"name": "Madeleine Pelzel",
+					"id": 532725843,
+					"id_str": "532725843",
+					"indices": [
+						1,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/av1YURyWeA",
+					"expanded_url": "https://twitter.com/megankimble/status/1120418970132275200",
+					"display_url": "twitter.com/megankimble/st…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 722,
+			"friends_count": 999,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8235,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1120418970132275200,
+		"quoted_status_id_str": "1120418970132275200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/av1YURyWeA",
+			"expanded": "https://twitter.com/megankimble/status/1120418970132275200",
+			"display": "twitter.com/megankimble/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 22 20:07:53 +0000 2019",
+			"id": 1120418970132275200,
+			"id_str": "1120418970132275200",
+			"full_text": "If you drive an average of 15,000 miles per year and spend a total of 50 years driving, then there is a one in 100 chance that you will die in a fatal car crash. Happy #EarthDay! @thewaroncars https://t.co/ouNSKyvaUM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				216
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EarthDay",
+						"indices": [
+							168,
+							177
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TheWarOnCars",
+						"name": "The War on Cars",
+						"id": 1000369692278739000,
+						"id_str": "1000369692278738944",
+						"indices": [
+							179,
+							192
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ouNSKyvaUM",
+						"expanded_url": "https://www.austinmonthly.com/AM/April-2019/The-Modes-Less-Traveled/",
+						"display_url": "austinmonthly.com/AM/April-2019/…",
+						"indices": [
+							193,
+							216
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 59960371,
+				"id_str": "59960371",
+				"name": "Megan Kimble",
+				"screen_name": "megankimble",
+				"location": "Austin, TX",
+				"description": "Senior editor @TexasObserver. Author of UNPROCESSED from @WmMorrowBooks. Housing curious.",
+				"url": "https://t.co/k92jNh9BnU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/k92jNh9BnU",
+								"expanded_url": "http://megankimble.com",
+								"display_url": "megankimble.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1702,
+				"friends_count": 1459,
+				"listed_count": 71,
+				"created_at": "Sat Jul 25 02:51:11 +0000 2009",
+				"favourites_count": 1250,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2293,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FA743E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1055487623303700482/netQ-AsX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055487623303700482/netQ-AsX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/59960371/1546896296",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EBE7E6",
+				"profile_text_color": "7A4445",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 62,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": ".@MadsPelzel https://t.co/av1YURyWeA"
+	},
+	{
+		"created_at": "Mon Apr 22 20:50:58 +0000 2019",
+		"id": 1120429810872930300,
+		"id_str": "1120429810872930304",
+		"full_text": "@CiotaRebecca Got it :)",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CiotaRebecca",
+					"name": "Rebecca Ciota",
+					"id": 3258137575,
+					"id_str": "3258137575",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1120427833413783600,
+		"in_reply_to_status_id_str": "1120427833413783552",
+		"in_reply_to_user_id": 3258137575,
+		"in_reply_to_user_id_str": "3258137575",
+		"in_reply_to_screen_name": "CiotaRebecca",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 722,
+			"friends_count": 999,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8235,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CiotaRebecca Got it :)"
+	},
+	{
+		"created_at": "Mon Apr 22 20:37:45 +0000 2019",
+		"id": 1120426484185931800,
+		"id_str": "1120426484185931776",
+		"full_text": "@CiotaRebecca Hmmm... https://t.co/fJwGM951cd",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CiotaRebecca",
+					"name": "Rebecca Ciota",
+					"id": 3258137575,
+					"id_str": "3258137575",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1120426468947972100,
+					"id_str": "1120426468947972096",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/D4yN7-6W0AAqqvT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4yN7-6W0AAqqvT.jpg",
+					"url": "https://t.co/fJwGM951cd",
+					"display_url": "pic.twitter.com/fJwGM951cd",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1120426484185931776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1022,
+							"h": 978,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1022,
+							"h": 978,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 651,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1120426468947972100,
+					"id_str": "1120426468947972096",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/D4yN7-6W0AAqqvT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4yN7-6W0AAqqvT.jpg",
+					"url": "https://t.co/fJwGM951cd",
+					"display_url": "pic.twitter.com/fJwGM951cd",
+					"expanded_url": "https://twitter.com/MorrisPelzel/status/1120426484185931776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1022,
+							"h": 978,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1022,
+							"h": 978,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 651,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1120425896605835300,
+		"in_reply_to_status_id_str": "1120425896605835264",
+		"in_reply_to_user_id": 3258137575,
+		"in_reply_to_user_id_str": "3258137575",
+		"in_reply_to_screen_name": "CiotaRebecca",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 722,
+			"friends_count": 999,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8235,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@CiotaRebecca Hmmm... https://t.co/fJwGM951cd"
+	},
+	{
+		"created_at": "Mon Apr 22 20:16:53 +0000 2019",
+		"id": 1120421235513602000,
+		"id_str": "1120421235513602052",
+		"full_text": "@CiotaRebecca Speaking of technology ... link isn't working ....",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CiotaRebecca",
+					"name": "Rebecca Ciota",
+					"id": 3258137575,
+					"id_str": "3258137575",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1120398146553692200,
+		"in_reply_to_status_id_str": "1120398146553692161",
+		"in_reply_to_user_id": 3258137575,
+		"in_reply_to_user_id_str": "3258137575",
+		"in_reply_to_screen_name": "CiotaRebecca",
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 722,
+			"friends_count": 999,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8235,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CiotaRebecca Speaking of technology ... link isn't working ...."
+	},
+	{
+		"created_at": "Mon Apr 22 16:27:43 +0000 2019",
+		"id": 1120352458709057500,
+		"id_str": "1120363561509883906",
+		"full_text": "Great thread here! [cc: @MorrisPelzel, @GrinnellDLAC] https://t.co/3YdNOQKySy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MorrisPelzel",
+					"name": "Mo Pelzel",
+					"id": 33972737,
+					"id_str": "33972737",
+					"indices": [
+						24,
+						37
+					]
+				},
+				{
+					"screen_name": "GrinnellDLAC",
+					"name": "DLAC",
+					"id": 3508641800,
+					"id_str": "3508641800",
+					"indices": [
+						39,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3YdNOQKySy",
+					"expanded_url": "https://twitter.com/kevinrphd/status/1119222804304551936",
+					"display_url": "twitter.com/kevinrphd/stat…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 495562702,
+			"id_str": "495562702",
+			"name": "Dr. Katherine Walden",
+			"screen_name": "KWaldenPhD",
+			"location": "Grinnell, IA",
+			"description": "Dig Lib Arts Specialist @GrinnellDLAC. American-Sport Studies PhD + MLIS @uiowa. Fmr @VanderbiltU, @baseballhall, @librarycongress. ⚾️ fan+scholar.",
+			"url": "https://t.co/3Vk8MiQ37C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Vk8MiQ37C",
+							"expanded_url": "https://kwaldenpond.com/",
+							"display_url": "kwaldenpond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 736,
+			"friends_count": 1609,
+			"listed_count": 21,
+			"created_at": "Sat Feb 18 03:09:25 +0000 2012",
+			"favourites_count": 16267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8841,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1000168344547479552/lkDb2u25_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000168344547479552/lkDb2u25_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/495562702/1527293954",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1119222804304552000,
+		"quoted_status_id_str": "1119222804304551936",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3YdNOQKySy",
+			"expanded": "https://twitter.com/kevinrphd/status/1119222804304551936",
+			"display": "twitter.com/kevinrphd/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 19 12:54:45 +0000 2019",
+			"id": 1119222804304552000,
+			"id_str": "1119222804304551936",
+			"full_text": "A few days ago, I made a thread about why academics should have good websites. In this thread, I'll talk about how to create an academic website and what to put on it. 1/",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				170
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1010307922121887700,
+				"id_str": "1010307922121887744",
+				"name": "Kevin Richardson",
+				"screen_name": "kevinrphd",
+				"location": "North Carolina, USA",
+				"description": "Philosophy Professor @NCState. @MIT PhD. @UNC BA.",
+				"url": "https://t.co/1UMzlDpBQA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1UMzlDpBQA",
+								"expanded_url": "http://www.kevinrichardson.org",
+								"display_url": "kevinrichardson.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 755,
+				"friends_count": 68,
+				"listed_count": 7,
+				"created_at": "Fri Jun 22 23:45:54 +0000 2018",
+				"favourites_count": 518,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 384,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1010310699816505344/CmqSnyN1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1010310699816505344/CmqSnyN1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1010307922121887744/1529715951",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 132,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great thread here! [cc: @MorrisPelzel, @GrinnellDLAC] https://t.co/3YdNOQKySy"
+	},
+	{
+		"created_at": "Mon Apr 22 13:06:12 +0000 2019",
+		"id": 1120304107653357600,
+		"id_str": "1120312849195241472",
+		"full_text": "That’s why I’m proposing a historic new federal investment in public higher education that will eliminate the cost of tuition and fees at every public two-year and four-year college in America, plus an additional $100 billion investment in Pell Grants. https://t.co/IG9J5CiNb7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IG9J5CiNb7",
+					"expanded_url": "https://medium.com/@teamwarren/im-calling-for-something-truly-transformational-universal-free-public-college-and-cancellation-of-a246cd0f910f",
+					"display_url": "medium.com/@teamwarren/im…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1120304105753387000,
+		"in_reply_to_status_id_str": "1120304105753387009",
+		"in_reply_to_user_id": 357606935,
+		"in_reply_to_user_id_str": "357606935",
+		"in_reply_to_screen_name": "ewarren",
+		"user": {
+			"id": 357606935,
+			"id_str": "357606935",
+			"name": "Elizabeth Warren",
+			"screen_name": "ewarren",
+			"location": "Massachusetts",
+			"description": "US Senator, MA. Former teacher & law professor. Wife, mom (Amelia, Alex, Bailey, @CFPB), grandmother, & Okie. Official account: 2020 Presidential Campaign.",
+			"url": "https://t.co/BtKfTKRCOR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BtKfTKRCOR",
+							"expanded_url": "http://elizabethwarren.com",
+							"display_url": "elizabethwarren.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2397799,
+			"friends_count": 324,
+			"listed_count": 11723,
+			"created_at": "Thu Aug 18 16:43:48 +0000 2011",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3861,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/985858875445293056/RUqnwGsy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/985858875445293056/RUqnwGsy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/357606935/1549675771",
+			"profile_link_color": "232444",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "7DA6D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1522,
+		"favorite_count": 8767,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That’s why I’m proposing a historic new federal investment in public higher education that will eliminate the cost of tuition and fees at every public two-year and four-year college in America, plus an additional $100 billion investment in Pell Grants. https://t.co/IG9J5CiNb7"
+	},
+	{
 		"created_at": "Sun Apr 21 23:17:27 +0000 2019",
 		"id": 1120066891798732800,
 		"id_str": "1120104290251694082",
