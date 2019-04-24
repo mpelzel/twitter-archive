@@ -1,6 +1,1043 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 23 22:17:30 +0000 2019",
+		"id": 1120708509736284200,
+		"id_str": "1120813975090819072",
+		"full_text": "Yee haw, here's that WSJ article on Downs-Only solving, with quotes from, wow, lots of people: me, @joonpahk @e_a_rly @jagoandlitefoot @gritzmac @holyhegemony @XWORDS and @xor \n\nhttps://t.co/owZXdzx5Rh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joonpahk",
+					"name": "Joon Pahk",
+					"id": 399189164,
+					"id_str": "399189164",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"screen_name": "e_a_rly",
+					"name": "erik",
+					"id": 28259959,
+					"id_str": "28259959",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"screen_name": "jagoandlitefoot",
+					"name": "Jenna LaFleur",
+					"id": 3033911699,
+					"id_str": "3033911699",
+					"indices": [
+						118,
+						134
+					]
+				},
+				{
+					"screen_name": "gritzmac",
+					"name": "Matt Gritzmacher",
+					"id": 223734352,
+					"id_str": "223734352",
+					"indices": [
+						135,
+						144
+					]
+				},
+				{
+					"screen_name": "holyhegemony",
+					"name": "andy \"committing to the bit\" kravis",
+					"id": 112558468,
+					"id_str": "112558468",
+					"indices": [
+						145,
+						158
+					]
+				},
+				{
+					"screen_name": "XWORDS",
+					"name": "Peter Gordon",
+					"id": 29905013,
+					"id_str": "29905013",
+					"indices": [
+						159,
+						166
+					]
+				},
+				{
+					"screen_name": "xor",
+					"name": "Parker Higgins",
+					"id": 24500377,
+					"id_str": "24500377",
+					"indices": [
+						171,
+						175
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/owZXdzx5Rh",
+					"expanded_url": "https://www.wsj.com/articles/todays-crossword-too-easy-the-most-intrepid-solve-down-clues-only-11556030620?shareToken=st08ae7676efcf4fd494d73de6bdf38c27",
+					"display_url": "wsj.com/articles/today…",
+					"indices": [
+						178,
+						201
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14230012,
+			"id_str": "14230012",
+			"name": "Rex Parker🏹🏹🏹",
+			"screen_name": "rexparker",
+			"location": "Binghamton, NY",
+			"description": "Tossword Critter // I married a Kiwi // he him His Highness // #NYTXW //  All Hail OOXTEPLERNON!",
+			"url": "https://t.co/lL1n14Xuv4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lL1n14Xuv4",
+							"expanded_url": "http://rexwordpuzzle.blogspot.com",
+							"display_url": "rexwordpuzzle.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7570,
+			"friends_count": 289,
+			"listed_count": 156,
+			"created_at": "Wed Mar 26 21:33:58 +0000 2008",
+			"favourites_count": 52001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 79733,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/977249006060531715/kD3wMl50_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/977249006060531715/kD3wMl50_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14230012/1524625527",
+			"profile_link_color": "D10404",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 39,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yee haw, here's that WSJ article on Downs-Only solving, with quotes from, wow, lots of people: me, @joonpahk @e_a_rly @jagoandlitefoot @gritzmac @holyhegemony @XWORDS and @xor \n\nhttps://t.co/owZXdzx5Rh"
+	},
+	{
+		"created_at": "Tue Apr 23 21:54:44 +0000 2019",
+		"id": 1120808248012156900,
+		"id_str": "1120808248012156929",
+		"full_text": "Iowa Lawmaker Quits the Republican Party https://t.co/6sTYrVeI5c via @politicalwire",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "politicalwire",
+					"name": "Taegan Goddard",
+					"id": 16250929,
+					"id_str": "16250929",
+					"indices": [
+						69,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6sTYrVeI5c",
+					"expanded_url": "https://politicalwire.com/2019/04/23/iowa-lawmaker-quits-the-republican-party/",
+					"display_url": "politicalwire.com/2019/04/23/iow…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33972737,
+			"id_str": "33972737",
+			"name": "Mo Pelzel",
+			"screen_name": "MorrisPelzel",
+			"location": "Grinnell, Iowa",
+			"description": "Director of Academic Technology @GrinnellCollege | online theology prof @Creighton | Catholic | husband | dad | runner | cyclist | cantor | puzzle/games geek",
+			"url": "https://t.co/HifqlQpaOV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HifqlQpaOV",
+							"expanded_url": "http://morrispelzel.com",
+							"display_url": "morrispelzel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 722,
+			"friends_count": 1004,
+			"listed_count": 39,
+			"created_at": "Tue Apr 21 17:29:45 +0000 2009",
+			"favourites_count": 6875,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8243,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/428212615102226432/HN8-wYRh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33972737/1431025149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Iowa Lawmaker Quits the Republican Party https://t.co/6sTYrVeI5c via @politicalwire"
+	},
+	{
+		"created_at": "Tue Apr 23 15:41:11 +0000 2019",
+		"id": 1120712662860685300,
+		"id_str": "1120714239646236675",
+		"full_text": "@Jenae_Cohn just my recurrent refrain: one of the biggest obstacles to faculty and student digital literacy is the use of the LMS. instead of a faux tool, we need real tools. here's how I explain that to my students: https://t.co/xOZL2UQyNK ... students' thoughts: https://t.co/iXYETY2QZ5 :-) https://t.co/OrfP0LJEtK",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			292
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jenae_Cohn",
+					"name": "Jenae Cohn",
+					"id": 58378563,
+					"id_str": "58378563",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xOZL2UQyNK",
+					"expanded_url": "http://onlinecourselady.pbworks.com/w/page/119416194/tools",
+					"display_url": "onlinecourselady.pbworks.com/w/page/1194161…",
+					"indices": [
+						217,
+						240
+					]
+				},
+				{
+					"url": "https://t.co/iXYETY2QZ5",
+					"expanded_url": "https://community.canvaslms.com/people/laurakgibbs/blog/2019/01/23/using-tools-beyond-canvas-the-students-approve",
+					"display_url": "community.canvaslms.com/people/laurakg…",
+					"indices": [
+						265,
+						288
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1120712627230056400,
+					"id_str": "1120712627230056448",
+					"indices": [
+						293,
+						316
+					],
+					"media_url": "http://pbs.twimg.com/media/D42SMllXoAAzGaX.png",
+					"media_url_https": "https://pbs.twimg.com/media/D42SMllXoAAzGaX.png",
+					"url": "https://t.co/OrfP0LJEtK",
+					"display_url": "pic.twitter.com/OrfP0LJEtK",
+					"expanded_url": "https://twitter.com/OnlineCrsLady/status/1120712662860685318/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 561,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 735,
+							"h": 606,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 735,
+							"h": 606,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1120712627230056400,
+					"id_str": "1120712627230056448",
+					"indices": [
+						293,
+						316
+					],
+					"media_url": "http://pbs.twimg.com/media/D42SMllXoAAzGaX.png",
+					"media_url_https": "https://pbs.twimg.com/media/D42SMllXoAAzGaX.png",
+					"url": "https://t.co/OrfP0LJEtK",
+					"display_url": "pic.twitter.com/OrfP0LJEtK",
+					"expanded_url": "https://twitter.com/OnlineCrsLady/status/1120712662860685318/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 561,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 735,
+							"h": 606,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 735,
+							"h": 606,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1120711141183774700,
+		"in_reply_to_status_id_str": "1120711141183774720",
+		"in_reply_to_user_id": 58378563,
+		"in_reply_to_user_id_str": "58378563",
+		"in_reply_to_screen_name": "Jenae_Cohn",
+		"user": {
+			"id": 7044082,
+			"id_str": "7044082",
+			"name": "Laura Gibbs",
+			"screen_name": "OnlineCrsLady",
+			"location": "the Interwebz",
+			"description": "Teaching online at the University of Oklahoma since 2002! #TTOG #RSSForever #TotalCoLearner #GrowthMindset #Domains19 #Gradeless #Ungrading #AbolishGrading",
+			"url": "http://t.co/HAXevMhfOE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/HAXevMhfOE",
+							"expanded_url": "http://mythfolklore.net",
+							"display_url": "mythfolklore.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2984,
+			"friends_count": 1574,
+			"listed_count": 365,
+			"created_at": "Sun Jun 24 04:17:20 +0000 2007",
+			"favourites_count": 47806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60874,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "112E18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2190857671/photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2190857671/photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7044082/1528746359",
+			"profile_link_color": "196912",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Jenae_Cohn just my recurrent refrain: one of the biggest obstacles to faculty and student digital literacy is the use of the LMS. instead of a faux tool, we need real tools. here's how I explain that to my students: https://t.co/xOZL2UQyNK ... students' thoughts: https://t.co/iXYETY2QZ5 :-) https://t.co/OrfP0LJEtK"
+	},
+	{
+		"created_at": "Tue Apr 23 15:31:50 +0000 2019",
+		"id": 1120710447726985200,
+		"id_str": "1120711888550211585",
+		"full_text": "So excited to share the Active Learning Cheat Sheet created by our learning community! Great advice and great links in a really pretty package. https://t.co/oDorLvqIGI #ActiveLearningCheatSheet @paleodentist @DerekBruff https://t.co/81FvpuQMGI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ActiveLearningCheatSheet",
+					"indices": [
+						168,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paleodentist",
+					"name": "Gregory Smith",
+					"id": 2577373177,
+					"id_str": "2577373177",
+					"indices": [
+						194,
+						207
+					]
+				},
+				{
+					"screen_name": "derekbruff",
+					"name": "Derek Bruff",
+					"id": 13132932,
+					"id_str": "13132932",
+					"indices": [
+						208,
+						219
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oDorLvqIGI",
+					"expanded_url": "https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/59/2019/04/22143029/Active-Learning-Cheat-Sheet.pdf",
+					"display_url": "cdn.vanderbilt.edu/vu-wp0/wp-cont…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1120709828593242100,
+					"id_str": "1120709828593242112",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/D42Ppr2W0AAPXRk.png",
+					"media_url_https": "https://pbs.twimg.com/media/D42Ppr2W0AAPXRk.png",
+					"url": "https://t.co/81FvpuQMGI",
+					"display_url": "pic.twitter.com/81FvpuQMGI",
+					"expanded_url": "https://twitter.com/CynthiaBrame/status/1120710447726985217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1132,
+							"h": 877,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 527,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1132,
+							"h": 877,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1120709828593242100,
+					"id_str": "1120709828593242112",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/D42Ppr2W0AAPXRk.png",
+					"media_url_https": "https://pbs.twimg.com/media/D42Ppr2W0AAPXRk.png",
+					"url": "https://t.co/81FvpuQMGI",
+					"display_url": "pic.twitter.com/81FvpuQMGI",
+					"expanded_url": "https://twitter.com/CynthiaBrame/status/1120710447726985217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1132,
+							"h": 877,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 527,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1132,
+							"h": 877,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1135893300,
+			"id_str": "1135893300",
+			"name": "Cynthia Brame",
+			"screen_name": "CynthiaBrame",
+			"location": "Nashville, TN",
+			"description": "Associate director, Center for Teaching, Vanderbilt University.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 96,
+			"friends_count": 103,
+			"listed_count": 2,
+			"created_at": "Thu Jan 31 03:29:11 +0000 2013",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090628851556855808/qkm4zPTl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090628851556855808/qkm4zPTl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1135893300/1548861771",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So excited to share the Active Learning Cheat Sheet created by our learning community! Great advice and great links in a really pretty package. https://t.co/oDorLvqIGI #ActiveLearningCheatSheet @paleodentist @DerekBruff https://t.co/81FvpuQMGI"
+	},
+	{
+		"created_at": "Tue Apr 23 15:12:05 +0000 2019",
+		"id": 1120703229744934900,
+		"id_str": "1120706915946958850",
+		"full_text": "In higher ed, we need to stop talking about digital natives. Simply owning a device doesn't mean stdts will be able to use that device for learning. More on these thoughts and how univs might re-think digitally literacy on @EDUCAUSEreview today! https://t.co/sxhzdQVK0U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EDUCAUSEreview",
+					"name": "EDUCAUSEreview",
+					"id": 28407101,
+					"id_str": "28407101",
+					"indices": [
+						223,
+						238
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sxhzdQVK0U",
+					"expanded_url": "https://er.educause.edu/blogs/2019/4/when-bringing-your-own-device-isnt-enough-identifying-what-digital-literacy-initiatives-really-need",
+					"display_url": "er.educause.edu/blogs/2019/4/w…",
+					"indices": [
+						246,
+						269
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 58378563,
+			"id_str": "58378563",
+			"name": "Jenae Cohn",
+			"screen_name": "Jenae_Cohn",
+			"location": "Palo Alto, CA",
+			"description": "@Stanford Academic Technology Specialist. PhD from @UCDavis. Digital rhetoric, multiliteracies, books, and accessibility in education. #amwriting on the daily.",
+			"url": "http://t.co/nCxxryyg21",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/nCxxryyg21",
+							"expanded_url": "http://www.jenaecohn.net",
+							"display_url": "jenaecohn.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1201,
+			"friends_count": 1479,
+			"listed_count": 34,
+			"created_at": "Mon Jul 20 03:34:42 +0000 2009",
+			"favourites_count": 4226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3830,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956296474312060929/_aZNGMcv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956296474312060929/_aZNGMcv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/58378563/1413238015",
+			"profile_link_color": "048504",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In higher ed, we need to stop talking about digital natives. Simply owning a device doesn't mean stdts will be able to use that device for learning. More on these thoughts and how univs might re-think digitally literacy on @EDUCAUSEreview today! https://t.co/sxhzdQVK0U"
+	},
+	{
+		"created_at": "Tue Apr 23 13:19:46 +0000 2019",
+		"id": 1120678321770119200,
+		"id_str": "1120678653724102662",
+		"full_text": "Some news. \n\n🚨🎉 We added 620+ new words to the dictionary! 🎉🚨\nhttps://t.co/j8rXQMHX8t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j8rXQMHX8t",
+					"expanded_url": "https://www.merriam-webster.com/words-at-play/new-words-in-the-dictionary",
+					"display_url": "merriam-webster.com/words-at-play/…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 97040343,
+			"id_str": "97040343",
+			"name": "Merriam-Webster",
+			"screen_name": "MerriamWebster",
+			"location": "Springfield, MA",
+			"description": "Word of the Day, facts and observations on language, lookup trends, and wordplay from the editors at Merriam-Webster Dictionary.",
+			"url": "https://t.co/vQxcT3e4Iq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vQxcT3e4Iq",
+							"expanded_url": "http://Merriam-Webster.com",
+							"display_url": "Merriam-Webster.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 779447,
+			"friends_count": 700,
+			"listed_count": 6123,
+			"created_at": "Tue Dec 15 19:07:56 +0000 2009",
+			"favourites_count": 9744,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21562,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "355185",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/677210982616195072/DWj4oUuT_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/677210982616195072/DWj4oUuT_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/97040343/1535382063",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 452,
+		"favorite_count": 1264,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some news. \n\n🚨🎉 We added 620+ new words to the dictionary! 🎉🚨\nhttps://t.co/j8rXQMHX8t"
+	},
+	{
+		"created_at": "Tue Apr 23 00:28:42 +0000 2019",
+		"id": 1118954598461526000,
+		"id_str": "1120484606040530950",
+		"full_text": "\"I want [my memoir] to be the book that Catholics give to friends and family who hate the Church. It’s meant to reach people who can’t even imagine why anyone with a choice, let alone a Jewish rock and roll journalist ... , would want to become Catholic.\" https://t.co/sFL1lMEgHA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sFL1lMEgHA",
+					"expanded_url": "https://cruxnow.com/interviews/2019/04/18/jewish-rock-n-roll-journo-describes-her-path-into-the-church/",
+					"display_url": "cruxnow.com/interviews/201…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 385416740,
+			"id_str": "385416740",
+			"name": "Dawn Eden Goldstein",
+			"screen_name": "DawnofMercy",
+			"location": "Washington, DC",
+			"description": "Author @catholiccom, @avemariapress, & @HarperCollins. Professor @HolyApostlesedu. Buy my memoir, Sunday Will Never Be the Same: https://t.co/OYsX8LHXRN",
+			"url": "http://t.co/zIobnrhy7a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/zIobnrhy7a",
+							"expanded_url": "http://dawneden.blogspot.com",
+							"display_url": "dawneden.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OYsX8LHXRN",
+							"expanded_url": "http://tinyurl.com/SundayDawn",
+							"display_url": "tinyurl.com/SundayDawn",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5067,
+			"friends_count": 1730,
+			"listed_count": 112,
+			"created_at": "Wed Oct 05 13:26:13 +0000 2011",
+			"favourites_count": 19840,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17061,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108751566318784512/E9l_eNAh_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108751566318784512/E9l_eNAh_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/385416740/1550555370",
+			"profile_link_color": "A6192E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"I want [my memoir] to be the book that Catholics give to friends and family who hate the Church. It’s meant to reach people who can’t even imagine why anyone with a choice, let alone a Jewish rock and roll journalist ... , would want to become Catholic.\" https://t.co/sFL1lMEgHA"
+	},
+	{
 		"created_at": "Mon Apr 22 23:49:33 +0000 2019",
 		"id": 1120474754673193000,
 		"id_str": "1120474754673192961",
