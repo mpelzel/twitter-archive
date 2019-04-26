@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 25 22:25:45 +0000 2019",
+		"id": 1121517211313635300,
+		"id_str": "1121540831046000641",
+		"full_text": "\"It's a world in which large cities essentially break down,\" @christofspieler, who teaches transportation @RiceUniversity and wrote the book #TrainsBusesPeople. Try to imagine the island of Manhattan, and everyone taking the subway being in a rideshare. It just doesn't function.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TrainsBusesPeople",
+					"indices": [
+						141,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "christofspieler",
+					"name": "Christof Spieler",
+					"id": 37102643,
+					"id_str": "37102643",
+					"indices": [
+						61,
+						77
+					]
+				},
+				{
+					"screen_name": "RiceUniversity",
+					"name": "Rice University",
+					"id": 19720630,
+					"id_str": "19720630",
+					"indices": [
+						106,
+						121
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1121514896582115300,
+		"in_reply_to_status_id_str": "1121514896582115333",
+		"in_reply_to_user_id": 532725843,
+		"in_reply_to_user_id_str": "532725843",
+		"in_reply_to_screen_name": "MadsPelzel",
+		"user": {
+			"id": 532725843,
+			"id_str": "532725843",
+			"name": "Madeleine Pelzel",
+			"screen_name": "MadsPelzel",
+			"location": "London, England",
+			"description": "inspired, motivated, and powered by google calendar. always talking about infrastructure, active travel, and how the built environment defines our relationships",
+			"url": "https://t.co/AQzcztVPSn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AQzcztVPSn",
+							"expanded_url": "http://arch.rice.edu",
+							"display_url": "arch.rice.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 383,
+			"friends_count": 401,
+			"listed_count": 5,
+			"created_at": "Wed Mar 21 23:17:11 +0000 2012",
+			"favourites_count": 3403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3406,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DCF1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057372809427648514/lgnjdzoU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057372809427648514/lgnjdzoU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/532725843/1521498118",
+			"profile_link_color": "0C446F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "1C1C1C",
+			"profile_text_color": "C0DCF1",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "\"It's a world in which large cities essentially break down,\" @christofspieler, who teaches transportation @RiceUniversity and wrote the book #TrainsBusesPeople. Try to imagine the island of Manhattan, and everyone taking the subway being in a rideshare. It just doesn't function.\""
+	},
+	{
+		"created_at": "Thu Apr 25 15:53:02 +0000 2019",
+		"id": 1121439545587916800,
+		"id_str": "1121441997728960513",
+		"full_text": "Registration is officially open for #WPCampus 2019!\n\nJoin us in Portland, Oregon July 25-27 to discuss all things #WordPress, #HigherEd, and #Accessibility.\n\nhttps://t.co/wlxZXgyflw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WPCampus",
+					"indices": [
+						36,
+						45
+					]
+				},
+				{
+					"text": "WordPress",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"text": "HigherEd",
+					"indices": [
+						126,
+						135
+					]
+				},
+				{
+					"text": "Accessibility",
+					"indices": [
+						141,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wlxZXgyflw",
+					"expanded_url": "https://2019.wpcampus.org/tickets/",
+					"display_url": "2019.wpcampus.org/tickets/",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3693311536,
+			"id_str": "3693311536",
+			"name": "WPCampus",
+			"screen_name": "wpcampusorg",
+			"location": "The Internet",
+			"description": "A community and conferences for #WordPress in #HigherEd. Join us July 25-27, 2019 for our annual in-person conference in Portland, Oregon.",
+			"url": "https://t.co/9bjvOB1via",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9bjvOB1via",
+							"expanded_url": "https://wpcampus.org/",
+							"display_url": "wpcampus.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1934,
+			"friends_count": 452,
+			"listed_count": 197,
+			"created_at": "Fri Sep 18 05:20:14 +0000 2015",
+			"favourites_count": 2276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3956,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/646541604229148674/lkxlqkVS_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/646541604229148674/lkxlqkVS_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3693311536/1442982325",
+			"profile_link_color": "1159BD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Registration is officially open for #WPCampus 2019!\n\nJoin us in Portland, Oregon July 25-27 to discuss all things #WordPress, #HigherEd, and #Accessibility.\n\nhttps://t.co/wlxZXgyflw"
+	},
+	{
 		"created_at": "Wed Apr 24 23:57:18 +0000 2019",
 		"id": 1121201482152468500,
 		"id_str": "1121201482152468480",
